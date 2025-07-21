@@ -2,6 +2,7 @@
 package db
 
 import (
+	"encoding/json"
 	"fmt"
 	"os"
 )
@@ -22,8 +23,18 @@ func ReadJSON() error {
 		return err
 	}
 
-	jsonData := string(jsonByte)
-	fmt.Println(jsonData)
+	// jsonString := string(jsonByte)
+	// fmt.Println(jsonString)
+
+	var testAddress []address
+	err = json.Unmarshal(jsonByte, &testAddress)
+	if err != nil {
+		return err
+	}
+
+	for _, value := range testAddress {
+		fmt.Println(value.Name)
+	}
 
 	return nil
 }
