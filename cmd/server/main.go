@@ -2,9 +2,14 @@
 package main
 
 import (
-	"fmt"
+	"log"
+
+	"github.com/xaaha/address-api/internal/db"
 )
 
 func main() {
-	fmt.Println("Go Girls")
+	err := db.ReadJSON()
+	if err != nil {
+		log.Println(err)
+	}
 }
