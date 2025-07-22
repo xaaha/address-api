@@ -6,6 +6,9 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
+
+	// sqlite3 driver
+	_ "github.com/mattn/go-sqlite3"
 )
 
 type address struct {
@@ -40,7 +43,8 @@ func ReadJSON() error {
 	return nil
 }
 
-func createDbAndTables() error {
+// CreateDBAndTables creates sqlite tables and db
+func CreateDBAndTables() error {
 	db, err := sql.Open("sqlite3", "./test.db")
 	if err != nil {
 		return err
@@ -51,8 +55,17 @@ func createDbAndTables() error {
 	CREATE TABLE IF NOT EXISTS address (
         id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
         name TEXT
+				address TEXT
+				phone TEXT
+				country_code TEXT
+				country TEXT
     );
 	`
+	result, err := db.Exec(sqlStmt)
+	if err != nil {
+		return err
+	}
+	fmt.Println("Result: ", result)
 
 	return nil
 }

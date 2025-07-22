@@ -8,7 +8,12 @@ import (
 )
 
 func main() {
-	err := db.ReadJSON()
+	// err := db.ReadJSON()
+	// if err != nil {
+	// 	log.Println(err)
+	// }
+
+	err := db.CreateDBAndTables()
 	if err != nil {
 		log.Println(err)
 	}
