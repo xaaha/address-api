@@ -2,6 +2,7 @@
 package db
 
 import (
+	"database/sql"
 	"encoding/json"
 	"fmt"
 	"os"
@@ -35,6 +36,23 @@ func ReadJSON() error {
 	for _, value := range testAddress {
 		fmt.Println(value.Name)
 	}
+
+	return nil
+}
+
+func createDbAndTables() error {
+	db, err := sql.Open("sqlite3", "./test.db")
+	if err != nil {
+		return err
+	}
+	defer db.Close()
+
+	sqlStmt := `
+	CREATE TABLE IF NOT EXISTS users (
+        id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+        name TEXT
+    );
+	`
 
 	return nil
 }
