@@ -1,0 +1,7738 @@
+[
+ {
+  "id": 1,
+  "name": "InterContinental Ljubljana, an IHG Hotel",
+  "address": "Mestni trg 6, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 2,
+  "name": "Grand Hotel Union Eurostars",
+  "address": "Tabor 9, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 3,
+  "name": "Radisson Blu Plaza Hotel Ljubljana",
+  "address": "Slovenska cesta 60, 1000 Ljubljana, Slovenia",
+  "phone": "+38612430100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 4,
+  "name": "Hotel Heritage",
+  "address": "Krojaška ulica 8, Krojaška ulica 6, 1000 Ljubljana, Slovenia",
+  "phone": "+38612009000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 5,
+  "name": "Best Western Premier Hotel Slon",
+  "address": "Jurčičev trg 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38614211111",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 6,
+  "name": "B\u0026B Hotel Ljubljana Park",
+  "address": "Slovenska cesta 34, 1000 Ljubljana, Slovenia",
+  "phone": "+38614701100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 7,
+  "name": "Grand Plaza Hotel \u0026 Congress Center, Ljubljana",
+  "address": "Bratislavska cesta 8, 1000 Ljubljana, Slovenia",
+  "phone": "+38612430000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 8,
+  "name": "Vander Urbani Resort",
+  "address": "Slovenska cesta 59, 1000 Ljubljana, Slovenia",
+  "phone": "+38659128000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 9,
+  "name": "Zlata ladjica Boutique Hotel",
+  "address": "Čevljarska ulica 2, 1000 Ljubljana, Slovenia",
+  "phone": "+38614211400",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 10,
+  "name": "Old Quarter Residence",
+  "address": "Miklošičeva cesta 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38613081270",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 11,
+  "name": "City Hotel Ljubljana",
+  "address": "Ključavničarska ulica 4, 1000 Ljubljana, Slovenia",
+  "phone": "+38651880044",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 12,
+  "name": "Urban Hotel",
+  "address": "Ulica Jožeta Jame 12, 1210 Ljubljana - Šentvid, Slovenia",
+  "phone": "+38651653442",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 13,
+  "name": "SLAMIČ",
+  "address": "Tržaška c. 34, 1000 Ljubljana, Slovenia",
+  "phone": "5007355123",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 14,
+  "name": "Four Points by Sheraton Ljubljana Mons",
+  "address": "Hotel, Čopova ulica 42, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 15,
+  "name": "Eurostars uHotel",
+  "address": "Breg 14, 1000 Ljubljana, Slovenia",
+  "phone": "+38640907630",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 16,
+  "name": "Exe Lev",
+  "address": "Ziherlova ulica 22, 1000 Ljubljana, Slovenia",
+  "phone": "+38641791401",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 17,
+  "name": "Hotel Center Ljubljana",
+  "address": "2 Borštnikov trg 1000, Ljubljana, Slovenia",
+  "phone": "+38641553550",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 18,
+  "name": "ONE66 Hotel",
+  "address": "8 Slomškova ulica 1000, Ljubljana, Slovenia",
+  "phone": "+38630758171",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 19,
+  "name": "NEU Residences",
+  "address": "Poljanska cesta 15, 1000 Ljubljana, Slovenia",
+  "phone": "+38640780036",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 20,
+  "name": "Antiq Palace Hotel \u0026 Spa",
+  "address": "Korytkova ulica 20, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 21,
+  "name": "Art Hotel Ljubljana",
+  "address": "Petkovškovo nabrežje 47, 1000 Ljubljana, Slovenia",
+  "phone": "+38641662266",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 22,
+  "name": "Hiša Pod Gradom",
+  "address": "Emonska cesta 12, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 23,
+  "name": "Hotel Asteria",
+  "address": "Jurčičev trg 2, 1000 Ljubljana, Slovenia",
+  "phone": "+38640857587",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 24,
+  "name": "Hotel Mrak",
+  "address": "Njegoševa cesta 6, 1000 Ljubljana, Slovenia",
+  "phone": "+38651619374",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 25,
+  "name": "Holiday Inn Express Ljubljana, an IHG Hotel",
+  "address": "Rožna Dolina, c. I 26a, 1000 Ljubljana, Slovenia",
+  "phone": "5007355123",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 26,
+  "name": "Vila Emona",
+  "address": "Vodnikova cesta 35, 1000 Ljubljana, Slovenia",
+  "phone": "+38615132640",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 27,
+  "name": "PETKOVŠEK Bar, Rooms \u0026 Apartments",
+  "address": "Rožna Dolina, cesta IV 36, 1000 Ljubljana, Slovenia",
+  "phone": "+38651387111",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 28,
+  "name": "The Hotel Ljubljana",
+  "address": "Prečna ulica 4 1000, Ljubljana, Slovenia",
+  "phone": "+38670638008",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 29,
+  "name": "Hotel Čad",
+  "address": "Gerbičeva ulica 46, 1000 Ljubljana, Slovenia",
+  "phone": "+38641720825",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 30,
+  "name": "Atelier Hotel",
+  "address": "4a Opekarska cesta 1000, Ljubljana, Slovenia",
+  "phone": "+38640349233",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 31,
+  "name": "Hotel Emonec",
+  "address": "Eipprova ulica 11, 1000 Ljubljana, Slovenia",
+  "phone": "+38612839288",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 32,
+  "name": "Hotel Center Ljubljana",
+  "address": "Tomačevska cesta 50, 1000 Ljubljana, Slovenia",
+  "phone": "+38615607000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 33,
+  "name": "Austria Trend Hotel Ljubljana",
+  "address": "Vodovodna cesta 19, 1000 Ljubljana, Slovenia",
+  "phone": "+38669655855",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 34,
+  "name": "Cha cha rooms",
+  "address": "Ziherlova ulica 36, 1000 Ljubljana, Slovenia",
+  "phone": "+38612808892",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 35,
+  "name": "ibis Styles Ljubljana Centre",
+  "address": "Celovška cesta 74, 1000 Ljubljana, Slovenia",
+  "phone": "+38651768221",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 36,
+  "name": "ONE66 Hotel",
+  "address": "8a, Rožna Dolina, cesta II 1000, 1000 Ljubljana, Slovenia",
+  "phone": "810001000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 37,
+  "name": "Hotel Katrca 1905",
+  "address": "Miklošičeva cesta 14, 1000 Ljubljana, Slovenia",
+  "phone": "+38640901555",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 38,
+  "name": "Galeria River",
+  "address": "Litijska cesta 57, 1000 Ljubljana, Slovenia",
+  "phone": "+38615480055",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 39,
+  "name": "G Design Hotel",
+  "address": "Koprska ulica 29, 1000 Ljubljana, Slovenia",
+  "phone": "+38659179270",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 40,
+  "name": "Florjančkov Hram",
+  "address": "Celovška cesta 462, 1210 Ljubljana, Slovenia",
+  "phone": "+38615161545",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 41,
+  "name": "Allegro Hotel",
+  "address": "Kolodvorska ulica 08, 1000 Ljubljana, Slovenia",
+  "phone": "+38612301476",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 42,
+  "name": "Hotel Meksiko",
+  "address": "VP Ukrajina, Teslova ulica 23, 1000 Ljubljana, Slovenia",
+  "phone": "+38640550786",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 43,
+  "name": "ibis Styles Ljubljana The Fuzzy Log",
+  "address": "Breg 8, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 44,
+  "name": "Tromostovje Apartments",
+  "address": "Podpeška cesta 3, 1351 Brezovica pri Ljubljani, Slovenia",
+  "phone": "+38613657410",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 45,
+  "name": "Galeria Rooms",
+  "address": "Židovska steza 6, 1000 Ljubljana, Slovenia",
+  "phone": "+38631349555",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 46,
+  "name": "Villa Riverside",
+  "address": "Celovška cesta 55, 1000 Ljubljana, Slovenia",
+  "phone": "+38651252931",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 47,
+  "name": "WUD hotel",
+  "address": "Celovška cesta 172, 1000 Ljubljana, Slovenia",
+  "phone": "+38651601800",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 48,
+  "name": "Apartments Maria",
+  "address": "Dolenjska cesta 242c, 1000 Ljubljana, Slovenia",
+  "phone": "+38651447733",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 49,
+  "name": "M hotel Ljubljana",
+  "address": "Viška cesta 48, 1000 Ljubljana, Slovenia",
+  "phone": "+38614232462",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 50,
+  "name": "ATIK ROOMS",
+  "address": "Sattnerjeva ulica 2, 1000 Ljubljana, Slovenia",
+  "phone": "+38670732711",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 51,
+  "name": "The Fuzzy Log",
+  "address": "Cesta dveh cesarjev 34d, 1000 Ljubljana, Slovenia",
+  "phone": "+38614291598",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 52,
+  "name": "Vila Veselova",
+  "address": "Vodnikova cesta 65a, 1000 Ljubljana, Slovenia",
+  "phone": "+38615055907",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 53,
+  "name": "B\u0026B Pod Vrbo",
+  "address": "Župančičeva ulica 2, 1000 Ljubljana, Slovenia",
+  "phone": "+38664211119",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 54,
+  "name": "Hotel Nox Ljubljana",
+  "address": "Celovška cesta 469, 1000 Ljubljana - Šentvid, Slovenia",
+  "phone": "+38612009500",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 55,
+  "name": "Meščanka Apartments and Rooms",
+  "address": "Ziherlova ulica 36, 1000 Ljubljana, Slovenia",
+  "phone": "+38664290906",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 56,
+  "name": "Operna klet",
+  "address": "Ključavničarska ulica 4, 1000 Ljubljana, Slovenia",
+  "phone": "+38651880044",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 57,
+  "name": "Guest House Pri Vodniku",
+  "address": "Miklošičeva cesta 9, 1000 Ljubljana, Slovenia",
+  "phone": "+38631395869",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 58,
+  "name": "Azur Rooms Ljubljana",
+  "address": "Veselova ulica 14, 1000 Ljubljana, Slovenia",
+  "phone": "+38651655254",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 59,
+  "name": "Ahotel Ljubljana",
+  "address": "Derčeva ulica 4, 1000 Ljubljana, Slovenia",
+  "phone": "+38615137000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 60,
+  "name": "Pri Žabarju",
+  "address": "Petkovškovo nabrežje 43, 1000 Ljubljana, Slovenia",
+  "phone": "+38664191119",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 61,
+  "name": "urban ring hotel",
+  "address": "Poljanska cesta 6, 1000 Ljubljana, Slovenia",
+  "phone": "+38651403803",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 62,
+  "name": "Hotel Pok",
+  "address": "Pesarska cesta, 1000 Ljubljana, Slovenia",
+  "phone": "+38615480055",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 63,
+  "name": "White House (Bela Hisa)",
+  "address": "Privoz 16, 1000 Ljubljana, Slovenia",
+  "phone": "+38640215406",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 64,
+  "name": "AB Ljubljana - The Residence",
+  "address": "Župančičeva ulica 11, 1000 Ljubljana, Slovenia",
+  "phone": "+38640476756",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 65,
+  "name": "Sobe Janez / Janez Rooms",
+  "address": "Cankarjevo nabrežje 3 1000, Ljubljana, Slovenia",
+  "phone": "+38651403403",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 66,
+  "name": "AB Ljubljana - Breg Apartments",
+  "address": "Miklošičeva cesta 9, 1000 Ljubljana, Slovenia",
+  "phone": "+38631395869",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 67,
+  "name": "Vila Teslova",
+  "address": "Gornji trg 6, 1000 Ljubljana, Slovenia",
+  "phone": "+38659119620",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 68,
+  "name": "Gostilna Stari Tišler",
+  "address": "Njegoševa cesta 6K, 1000 Ljubljana, Slovenia",
+  "phone": "+38612009090",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 69,
+  "name": "Restavracija in hotel Morea",
+  "address": "Dunajska c. 238, 1000 Ljubljana, Slovenia",
+  "phone": "+38615683859",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 70,
+  "name": "Sport Hotel",
+  "address": "Breg 22, 1000 Ljubljana, Slovenia",
+  "phone": "+38640462099",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 71,
+  "name": "Valentino Rooms Ljubljana",
+  "address": "Rožna Dolina, c. I 26a, 1000 Ljubljana, Slovenia",
+  "phone": "5007355123",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 72,
+  "name": "Bit Center Hotel Ljubljana",
+  "address": "Tržaška c. 330, 1000 Ljubljana, Slovenia",
+  "phone": "+38612009100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 73,
+  "name": "HOMEMADE BnB",
+  "address": "Celovška cesta 166, 1000 Ljubljana, Slovenia",
+  "phone": "+38651601800",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 74,
+  "name": "Vila Ema",
+  "address": "Petkovškovo nabrežje 35, 1000 Ljubljana, Slovenia",
+  "phone": "+38651665544",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 75,
+  "name": "Viva Rooms",
+  "address": "Miklošičeva cesta 9, 1000 Ljubljana, Slovenia",
+  "phone": "+38631395869",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 76,
+  "name": "GOSTILNA POD VRBO",
+  "address": "Dunajska c. 154, 1000 Ljubljana, Slovenia",
+  "phone": "+38615882500",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 77,
+  "name": "Penzion Kmecki Hram",
+  "address": "Slovenska cesta 51, 1000 Ljubljana, Slovenia",
+  "phone": "+38641263347",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 78,
+  "name": "Dežela Okusov - Top quality 100% gluten-free cuisine",
+  "address": "Wolfova ulica 12, 1000 Ljubljana, Slovenia",
+  "phone": "+38612001520",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 79,
+  "name": "Bed \u0026 Breakfast Mozaik",
+  "address": "Petkovškovo nabrežje 15, 1000 Ljubljana, Slovenia",
+  "phone": "+38641410888",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 80,
+  "name": "Aparthotel Cross Street 4",
+  "address": "Cesta na Rožnik 18, 1000 Ljubljana, Slovenia",
+  "phone": "+38612513446",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 81,
+  "name": "Avista hotel management, hotelirstvo in turizem d.o.o.",
+  "address": "Cankarjevo nabrežje 29, 1000 Ljubljana, Slovenia",
+  "phone": "+38651404104",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 82,
+  "name": "Nana's Suites",
+  "address": "Vošnjakova ulica 8, 1000 Ljubljana, Slovenia",
+  "phone": "+38640691393",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 83,
+  "name": "Galerija apartment",
+  "address": "Barjanska cesta 10, 1000 Ljubljana, Slovenia",
+  "phone": "+38631702940",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 84,
+  "name": "Pansion Valentin",
+  "address": "Rimska cesta 4, 1000 Ljubljana, Slovenia",
+  "phone": "+38614219650",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 85,
+  "name": "Hotel Katrca 1905",
+  "address": "Njegoševa cesta 10, 1000 Ljubljana, Slovenia",
+  "phone": "+38641542444",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 86,
+  "name": "Apartma ZB",
+  "address": "Podmilščakova ulica 51, 1000 Ljubljana, Slovenia",
+  "phone": "+38617775550",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 87,
+  "name": "Simbol Rooms",
+  "address": "Streliška ulica 10, 1000 Ljubljana, Slovenia",
+  "phone": "+38631484369",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 88,
+  "name": "H2O Hostel Ljubljana",
+  "address": "Soteska 8, 1000 Ljubljana, Slovenia",
+  "phone": "+38612526800",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 89,
+  "name": "LINA ROOMS",
+  "address": "Rimska cesta 4, 1000 Ljubljana, Slovenia",
+  "phone": "+38614219650",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 90,
+  "name": "Liubliana",
+  "address": "Gosposka ulica 10, 1000 Ljubljana, Slovenia",
+  "phone": "+38640638163",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 91,
+  "name": "ROYAL ROOMS***",
+  "address": "Celovška cesta 166, 1000 Ljubljana, Slovenia",
+  "phone": "+38651601800",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 92,
+  "name": "Ljubljana Rooms",
+  "address": "Kolodvorska ulica 6a, 1000 Ljubljana, Slovenia",
+  "phone": "+38631450200",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 93,
+  "name": "Guest House",
+  "address": "Slovenska cesta 51, 1000 Ljubljana, Slovenia",
+  "phone": "+38641263347",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 94,
+  "name": "Гостиница Слон",
+  "address": "Pot za Brdom 4, 1000 Ljubljana, Slovenia",
+  "phone": "+38614702700",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 95,
+  "name": "Hotel Vila Katrca",
+  "address": "Miklošičeva cesta 3, 1000 Ljubljana, Slovenia",
+  "phone": "+38613081170",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 96,
+  "name": "Hostel 24",
+  "address": "Vošnjakova ulica 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38613087800",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 97,
+  "name": "VIKSI Nomad",
+  "address": "Kersnikova ulica 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38614338233",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 98,
+  "name": "Meščanka Apartments and Rooms",
+  "address": "Štefanova ulica 4, 1000 Ljubljana, Slovenia",
+  "phone": "+38670355000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 99,
+  "name": "Sicom hoteli d.o.o.",
+  "address": "Dalmatinova ulica 15, 1000 Ljubljana, Slovenia",
+  "phone": "+38612390000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 100,
+  "name": "Restavracija Most",
+  "address": "Eipprova ulica 1a, 1000 Ljubljana, Slovenia",
+  "phone": "+38631529974",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 101,
+  "name": "Kodila meet meat market",
+  "address": "Rimska cesta 13, 1000 Ljubljana, Slovenia",
+  "phone": "+38671373023",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 102,
+  "name": "Strelec Restaurant",
+  "address": "Grajska planota 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38631687648",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 103,
+  "name": "Julija",
+  "address": "Petkovškovo nabrežje 21, 1000 Ljubljana, Slovenia",
+  "phone": "+38612328183",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 104,
+  "name": "My Dumplings Of Slovenia",
+  "address": "Adamič-Lundrovo nabrežje 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38659042190",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 105,
+  "name": "JB Restaurant",
+  "address": "Gornji trg 28, 1000 Ljubljana, Slovenia",
+  "phone": "+38614253094",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 106,
+  "name": "Špajza Restaurant",
+  "address": "Jurčičev trg 3, 1000 Ljubljana, Slovenia",
+  "phone": "+38613307369",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 107,
+  "name": "Paninoteka",
+  "address": "Stari trg 9, 1000 Ljubljana, Slovenia",
+  "phone": "+38614256463",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 108,
+  "name": "Zbornica burgers and pizza",
+  "address": "Miklošičeva cesta 19, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 109,
+  "name": "Restaurant Manna",
+  "address": "Ciril-Metodov trg 14, 1000 Ljubljana, Slovenia",
+  "phone": "+38616209884",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 110,
+  "name": "Landerik",
+  "address": "Vilharjeva cesta 43, 1000 Ljubljana, Slovenia",
+  "phone": "+38631362601",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 111,
+  "name": "Taverna Tatjana",
+  "address": "Breg 8, 1000 Ljubljana, Slovenia",
+  "phone": "+38614250159",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 112,
+  "name": "Valvas'or",
+  "address": "Poljanska cesta 5, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 113,
+  "name": "Restaurant Šestica",
+  "address": "Pogačarjev trg, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 114,
+  "name": "Restaurant Pri Škofu",
+  "address": "Mestni trg 19, 1000 Ljubljana, Slovenia",
+  "phone": "+38683806446",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 115,
+  "name": "TaBar",
+  "address": "Mestni trg 17, 1000 Ljubljana, Slovenia",
+  "phone": "+38659935540",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 116,
+  "name": "Klobasarna",
+  "address": "Petkovškovo nabrežje 9, 1000 Ljubljana, Slovenia",
+  "phone": "+38612567565",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 117,
+  "name": "Das ist Valter",
+  "address": "Adamič-Lundrovo nabrežje 3, 1000 Ljubljana, Slovenia",
+  "phone": "+38641929515",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 118,
+  "name": "Restavracija Shambala",
+  "address": "Borštnikov trg 2, 1000 Ljubljana, Slovenia",
+  "phone": "+38670741220",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 119,
+  "name": "Slovenska Hiša - Figovec",
+  "address": "Trubarjeva cesta 31, 1000 Ljubljana, Slovenia",
+  "phone": "+38669947067",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 120,
+  "name": "Slovenska Hiša - Figovec",
+  "address": "Borštnikov trg 3a, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 121,
+  "name": "Peti 181 restaurant",
+  "address": "Znamenjska ulica, 1000 Ljubljana, Slovenia",
+  "phone": "+38612301665",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 122,
+  "name": "Pop's place",
+  "address": "Pogačarjev trg 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38659019505",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 123,
+  "name": "second violin",
+  "address": "Breg 20, 1000 Ljubljana, Slovenia",
+  "phone": "+38682056005",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 124,
+  "name": "EK BISTRO",
+  "address": "Trg Osvobodilne fronte 10, 1000 Ljubljana, Slovenia",
+  "phone": "+38670333311",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 125,
+  "name": "B Restaurant \u0026 B Bar",
+  "address": "Trubarjeva cesta 47, 1000 Ljubljana, Slovenia",
+  "phone": "+38640540038",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 126,
+  "name": "Vino \u0026 Ribe",
+  "address": "SI, Miklošičeva cesta 9d, 1000 Ljubljana, Slovenia",
+  "phone": "+38659980479",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 127,
+  "name": "Fany \u0026 Mary",
+  "address": "Slovenia, Miklošičeva cesta 30, 1000 Ljubljana, Slovenia",
+  "phone": "+38612323392",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 128,
+  "name": "GOSTILNA VIDA",
+  "address": "Mali trg 3a, 1000 Ljubljana, Slovenia",
+  "phone": "+38614310181",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 129,
+  "name": "Fari's",
+  "address": "Zemljemerska ulica 7, 1000 Ljubljana, Slovenia",
+  "phone": "+38659801830",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 130,
+  "name": "Okrepčevalnica Čompa",
+  "address": "Kersnikova ulica 6, 1000 Ljubljana, Slovenia",
+  "phone": "+38669807097",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 131,
+  "name": "Mala Terasa",
+  "address": "Komenskega ulica 30, 1000 Ljubljana, Slovenia",
+  "phone": "+38671228718",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 132,
+  "name": "Bistro Maha",
+  "address": "Stari trg 19, 1000 Ljubljana, Slovenia",
+  "phone": "+38682055282",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 133,
+  "name": "Slovenian Dinner Experience",
+  "address": "Čopova ulica 12, 1000 Ljubljana, Slovenia",
+  "phone": "+38640825445",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 134,
+  "name": "Čevabdžinica Sarajevo '84 - Ljubljana",
+  "address": "Dunajska c. 18, 1000 Ljubljana, Slovenia",
+  "phone": "+38651261118",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 135,
+  "name": "Patrón: Tacos \u0026 Bar",
+  "address": "Maximarket, Trg republike 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38651285339",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 136,
+  "name": "Forum",
+  "address": "1000, Šubičeva ulica 1a, 1000 Ljubljana, Slovenia",
+  "phone": "100011000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 137,
+  "name": "Ala Pršuterija",
+  "address": "Maximarket, Trg republike 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38651285335",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 138,
+  "name": "Restavracija Fresco",
+  "address": "Mestni trg 15, 1000 Ljubljana, Slovenia",
+  "phone": "+38651404104",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 139,
+  "name": "Vander Restaurant",
+  "address": "Dunajska c. 18, 1000 Ljubljana, Slovenia",
+  "phone": "+38651261118",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 140,
+  "name": "Raw Pasta - Pasta Fresca Bar",
+  "address": "Eipprova ulica 17, 1000 Ljubljana, Slovenia",
+  "phone": "+38613200804",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 141,
+  "name": "Plečnikov hram",
+  "address": "Trg Osvobodilne fronte 6, 1000 Ljubljana, Slovenia",
+  "phone": "+38669953800",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 142,
+  "name": "Mirje",
+  "address": "Stari trg 6, 1000 Ljubljana, Slovenia",
+  "phone": "+38640706070",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 143,
+  "name": "Gostilna Sokol",
+  "address": "Slovenska cesta 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38640888349",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 144,
+  "name": "Trta",
+  "address": "Čopova ulica 5a, 1000 Ljubljana, Slovenia",
+  "phone": "+38614258822",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 145,
+  "name": "Capriccio",
+  "address": "Gregorčičeva ulica 10, 1000 Ljubljana, Slovenia",
+  "phone": "+38659134913",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 146,
+  "name": "Gujžina - Slovenska kulinarika na vegetarijansko veganski način",
+  "address": "Ciril-Metodov trg 16, 1000 Ljubljana, Slovenia",
+  "phone": "+38664226777",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 147,
+  "name": "Libanonske meze in drugi užitki",
+  "address": "Trg Osvobodilne fronte 13, 1000 Ljubljana, Slovenia",
+  "phone": "+38651660066",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 148,
+  "name": "Hallo Leskovac",
+  "address": "Borštnikov trg 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38630353635",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 149,
+  "name": "NORMA 23",
+  "address": "Dunajska c. 18, 1000 Ljubljana, Slovenia",
+  "phone": "+38631608030",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 150,
+  "name": "Gostilna na Gradu",
+  "address": "Trg Osvobodilne fronte 14, 1000 Ljubljana, Slovenia",
+  "phone": "+38641446844",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 151,
+  "name": "Hiša Pod Gradom",
+  "address": "Adamič-Lundrovo nabrežje 27-3, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 152,
+  "name": "Hood Burger Center",
+  "address": "Trg mladinskih delovnih brigad 8, 1000 Ljubljana, Slovenia",
+  "phone": "+38614265078",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 153,
+  "name": "Dežela Okusov - Top quality 100% gluten-free cuisine",
+  "address": "Wolfova ulica 12, 1000 Ljubljana, Slovenia",
+  "phone": "+38640702070",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 154,
+  "name": "Gostilna Krpan",
+  "address": "Ziherlova ulica 36, 1000 Ljubljana, Slovenia",
+  "phone": "+38612808892",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 155,
+  "name": "Abi Falafel",
+  "address": "Podhod Ajdovščina 4, 1000 Ljubljana, Slovenia",
+  "phone": "+38682018079",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 156,
+  "name": "Gostilnica in pivnica Vič",
+  "address": "Cankarjevo nabrežje 7, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 157,
+  "name": "GOSTILNA POD VRBO",
+  "address": "Kongresni trg 3, 1000 Ljubljana, Slovenia",
+  "phone": "+38614251111",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 158,
+  "name": "Sushimama",
+  "address": "1000, Trubarjeva cesta 40, 1000 Ljubljana, Slovenia",
+  "phone": "1000401000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 159,
+  "name": "Asian restaurant Han",
+  "address": "Ob Ljubljanici 24, 1000 Ljubljana, Slovenia",
+  "phone": "+38615211220",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 160,
+  "name": "Javornik Arkade",
+  "address": "Eipprova ulica 11, 1000 Ljubljana, Slovenia",
+  "phone": "+38612839288",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 161,
+  "name": "Veganska restavracija Mandala",
+  "address": "Nazorjeva ulica 4, 1000 Ljubljana, Slovenia",
+  "phone": "+38613302410",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 162,
+  "name": "Vizija gostinstvo d.o.o.",
+  "address": "Streliška ulica 10, 1000 Ljubljana, Slovenia",
+  "phone": "+38631484369",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 163,
+  "name": "RozaSlon center",
+  "address": "Adamič-Lundrovo nabrežje 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38614344300",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 164,
+  "name": "Dinner In The Dark Restaurant",
+  "address": "Levstikov trg 8, 1000 Ljubljana, Slovenia",
+  "phone": "+38670368119",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 165,
+  "name": "NjOKARNA",
+  "address": "Mestni trg 19, 1000 Ljubljana, Slovenia",
+  "phone": "+38683806446",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 166,
+  "name": "Que Pasa Cantina Ljubljana",
+  "address": "Adamič-Lundrovo nabrežje 5, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 167,
+  "name": "KOA Island Bistro",
+  "address": "Ciril-Metodov trg 14, 1000 Ljubljana, Slovenia",
+  "phone": "+38664293988",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 168,
+  "name": "Gostilna As",
+  "address": "Trubarjeva cesta 45, 1000 Ljubljana, Slovenia",
+  "phone": "+38651865733",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 169,
+  "name": "Cafe Romeo",
+  "address": "Grajska planota 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38682051931",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 170,
+  "name": "Tunaholic Fish Bar",
+  "address": "Tržaška c. 5, 1000 Ljubljana, Slovenia",
+  "phone": "+38670727373",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 171,
+  "name": "OnThai",
+  "address": "Ciril-Metodov trg 18, 1000 Ljubljana, Slovenia",
+  "phone": "+38614396855",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 172,
+  "name": "Tasty Corner Slovenia",
+  "address": "Trg francoske revolucije 2, 1000 Ljubljana, Slovenia",
+  "phone": "+38614262001",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 173,
+  "name": "Gostilna pri Trubarjevi mami | Kaval Group",
+  "address": "Grudnovo nabrežje 21, 1000 Ljubljana, Slovenia",
+  "phone": "+38670700928",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 174,
+  "name": "Gostilnica 5-6 kg",
+  "address": "Trubarjeva cesta 43, 1000 Ljubljana, Slovenia",
+  "phone": "+38670617557",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 175,
+  "name": "Maxim",
+  "address": "Petkovškovo nabrežje 27, 1000 Ljubljana, Slovenia",
+  "phone": "+38641353474",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 176,
+  "name": "DA BU DA, Asian Fusion \u0026 Bar",
+  "address": "Gornji trg 23, 1000 Ljubljana, Slovenia",
+  "phone": "+38659023135",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 177,
+  "name": "Romansa 1971",
+  "address": "Slovenska cesta 51, 1000 Ljubljana, Slovenia",
+  "phone": "+38614303330",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 178,
+  "name": "The Restaurant Ljubljana",
+  "address": "Cankarjevo nabrežje 9, 1000 Ljubljana, Slovenia",
+  "phone": "+38682054688",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 179,
+  "name": "Altrokè",
+  "address": "Petkovškovo nabrežje 65, 1000 Ljubljana, Slovenia",
+  "phone": "+38651606557",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 180,
+  "name": "PAVILJON - Lounge \u0026 Garden | Kaval Group",
+  "address": "Nazorjeva ulica 12, 1000 Ljubljana, Slovenia",
+  "phone": "+38614257106",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 181,
+  "name": "Veganika",
+  "address": "Ajdovščina 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38631303777",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 182,
+  "name": "Okrepčevalnica MERAK",
+  "address": "Nazorjeva ulica 3, 1000 Ljubljana, Slovenia",
+  "phone": "+38631884844",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 183,
+  "name": "Fugazi Cucina\u0026Bar",
+  "address": "Miklošičeva cesta 34, 1000 Ljubljana, Slovenia",
+  "phone": "+38640825533",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 184,
+  "name": "Nobel Burek",
+  "address": "Gornji trg 15, 1000 Ljubljana, Slovenia",
+  "phone": "+38664298660",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 185,
+  "name": "Restavracija tartuf, Radosava Bagari s.p.",
+  "address": "1000, Trubarjeva cesta 40, 1000 Ljubljana, Slovenia",
+  "phone": "1000401000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 186,
+  "name": "Okrepčevalnica Ribca Maestral",
+  "address": "Petkovškovo nabrežje 23, 1000 Ljubljana, Slovenia",
+  "phone": "+38652235223",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 187,
+  "name": "ogam korean restaurant",
+  "address": "Slovenska cesta 59, 1000 Ljubljana, Slovenia",
+  "phone": "+38659128048",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 188,
+  "name": "Ma Chérie - Brunch\u0026Co",
+  "address": "Stari trg 28, 1000 Ljubljana, Slovenia",
+  "phone": "+38682055283",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 189,
+  "name": "Lipca - Indeks",
+  "address": "Stari trg 21, 1000 Ljubljana, Slovenia",
+  "phone": "+38682052506",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 190,
+  "name": "Matsuri",
+  "address": "Dvorni trg 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38616205447",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 191,
+  "name": "Burger Time Ljubljana",
+  "address": "Petkovškovo nabrežje 65, 1000 Ljubljana, Slovenia",
+  "phone": "+38640616719",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 192,
+  "name": "Gostilna Breg",
+  "address": "Gosposvetska cesta 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38614264410",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 193,
+  "name": "Supernatural naked food and wine",
+  "address": "Gosposvetska cesta 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38614264410",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 194,
+  "name": "Shakira, gostinstvo in trgovina, Zekira Kavazović s.p.",
+  "address": "Cankarjevo nabrežje 3, 1000 Ljubljana, Slovenia",
+  "phone": "+38659042856",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 195,
+  "name": "Chinese Restaurant Zhong Hua",
+  "address": "Križevniška ulica 12, 1000 Ljubljana, Slovenia",
+  "phone": "+38631843833",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 196,
+  "name": "Pizzerija in Restavracija Promenada",
+  "address": "Ciril-Metodov trg 15, 1000 Ljubljana, Slovenia",
+  "phone": "+38651605017",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 197,
+  "name": "OKREPČEVALNICA",
+  "address": "Šmartinska c. 3, 1000 Ljubljana, Slovenia",
+  "phone": "+38614305195",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 198,
+  "name": "Open kitchen",
+  "address": "Ribji trg 6, 1000 Ljubljana, Slovenia",
+  "phone": "+38631764063",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 199,
+  "name": "Moysushi",
+  "address": "Rečna ulica 8, 1000 Ljubljana, Slovenia",
+  "phone": "+38614264508",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 200,
+  "name": "Shopping Center Citypark",
+  "address": "Toplarniška ulica 11, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 201,
+  "name": "ALEJA",
+  "address": "Vojkova cesta 100, 1000 Ljubljana, Slovenia",
+  "phone": "+38614327396",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 202,
+  "name": "BTC City Ljubljana",
+  "address": "Hrvaška ulica 8, in 10, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 203,
+  "name": "Supernova Ljubljana Rudnik",
+  "address": "Moskovska ulica 4, 1000 Ljubljana, Slovenia",
+  "phone": "+38615873050",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 204,
+  "name": "Center Vič",
+  "address": "Jurčkova Cesta 224, 1000 Ljubljana, Slovenia",
+  "phone": "+38659344780",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 205,
+  "name": "CENTER DESETKA",
+  "address": "Jamova cesta 105, 1000 Ljubljana, Slovenia",
+  "phone": "+38614700590",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 206,
+  "name": "Nakupovalna Galerija",
+  "address": "Ameriška ulica 2, 1000 Ljubljana, Slovenia",
+  "phone": "+38615852222",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 207,
+  "name": "STOŽICE nakupovalni center s ploščadjo",
+  "address": "Jurčkova Cesta 223, 1000 Ljubljana, Slovenia",
+  "phone": "+38682008000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 208,
+  "name": "Celovec",
+  "address": "Rakuševa ulica 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38615184900",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 209,
+  "name": "Trgovski center WTC",
+  "address": "Nove Fužine 33, 1000 Ljubljana, Slovenia",
+  "phone": "+38641666734",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 210,
+  "name": "Roormoos",
+  "address": "Moste District, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 211,
+  "name": "BTC CITY mesto priložnosti",
+  "address": "Kajakaška c. 54, 1211 Ljubljana - Šmartno, Slovenia",
+  "phone": "+38641720041",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 212,
+  "name": "Trgovina ASCARA outlet",
+  "address": "Zofke Kvedrove ulica 12, 1000 Ljubljana, Slovenia",
+  "phone": "+38670473783",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 213,
+  "name": "Bad Bleiberg",
+  "address": "Zofke Kvedrove ulica 12, 1000 Ljubljana, Slovenia",
+  "phone": "+38670473783",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 214,
+  "name": "Dadi daz pila skupaj",
+  "address": "Peruzzijeva ulica 129, 1000 Ljubljana, Slovenia",
+  "phone": "+38614202910",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 215,
+  "name": "Emporium",
+  "address": "Miklošičeva cesta 4, 1000 Ljubljana, Slovenia",
+  "phone": "+38614382224",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 216,
+  "name": "Nakupovalni center",
+  "address": "Kotnikova ulica 28, 1000 Ljubljana, Slovenia",
+  "phone": "+38613084100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 217,
+  "name": "Tangram",
+  "address": "Prešernov trg 4b, 1000 Ljubljana, Slovenia",
+  "phone": "+38641377500",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 218,
+  "name": "Supernova Mercator Ljubljana Šiška",
+  "address": "Cesta Ljubljanske brigade, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 219,
+  "name": "Moskovski ulica 4",
+  "address": "Savska cesta 3a, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 220,
+  "name": "Mercator HM Šmartinska",
+  "address": "Ulica Zofke Kvedrove, Šiška 12, 1000 Ljubljana, Slovenia",
+  "phone": "+38670473783",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 221,
+  "name": "BTC City, Hall A",
+  "address": "Cesta Ljubljanske brigade 33, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 222,
+  "name": "Llaollao Citypark",
+  "address": "Ameriška ulica 8, 1000 Ljubljana, Slovenia",
+  "phone": "+38615852300",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 223,
+  "name": "Sanis l.l.c., Store Guess Ljubljana",
+  "address": "Stegne 31, 1000 Ljubljana, Slovenia",
+  "phone": "+38616200442",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 224,
+  "name": "Žutem, posredništvo pri prodaji, d.o.o.",
+  "address": "Ameriška ulica 13, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 225,
+  "name": "Avtohiša MALGAJ Vič",
+  "address": "Dunajska c., 1000 Ljubljana, Slovenia",
+  "phone": "+38651284035",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 226,
+  "name": "Salon kuhinj in pohištva, Triles d.o.o.",
+  "address": "Cesta v Mestni log 55, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 227,
+  "name": "Hudaura, Representation and commerce, D.O.O.",
+  "address": "Hala A, Ameriška ulica 13, 1000 Ljubljana, Slovenia",
+  "phone": "+38640770846",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 228,
+  "name": "ALEJA SKY",
+  "address": "Baragova ulica 9, 1000 Ljubljana, Slovenia",
+  "phone": "+38615883256",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 229,
+  "name": "Metalka blagovnica",
+  "address": "Cesta v Mestni log 55, 1000 Ljubljana, Slovenia",
+  "phone": "+38125484584981",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 230,
+  "name": "shopping.net",
+  "address": "Dalmatinova ulica 7, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 231,
+  "name": "Mitsubishi",
+  "address": "Rakuševa ulica 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38615184900",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 232,
+  "name": "Murgle Center",
+  "address": "Tbilisijska ulica 59, 1000 Ljubljana, Slovenia",
+  "phone": "+38612000283",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 233,
+  "name": "Trgovina eigrače",
+  "address": "Ameriška ulica 13, 1000 Ljubljana, Slovenia",
+  "phone": "+38651860160",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 234,
+  "name": "atlasprofilax",
+  "address": "Študentovska ulica 13, 1000 Ljubljana, Slovenia",
+  "phone": "+38631579441",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 235,
+  "name": "Champion store BTC, Hall-A",
+  "address": "Tržaška c. 108, 1000 Ljubljana, Slovenia",
+  "phone": "+38612000550",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 236,
+  "name": "Mercator",
+  "address": "Šmartinska c. 152g, 1000 Ljubljana, Slovenia",
+  "phone": "+38659928876",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 237,
+  "name": "Vsezadom.si - spletni center za lep dom",
+  "address": "Šmartinska c., 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 238,
+  "name": "DZS knjigarna in papirnica",
+  "address": "Tržaška c. 337, 1000 Ljubljana, Slovenia",
+  "phone": "+38614231480",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 239,
+  "name": "Nakupek.si - spletna trgovina - spletni nakupovalni center",
+  "address": "Leskoškova cesta 12, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 240,
+  "name": "Enaa - Če ni najboljše, ni Enaa",
+  "address": "Šmartinska c. 102, 1000 Ljubljana, Slovenia",
+  "phone": "+38615475000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 241,
+  "name": "Trgovina Za Male Zivali",
+  "address": "A, 1000 Ljubljana, Slovenia",
+  "phone": "+38615852222",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 242,
+  "name": "Kristalna palača",
+  "address": "Šmartinska c. 152, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 243,
+  "name": "Magistrat International zunanjetrgovinsko podjetje d.o.o.",
+  "address": "Cesta Ljubljanske brigade 33, 1000 Ljubljana, Slovenia",
+  "phone": "+38615139993",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 244,
+  "name": "Rutar marketing, trgovska d.o.o.",
+  "address": "Tržnica 1000, 1000 Ljubljana, Slovenia",
+  "phone": "10001000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 245,
+  "name": "Kapitalska zadruga, zadruga za pospeševanje gospodarskih koristi članov, Z.B.O.",
+  "address": "Šmartinska c. 152g, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 246,
+  "name": "Emporium Gallery",
+  "address": "Francoska ulica, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 247,
+  "name": "Meganakupek",
+  "address": "Latinski trg 6, 1000 Ljubljana, Slovenia",
+  "phone": "+38615844800",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 248,
+  "name": "Gostinski stoli in mize",
+  "address": "Lidl Letališka cesta, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 249,
+  "name": "Spletna trgovina z modnimi oblačili - Butikec.si",
+  "address": "BS3, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 250,
+  "name": "City Express",
+  "address": "Tomšičeva ulica 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38614258300",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 251,
+  "name": "Al.Ko Trade trgovsko podjetje d.o.o., Ljubljana, Dolenjska C. 244",
+  "address": "Latinski trg, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 252,
+  "name": "Prodaja vozil Avtocenter Črnivec in Torkar",
+  "address": "Zofke Kvedrove ulica 12, 1000 Ljubljana, Slovenia",
+  "phone": "+38670473783",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 253,
+  "name": "Ljubljana Castle",
+  "address": "Dolničarjeva ulica 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38612342690",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 254,
+  "name": "Ljubljana Cathedral",
+  "address": "Resljeva cesta 2, 1000 Ljubljana, Slovenia",
+  "phone": "+38613061215",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 255,
+  "name": "Tivoli Park",
+  "address": "Prešernova cesta 24, 1000 Ljubljana, Slovenia",
+  "phone": "+38612415418",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 256,
+  "name": "Ljubljana Zoo",
+  "address": "Adamič-Lundrovo nabrežje 6, 1000 Ljubljana, Slovenia",
+  "phone": "+38613001200",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 257,
+  "name": "House of illusions",
+  "address": "Kongresni trg 13, 1000 Ljubljana, Slovenia",
+  "phone": "+38613205466",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 258,
+  "name": "Central Market",
+  "address": "Metelkova ulica 10, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 259,
+  "name": "Dragon Bridge",
+  "address": "Večna pot 70, 1000 Ljubljana, Slovenia",
+  "phone": "+38612442188",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 260,
+  "name": "Nebotičnik - Skyscraper",
+  "address": "Grajska planota 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38613064293",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 261,
+  "name": "Metelkova Art Center",
+  "address": "Tivoli, 1000 Ljubljana, Slovenia",
+  "phone": "+38614315060",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 262,
+  "name": "National Gallery",
+  "address": "Tržaška c. 132, 1000 Ljubljana, Slovenia",
+  "phone": "+38630773677",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 263,
+  "name": "Trg republike",
+  "address": "Prešernova cesta 31, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 264,
+  "name": "Narodni muzej Slovenije",
+  "address": "Italijanska ulica 7, 1000 Ljubljana, Slovenia",
+  "phone": "+38631773434",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 265,
+  "name": "Plečnik House",
+  "address": "Gosposka ulica 3, 1000 Ljubljana, Slovenia",
+  "phone": "+38670322822",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 266,
+  "name": "Ljubljana Castle funicular",
+  "address": "Gregorčičeva ulica 13a, 1000 Ljubljana, Slovenia",
+  "phone": "+38659138415",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 267,
+  "name": "Mestni muzej Ljubljana",
+  "address": "Gospodinjska ulica 8, 1000 Ljubljana, Slovenia",
+  "phone": "+38641677030",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 268,
+  "name": "Congress Square",
+  "address": "Gornji trg 7, 1000 Ljubljana, Slovenia",
+  "phone": "+38614255089",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 269,
+  "name": "Prešeren Square",
+  "address": "Cankarjevo nabrežje 3, 1000 Ljubljana, Slovenia",
+  "phone": "+38659042856",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 270,
+  "name": "Town Square",
+  "address": "Oražnova ulica 10, 1000 Ljubljana, Slovenia",
+  "phone": "+38651640750",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 271,
+  "name": "Botanični vrt Univerze v Ljubljani",
+  "address": "Grajska planota 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38631687648",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 272,
+  "name": "Robba fountain",
+  "address": "Ljubljanska cesta 1, 4260 Bled, Slovenia",
+  "phone": "+38670138811",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 273,
+  "name": "Jakopič Promenade",
+  "address": "Likozarjeva ulica 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38669774211",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 274,
+  "name": "Mesarski most",
+  "address": "EXOTERRA d.o.o, Krakovski nasip 26, 1000 Ljubljana, Slovenia",
+  "phone": "+38631612261",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 275,
+  "name": "National Museum of Contemporary History",
+  "address": "Bleiweisova cesta, 1000 Ljubljana, Slovenia",
+  "phone": "+38641905070",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 276,
+  "name": "Natural History Museum of Slovenia",
+  "address": "Celovška cesta 22, 1000 Ljubljana, Slovenia",
+  "phone": "+38659025978",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 277,
+  "name": "The House of experiments",
+  "address": "Trg Osvobodilne fronte 7, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 278,
+  "name": "Railway Museum",
+  "address": "Vodnikova cesta 102, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 279,
+  "name": "Slovenian Ethnographic Museum",
+  "address": "Dunajska c. 117, 1000 Ljubljana, Slovenia",
+  "phone": "+38651635888",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 280,
+  "name": "Monument \"Ribe\" - The Fish",
+  "address": "Kranjčeva ulica 20, 1000 Ljubljana, Slovenia",
+  "phone": "+38641888998",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 281,
+  "name": "Museum of Modern Art Ljubljana",
+  "address": "Tržaška c. 132, 1000 Ljubljana, Slovenia",
+  "phone": "+38641296161",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 282,
+  "name": "Museum of Contemporary Art Metelkova | +MSUM",
+  "address": "Slovenska cesta 29, 1000 Ljubljana, Slovenia",
+  "phone": "+38612410654",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 283,
+  "name": "WOOP! Trampolin park Ljubljana",
+  "address": "Adamič-Lundrovo nabrežje 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38659042190",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 284,
+  "name": "Enigmarium, Escape Room",
+  "address": "Prijateljeva ulica 2, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 285,
+  "name": "Tivoli Castle",
+  "address": "Slovenia, Miklošičeva cesta 38, 1000 Ljubljana, Slovenia",
+  "phone": "+38630706000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 286,
+  "name": "National and University Library",
+  "address": "Kino dvor, Kolodvorska ulica 13, 1000 Ljubljana, Slovenia",
+  "phone": "+38612392217",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 287,
+  "name": "Mayerjeva hiša",
+  "address": "Pivovarniška ulica, 1000 Ljubljana, Slovenia",
+  "phone": "+38631811777",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 288,
+  "name": "Navje Memorial Park",
+  "address": "Zgornji Brnik 130a, 4210 Brnik, Slovenia",
+  "phone": "+38642061000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 289,
+  "name": "Urban Electric train",
+  "address": "Trubarjeva cesta 24, Ground floor, 1000 Ljubljana, Slovenia",
+  "phone": "+38641991771",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 290,
+  "name": "Dragon temple",
+  "address": "Cigaletova ulica 3, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 291,
+  "name": "Pub Crawl Ljubljana",
+  "address": "Dunajska c. 18, 1000 Ljubljana, Slovenia",
+  "phone": "+38631608030",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 292,
+  "name": "Sts. Cyril and Methodius Church",
+  "address": "Šiška,1000, Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 293,
+  "name": "Predjama Castle",
+  "address": "Linhartova cesta 11, 1000 Ljubljana, Slovenia",
+  "phone": "+38683807068",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 294,
+  "name": "SNG Opera in balet Ljubljana",
+  "address": "Obrežna steza 2, 1000 Ljubljana, Slovenia",
+  "phone": "+38630232323",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 295,
+  "name": "Soteska Vintgar",
+  "address": "Čučkova ulica 16, 1000 Ljubljana, Slovenia",
+  "phone": "+38664172432",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 296,
+  "name": "Ursuline Church of the Holy Trinity",
+  "address": "Ilirska ulica 1, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 297,
+  "name": "Triglav National Park",
+  "address": "Bleiweisova cesta 30, 1000 Ljubljana, Slovenia",
+  "phone": "+38641662866",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 298,
+  "name": "Bear Watching Slovenia - Meet the Wildlife",
+  "address": "Bleiweisova cesta 30, 1000 Ljubljana, Slovenia",
+  "phone": "+38641662866",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 299,
+  "name": "Tabor Park",
+  "address": "Cankarjevo nabrežje 19, 1000 Ljubljana, Slovenia",
+  "phone": "+38631829870",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 300,
+  "name": "WOOP! Arena",
+  "address": "Adamič-Lundrovo nabrežje 2, 1000 Ljubljana, Slovenia",
+  "phone": "+38613061215",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 301,
+  "name": "Slovenski impresionisti",
+  "address": "Šuštarski most, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 302,
+  "name": "Prison Break Slovenia",
+  "address": "Celovška cesta 23, 1000 Ljubljana, Slovenia",
+  "phone": "+38613009610",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 303,
+  "name": "Ljubljana Free Tour",
+  "address": "Prešernov trg 1000, 1000 Ljubljana, Slovenia",
+  "phone": "10001000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 304,
+  "name": "PTICH: SLOVENIA MUSIC TRIPS \u0026 LJUBLJANA URBAN TOURS",
+  "address": "Gornji trg 9, 1000 Ljubljana, Slovenia",
+  "phone": "+38640418554",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 305,
+  "name": "Cekinov grad",
+  "address": "Tobačna ulica 5, 1000 Ljubljana, Slovenia",
+  "phone": "+38640587210",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 306,
+  "name": "Ljubljana",
+  "address": "Moskovska ulica 10, 1000 Ljubljana, Slovenia",
+  "phone": "+38618889407",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 307,
+  "name": "Cobblers' Bridge",
+  "address": "Ameriška ulica 13, 1000 Ljubljana, Slovenia",
+  "phone": "+38641377366",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 308,
+  "name": "Ljubljana Tourist Information Center (TIC)",
+  "address": "Tabor 14, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 309,
+  "name": "Slovenia Activities - Best Things To Do in Slovenia ‍ ️",
+  "address": "Slovenska cesta 21, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 310,
+  "name": "LADJICA EMONCA - BOAT TOUR LJUBLJANA",
+  "address": "Bleiweisova cesta, 1000 Ljubljana, Slovenia",
+  "phone": "+38641662866",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 311,
+  "name": "Alternative Tours Ljubljana Meeting Point",
+  "address": "Turistično društvo Gorje, Podhom 80, 4247 Zgornje Gorje, Slovenia",
+  "phone": "+38651621511",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 312,
+  "name": "The Key Room Escape Ljubljana",
+  "address": "Prešernov trg 1, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 313,
+  "name": "Farm Life Slovenia ‍",
+  "address": "Župančičeva ulica 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38612415900",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 314,
+  "name": "Koseze Pond",
+  "address": "Predjama 1, 6230 Predjama, Slovenia",
+  "phone": "+38657000100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 315,
+  "name": "Ljubljana",
+  "address": "Jamska cesta 30, 6230 Postojna, Slovenia",
+  "phone": "+38657000100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 316,
+  "name": "Otroško igrišče",
+  "address": "Prešernova cesta 35, 1000 Ljubljana, Slovenia",
+  "phone": "+38612412680",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 317,
+  "name": "Kino Bežigrad",
+  "address": "Tovarniška ulica 18, 1000 Ljubljana, Slovenia",
+  "phone": "+38640532525",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 318,
+  "name": "Rožnik",
+  "address": "Petkovškovo nabrežje 31b, 1000 Ljubljana, Slovenia",
+  "phone": "+38631339393",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 319,
+  "name": "Čuden House",
+  "address": "Štefanova ulica 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38640233078",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 320,
+  "name": "Soba pobega MindMaze, Escape Room Ljubljana",
+  "address": "Stritarjeva ulica 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38631433000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 321,
+  "name": "Ljubljana Jože Pučnik Airport",
+  "address": "Vurnikova ulica 5, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 322,
+  "name": "The Slovenia",
+  "address": "Wolfova ulica 1, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 323,
+  "name": "Escape Coin",
+  "address": "Turjaška ulica 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38612001188",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 324,
+  "name": "Prulček - live music venue",
+  "address": "Trdinova ulica 8, 1000 Ljubljana, Slovenia",
+  "phone": "+38631334488",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 325,
+  "name": "My Dumplings Of Slovenia",
+  "address": "Leskoškova cesta 3, 1000 Ljubljana, Slovenia",
+  "phone": "+38618889407",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 326,
+  "name": "Indoor Paintball Ljubljana",
+  "address": "MSUM, Maistrova ulica 3, 1000 Ljubljana, Slovenia",
+  "phone": "+38612416800",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 327,
+  "name": "To Do In Slovenia",
+  "address": "Cankarjeva cesta 15, 1000 Ljubljana, Slovenia",
+  "phone": "+38612416800",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 328,
+  "name": "Konzorcij Bookstore and Stationery",
+  "address": "Center District, 1000, 1000 Ljubljana, Slovenia",
+  "phone": "10001000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 329,
+  "name": "Slotrips - Unique Hiking \u0026 Biking Tours",
+  "address": "Stritarjeva ulica 2, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 330,
+  "name": "Rožnik District",
+  "address": "Grajska planota 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38613064258",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 331,
+  "name": "Triglav Tours - climbing Triglav with a guide ⛰",
+  "address": "Trubarjeva cesta 39, 1000 Ljubljana, Slovenia",
+  "phone": "+38613006888",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 332,
+  "name": "Ljubljana train station",
+  "address": "Metelkova ulica 2, 1000 Ljubljana, Slovenia",
+  "phone": "+38613008700",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 333,
+  "name": "Slovenia Tourist Taxi - DAY TRIPS FROM LJUBLJANA",
+  "address": "Prešernova cesta 20, 1000 Ljubljana, Slovenia",
+  "phone": "+38612410940",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 334,
+  "name": "Wine Tours Slovenia - Wine Tasting",
+  "address": "Jakopičevo sprehajališče, 1000 Ljubljana, Slovenia",
+  "phone": "+38614315060",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 335,
+  "name": "Union Pub",
+  "address": "Mestni trg, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 336,
+  "name": "CurioCity",
+  "address": "Celovška cesta 23, 1000 Ljubljana, Slovenia",
+  "phone": "+38613009610",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 337,
+  "name": "Altitude Activities",
+  "address": "Ljubljanski botanični vrt, Ižanska cesta 15, 1000 Ljubljana, Slovenia",
+  "phone": "+38614271280",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 338,
+  "name": "Pop's place",
+  "address": "Kongresni trg, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 339,
+  "name": "Virtualist",
+  "address": "Mestni trg 10, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 340,
+  "name": "Go To Slovenia Travel",
+  "address": "Prešernov trg 1, 1000 Ljubljana, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 341,
+  "name": "Barbovi Palace",
+  "address": "Krekov trg 4, 1000 Ljubljana, Slovenia",
+  "phone": "+38613064200",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 342,
+  "name": "Hotel Arena",
+  "address": "Glavni trg 8, 2000 Maribor, Slovenia",
+  "phone": "+38622345600",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 343,
+  "name": "Hotel Orel",
+  "address": "Radvanjska cesta 99, 2000 Maribor, Slovenia",
+  "phone": "+38623327650",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 344,
+  "name": "Hotel City Maribor",
+  "address": "Pohorska ulica 59, 2000 Maribor, Slovenia",
+  "phone": "+38623008100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 345,
+  "name": "B\u0026B Hotel Maribor",
+  "address": "Obrežna ulica 33, 2000 Maribor, Slovenia",
+  "phone": "+38641541125",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 346,
+  "name": "Hotel Maribor, City Apartments",
+  "address": "Glavni trg 8, 2000 Maribor, Slovenia",
+  "phone": "+38622345600",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 347,
+  "name": "Hotel Habakuk",
+  "address": "Ulica Vita Kraigherja 3, 2000 Maribor, Slovenia",
+  "phone": "+38622928800",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 348,
+  "name": "Hotel Maribor, Garden Rooms",
+  "address": "Volkmerjev prehod, 2000 Maribor, Slovenia",
+  "phone": "+38622506700",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 349,
+  "name": "Hotel Piramida",
+  "address": "Ulica kneza Koclja 22, 2000 Maribor, Slovenia",
+  "phone": "+38622927000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 350,
+  "name": "Hotel Bajt",
+  "address": "Pot k mlinu 57, 2000 Maribor, Slovenia",
+  "phone": "+38625123000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 351,
+  "name": "Hotel City Map",
+  "address": "Ulica heroja Šlandra 10, 2000 Maribor, Slovenia",
+  "phone": "+38622344400",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 352,
+  "name": "Garden Rooms",
+  "address": "Partizanska cesta 11, 2000 Maribor, Slovenia",
+  "phone": "+38651331933",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 353,
+  "name": "Hotel Orel",
+  "address": "Koroška cesta 109d, 2000 Maribor, Slovenia",
+  "phone": "+38641532536",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 354,
+  "name": "S Hotel",
+  "address": "Ulica Vita Kraigherja 3, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 355,
+  "name": "4Rooms",
+  "address": "Gregorčičeva ulica 20, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 356,
+  "name": "Boutique Hotel Pohorje",
+  "address": "Ob ribniku 66, 2000 Maribor, Slovenia",
+  "phone": "+38631436174",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 357,
+  "name": "Tabor",
+  "address": "Vetrinjska ulica 8, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 358,
+  "name": "Hotel \u0026 Restaurant Lent",
+  "address": "Aljaževa ulica 12, 2000 Maribor, Slovenia",
+  "phone": "+38640253253",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 359,
+  "name": "Gentry11 Rooms\u0026More",
+  "address": "Ulica 10. oktobra 3, 2000 Maribor, Slovenia",
+  "phone": "+38631740208",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 360,
+  "name": "ROOMERS",
+  "address": "Ulica Kraljeva 5, 2000 Maribor, Slovenia",
+  "phone": "+38626141035",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 361,
+  "name": "Anna House",
+  "address": "Macunova ulica 6, 2000 Maribor, Slovenia",
+  "phone": "+38668184190",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 362,
+  "name": "Fani\u0026Rozi B\u0026B",
+  "address": "Ljubljanska ulica 13, 2000 Maribor, Slovenia",
+  "phone": "+38670717399",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 363,
+  "name": "Baščaršija Maribor Poštna",
+  "address": "Kočevarjeva ulica 5, 2000 Maribor, Slovenia",
+  "phone": "+38641738003",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 364,
+  "name": "Baščaršija Maribor Poštna",
+  "address": "Ulica heroja Tomšiča 3, 2000 Maribor, Slovenia",
+  "phone": "+38640759507",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 365,
+  "name": "Guest House Pohorska Kavarna",
+  "address": "Malečnik 158, 2229 Malečnik, Slovenia",
+  "phone": "+38624806300",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 366,
+  "name": "Fani\u0026Rozi B\u0026B",
+  "address": "Maistrova ulica 17, 2000 Maribor, Slovenia",
+  "phone": "+38640243160",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 367,
+  "name": "Center DRAŠ",
+  "address": "Naveršnikova ulica 4, 2000 Maribor, Slovenia",
+  "phone": "+38631627995",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 368,
+  "name": "Hotel Bau",
+  "address": "Na slemenu 10, 2000 Maribor, Slovenia",
+  "phone": "+38640222494",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 369,
+  "name": "Garni Hotel Terano",
+  "address": "Ulica Matije Murka 38, 2000 Maribor, Slovenia",
+  "phone": "+38631817169",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 370,
+  "name": "4Flats",
+  "address": "Markovičeva ulica 16, 2000 Maribor, Slovenia",
+  "phone": "+38631394096",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 371,
+  "name": "Patrick's Pub",
+  "address": "Pohorska ulica 35c, 2000 Maribor, Slovenia",
+  "phone": "+38640225386",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 372,
+  "name": "Chateau Ramšak, vineyard glamping resort",
+  "address": "Poštelska ulica 5a, 2000 Maribor, Slovenia",
+  "phone": "+38641873663",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 373,
+  "name": "Guesthouse Mlada lipa",
+  "address": "Lackova cesta 42, 2000 Maribor, Slovenia",
+  "phone": "+38641709010",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 374,
+  "name": "Hostel Pekarna",
+  "address": "Vetrinjska ulica 5, 2000 Maribor, Slovenia",
+  "phone": "+38640894492",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 375,
+  "name": "UNI Youth Hostel",
+  "address": "Ob bregu 20, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 376,
+  "name": "Penzion zeleni kakadu Cvetka Wregg s.p.",
+  "address": "Prisojna ulica 73, 2000 Maribor, Slovenia",
+  "phone": "+38670355243",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 377,
+  "name": "Sweet Baci",
+  "address": "Partizanska cesta 22, 2000 Maribor, Slovenia",
+  "phone": "+38641789354",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 378,
+  "name": "Gril Ranca pod Pohorjem",
+  "address": "Ciril - Metodova ulica 4, 2000 Maribor, Slovenia",
+  "phone": "+38624204404",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 379,
+  "name": "Studio Lipa",
+  "address": "Partizanska cesta 11, 2000 Maribor, Slovenia",
+  "phone": "+38651331933",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 380,
+  "name": "Apartments Banjac",
+  "address": "Jurčičeva ulica 8, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 381,
+  "name": "Guest House Pri Gondoli",
+  "address": "Dupleška cesta 135, 2000 Maribor, Slovenia",
+  "phone": "+38640834340",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 382,
+  "name": "Hostel M",
+  "address": "Industrijska cona Melje, Meljska c. 44, 2000 Maribor, Slovenia",
+  "phone": "+38640844430",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 383,
+  "name": "Sobe-Apartmaji-Terapije",
+  "address": "Koroška cesta 13, 2000 Maribor, Slovenia",
+  "phone": "+447590416695",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 384,
+  "name": "Gostilna in Motel pri Lešniku",
+  "address": "Pot k mlinu 57, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 385,
+  "name": "Mekina, Guesthouse hotel, Ferienhaus, Zimmer, Sobe, Maribor",
+  "address": "Lešnikova ulica 6, 2000 Maribor, Slovenia",
+  "phone": "+38622501453",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 386,
+  "name": "Bed And Breakfast Beros",
+  "address": "Ulica Eve Lovše 15, 2000 Maribor, Slovenia",
+  "phone": "+38659344100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 387,
+  "name": "Pension Black Baron",
+  "address": "Vetrinjska ulica 5, 2000 Maribor, Slovenia",
+  "phone": "+38630622711",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 388,
+  "name": "Vinogradništvo Winery Ramšak",
+  "address": "Podravje SI, Bohova 40, 2311 Hoče, Slovenia",
+  "phone": "+38670671310",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 389,
+  "name": "Beg Rooms",
+  "address": "Dupleška cesta 132, 2000 Maribor, Slovenia",
+  "phone": "+38670456035",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 390,
+  "name": "Gostilna Sobočan",
+  "address": "Dolnja Počehova 34b, 2211 Pesnica pri Mariboru, Slovenia",
+  "phone": "+38640564907",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 391,
+  "name": "Vinogradništvo in kletarstvo Kaloh",
+  "address": "Vodole 2, 2229 Malečnik, Slovenia",
+  "phone": "+38640666877",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 392,
+  "name": "Nesting resort",
+  "address": "Šentpetrska ulica 4, 2000 Maribor, Slovenia",
+  "phone": "+38641687607",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 393,
+  "name": "Turistična kmetija Kaloh",
+  "address": "Stolni Vrh 30, 2000 Maribor, Slovenia",
+  "phone": "+38622517311",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 394,
+  "name": "Gostišče Sobočan Mitja Sobočan s.p.",
+  "address": "Stolni Vrh 30, 2000 Maribor, Slovenia",
+  "phone": "+38651670771",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 395,
+  "name": "Rooms Klampfer",
+  "address": "Industrijska cona Melje, Ulica heroja Jevtiča 3, 2000 Maribor, Slovenia",
+  "phone": "+38670310226",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 396,
+  "name": "Bistro \u0026 Rooms pri Karlu - ex Hiša Budja",
+  "address": "Celovška cesta 13, 2354 Bresternica, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 397,
+  "name": "Naturasort, Leisure \u0026 Sport",
+  "address": "Počehova 35, 2000 Maribor, Slovenia",
+  "phone": "+38631692886",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 398,
+  "name": "Hostel kmetija Frangež",
+  "address": "Malečnik 158, 2229 Malečnik, Slovenia",
+  "phone": "+38624806300",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 399,
+  "name": "Hotel Betnava",
+  "address": "Grizoldova ulica 34, 2000 Maribor, Slovenia",
+  "phone": "+38641771798",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 400,
+  "name": "Villa Mira",
+  "address": "Celovška cesta 13, 2354 Bresternica, Slovenia",
+  "phone": "+38626232313",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 401,
+  "name": "Apartment Bon Voyage",
+  "address": "Grizoldova ulica 31, 2000 Maribor, Slovenia",
+  "phone": "+38626131604",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 402,
+  "name": "Hotel Nn Terme Mb",
+  "address": "Iztokova ulica 22, 2000 Maribor, Slovenia",
+  "phone": "+38664290222",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 403,
+  "name": "Residence Meljska",
+  "address": "Ulica Kraljeva 5, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 404,
+  "name": "City Wall House",
+  "address": "Naveršnikova ulica 30, 2000 Maribor, Slovenia",
+  "phone": "+38626141500",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 405,
+  "name": "NA apartments Maribor",
+  "address": "Dupleška cesta 49, 2000 Maribor, Slovenia",
+  "phone": "+38624712322",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 406,
+  "name": "Hotel Vila Emei",
+  "address": "Cesta XIV. divizije 62, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 407,
+  "name": "GUESTHOUSE - GOSTIŠČE PRI JANEZU, Robert Antolinc s.p.",
+  "address": "Nasipna ulica 84, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 408,
+  "name": "HOTEL PANDA",
+  "address": "Poštna ulica 6, 2000 Maribor, Slovenia",
+  "phone": "+38640639577",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 409,
+  "name": "Apartment Lent",
+  "address": "Lackova cesta 75, 2000 Maribor, Slovenia",
+  "phone": "+38623301521",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 410,
+  "name": "Tavas Hostel",
+  "address": "Ulica Roberta Kukovca 46, 2000 Maribor, Slovenia",
+  "phone": "+38623205445",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 411,
+  "name": "Kamrica Mariborcity",
+  "address": "Ob železnici 16, 2000 Maribor, Slovenia",
+  "phone": "+38664174175",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 412,
+  "name": "Hostel Heart of Maribor",
+  "address": "Počehova 35, 2000 Maribor, Slovenia",
+  "phone": "+38640628303",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 413,
+  "name": "Guest House Pikapolonca",
+  "address": "Lackova cesta 76, 2000 Maribor, Slovenia",
+  "phone": "+38641610460",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 414,
+  "name": "Sobe Stara Lipa Tašner, Ksenija Tašner s.p.",
+  "address": "Slomškov trg 11, 2000 Maribor, Slovenia",
+  "phone": "+38640696852",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 415,
+  "name": "Home On My Way",
+  "address": "Volkmerjev prehod 4, 2000 Maribor, Slovenia",
+  "phone": "+38622506700",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 416,
+  "name": "Brunarica-Planika",
+  "address": "Macunova ulica 1, 2000 Maribor, Slovenia",
+  "phone": "+38626141320",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 417,
+  "name": "Apartments Juric",
+  "address": "Poštna ulica 10, 2000 Maribor, Slovenia",
+  "phone": "+38622511801",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 418,
+  "name": "Avtokamp Kekec, Bernard Kekec s.p.",
+  "address": "Limbuška cesta 85, 2000 Maribor, Slovenia",
+  "phone": "+38624216310",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 419,
+  "name": "Rooms Center",
+  "address": "Pristan 6, 2000 Maribor, Slovenia",
+  "phone": "+38640387478",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 420,
+  "name": "Apartment Zorec",
+  "address": "Pristan 6, 2000 Maribor, Slovenia",
+  "phone": "+38640387478",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 421,
+  "name": "Lollipop Hostel",
+  "address": "Miklošičeva ulica 2, 2000 Maribor, Slovenia",
+  "phone": "+38670654661",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 422,
+  "name": "Hostel Magis",
+  "address": "Pohorska ulica 57, 2000 Maribor, Slovenia",
+  "phone": "+38664195799",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 423,
+  "name": "Motel in pizzeria Črni Baron, Marjan Vidovič s.p.",
+  "address": "Ob ribniku 1, 2000 Maribor, Slovenia",
+  "phone": "+38641640101",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 424,
+  "name": "Rooms Stadion",
+  "address": "Poštna ulica 8, 2000 Maribor, Slovenia",
+  "phone": "+38622506359",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 425,
+  "name": "MINIDORM ROOMS IN HEART OF CITY CENTER",
+  "address": "Poštna ulica 8, 2000 Maribor, Slovenia",
+  "phone": "+38622506359",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 426,
+  "name": "MariborRooms",
+  "address": "Gledališka ulica 4, 2000 Maribor, Slovenia",
+  "phone": "+38641666852",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 427,
+  "name": "Perfect Rooms - App \u0026 studio lepote in Masaž, Stanko Verbnjak s.p.",
+  "address": "Gosposka ulica 11, 2000 Maribor, Slovenia",
+  "phone": "+38670450800",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 428,
+  "name": "Hostel Vetrinjska Maribor",
+  "address": "Ulica heroja Zidanška 18, 2000 Maribor, Slovenia",
+  "phone": "+38624216410",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 429,
+  "name": "Unique modern place on Koroška cesta 109d",
+  "address": "Volkmerjev prehod, 2000 Maribor, Slovenia",
+  "phone": "+38622506700",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 430,
+  "name": "Mini Student Dorm Maribor Center",
+  "address": "Dravska ulica 9, 2000 Maribor, Slovenia",
+  "phone": "+38630361340",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 431,
+  "name": "Monaco Hostel",
+  "address": "Smetanova ulica 20, 2000 Maribor, Slovenia",
+  "phone": "+38622280280",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 432,
+  "name": "Tai Chi Traveler's B\u0026B",
+  "address": "Vojašniški trg 8, 2000 Maribor, Slovenia",
+  "phone": "+38631269269",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 433,
+  "name": "Apartma Pohorje - Maribor",
+  "address": "Poštna ulica 3, 2000 Maribor, Slovenia",
+  "phone": "+38641666852",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 434,
+  "name": "Pc Slavija poslovanje z nepremičninami d.o.o.",
+  "address": "Pohorska ulica 49, 2000 Maribor, Slovenia",
+  "phone": "+38626132096",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 435,
+  "name": "Jack \u0026 Joe Steak and Burger Club",
+  "address": "Mlinska ulica 2, 2000 Maribor, Slovenia",
+  "phone": "+38670678678",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 436,
+  "name": "Baščaršija Maribor Gosposvetska",
+  "address": "Loška ulica 10, 2000 Maribor, Slovenia",
+  "phone": "+38622523600",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 437,
+  "name": "Baščaršija Maribor Poštna",
+  "address": "Ob bregu 20, 2000 Maribor, Slovenia",
+  "phone": "+38651370621",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 438,
+  "name": "Meating Pub \u0026 Restavracija",
+  "address": "Jurčičeva ulica 7, 2000 Maribor, Slovenia",
+  "phone": "+38622502033",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 439,
+  "name": "Novi Svet",
+  "address": "Glavni trg 5, 2000 Maribor, Slovenia",
+  "phone": "+38622502300",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 440,
+  "name": "RESTAVRACIJA GALA ŽAR Denis Curović s.p.?",
+  "address": "Slomškov trg 5, 2000 Maribor, Slovenia",
+  "phone": "+38622500486",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 441,
+  "name": "Bro'Sis Bar \u0026 Restaurant",
+  "address": "Gosposvetska cesta 43a, 2000 Maribor, Slovenia",
+  "phone": "+38622523431",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 442,
+  "name": "Okrepčevalnica stari Gril Đemo Ameti s.p.",
+  "address": "Tyrševa ulica 3, 2000 Maribor, Slovenia",
+  "phone": "+38670503300",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 443,
+  "name": "Restaurant Ancora",
+  "address": "Grajski trg 6, 2000 Maribor, Slovenia",
+  "phone": "+38659084850",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 444,
+  "name": "Pri Florjanu",
+  "address": "Poštna ulica 8, 2000 Maribor, Slovenia",
+  "phone": "+38622506359",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 445,
+  "name": "Restavracija Sedem",
+  "address": "Grizoldova ulica 34, 2000 Maribor, Slovenia",
+  "phone": "+38641771798",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 446,
+  "name": "Rožmarin Hospitality Group",
+  "address": "Koroška cesta 1, 2000 Maribor, Slovenia",
+  "phone": "+38664246650",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 447,
+  "name": "Pizzeria Pomodoro",
+  "address": "Pobreška cesta 18, 2000 Maribor, Slovenia",
+  "phone": "+38631676872",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 448,
+  "name": "Gril Ranca, gostinstvo in druge storitve d.o.o.",
+  "address": "Koroška cesta 59, 2000 Maribor, Slovenia",
+  "phone": "+38640793220",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 449,
+  "name": "Romani Kafenava",
+  "address": "Perhavčeva ulica 15, 2000 Maribor, Slovenia",
+  "phone": "+38670803080",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 450,
+  "name": "Patrick's Pub",
+  "address": "Loška ulica 10, 2000 Maribor, Slovenia",
+  "phone": "+38622522242",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 451,
+  "name": "La Pizzeria",
+  "address": "Partizanska cesta 50, 2000 Maribor, Slovenia",
+  "phone": "+38631499423",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 452,
+  "name": "Steakhouse Rožmarin",
+  "address": "Poštna ulica 1, 2000 Maribor, Slovenia",
+  "phone": "+38626200888",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 453,
+  "name": "La Cantina",
+  "address": "Zagrebška c. 75, 2000 Maribor, Slovenia",
+  "phone": "+38631551406",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 454,
+  "name": "Gostinstvo Mak, David Vračko s.p.",
+  "address": "Kosarjeva ulica 41, 2000 Maribor, Slovenia",
+  "phone": "+38641547898",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 455,
+  "name": "Mr Falafel",
+  "address": "Focheva ulica 41, 2000 Maribor, Slovenia",
+  "phone": "+38626209618",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 456,
+  "name": "Poper",
+  "address": "Slovenska ulica 9, 2000 Maribor, Slovenia",
+  "phone": "+38622350290",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 457,
+  "name": "BISTRO ARTY",
+  "address": "Ruška cesta 1, 2000 Maribor, Slovenia",
+  "phone": "+38623310086",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 458,
+  "name": "Gostilna Poštela Bojan Lobnik s.p.",
+  "address": "Ulica Pohorskega bataljona 14, 2000 Maribor, Slovenia",
+  "phone": "+38624296890",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 459,
+  "name": "Kozlovna Poštna",
+  "address": "Center, Usnjarska ulica 5, 2000 Maribor, Slovenia",
+  "phone": "+38626212299",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 460,
+  "name": "Restavracija Terasa",
+  "address": "Titova cesta 55, 2000 Maribor, Slovenia",
+  "phone": "+38651860102",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 461,
+  "name": "Ngon, okus Vietnama",
+  "address": "Gosposvetska cesta 19, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 462,
+  "name": "Črna Kuhna Pizzeria \u0026 Restaurant",
+  "address": "Cesta k Tamu, 2000 Maribor, Slovenia",
+  "phone": "+38670491800",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 463,
+  "name": "Japonska Restavracija Miyabi",
+  "address": "Tržaška cesta 1, 2000 Maribor, Slovenia",
+  "phone": "+38670109020",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 464,
+  "name": "Gostilna pri lipi",
+  "address": "Tržaška cesta 33, 2000 Maribor, Slovenia",
+  "phone": "+38622363280",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 465,
+  "name": "TAVERNA PALERMO",
+  "address": "Slovenska ulica 23, 2000 Maribor, Slovenia",
+  "phone": "+38641751828",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 466,
+  "name": "Pizzeria Verdi",
+  "address": "Ertlova ulica 10, 2000 Maribor, Slovenia",
+  "phone": "+38670497749",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 467,
+  "name": "Gostilna in picerija Savica",
+  "address": "Ulica Pariške komune 37, 2000 Maribor, Slovenia",
+  "phone": "+38623312989",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 468,
+  "name": "Bistro LOU",
+  "address": "Usnjarska ulica 5, 2000 Maribor, Slovenia",
+  "phone": "+38626212299",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 469,
+  "name": "Vietnamska restavracija Maribor | Silvo Krel s.p.",
+  "address": "Focheva ulica 50-58, 2000 Maribor, Slovenia",
+  "phone": "50582000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 470,
+  "name": "Restavracija Nigra",
+  "address": "Ulica Eve Lovše 1, 2000 Maribor, Slovenia",
+  "phone": "+38627995076",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 471,
+  "name": "Pizzeria Toscana Ni-Mi d.o.o",
+  "address": "Loška ulica 10, 2000 Maribor, Slovenia",
+  "phone": "+38622522242",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 472,
+  "name": "Malca Mimogrede",
+  "address": "Partizanska cesta 3, 2000 Maribor, Slovenia",
+  "phone": "+38630360601",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 473,
+  "name": "Restavracija Tuš Maribor",
+  "address": "Slovenska ulica 15, 2000 Maribor, Slovenia",
+  "phone": "+38640186439",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 474,
+  "name": "Restavracija Anasi , Simona Kolonjak s.p.",
+  "address": "Zagrebška c. 73, 2000 Maribor, Slovenia",
+  "phone": "+38640227133",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 475,
+  "name": "Gostilna Monika Milorad Krajišnik s.p.",
+  "address": "Cesta XIV. divizije 11, 2000 Maribor, Slovenia",
+  "phone": "+38631305658",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 476,
+  "name": "City grill",
+  "address": "Regentova ulica 3, 2000 Maribor, Slovenia",
+  "phone": "+38641558111",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 477,
+  "name": "Gostilna Taborka in bar Pernat Marija s.p.",
+  "address": "Jurčičeva ulica 5, 2000 Maribor, Slovenia",
+  "phone": "+38659800594",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 478,
+  "name": "Okrepčevalnica Benis",
+  "address": "Grajska ulica 5-1, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 479,
+  "name": "Restavracija IZUM",
+  "address": "Tkalski prehod 4, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 480,
+  "name": "Restaurant MARIBOR",
+  "address": "Ulica Eve Lovše 1, 2000 Maribor, Slovenia",
+  "phone": "+38631577577",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 481,
+  "name": "simpl. - Take away al' pa tu pojej",
+  "address": "Gregorčičeva ulica 19, 2000 Maribor, Slovenia",
+  "phone": "+38631818963",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 482,
+  "name": "Sidro\u0026Sidro d.o.o.",
+  "address": "Gorkega ulica 45, 2000 Maribor, Slovenia",
+  "phone": "+38628051390",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 483,
+  "name": "BONA Restavracija RADVANJE",
+  "address": "Perhavčeva ulica 24, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 484,
+  "name": "Gostilna \"Zlati Lev\" Goran Horvat s.p.",
+  "address": "Slovenska ulica 20, 2000 Maribor, Slovenia",
+  "phone": "+38641582220",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 485,
+  "name": "London Street Food",
+  "address": "Ulica Vita Kraigherja 5, 2000 Maribor, Slovenia",
+  "phone": "+38615876100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 486,
+  "name": "Restavracija Piano",
+  "address": "Partizanska cesta 12, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 487,
+  "name": "Fini lokali, gostinstvo in druge storitve, d.o.o.",
+  "address": "Pobreška cesta 18, 2000 Maribor, Slovenia",
+  "phone": "+38623328135",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 488,
+  "name": "Nana Bistro \u0026 Kavarna",
+  "address": "Gosposvetska cesta 43a, 2000 Maribor, Slovenia",
+  "phone": "+38670631502",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 489,
+  "name": "La Cantina CENTER pizzerija in špageterija",
+  "address": "Cafova ulica 5, 2000 Maribor, Slovenia",
+  "phone": "+38631212165",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 490,
+  "name": "Peggy bar",
+  "address": "Borštnikova ulica 33a, 2000 Maribor, Slovenia",
+  "phone": "+38624206555",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 491,
+  "name": "Restaurant Vučko Sarajevo Grill",
+  "address": "Poštna ulica 1, 2000 Maribor, Slovenia",
+  "phone": "+38659143576",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 492,
+  "name": "Fudo",
+  "address": "Betnavska cesta 122, 2000 Maribor, Slovenia",
+  "phone": "+38623313783",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 493,
+  "name": "Loving Hut",
+  "address": "Pohorska ulica 60, 2000 Maribor, Slovenia",
+  "phone": "+38659974741",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 494,
+  "name": "Njami sushi",
+  "address": "Preradovičeva ulica 24, 2000 Maribor, Slovenia",
+  "phone": "+38670488661",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 495,
+  "name": "Bloom",
+  "address": "Vetrinjska ulica 30, 2000 Maribor, Slovenia",
+  "phone": "+38626145614",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 496,
+  "name": "Al Capone",
+  "address": "Ob bregu 20, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 497,
+  "name": "Pizzeria Vivaldi",
+  "address": "Glavni trg 16, 2000 Maribor, Slovenia",
+  "phone": "+38659106256",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 498,
+  "name": "Mr commerce",
+  "address": "Koroška cesta 160, 2000 Maribor, Slovenia",
+  "phone": "+38631236325",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 499,
+  "name": "SOUL FOOD",
+  "address": "Strossmayerjeva ulica 26, 2000 Maribor, Slovenia",
+  "phone": "+38631474690",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 500,
+  "name": "Picerija Ferdinand, gostinstvo, trgovina in storitve, d.o.o.",
+  "address": "Jurčičeva ulica 7, 2000 Maribor, Slovenia",
+  "phone": "+38622502033",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 501,
+  "name": "Da Noi",
+  "address": "Streliška cesta 24, 2000 Maribor, Slovenia",
+  "phone": "+38670991045",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 502,
+  "name": "Žito City",
+  "address": "Vodnikov trg 4, 2000 Maribor, Slovenia",
+  "phone": "+38622508080",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 503,
+  "name": "Grajska Ulica, Maribor",
+  "address": "Dravska ulica 9-3, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 504,
+  "name": "Martinovanje",
+  "address": "Žolgarjeva ulica 19, 2000 Maribor, Slovenia",
+  "phone": "8774767016",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 505,
+  "name": "Pizzerija Rudi",
+  "address": "Gorkega ulica 48, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 506,
+  "name": "Big Panda",
+  "address": "Prešernova ulica 17, 2000 Maribor, Slovenia",
+  "phone": "+38622520391",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 507,
+  "name": "PIROLA d.o.o.",
+  "address": "Slovenska ulica 18, 2000 Maribor, Slovenia",
+  "phone": "+38670495666",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 508,
+  "name": "Q :: qulto Tabor",
+  "address": "Gosposka ulica 28, 2000 Maribor, Slovenia",
+  "phone": "+38670993993",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 509,
+  "name": "Okrepčevalnica hamburger Hill Klavdija Perko s.p.",
+  "address": "Črtomirova ulica 8, 2000 Maribor, Slovenia",
+  "phone": "+38624202675",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 510,
+  "name": "Okrepčevalnica hamburger Hill Klavdija Perko s.p.",
+  "address": "Partizanska cesta 5, 2000 Maribor, Slovenia",
+  "phone": "+38626200542",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 511,
+  "name": "Tom-Yum, gostinstvo in trgovina, d.o.o.",
+  "address": "Na Poljanah 18, 2000 Maribor, Slovenia",
+  "phone": "+38659733748",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 512,
+  "name": "DOBRO JUTRO VIETNAM",
+  "address": "Zagrebška c. 30, 2000 Maribor, Slovenia",
+  "phone": "+38624500371",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 513,
+  "name": "Gril Ranca",
+  "address": "Ruska ulica 4, 2000 Maribor, Slovenia",
+  "phone": "+38624612000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 514,
+  "name": "Kitajska restavracija Zvezda",
+  "address": "Koroška cesta 13, 2000 Maribor, Slovenia",
+  "phone": "+38631733109",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 515,
+  "name": "Čao-čao doner kebab",
+  "address": "Cesta XIV. divizije 89, 2000 Maribor, Slovenia",
+  "phone": "+38670126763",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 516,
+  "name": "Okrepčevalnica Šiš",
+  "address": "Slovenska ulica 15, 2000 Maribor, Slovenia",
+  "phone": "+38640186439",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 517,
+  "name": "Gud Street Fud",
+  "address": "Slovenska ulica 4, 2000 Maribor, Slovenia",
+  "phone": "+38659100397",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 518,
+  "name": "Cantante Café",
+  "address": "Betnavska cesta 21, 2000 Maribor, Slovenia",
+  "phone": "+38623206938",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 519,
+  "name": "Restavracija XXXL Maribor",
+  "address": "Dravska ulica 8, 2000 Maribor, Slovenia",
+  "phone": "+38622508120",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 520,
+  "name": "Theater café",
+  "address": "Ulica heroja Nandeta 31, 2000 Maribor, Slovenia",
+  "phone": "+38624260315",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 521,
+  "name": "Grill \u0026 Kebap Paša Maribor - pri Tamu",
+  "address": "Lackova cesta 44, 2000 Maribor, Slovenia",
+  "phone": "+38626131733",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 522,
+  "name": "Okrepčevalnica \"Stop Šestica\" Zidi Shabani s.p.",
+  "address": "Poštna ulica 12, 2000 Maribor, Slovenia",
+  "phone": "+38659017670",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 523,
+  "name": "Lunch box",
+  "address": "Slovenska ulica 20, 2000 Maribor, Slovenia",
+  "phone": "+38640176841",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 524,
+  "name": "Konteiner burger",
+  "address": "Streliška cesta 57, 2000 Maribor, Slovenia",
+  "phone": "+38623204303",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 525,
+  "name": "Pizzaburger Maribor",
+  "address": "Glavni trg 17b, 2000 Maribor, Slovenia",
+  "phone": "+38640146511",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 526,
+  "name": "Zlata srna",
+  "address": "Ulica kneza Koclja 22, 2000 Maribor, Slovenia",
+  "phone": "+38622927002",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 527,
+  "name": "Okrepčevalnica Magdalena, Evica Muaremi s.p.",
+  "address": "Glavni trg 8, 2000 Maribor, Slovenia",
+  "phone": "+38622345606",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 528,
+  "name": "Kitajska palača",
+  "address": "Gosposka ulica 30, 2000 Maribor, Slovenia",
+  "phone": "+38640785784",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 529,
+  "name": "Hišni servis in Selitve, Alojz Knedl s.p.",
+  "address": "Osojnikova ulica 20, 2000 Maribor, Slovenia",
+  "phone": "+38626200053",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 530,
+  "name": "Qulto :: qoffee \u0026 qulinaris",
+  "address": "Pohorska ulica 60, 2000 Maribor, Slovenia",
+  "phone": "+38626145614",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 531,
+  "name": "KITAJSKI ŽAD d.o.o.",
+  "address": "Gosposka ulica 8, 2000 Maribor, Slovenia",
+  "phone": "+38622343321",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 532,
+  "name": "Grill \u0026 Kebap Paša - okrepčevalnica, Shaban Shabani, s.p.",
+  "address": "Gosposka ulica 8, 2000 Maribor, Slovenia",
+  "phone": "+38622345678",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 533,
+  "name": "Piaf",
+  "address": "Poštna ulica 10, 2000 Maribor, Slovenia",
+  "phone": "+38622511801",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 534,
+  "name": "Kavarna stil - Burger okrepčevalnica Sonja Kebert s.p.",
+  "address": "Gorkega ulica 34, 2000 Maribor, Slovenia",
+  "phone": "+38640933990",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 535,
+  "name": "Shopping center Europark Maribor",
+  "address": "Tržaška cesta 85, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 536,
+  "name": "Trgovski center Maribor",
+  "address": "Maribor airport, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 537,
+  "name": "Supernova Qlandia Maribor",
+  "address": "Žolgarjeva ulica 20, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 538,
+  "name": "Maribor",
+  "address": "Na Poljanah 18, 2000 Maribor, Slovenia",
+  "phone": "+38659733740",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 539,
+  "name": "Supernova Maribor Tržaška",
+  "address": "Ulica Vita Kraigherja 5, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 540,
+  "name": "Kauf-Park Maribor",
+  "address": "Tržaška cesta 7, 2000 Maribor, Slovenia",
+  "phone": "+38682008000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 541,
+  "name": "Maribor",
+  "address": "Poljska ulica 2, 2000 Maribor, Slovenia",
+  "phone": "+4334528315912",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 542,
+  "name": "Planet Maribor",
+  "address": "Cesta proletarskih brigad 100, 2000 Maribor, Slovenia",
+  "phone": "+38624805050",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 543,
+  "name": "Trgovski center City",
+  "address": "Cesta proletarskih brigad 101, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 544,
+  "name": "Pobrezje",
+  "address": "Tkalski prehod, 2000 Maribor, Slovenia",
+  "phone": "+38626210294",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 545,
+  "name": "Paysafecard",
+  "address": "Pobreška cesta 18, 2000 Maribor, Slovenia",
+  "phone": "+38623208210",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 546,
+  "name": "Slo",
+  "address": "Primorska ulica 9, 2000 Maribor, Slovenia",
+  "phone": "+38623204336",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 547,
+  "name": "Stari Mercator",
+  "address": "Tržaška cesta 67a, 2000 Maribor, Slovenia",
+  "phone": "+38624500500",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 548,
+  "name": "Euro spin",
+  "address": "TROBOJ.NRJ SHOP, Sarajevska ulica 3, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 549,
+  "name": "E.D.T.",
+  "address": "Ulica Vita Kraigherja 5 Trgovina Top Shop Štajer Trade, pritličje, 2000 Maribor, Slovenia",
+  "phone": "+38622301710",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 550,
+  "name": "Mercator Center Tabor",
+  "address": "Cesta proletarskih brigad, 2000 Maribor, Slovenia",
+  "phone": "+38670999604",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 551,
+  "name": "Jager Center",
+  "address": "Cesta k Tamu 12, 2000 Maribor, Slovenia",
+  "phone": "+38641385033",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 552,
+  "name": "Walkmaxx, Štajer Trade Maribor, pritličje",
+  "address": "Kraljeviča Marka ulica 19, 2000 Maribor, Slovenia",
+  "phone": "+38622349325",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 553,
+  "name": "TROBOJ.NRJ SHOP",
+  "address": "Ulica Eve Lovše 1, 2000 Maribor, Slovenia",
+  "phone": "+38628055900",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 554,
+  "name": "Agromehanika PSC Maribor",
+  "address": "Tržaška cesta 67a, 2000 Maribor, Slovenia",
+  "phone": "+38640130114",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 555,
+  "name": "Avtopralnica Dirty Harry",
+  "address": "Slovenska ulica 19-15, 2000 Maribor, Slovenia",
+  "phone": "19152000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 556,
+  "name": "Maribor Castle",
+  "address": "Usnjarska ulica 10, 2000 Maribor, Slovenia",
+  "phone": "+38622517743",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 557,
+  "name": "Stolna župnija Maribor",
+  "address": "Slomškov trg 20, 2000 Maribor, Slovenia",
+  "phone": "+38622518432",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 558,
+  "name": "Vodni stolp - Water Tower",
+  "address": "Strossmayerjeva ulica 6, 2000 Maribor, Slovenia",
+  "phone": "+38622295860",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 559,
+  "name": "Plague Column",
+  "address": "Židovska ulica 4, 2000 Maribor, Slovenia",
+  "phone": "+38631680294",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 560,
+  "name": "Pyramid",
+  "address": "Vojašniška ulica 4, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 561,
+  "name": "Maribor Synagogue",
+  "address": "Glavni trg, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 562,
+  "name": "Lent",
+  "address": "Ulica heroja Tomšiča 5, 2000 Maribor, Slovenia",
+  "phone": "+38622352605",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 563,
+  "name": "Sodni stolp",
+  "address": "Pristan 8, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 564,
+  "name": "Umetnostna galerija Maribor",
+  "address": "Grajska ulica 2, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 565,
+  "name": "Pokrajinski muzej Maribor",
+  "address": "Trg svobode 3, 2000 Maribor, Slovenia",
+  "phone": "+38612307530",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 566,
+  "name": "Main Square",
+  "address": "Počehova 29, 2000 Maribor, Slovenia",
+  "phone": "+38641266231",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 567,
+  "name": "Stari Most",
+  "address": "Mestni park, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 568,
+  "name": "Mariborsko Pohorje",
+  "address": "Glavni trg, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 569,
+  "name": "Mariborski mestni park",
+  "address": "Ulica škofa Maksimilijana Držečnika 7, 2000 Maribor, Slovenia",
+  "phone": "+38622285110",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 570,
+  "name": "VINOGRADI HORVAT - VINEYARDS HORVAT",
+  "address": "Na Vrh 5, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 571,
+  "name": "Vinag 1847",
+  "address": "Pohorska ulica 60, 2000 Maribor, Slovenia",
+  "phone": "+38683889999",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 572,
+  "name": "Maribor",
+  "address": "Glavni Most, 2000 Maribor, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 573,
+  "name": "City park",
+  "address": "Center, 2000 Maribor, Slovenia",
+  "phone": "+38622283551",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 574,
+  "name": "Hotel A",
+  "address": "Hotel A, 3301 Mala Pirešica 20, 3301 Petrovče, Slovenia",
+  "phone": "3301203301",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 575,
+  "name": "Hotel Evropa",
+  "address": "Mariborska cesta 2, 3000 Celje, Slovenia",
+  "phone": "+38640756009",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 576,
+  "name": "Hotel Evropa",
+  "address": "Bežigrajska cesta 7, 3000 Celje, Slovenia",
+  "phone": "+38634255100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 577,
+  "name": "Hotel Grande",
+  "address": "Krekov trg 4, 3000 Celje, Slovenia",
+  "phone": "+38634269000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 578,
+  "name": "MCC Hostel",
+  "address": "Hotel A, 3301 Mala Pirešica 20, 3301 Petrovče, Slovenia",
+  "phone": "3301203301",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 579,
+  "name": "Hotel A",
+  "address": "Popovičeva ulica 2, 3000 Celje, Slovenia",
+  "phone": "+38665601321",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 580,
+  "name": "Limaks",
+  "address": "Krekov trg 4, 3000 Celje, Slovenia",
+  "phone": "+38634269000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 581,
+  "name": "Hotel \u0026 Restaurant Celeia",
+  "address": "Šentjanž nad Štorami 1, 3220 Šentjanž nad Štorami, Slovenia",
+  "phone": "+38631640657",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 582,
+  "name": "Adventure Farm",
+  "address": "Mariborska cesta 3, 3000 Celje, Slovenia",
+  "phone": "+38634269700",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 583,
+  "name": "Hotel Faraon",
+  "address": "Ljubljanska c. 39, 3000 Celje, Slovenia",
+  "phone": "+38634287100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 584,
+  "name": "Hotel Celjska koča",
+  "address": "Svetina 2e, 3220 Štore, Slovenia",
+  "phone": "+38641608423",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 585,
+  "name": "Lodge at Svetina",
+  "address": "Šentjanž nad Štorami 1, 3220 Štore, Slovenia",
+  "phone": "+38631640657",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 586,
+  "name": "Rooms Hochkraut",
+  "address": "Zadobrova 37a, 3211 Škofja vas, Slovenia",
+  "phone": "+38641726516",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 587,
+  "name": "Camping-Celje",
+  "address": "Tremerje 2, 3000 Celje, Slovenia",
+  "phone": "+38634279100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 588,
+  "name": "Stari Mlin",
+  "address": "Pečovnik 31, 3000 Celje, Slovenia",
+  "phone": "+38641718274",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 589,
+  "name": "Gostilna in pivnica Stari Pisker",
+  "address": "Teharska cesta 26, 3000 Celje, Slovenia",
+  "phone": "+38635485090",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 590,
+  "name": "Gostilna Matjaž Mihael Matjaž s.p.",
+  "address": "Prešernova ulica 10, 3000 Celje, Slovenia",
+  "phone": "+38613302410",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 591,
+  "name": "Gostilna \"Francl\" Peter Zaveršek s.p.",
+  "address": "Gosposka ulica 16, 3000 Celje, Slovenia",
+  "phone": "+38635441170",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 592,
+  "name": "Gostilna Amerika",
+  "address": "Savinova ulica 9, 3000 Celje, Slovenia",
+  "phone": "+38635442480",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 593,
+  "name": "Oštarija",
+  "address": "Mariborska cesta 100, 3000 Celje, Slovenia",
+  "phone": "+38682802171",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 594,
+  "name": "Pizzeria Verona",
+  "address": "Levstikova ulica 1a, 3000 Celje, Slovenia",
+  "phone": "+38670198900",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 595,
+  "name": "Bistro Ponvica",
+  "address": "Kidričeva ulica 24b, 3000 Celje, Slovenia",
+  "phone": "+38651662444",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 596,
+  "name": "Twins Café \u0026 Restaurant",
+  "address": "Mariborska cesta 79, 3000 Celje, Slovenia",
+  "phone": "+38635419320",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 597,
+  "name": "Gostilna \"Mlakar\" Marija Mlakar s.p.",
+  "address": "Zagrad 77, 3000 Celje, Slovenia",
+  "phone": "+38682005969",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 598,
+  "name": "Hood Burger Celje",
+  "address": "Opekarniška cesta 9, 3000 Celje, Slovenia",
+  "phone": "+38670409510",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 599,
+  "name": "Rajski Vrt Restaurant",
+  "address": "Celeiapark, Aškerčeva ulica 14, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 600,
+  "name": "Gostilna pri Kmetec Danijel Kmetec s.p.",
+  "address": "Škapinova ulica 2, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 601,
+  "name": "Restavracija Oštirka",
+  "address": "Kovinarska ulica 16, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 602,
+  "name": "Gostilna Gaberska klet, Tatjana Sorčan s.p.",
+  "address": "Stanetova ulica 27, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 603,
+  "name": "HARMONIJA OKUSOV",
+  "address": "Nušičeva ulica 6, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 604,
+  "name": "Restavracija Taboljš",
+  "address": "Kidričeva ulica 36, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 605,
+  "name": "Lisjak Celjski",
+  "address": "Zvodno 12, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 606,
+  "name": "PizzaBurger POINT bar Celje",
+  "address": "Robova ulica 5, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 607,
+  "name": "WOK Tajska hrana",
+  "address": "Ljubljanska c. 14, 3000 Celje, Slovenia",
+  "phone": "+38670345040",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 608,
+  "name": "Gostilna Francl - Sebastjan Grobelšek S.P.",
+  "address": "Slomškov trg 4, 3000 Celje, Slovenia",
+  "phone": "+38635483569",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 609,
+  "name": "Gostilna Stara Brajda",
+  "address": "Teharska cesta 35, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 610,
+  "name": "Plava terasa restavracija",
+  "address": "Popovičeva ulica, 3000 Celje, Slovenia",
+  "phone": "+38634254380",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 611,
+  "name": "Evergreen kapija",
+  "address": "Zagrad 140A, 3000 Celje, Slovenia",
+  "phone": "+38631721306",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 612,
+  "name": "Restaurant Stolpič",
+  "address": "5 20, 3000 Celje, Slovenia",
+  "phone": "+38631290181",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 613,
+  "name": "Wok \u0026 Roll Celje",
+  "address": "Mariborska cesta 128, 3000 Celje, Slovenia",
+  "phone": "+38670881201",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 614,
+  "name": "Restavracija in pivnica Koper",
+  "address": "Opekarniška cesta 15, 3000 Celje, Slovenia",
+  "phone": "+38634911483",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 615,
+  "name": "Azijska - Japonska in Kitajska restavracija TAO",
+  "address": "Linhartova ulica 7, 3000 Celje, Slovenia",
+  "phone": "+38668947064",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 616,
+  "name": "Odprta kuhna Celje",
+  "address": "Opekarniška cesta 15a, 3000 Celje, Slovenia",
+  "phone": "+38641901760",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 617,
+  "name": "OTOKI japanese restaurant",
+  "address": "Krekov trg 4, 3000 Celje, Slovenia",
+  "phone": "+38634269000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 618,
+  "name": "Fejst Tejst Celje",
+  "address": "Pečovnik 31, 3000 Celje, Slovenia",
+  "phone": "+38641718274",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 619,
+  "name": "Pancakes in CELJE",
+  "address": "Lava 7f, 3000 Celje, Slovenia",
+  "phone": "+38634253000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 620,
+  "name": "Restavracija Dijaški dom",
+  "address": "Prešernova ulica 15a, 3000 Celje, Slovenia",
+  "phone": "+38641664500",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 621,
+  "name": "Restaurant Loger",
+  "address": "Kidričeva ulica 30, 3000 Celje, Slovenia",
+  "phone": "+38670521628",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 622,
+  "name": "Samopostrežna restavracija SB Celje",
+  "address": "Kidričeva ulica 30, 3000 Celje, Slovenia",
+  "phone": "+38670717066",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 623,
+  "name": "Ledas",
+  "address": "Stanetova ulica 18, 3000 Celje, Slovenia",
+  "phone": "+38641739385",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 624,
+  "name": "Eurotas, gostinstvo in storitve, d.o.o. PE Špageterija \u0026 pizzeria Koper",
+  "address": "Ljubljanska c. 6, 3000 Celje, Slovenia",
+  "phone": "+38641425352",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 625,
+  "name": "BUCO Okrepčevalnica pri bolnici",
+  "address": "Cesta v Trnovlje 10, 3000 Celje, Slovenia",
+  "phone": "+38634255288",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 626,
+  "name": "wannabe",
+  "address": "Ulica Mesta Grevenbroich 13, 3000 Celje, Slovenia",
+  "phone": "+38640983320",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 627,
+  "name": "Svet Kulinaričnih doživetij, restavracije in gostilne d.o.o.",
+  "address": "Ulica bratov Vošnjakov, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 628,
+  "name": "Kitajska restavracija Dva zmaja",
+  "address": "Mariborska cesta 128, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 629,
+  "name": "Stari pisker",
+  "address": "Ljubljanska c. 6, 3000 Celje, Slovenia",
+  "phone": "+38641969143",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 630,
+  "name": "PE Pekarnica",
+  "address": "Cesta na Ljubečno 48, 3000 Celje, Slovenia",
+  "phone": "+38634270260",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 631,
+  "name": "Kitajski Dvor Restaurant",
+  "address": "Ulica Frankolovskih žrtev 13, 3000 Celje, Slovenia",
+  "phone": "+38670442106",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 632,
+  "name": "Still Burger Celje",
+  "address": "Mariborska cesta 128, 3000 Celje, Slovenia",
+  "phone": "+38670882001",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 633,
+  "name": "Bar zagata Danica Plemenitaš s.p.",
+  "address": "Linhartova ulica 7, 3000 Celje, Slovenia",
+  "phone": "+38670495473",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 634,
+  "name": "Restavracija Trač",
+  "address": "Kidričeva ulica, 3000 Celje, Slovenia",
+  "phone": "+38670521628",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 635,
+  "name": "McDonald's Celje Drive",
+  "address": "Savinova ulica 7, 3000 Celje, Slovenia",
+  "phone": "+38631707999",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 636,
+  "name": "Pizzerija Verona Dostava",
+  "address": "Bukovžlak 101, 3000 Bukovžlak, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 637,
+  "name": "Pizzeria Picikato",
+  "address": "Gosposka ulica 1a, 3000 Celje, Slovenia",
+  "phone": "+38641329261",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 638,
+  "name": "Terasa bistro pri Jagru",
+  "address": "Stanetova ulica 19, 3000 Celje, Slovenia",
+  "phone": "+38631274679",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 639,
+  "name": "Pizzeria Dal Nonno",
+  "address": "Mariborska cesta 128, 3000 Celje, Slovenia",
+  "phone": "+38670882155",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 640,
+  "name": "RICE\u0026noodles, gostinstvo, Arren Judez s.p.",
+  "address": "Ljubljanska c. 17, 3000 Celje, Slovenia",
+  "phone": "+38641274430",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 641,
+  "name": "Gostinstvo Kebabči Aga, Zilhidže Saliji s.p.",
+  "address": "Mariborska cesta 100, 3000 Celje, Slovenia",
+  "phone": "+38659689719",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 642,
+  "name": "Fast food 13",
+  "address": "Teharska cesta 53, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 643,
+  "name": "Grill Jaka, gostinstvo in storitve, d.o.o.",
+  "address": "Ulica Mesta Grevenbroich 13, 3000 Celje, Slovenia",
+  "phone": "+38631011222",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 644,
+  "name": "Pizza Špica",
+  "address": "Mariborska cesta 118, 3000 Celje, Slovenia",
+  "phone": "+38635412024",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 645,
+  "name": "PIZZERIA VIJA VAJA",
+  "address": "Mariborska cesta 100, 3000 Celje, Slovenia",
+  "phone": "+38634907050",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 646,
+  "name": "Okrepčevalnica Puncer, Renata Rebernik s.p.",
+  "address": "Opekarniška cesta 15, 3000 Celje, Slovenia",
+  "phone": "+38671243179",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 647,
+  "name": "Pizzerija Diavolo",
+  "address": "Kidričeva ulica 30, 3000 Celje, Slovenia",
+  "phone": "+38670512628",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 648,
+  "name": "McDonald's Celje Citycenter",
+  "address": "Trnoveljska cesta 7, 3000 Celje, Slovenia",
+  "phone": "+38635412053",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 649,
+  "name": "No1 burger Celje",
+  "address": "Ljubljanska c. 7, 3000 Celje, Slovenia",
+  "phone": "+38670407662",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 650,
+  "name": "Picerija Tuš",
+  "address": "Gosposka ulica 10, 3000 Celje, Slovenia",
+  "phone": "+38641547050",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 651,
+  "name": "Rukola \u0026 Paradiznik",
+  "address": "Ipavčeva ulica 25, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 652,
+  "name": "Celye",
+  "address": "Glavni trg 13, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 653,
+  "name": "Celje",
+  "address": "Jamova ulica 6, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 654,
+  "name": "Krčma TamKoUčiri",
+  "address": "Mariborska cesta 7, 3000 Celje, Slovenia",
+  "phone": "+38670397709",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 655,
+  "name": "Kajak kanu klub nivo Celje",
+  "address": "Teharje 21, 3221 Teharje, Slovenia",
+  "phone": "+38635411010",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 656,
+  "name": "Kaya street food \u0026 bar",
+  "address": "Zagata 1, 3000 Celje, Slovenia",
+  "phone": "+38651365093",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 657,
+  "name": "Ribarnica Celje",
+  "address": "Teharska cesta 35, 3000 Celje, Slovenia",
+  "phone": "+38635484645",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 658,
+  "name": "Planet Tuš Celje",
+  "address": "Mariborska cesta 164, 3000 Celje, Slovenia",
+  "phone": "+38659689725",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 659,
+  "name": "Kebabsi aga Tuš Cash\u0026Carry Celje",
+  "address": "Gledališki trg 8, 3000 Celje, Slovenia",
+  "phone": "+38631459229",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 660,
+  "name": "Okrepčevalnica dober tek pekarna",
+  "address": "Kersnikova ulica 31, 3000 Celje, Slovenia",
+  "phone": "+38635410160",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 661,
+  "name": "En Pajs",
+  "address": "Nušičeva ulica 2a, 3000 Celje, Slovenia",
+  "phone": "+38670409510",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 662,
+  "name": "Točeni sladoledi Index",
+  "address": "Kersnikova ulica 3-1, 3000 Celje, Slovenia",
+  "phone": "+38670378561",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 663,
+  "name": "Maxi palačinke",
+  "address": "Stari pisker, Prešernova ulica 22, 3000 Celje, Slovenia",
+  "phone": "+38635442480",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 664,
+  "name": "Picerija Limbo",
+  "address": "Mariborska cesta 100, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 665,
+  "name": "MESNINČEK TRNOVLJE, TRGOVINA IN RESTAVRACIJA - Celjske mesnine d.o.o.",
+  "address": "Lava, 3000 Celje, Slovenia",
+  "phone": "+38634253000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 666,
+  "name": "AROS BAR",
+  "address": "Gubčeva ulica 3, 3000 Celje, Slovenia",
+  "phone": "+38659071380",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 667,
+  "name": "Aga Kebap Branka Tramšek s.p.",
+  "address": "Ljubljanska c. 21, 3000 Celje, Slovenia",
+  "phone": "+38634266624",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 668,
+  "name": "GOSTINSTVO KEBABČI AGA, Zilhidže Saliji s.p.",
+  "address": "Oblakova ulica, 3000 Celje, Slovenia",
+  "phone": "+38634233723",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 669,
+  "name": "Kavarna Fontana",
+  "address": "Cesta v Laško 11, 3000 Celje, Slovenia",
+  "phone": "+38635481760",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 670,
+  "name": "Kebapči aga Kidričeva ulica",
+  "address": "Ljubljanska c. 6, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 671,
+  "name": "Kavarna Prešernova 15",
+  "address": "Ulica bratov Vošnjakov 5-1, 3000 Celje, Slovenia",
+  "phone": "+38659101200",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 672,
+  "name": "Ledas d.o.o. - mesni izdelki, mesnica in gostilnica",
+  "address": "Prešernova ulica 6, 3000 Celje, Slovenia",
+  "phone": "+38651675868",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 673,
+  "name": "Hotel Evropa",
+  "address": "Savinova ulica, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 674,
+  "name": "Restavracija Celjska Koča",
+  "address": "1, Mariborska cesta, 3000 Celje, Slovenia",
+  "phone": "+38631609792",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 675,
+  "name": "Restavracija \"Taverna Carraro\", Milan Kojić, s.p.",
+  "address": "Gubčeva ulica 5, 3000 Celje, Slovenia",
+  "phone": "+38659071380",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 676,
+  "name": "Restavracija Tuš Celje",
+  "address": "Mariborska cesta 7, 3000 Celje, Slovenia",
+  "phone": "+38631796556",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 677,
+  "name": "Slovegija Celje",
+  "address": "Glavni trg 12, 3000 Celje, Slovenia",
+  "phone": "+38664221090",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 678,
+  "name": "Svegos, gostinstvo, d.o.o.",
+  "address": "Ulica Frankolovskih žrtev 17a, 3000 Celje, Slovenia",
+  "phone": "+38670300888",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 679,
+  "name": "Jaka Grill Celje",
+  "address": "Lava 7, 3000 Celje, Slovenia",
+  "phone": "+38638114807",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 680,
+  "name": "Tlačan gostinstvo, turizem d.o.o.",
+  "address": "Jamova ulica, 3000 Celje, Slovenia",
+  "phone": "+38659118979",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 681,
+  "name": "Gastro",
+  "address": "Zagrad 77, 3000 Celje, Slovenia",
+  "phone": "+38682005969",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 682,
+  "name": "Haizhen trgovina in gostinstvo, d.o.o. Celje, Teharska 35 - V stečaju",
+  "address": "Linhartova ulica 7, 3000 Celje, Slovenia",
+  "phone": "+38651794110",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 683,
+  "name": "Stella bar",
+  "address": "Ljubljanska c. 20b, 3000 Celje, Slovenia",
+  "phone": "+38670435070",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 684,
+  "name": "Vezenina K2b, trgovina in storitve, Barbara Miler s.p.",
+  "address": "Ljubljanska c. 39, 3000 Celje, Slovenia",
+  "phone": "+38634287309",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 685,
+  "name": "Frizerstvo Šter Breda Šter s.p.",
+  "address": "Ulica Mesta Grevenbroich 9, 3000 Celje, Slovenia",
+  "phone": "+38670220100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 686,
+  "name": "Soho Celje, gostinstvo in storitve, d.o.o. poslovna enota Soho",
+  "address": "Mariborska cesta 120, 3000 Celje, Slovenia",
+  "phone": "+38670210211",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 687,
+  "name": "Gostinstvo in storitve, Bojan Šket s.p.",
+  "address": "Kovinarska ulica 6, 3000 Celje, Slovenia",
+  "phone": "+38641335236",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 688,
+  "name": "Shopping center Citycenter Celje",
+  "address": "Lava 2a, 3000 Celje, Slovenia",
+  "phone": "+38657311900",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 689,
+  "name": "EK center Celje",
+  "address": "Bežigrajska cesta 16, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 690,
+  "name": "Glazija center Celje",
+  "address": "Ipavčeva ulica 25, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 691,
+  "name": "STOP SHOP Celje",
+  "address": "Ljubljanska c. 20, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 692,
+  "name": "Supernova Mercator Celje",
+  "address": "Opekarniška cesta 9, 3000 Celje, Slovenia",
+  "phone": "+38634268000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 693,
+  "name": "olsa",
+  "address": "Tovarniška ulica, 3000 Celje, Slovenia",
+  "phone": "+38670804840",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 694,
+  "name": "Mercator center Hudinja",
+  "address": "Mariborska cesta 88, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 695,
+  "name": "Otroški kotiček Jager.",
+  "address": "Mercator center, 3000, Opekarniška cesta, Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 696,
+  "name": "A Stojala, Stojala za prospekte DRM d.o.o.",
+  "address": "Mariborska cesta 100, 3000 Celje, Slovenia",
+  "phone": "+38634251250",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 697,
+  "name": "Aden Cosmetics Slovenija",
+  "address": "Cesta na Ostrožno 3, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 698,
+  "name": "Trgovina be one Bojana Škorjanc s.p.",
+  "address": "Mariborska cesta 100, 3000 Celje, Slovenia",
+  "phone": "+38636000426",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 699,
+  "name": "Planet Tuš Celje",
+  "address": "Ipavčeva ulica 25, 3000 Celje, Slovenia",
+  "phone": "+38638964136",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 700,
+  "name": "Jager",
+  "address": "Podjavorškova ulica 2, 3000 Celje, Slovenia",
+  "phone": "+38634907601",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 701,
+  "name": "Mavi Maribor trgovina, storitve, proizvodnja d.o.o., poslovna enota Celje",
+  "address": "Stanetova ulica 12, 3000 Celje, Slovenia",
+  "phone": "+38670636699",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 702,
+  "name": "Celje 123",
+  "address": "Mariborska cesta 128, 3000 Celje, Slovenia",
+  "phone": "+38670882001",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 703,
+  "name": "Tuš hipermarket Planet Celje",
+  "address": "City Center, Mariborska cesta 100, 3000 Celje, Slovenia",
+  "phone": "+38635410778",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 704,
+  "name": "TOP SHOP Celje (City Center)",
+  "address": "Mariborska cesta 128, 3000 Celje, Slovenia",
+  "phone": "+38670882001",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 705,
+  "name": "HUMANIC | Citycenter Celje",
+  "address": "Brodarjeva ulica 5, 3000 Celje, Slovenia",
+  "phone": "+38634288533",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 706,
+  "name": "Celje",
+  "address": "Mariborska cesta 86, 3000 Celje, Slovenia",
+  "phone": "+38641400550",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 707,
+  "name": "Muzej novejše zgodovine Celje",
+  "address": "Prešernova ulica 17, 3000 Celje, Slovenia",
+  "phone": "+38634286410",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 708,
+  "name": "Regional Museum of Celje",
+  "address": "Krekov trg 1, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 709,
+  "name": "City Park",
+  "address": "Gubčeva ulica 1, 3000 Celje, Slovenia",
+  "phone": "+38638282093",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 710,
+  "name": "Tropska hiša",
+  "address": "Maistrova ulica 20, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 711,
+  "name": "Temple of Hercules",
+  "address": "Trg celjskih knezov, 3000 Celje, Slovenia",
+  "phone": "+38634280950",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 712,
+  "name": "Celje Cathedral",
+  "address": "Trg celjskih knezov 9, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 713,
+  "name": "Tehnopark Celje",
+  "address": "Cesta na Grad 78, 3000 Celje, Slovenia",
+  "phone": "+38635443690",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 714,
+  "name": "Alma M. Karlin Statue",
+  "address": "Krekov trg 3, 3000 Celje, Slovenia",
+  "phone": "+38640340306",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 715,
+  "name": "Josip Pelikan Statue",
+  "address": "Partizanska cesta, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 716,
+  "name": "Almshouse",
+  "address": "Mariborska cesta 128, 3000 Celje, Slovenia",
+  "phone": "+38670882001",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 717,
+  "name": "Celje City Marketplace",
+  "address": "Glavni trg 17, 3000 Celje, Slovenia",
+  "phone": "+38634287936",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 718,
+  "name": "Koča pri čarovnici - Dežela pravljic in domišljije",
+  "address": "Slomškov trg 2, 3000 Celje, Slovenia",
+  "phone": "+38634287936",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 719,
+  "name": "Turistično informacijski center Celje (TIC)",
+  "address": "Levstikova ulica 1a, 3000 Celje, Slovenia",
+  "phone": "+38664132543",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 720,
+  "name": "Church of Saint Maximilian of Celeia",
+  "address": "Linhartova ulica 7, 3000 Celje, Slovenia",
+  "phone": "+38641328008",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 721,
+  "name": "Teharje Memorial Park",
+  "address": "Olimje 104, 3254 Podčetrtek, Slovenia",
+  "phone": "+38631309103",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 722,
+  "name": "Celje",
+  "address": "Bukovžlak 30, 3221 Teharje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 723,
+  "name": "Planet Tuš Celje",
+  "address": "Ljubljanska c. 5, 3000 Celje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 724,
+  "name": "Mozirski gaj",
+  "address": "V Savinjski Gaj, 3330 Mozirje, Slovenia",
+  "phone": "+38635832719",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 725,
+  "name": "Hotel Azul",
+  "address": "Tavčarjeva ulica 9, 4000 Kranj, Slovenia",
+  "phone": "+38651788887",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 726,
+  "name": "Hotel Bellevue - Šmarjetna gora",
+  "address": "Šuceva ulica 26, 4000 Kranj, Slovenia",
+  "phone": "+38682000300",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 727,
+  "name": "Actum Hotel",
+  "address": "Šuceva ulica 26, 4000 Kranj, Slovenia",
+  "phone": "+38682000300",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 728,
+  "name": "Hotel Creina",
+  "address": "Predoslje 39, 4000 Kranj, Slovenia",
+  "phone": "+38631351240",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 729,
+  "name": "Hotel Bellevue - Šmarjetna gora",
+  "address": "Glavni trg 16, 4000 Kranj, Slovenia",
+  "phone": "+38642800020",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 730,
+  "name": "Hotel Azul",
+  "address": "Koroška cesta 5, 4000 Kranj, Slovenia",
+  "phone": "+38642817500",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 731,
+  "name": "Elegans Hotel Brdo",
+  "address": "Kajuhova ulica 2, 4000 Kranj, Slovenia",
+  "phone": "+38642800100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 732,
+  "name": "Hostel Cukrarna",
+  "address": "Kurirska pot 25b, 4000 Kranj, Slovenia",
+  "phone": "+38631726817",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 733,
+  "name": "Gostilna Arvaj pri mostu d.o.o.",
+  "address": "Delavska cesta 2c, 4208 Šenčur, Slovenia",
+  "phone": "+38630246143",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 734,
+  "name": "Gostilna Stari Mayr",
+  "address": "Hotel, Ambrož pod Krvavcem 50, 4207 Cerklje na Gorenjskem, Slovenia",
+  "phone": "+38651350830",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 735,
+  "name": "Layer's Art Residences",
+  "address": "Ambrož pod Krvavcem 55, 4207 Cerklje na Gorenjskem, Slovenia",
+  "phone": "+38642012922",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 736,
+  "name": "Dežman Bed \u0026 Breakfast",
+  "address": "Dvorska vas 37a, 4275 Begunje na Gorenjskem, Slovenia",
+  "phone": "+38682005000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 737,
+  "name": "Hotel Marinsek",
+  "address": "Ulica bratov Praprotnik 9, 4202 Naklo, Slovenia",
+  "phone": "+38642572745",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 738,
+  "name": "Bed and Breakfast Valjavec",
+  "address": "Vopovlje 19, 4207 Cerklje na Gorenjskem, Slovenia",
+  "phone": "+38642527760",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 739,
+  "name": "Hiša Aleš",
+  "address": "Bevkova ulica 22, 4240 Radovljica, Slovenia",
+  "phone": "+38641979777",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 740,
+  "name": "Gostilna Ančka Magdič Anton s.p.",
+  "address": "Dunajska c. 103, 1000 Ljubljana, Slovenia",
+  "phone": "+38670777086",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 741,
+  "name": "Turistične sobe Sreš s.p.",
+  "address": "Zgornji Brnik 63, 4207 Cerklje na Gorenjskem, Slovenia",
+  "phone": "+38642529400",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 742,
+  "name": "Bed \u0026 Breakfast Na Poljani",
+  "address": "Begunje na Gorenjskem 142, 4275 Begunje na Gorenjskem, Slovenia",
+  "phone": "+38640436503",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 743,
+  "name": "Hiša Ančka Šenčur",
+  "address": "Begunjska cesta 9, 4248 Lesce, Slovenia",
+  "phone": "+38672927300",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 744,
+  "name": "Guest House Bakhus",
+  "address": "Dunajska c. 105, 1000 Ljubljana, Slovenia",
+  "phone": "+38670444455",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 745,
+  "name": "Hotel Zamorc",
+  "address": "Tomačevska cesta 50, 1000 Ljubljana, Slovenia",
+  "phone": "+38615607000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 746,
+  "name": "Gostilna\u0026Glamping Bizjak, Veronika Aljančič s.p.",
+  "address": "Pot za krajem 36, 4000 Kranj, Slovenia",
+  "phone": "+38659016431",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 747,
+  "name": "Bed \u0026 Breakfast Pr'Sknet",
+  "address": "Savska cesta 37, 4260 Bled, Slovenia",
+  "phone": "+38640917070",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 748,
+  "name": "Gostilna\u0026Glamping Bizjak, Veronika Aljančič s.p.",
+  "address": "Oldhamska cesta 10a, 4000 Kranj, Slovenia",
+  "phone": "+38640504544",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 749,
+  "name": "Restavracija Bolero",
+  "address": "Letališka ulica 8, 4248 Lesce, Slovenia",
+  "phone": "+38640333633",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 750,
+  "name": "Gostišče Jezero",
+  "address": "Mengeška cesta 35, 1236 Trzin, Slovenia",
+  "phone": "+38670485675",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 751,
+  "name": "Domačija Vodnik Adergas, gostinstvo in turizem d.o.o.",
+  "address": "Golniška cesta 1a, 4000 Kranj, Slovenia",
+  "phone": "+38642049070",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 752,
+  "name": "Pri Zalogarju",
+  "address": "Celovška cesta 469, 1000 Ljubljana - Šentvid, Slovenia",
+  "phone": "+38612009500",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 753,
+  "name": "Strmol Castle - Cafe",
+  "address": "Begunjska cesta 6b, 4248 Lesce, Slovenia",
+  "phone": "+38631508186",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 754,
+  "name": "HOTEL BARON",
+  "address": "Hraše 17, 4248 Lesce, Slovenia",
+  "phone": "+38640572972",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 755,
+  "name": "Gostilna Logar Logar Igor s.p.",
+  "address": "Dunajska c. 270, 1000 Ljubljana, Slovenia",
+  "phone": "+38615890130",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 756,
+  "name": "Rooms\u0026 Apartments Jana",
+  "address": "Pipanova pot 18, 1000 Ljubljana, Slovenia",
+  "phone": "+38670660120",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 757,
+  "name": "Houston Resort",
+  "address": "Pšata 30, 1262 Ljubljana, Slovenia",
+  "phone": "+38615627160",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 758,
+  "name": "Penzion Vodnik",
+  "address": "Gorenjska cesta 9, 4240 Radovljica, Slovenia",
+  "phone": "+38645315178",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 759,
+  "name": "Na Vasi, restavracija in prenočišča",
+  "address": "37a Mošnje 4240, Radovljica, Slovenia",
+  "phone": "+38631455938",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 760,
+  "name": "Penzion Jagodic",
+  "address": "Dunajska c. 154, 1000 Ljubljana, Slovenia",
+  "phone": "+38615882500",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 761,
+  "name": "Turistična kmetija Megušar",
+  "address": "Kranjska cesta 2, 4240 Radovljica, Slovenia",
+  "phone": "+38670671672",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 762,
+  "name": "Mini hotel gostinstvo in turizem, d.o.o.",
+  "address": "Celovška cesta 335, 1210 Ljubljana - Šentvid, Slovenia",
+  "phone": "+38670828787",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 763,
+  "name": "Apartments Avio",
+  "address": "Celovška cesta 462, 1210 Ljubljana, Slovenia",
+  "phone": "+38615161545",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 764,
+  "name": "Bed \u0026 Breakfast Karun",
+  "address": "Alpska cesta 8, 4248 Lesce, Slovenia",
+  "phone": "+38645378800",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 765,
+  "name": "Guest House Kveder",
+  "address": "Srednja vas 6, 4275 Begunje na Gorenjskem, Slovenia",
+  "phone": "+38640463563",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 766,
+  "name": "Hotel Medno",
+  "address": "Zgornja Lipnica 28e, 4246 Zgornja Lipnica, Slovenia",
+  "phone": "+38641295124",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 767,
+  "name": "Sobe Meta",
+  "address": "Begunjska cesta 6b, 4248 Lesce, Slovenia",
+  "phone": "+38641606155",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 768,
+  "name": "Jurij Berglez - Sobodajalec",
+  "address": "Begunje na Gorenjskem 21, 4275 Begunje na Gorenjskem, Slovenia",
+  "phone": "+38645333402",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 769,
+  "name": "Pegaz, gostinstvo, d.o.o.",
+  "address": "Gradnikova cesta 2, 4240 Radovljica, Slovenia",
+  "phone": "+38645314051",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 770,
+  "name": "Hostel Mamas House",
+  "address": "Dunajska c. 238, 1000 Ljubljana, Slovenia",
+  "phone": "+38615683859",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 771,
+  "name": "Pri Ancki,B\u0026B,Pension,bar - rooms, accomodation-zimmer-camere-dnevni počitek",
+  "address": "Linhartov trg 2, 4240 Radovljica, Slovenia",
+  "phone": "+38640304690",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 772,
+  "name": "Linhart Hotel",
+  "address": "Medno 15, 1210 Ljubljana, Slovenia",
+  "phone": "+38615120234",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 773,
+  "name": "Bed \u0026 Breakfast Base Camp",
+  "address": "Hraška cesta 15, 4248 Lesce, Slovenia",
+  "phone": "+38645302345",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 774,
+  "name": "Apartments Gubanec",
+  "address": "Linhartov trg 2, 4240 Radovljica, Slovenia",
+  "phone": "+38640304690",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 775,
+  "name": "Sobe Mojca",
+  "address": "Langusova ulica 71, 4240 Radovljica, Slovenia",
+  "phone": "+38645300000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 776,
+  "name": "Hotel Grajski Dvor",
+  "address": "Begunjska cesta 5, 4248 Lesce, Slovenia",
+  "phone": "+38641524450",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 777,
+  "name": "Tourism Pr Ambružarju",
+  "address": "Moste 53, 1218 Komenda, Slovenia",
+  "phone": "+38641682333",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 778,
+  "name": "Apartment Vrtacnik",
+  "address": "Spodnje Pirniče 56, 1211 Ljubljana, Slovenia",
+  "phone": "+38669684678",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 779,
+  "name": "Sobe Janez",
+  "address": "Mošnje 1, 4240 Radovljica, Slovenia",
+  "phone": "+38645796000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 780,
+  "name": "Dvor Tacen Cafe",
+  "address": "Šmarjetna Gora 6, 4000 Kranj, Slovenia",
+  "phone": "+38642700000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 781,
+  "name": "Gostisce Tulipan",
+  "address": "Begunjska cesta 9, 4248 Lesce, Slovenia",
+  "phone": "+38645302140",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 782,
+  "name": "Apartmaji Na Poljani",
+  "address": "Prešernova ulica 6, 4000 Kranj, Slovenia",
+  "phone": "+38659082400",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 783,
+  "name": "Camper stop \u0026 Village Lipa | Ljubljana",
+  "address": "Alpska cesta 8, 4248 Lesce, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 784,
+  "name": "Prenočišča Kralj Jernej s.p.",
+  "address": "Podlubnik 191, 4220 Škofja Loka, Slovenia",
+  "phone": "+38640899919",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 785,
+  "name": "Guesthouse Leski Dvor",
+  "address": "Sebenje 42a, 4294 Križe, Slovenia",
+  "phone": "+38631665822",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 786,
+  "name": "1 A Adventure Hostel",
+  "address": "Štefanja Gora 34, 4207 Štefanja Gora, Slovenia",
+  "phone": "+38642521631",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 787,
+  "name": "Vila Podvin, Slovenija",
+  "address": "Ambrož pod Krvavcem 7, 4207 Cerklje na Gorenjskem, Slovenia",
+  "phone": "+38642522244",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 788,
+  "name": "Pension - Hotel Lectar",
+  "address": "Kranjska cesta 2, 4240 Radovljica, Slovenia",
+  "phone": "+38645315585",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 789,
+  "name": "Penzion Kovac",
+  "address": "Šmarjetna Gora 6, 4000 Kranj, Slovenia",
+  "phone": "+38642700000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 790,
+  "name": "B\u0026B Cirman",
+  "address": "Grad 27, 4207 Cerklje na Gorenjskem, Slovenia",
+  "phone": "+38642521492",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 791,
+  "name": "Hotel \u0026 Restaurant Krek",
+  "address": "Sebenje 52, 4294 Sebenje, Slovenia",
+  "phone": "+38641856237",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 792,
+  "name": "Gostilna Lectar",
+  "address": "Linhartov trg 17, 4240 Radovljica, Slovenia",
+  "phone": "+38683843470",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 793,
+  "name": "Florjančkov Hram",
+  "address": "Planinska pot 12, 4294 Križe, Slovenia",
+  "phone": "+38641637408",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 794,
+  "name": "Sport Hotel Manca",
+  "address": "Žontarjeva ulica 1, 1215 Medvode, Slovenia",
+  "phone": "+38613616329",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 795,
+  "name": "Slovenian Traditional Guest House",
+  "address": "Črnavska pot 5, 4205 Preddvor, Slovenia",
+  "phone": "+38642551356",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 796,
+  "name": "Restavracija in hotel Morea",
+  "address": "Ulica Franca Barleta 22, 4207 Cerklje na Gorenjskem, Slovenia",
+  "phone": "+38641839627",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 797,
+  "name": "Restavracija in prenočiščaTulipan",
+  "address": "Medno 54, 1210 Ljubljana - Šentvid, Slovenia",
+  "phone": "+38613626100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 798,
+  "name": "Sobe Krona",
+  "address": "Dobro Polje 11, 4243 Brezje, Slovenia",
+  "phone": "+38631336525",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 799,
+  "name": "Apartments \u0026 Rooms Vidmar",
+  "address": "Puštal 138, 4220 Škofja Loka, Slovenia",
+  "phone": "+38631777700",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 800,
+  "name": "Gostilna-restavracija Avsenik",
+  "address": "Spodnja Luša 16, 4227 Spodnja Luša, Slovenia",
+  "phone": "+38645141499",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 801,
+  "name": "Park Žibert (Drive-in)",
+  "address": "Zgornji Brnik 114a, 4207 Cerklje na Gorenjskem, Slovenia",
+  "phone": "+38631382059",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 802,
+  "name": "Life Hostel Slovenia",
+  "address": "11 Pšenična Polica SI 4207, Pšenična Polica, 4207 Cerklje na Gorenjskem, Slovenia",
+  "phone": "1142074207",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 803,
+  "name": "Vrtnarjeva hiša, The Gardener's Cottage",
+  "address": "Vopovlje 10, 4207 Cerklje na Gorenjskem, Slovenia",
+  "phone": "+38642521333",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 804,
+  "name": "Burger Bar | Bed \u0026 Breakfast REZIDENCA PIPANOVA",
+  "address": "Stara Loka 45, 4220 Škofja Loka, Slovenia",
+  "phone": "+38640503830",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 805,
+  "name": "Austria Trend Hotel Ljubljana",
+  "address": "Adergas 27, 4207 Cerklje na Gorenjskem, Slovenia",
+  "phone": "+38642927260",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 806,
+  "name": "Ljubljana Resort Hotel \u0026 Camp",
+  "address": "Vopovlje 29, 4207 Cerklje na Gorenjskem, Slovenia",
+  "phone": "+38640216260",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 807,
+  "name": "Kunstelj 1873, Gostilna in prenočišča, d.o.o.",
+  "address": "Vincarje 47, 4220 Škofja Loka, Slovenia",
+  "phone": "+38645150540",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 808,
+  "name": "Penzion Pri Slovenc",
+  "address": "Zminec 137, 4220 Škofja Loka, Slovenia",
+  "phone": "+38682016627",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 809,
+  "name": "B\u0026B Vidmar",
+  "address": "Hotemaže 3a, 4205 Preddvor, Slovenia",
+  "phone": "+38642531267",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 810,
+  "name": "Pension Török",
+  "address": "Posavec 85, 4244 Podnart, Slovenia",
+  "phone": "+38645320320",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 811,
+  "name": "Hotel Nox Ljubljana",
+  "address": "Dolenja vas 1a, 4227 Selca, Slovenia",
+  "phone": "+38645005000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 812,
+  "name": "Vila Eva Lesce - Bled",
+  "address": "Smlednik 5, 1216 Smlednik, Slovenia",
+  "phone": "+38641625943",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 813,
+  "name": "Bistro LaGoja, MERI, gostinske storitve d.o.o.",
+  "address": "Dvorje 3, 4207 Cerklje na Gorenjskem, Slovenia",
+  "phone": "+38642601599",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 814,
+  "name": "Apartments Boltez",
+  "address": "Zbilje 30, 1215 Medvode, Slovenia",
+  "phone": "+38613618001",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 815,
+  "name": "Apartments Boldin",
+  "address": "Zgornja Bela 20a, 4205 Preddvor, Slovenia",
+  "phone": "+38642555600",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 816,
+  "name": "Penzion Kmecki Hram",
+  "address": "Glavna cesta 43, 4202 Naklo, Slovenia",
+  "phone": "+38642575900",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 817,
+  "name": "Kavarna Cukr",
+  "address": "Adergas 27, 4207 Cerklje na Gorenjskem, Slovenia",
+  "phone": "+38642927260",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 818,
+  "name": "Guesthouse Leški Dvor",
+  "address": "Zgornja Bela 20a, 4205 Preddvor, Slovenia",
+  "phone": "+38642555600",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 819,
+  "name": "Dragons Dream Hostel",
+  "address": "Studenec 27, 4220 Škofja Loka, Slovenia",
+  "phone": "+38631275301",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 820,
+  "name": "Gostišče Draga",
+  "address": "Žerjavka 12, 4000 Kranj, Slovenia",
+  "phone": "+38641628068",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 821,
+  "name": "MS Sparrow Hostel",
+  "address": "Vogljanska cesta 2, 4208 Šenčur, Slovenia",
+  "phone": "+38641765865",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 822,
+  "name": "Dvor Jezersek Brnik",
+  "address": "Meja 7, 4211 Mavčiče, Slovenia",
+  "phone": "+38640899919",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 823,
+  "name": "Picerija in gostilna Dežman",
+  "address": "Delavska cesta 18, 4208 Šenčur, Slovenia",
+  "phone": "+38651615592",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 824,
+  "name": "Aparthouse Ani",
+  "address": "Nedeljska vas 12, 4000 Kranj, Slovenia",
+  "phone": "+38641946531",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 825,
+  "name": "Hotel Silvester Wellness \u0026 Restaurant",
+  "address": "Delavska cesta 18, 4208 Šenčur, Slovenia",
+  "phone": "+38642515200",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 826,
+  "name": "Guest House Eden Garden",
+  "address": "Breg ob Savi 38, 4211 Mavčiče, Slovenia",
+  "phone": "+38642010130",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 827,
+  "name": "Restavracija STARA PRAVDA",
+  "address": "Koroška cesta 5, 4000 Kranj, Slovenia",
+  "phone": "+38642817509",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 828,
+  "name": "Gostilna Pr.Matičku",
+  "address": "Zasavska cesta 13, 4000 Kranj, Slovenia",
+  "phone": "+38642355885",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 829,
+  "name": "Das Ist Valter Kranj",
+  "address": "Cesta na Rupo 16, 4000 Kranj, Slovenia",
+  "phone": "+38642361111",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 830,
+  "name": "Gostilna \"Kot\", Klinar Štefan s.p.",
+  "address": "Maistrov trg 4, 4000 Kranj, Slovenia",
+  "phone": "+38642026105",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 831,
+  "name": "El restaurante Mexico",
+  "address": "Stritarjeva ulica 5, 4000 Kranj, Slovenia",
+  "phone": "+38659033388",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 832,
+  "name": "Restavracija Grill Center Marija",
+  "address": "Jezerska cesta 41, 4000 Kranj, Slovenia",
+  "phone": "+38642343360",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 833,
+  "name": "Restaurant Creina",
+  "address": "Stara cesta 25a, 4000 Kranj, Slovenia",
+  "phone": "+38664225736",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 834,
+  "name": "Gostilna Rekar",
+  "address": "Delavska cesta 37, 4000 Kranj, Slovenia",
+  "phone": "+38640534971",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 835,
+  "name": "Gostilna Brunarica Štern",
+  "address": "Cesta 1. maja 1a, 4000 Kranj, Slovenia",
+  "phone": "+38659065181",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 836,
+  "name": "Bazen Bar \u0026 BBQ",
+  "address": "Partizanska cesta 17, 4000 Kranj, Slovenia",
+  "phone": "+38664298138",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 837,
+  "name": "Restavracija in kavarna Brioni",
+  "address": "Cesta Jaka Platiše 5, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 838,
+  "name": "Bistro-Sonet",
+  "address": "Delavska cesta 28, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 839,
+  "name": "Restavracija la Nina, Miroslav Došenović s.p.",
+  "address": "Tekstilna ulica 7, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 840,
+  "name": "Pizzerija in špageterija Buf",
+  "address": "Britof 112, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 841,
+  "name": "Ribarnica in restavracija Delfin",
+  "address": "Bleiweisova cesta 45, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 842,
+  "name": "Mlečna restavracija",
+  "address": "Seljakovo naselje 19, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 843,
+  "name": "Stara hiša, gostinstvo, Nina Lazarova Markova s.p.",
+  "address": "Ulica Juleta Gabrovška 21, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 844,
+  "name": "Gostilna Lakner",
+  "address": "Delavska cesta 43, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 845,
+  "name": "Projekt Burger",
+  "address": "Kidričeva cesta 2, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 846,
+  "name": "Lokal dama, gostinstvo, Milena Zupanc s.p.",
+  "address": "Škofjeloška cesta 20, 4000 Kranj, Slovenia",
+  "phone": "+38651424980",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 847,
+  "name": "Lokal dama, gostinstvo, Milena Zupanc s.p.",
+  "address": "Cesta Staneta Žagarja 67, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 848,
+  "name": "Restavracija AS",
+  "address": "Ulica Lojzeta Hrovata 5, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 849,
+  "name": "Kralj Nudeljcev",
+  "address": "Smledniška cesta 43b, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 850,
+  "name": "Lacus gostinstvo d.o.o.",
+  "address": "Cesta Staneta Žagarja 37, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 851,
+  "name": "Gostilna Stari Mayr",
+  "address": "Partizanska cesta 37, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 852,
+  "name": "Riževa skleda",
+  "address": "Kurirska pot 6a, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 853,
+  "name": "Picerija in gostilna Dežman",
+  "address": "Šuceva ulica 27, 4000 Kranj, Slovenia",
+  "phone": "+38640423499",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 854,
+  "name": "Pizzerija Gorenc",
+  "address": "Delavska cesta 1, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 855,
+  "name": "Okrepčevalnica Matevž Goše Anastasov s.p.",
+  "address": "Gasilska ulica 3, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 856,
+  "name": "Pr' Gaunar",
+  "address": "Ulica Angelce Hlebce 1 C, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 857,
+  "name": "Gostinstvo, Matej Rupnik s.p.",
+  "address": "Britof 269, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 858,
+  "name": "Restavracija Johnny Makaroni",
+  "address": "Cesta 1. maja 3, 4000 Kranj, Slovenia",
+  "phone": "+38640877017",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 859,
+  "name": "Kranjska gostilnica",
+  "address": "Stošičeva ulica 2, 4000 Kranj, Slovenia",
+  "phone": "+38642021094",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 860,
+  "name": "Gostilna Matjaž",
+  "address": "Koroška cesta 10, 4000 Kranj, Slovenia",
+  "phone": "+38642010751",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 861,
+  "name": "Soklic",
+  "address": "Cesta Jaka Platiše 18, 4000 Kranj, Slovenia",
+  "phone": "+38670882344",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 862,
+  "name": "GOSTILNA BENEDIK Mihelič Boštjan s.p.",
+  "address": "Cesta na Rupo 33, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 863,
+  "name": "Kitajska Restavracija Azija",
+  "address": "Koroška cesta 20, 4000 Kranj, Slovenia",
+  "phone": "+38640524324",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 864,
+  "name": "Grill Zec",
+  "address": "Cesta Staneta Žagarja 34, 4000 Kranj, Slovenia",
+  "phone": "+38642331209",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 865,
+  "name": "Okrepčevalnica Kranchi,",
+  "address": "Trboje 39b, 4000 Kranj, Slovenia",
+  "phone": "+38642591385",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 866,
+  "name": "Gostilna Gitadela",
+  "address": "Cesta Jaka Platiše, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 867,
+  "name": "KluBar",
+  "address": "Hotemaže 40, 4205 Preddvor, Slovenia",
+  "phone": "+38630335300",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 868,
+  "name": "Picerija Toscana",
+  "address": "Zoisova ulica 1, 4000 Kranj, Slovenia",
+  "phone": "+38659987970",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 869,
+  "name": "OKREPČEVALNICA IN PICERIJA GIOVANI PETER ARH S.P., PE",
+  "address": "Grintovška ulica 45, 4000 Kranj, Slovenia",
+  "phone": "+38641746160",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 870,
+  "name": "Hotel asul",
+  "address": "Škofjeloška cesta 1a, 4000 Kranj, Slovenia",
+  "phone": "+38640890600",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 871,
+  "name": "Zlati vrt, Kitajska Restavracija",
+  "address": "Sloga 27, Šuceva ulica, 4000 Kranj, Slovenia",
+  "phone": "+38659939511",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 872,
+  "name": "Picerija Silvester Silvo Udovič s.p.",
+  "address": "Drulovka 40, 4000 Kranj, Slovenia",
+  "phone": "+38642332120",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 873,
+  "name": "BIFE - Sočna plat solat",
+  "address": "Ljubljanska cesta 22, 4000 Kranj, Slovenia",
+  "phone": "+38651317723",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 874,
+  "name": "McDonald's",
+  "address": "Savska Loka 1, 4000 Kranj, Slovenia",
+  "phone": "+38642375546",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 875,
+  "name": "Okrepčevalnica Fast Food Pinki Kranj Sašo Krpič s.p.",
+  "address": "Savski otok, Supernova center, Stara cesta 25b, 4000 Kranj, Slovenia",
+  "phone": "+38664122393",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 876,
+  "name": "Okrepčevalnica in picerija Giovanni",
+  "address": "Britof 24, 4000 Kranj, Slovenia",
+  "phone": "+38642042374",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 877,
+  "name": "ROYAL FAST FOOD",
+  "address": "Cesta Staneta Žagarja 14, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 878,
+  "name": "Minutka, gostinstvo, Angela Nikolovska s.p.",
+  "address": "Le-tehnika, Šuceva ulica 27, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 879,
+  "name": "Hitri kruhek Stražišče",
+  "address": "Gregorčičeva ulica 6, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 880,
+  "name": "Pad Thai",
+  "address": "Kolodvorska cesta 6, 4000 Kranj, Slovenia",
+  "phone": "+38642368855",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 881,
+  "name": "Doner Kebab",
+  "address": "Škofjeloška cesta 1b, 4000 Kranj, Slovenia",
+  "phone": "+38631400631",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 882,
+  "name": "ABON Street food Kranj",
+  "address": "Gregorčičeva ulica 6, 4000 Kranj, Slovenia",
+  "phone": "+38631790302",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 883,
+  "name": "NEBOTIČNIK KEBAB d.o.o.",
+  "address": "Cesta Jaka Platiše 18, 4000 Kranj, Slovenia",
+  "phone": "+38631253603",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 884,
+  "name": "Okrepčevalnica Doner Kebab, Jusuf Kerimi s.p.",
+  "address": "Sveti Jošt nad Kranjem 2, 4000 Kranj, Slovenia",
+  "phone": "+38642012128",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 885,
+  "name": "Picanto gostinstvo in turizem d.o.o.",
+  "address": "Gregorčičeva ulica 4, 4000 Kranj, Slovenia",
+  "phone": "+38630410230",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 886,
+  "name": "Beer Pub",
+  "address": "Cesta Jaka Platiše 18, 4000 Kranj, Slovenia",
+  "phone": "+38631253603",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 887,
+  "name": "NEBOTIČNIK ADI d.o.o.",
+  "address": "Tominčeva cesta 2, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 888,
+  "name": "Sodexho prehrana in storitve d.o.o. Ljubljana",
+  "address": "Koroška cesta 51a, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 889,
+  "name": "Dom na Joštu",
+  "address": "Kidričeva cesta 35a, 4000 Kranj, Slovenia",
+  "phone": "+38641884825",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 890,
+  "name": "Irish Pub Kranj",
+  "address": "Bleiweisova cesta 5, 4000 Kranj, Slovenia",
+  "phone": "+38670640309",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 891,
+  "name": "Carnium Cafe \u0026 Club Kranj",
+  "address": "Cesta Boštjana Hladnika 7, 4000 Kranj, Slovenia",
+  "phone": "+38659689722",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 892,
+  "name": "Mavia, trgovina in storitve d.d.",
+  "address": "Cesta Staneta Žagarja 73, 4000 Kranj, Slovenia",
+  "phone": "+38642043204",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 893,
+  "name": "Šport bar pri Johanci, Bernarda Strouken s.p.",
+  "address": "Koroška cesta 6, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 894,
+  "name": "Bar Prestige - Labore",
+  "address": "Sloga, Šuceva ulica 27, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 895,
+  "name": "Karantanija, podjetje za gostinstvo in trgovino, d.o.o., Kranj",
+  "address": "Britof 79a, 4000 Kranj, Slovenia",
+  "phone": "+38659984636",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 896,
+  "name": "Piap, gostinstvo Barbara Vider s.p.",
+  "address": "Cesta talcev 41, 4000 Kranj, Slovenia",
+  "phone": "+38642331188",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 897,
+  "name": "Rondo bar Kranj",
+  "address": "Kidričeva cesta 35, 4000 Kranj, Slovenia",
+  "phone": "+38631224962",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 898,
+  "name": "Biro Caffe",
+  "address": "Cesta Staneta Žagarja 71, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 899,
+  "name": "Lokal Pr' Sodiš",
+  "address": "Koroška cesta 2, 4000 Kranj, Slovenia",
+  "phone": "+38670601169",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 900,
+  "name": "Luxury Bar Cineplexx Kranj",
+  "address": "Pševska cesta 43, 4000 Kranj, Slovenia",
+  "phone": "+38642311836",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 901,
+  "name": "Trgovina in gostilna parizar, Elizabeta Kuralt s.p.",
+  "address": "Gosposvetska ulica 1, 4000 Kranj, Slovenia",
+  "phone": "+38642027261",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 902,
+  "name": "Kruhkerija Gorjanc",
+  "address": "Kidričeva cesta 12, 4000 Kranj, Slovenia",
+  "phone": "+38647773232",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 903,
+  "name": "Kranjska pivovarna, pivnica - Kranjsko pivo..., vsb d.o.o.",
+  "address": "Benedikova ulica 21, 4000 Kranj, Slovenia",
+  "phone": "+38642311170",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 904,
+  "name": "Shar-Ko, gostinstvo d.o.o.",
+  "address": "Slovenski trg 7, 4000 Kranj, Slovenia",
+  "phone": "+38640345015",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 905,
+  "name": "Restavracija Tuš Kranj",
+  "address": "Medetova ulica 13, 4000 Kranj, Slovenia",
+  "phone": "+38641933217",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 906,
+  "name": "Street Food Top Stop",
+  "address": "Planina 3, 4000 Kranj, Slovenia",
+  "phone": "+38642323184",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 907,
+  "name": "Marmite d.o.o. gostinsko trgovska družba Kranj",
+  "address": "Prešernova ulica 16, 4000 Kranj, Slovenia",
+  "phone": "+38642025690",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 908,
+  "name": "Okrepčevalnica Busna",
+  "address": "Savska cesta 34, 4000 Kranj, Slovenia",
+  "phone": "+38642025334",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 909,
+  "name": "Felideta, administrativne in druge storitve, Tanja Ristič s.p.",
+  "address": "Gorenjesavska cesta 17, 4000 Kranj, Slovenia",
+  "phone": "+38659026444",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 910,
+  "name": "Računalniške storitve Tjaša Stojić s.p.",
+  "address": "Golniška cesta 1a, 4000 Kranj, Slovenia",
+  "phone": "+38642049070",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 911,
+  "name": "Pisarniške storitve, Nina Samotorčan s.p.",
+  "address": "Glavni trg 6, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 912,
+  "name": "Grmač, gostinstvo in trgovina, d.o.o.",
+  "address": "Koroška cesta 59, 4000 Kranj, Slovenia",
+  "phone": "+38642361300",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 913,
+  "name": "Gostinske storitve, Rok Veznaver s.p.",
+  "address": "Glavni trg 16, 4000 Kranj, Slovenia",
+  "phone": "+38642800020",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 914,
+  "name": "Mesokalan, podjetje za proizvodnjo, trgovino, gostinstvo, uvoz in izvoz, d.o.o., Kranj",
+  "address": "Poštna ulica, 4000 Kranj, Slovenia",
+  "phone": "+38641773076",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 915,
+  "name": "Računalniške storitve, Miha Hrast s.p.",
+  "address": "Gorenjesavska cesta 17, 4000 Kranj, Slovenia",
+  "phone": "+38640887433",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 916,
+  "name": "Dom3, poslovne storitve, d.o.o., poslovna enota Kranj",
+  "address": "Grmičeva ulica 1, 4000 Kranj, Slovenia",
+  "phone": "+38642353030",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 917,
+  "name": "Buan, gostinstvo in storitve, d.o.o.",
+  "address": "Šuceva ulica 23, 4000 Kranj, Slovenia",
+  "phone": "+38682007347",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 918,
+  "name": "Frela gostinstvo in storitve d.o.o.",
+  "address": "Ulica Nikole Tesle 1, 4000 Kranj, Slovenia",
+  "phone": "+38659235345",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 919,
+  "name": "Lun 5, gostinstvo in storitve, d.o.o.",
+  "address": "Ulica Nikole Tesle 1, 4000 Kranj, Slovenia",
+  "phone": "+38659235345",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 920,
+  "name": "Gostinstvo in storitve, Primož Arhar s.p.",
+  "address": "Jelenčeva ulica 1, 4000 Kranj, Slovenia",
+  "phone": "+38641364580",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 921,
+  "name": "Admis, administrativne in poslovne storitve, Saša Popović s.p.",
+  "address": "Kolodvorska cesta 6, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 922,
+  "name": "Gostinske storitve, Arnel Halilović s.p.",
+  "address": "Maistrov trg 13, 4000 Kranj, Slovenia",
+  "phone": "+38642366179",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 923,
+  "name": "DiDo PIZZA, Gostinske storitve, Marina Frančeškin s.p.",
+  "address": "Cesta na Brdo 33, 4000 Kranj, Slovenia",
+  "phone": "+38631219673",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 924,
+  "name": "Oblikovalske storitve, Maruša Jenko s.p.",
+  "address": "Savska cesta 38, 4000 Kranj, Slovenia",
+  "phone": "+38641818328",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 925,
+  "name": "Kamin bar, catering services, Romana Novak s.p.",
+  "address": "Tavčarjeva ulica 1, 4000 Kranj, Slovenia",
+  "phone": "+38642022909",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 926,
+  "name": "Supernova Kranj",
+  "address": "Cesta 1. maja 77, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 927,
+  "name": "STOP SHOP Kranj",
+  "address": "CENTER IBI - Industrijska cona Primskovo, Jelenčeva ulica 1, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 928,
+  "name": "QLANDIA",
+  "address": "Glavni trg 15, 4000 Kranj, Slovenia",
+  "phone": "+38664262444",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 929,
+  "name": "Supernova Mercator Primskovo",
+  "address": "4000, Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 930,
+  "name": "L'Occitane en Provence-Kranj",
+  "address": "Cesta 1. maja 77, 4000 Kranj, Slovenia",
+  "phone": "+38642020680",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 931,
+  "name": "Mercator - Kranj Savski otok",
+  "address": "Cesta Staneta Žagarja 71, 4000 Kranj, Slovenia",
+  "phone": "+38682008613",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 932,
+  "name": "Deichmann, prodaja obutve, d.o.o.",
+  "address": "Stara cesta 25c, 4000 Kranj, Slovenia",
+  "phone": "+38642018900",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 933,
+  "name": "Les 3 plus prodajno svetovalni salon d.o.o.",
+  "address": "Cesta 1. maja 77, 4000 Kranj, Slovenia",
+  "phone": "+38682008000",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 934,
+  "name": "Kranjski Parnik Vape \u0026 Gift Shop",
+  "address": "Cesta Staneta Žagarja 69, 4000 Kranj, Slovenia",
+  "phone": "+38642019926",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 935,
+  "name": "Baby Center Kranj Stop shop",
+  "address": "Cesta Staneta Žagarja 71, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 936,
+  "name": "Mesni center AVE",
+  "address": "Grenc 56, 4220 Škofja Loka, Slovenia",
+  "phone": "+38642020688",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 937,
+  "name": "Tuš supermarket Planet Kranj",
+  "address": "Cesta 1. maja 77, 4000 Kranj, Slovenia",
+  "phone": "+38642359515",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 938,
+  "name": "Blukids",
+  "address": "Cesta 1. maja 77, 4000 Kranj, Slovenia",
+  "phone": "+38670547207",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 939,
+  "name": "Mercator d. d.",
+  "address": "Cesta na Brdo 5, 4000 Kranj, Slovenia",
+  "phone": "+38642551528",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 940,
+  "name": "Cropp",
+  "address": "Cesta Staneta Zagarja 69, Mercator Center Primskovo, 4000 Kranj, Slovenia",
+  "phone": "+38642365660",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 941,
+  "name": "Baby Center",
+  "address": "Mercator center, 4000, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 942,
+  "name": "Poslovni sistem Mercator d.d.",
+  "address": "Cesta Jaka Platiše 2, 4000 Kranj, Slovenia",
+  "phone": "+38682057960",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 943,
+  "name": "STOP SHOP Škofja Loka",
+  "address": "Likozarjeva ulica 16, 4000 Kranj, Slovenia",
+  "phone": "+38651285560",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 944,
+  "name": "kitajski center kranj",
+  "address": "Cesta Ste Marie aux Mines 17, 4290 Tržič, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 945,
+  "name": "Mercator",
+  "address": "Cesta Jaka Platiše 18, 4000 Kranj, Slovenia",
+  "phone": "+38670882093",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 946,
+  "name": "Turistična agencija Movis d.o.o.",
+  "address": "Glavni trg 4, 4000 Kranj, Slovenia",
+  "phone": "+38642013980",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 947,
+  "name": "Brdo Castle",
+  "address": "Prešernova ulica 7, 4000 Kranj, Slovenia",
+  "phone": "+38642013983",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 948,
+  "name": "Kranj tunnels",
+  "address": "Tomšičeva ulica 42, 4000 Kranj, Slovenia",
+  "phone": "+38642013950",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 949,
+  "name": "Gorenjska Museum",
+  "address": "Grad Brdo, Predoslje 38, 4000 Kranj, Slovenia",
+  "phone": "+38642601501",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 950,
+  "name": "Plecnik staircase and arcades",
+  "address": "Cankarjeva ulica 14, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 951,
+  "name": "Park Brdo",
+  "address": "Glavni trg 22, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 952,
+  "name": "Kanjon reke Kokre",
+  "address": "Ljubljanska cesta 2, 4000 Kranj, Slovenia",
+  "phone": "+38642380455",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 953,
+  "name": "Town Hall",
+  "address": "Turistično društvo Gorje, Podhom 80, 4247 Zgornje Gorje, Slovenia",
+  "phone": "+38651621511",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 954,
+  "name": "Preseren house",
+  "address": "Predoslje 39, 4000 Kranj, Slovenia",
+  "phone": "+38642601200",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 955,
+  "name": "Waterfall Šum",
+  "address": "Cesta svobode 7, 4260 Bled, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 956,
+  "name": "Waterfall Pericnik",
+  "address": "Britof 159, 4000 Kranj, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 957,
+  "name": "Layer House - The House of Art",
+  "address": "Dolničarjeva ulica 1, 1000 Ljubljana, Slovenia",
+  "phone": "+38612342690",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 958,
+  "name": "Sveti Jošt nad Kranjem",
+  "address": "Volčji Potok 3a, 1235 Radomlje, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 959,
+  "name": "Triglav National Park",
+  "address": "Jakopičevo sprehajališče, 1000 Ljubljana, Slovenia",
+  "phone": "+38614315060",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 960,
+  "name": "Letno gledališče Khislstein",
+  "address": "Ukanc 149, 4265 Bohinjsko jezero, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 961,
+  "name": "Straza hill above Lake Bled",
+  "address": "Kolodvorska cesta 40, 4260 Bled, Slovenia",
+  "phone": "+359887604811",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 962,
+  "name": "Velika Zaka",
+  "address": "Kidričeva cesta 10a, 4260 Bled, Slovenia",
+  "phone": "",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 963,
+  "name": "Sveti Jošt nad Kranjem",
+  "address": "Jamska cesta 30, 6230 Postojna, Slovenia",
+  "phone": "+38657000100",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 964,
+  "name": "Ladja Lucija",
+  "address": "Tomšičeva ulica 44, 4000 Kranj, Slovenia",
+  "phone": "+38642380450",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 965,
+  "name": "seven lakes valley",
+  "address": "Grajska cesta 61, 4260 Bled, Slovenia",
+  "phone": "+38645729782",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 966,
+  "name": "Assumption of Maria Church",
+  "address": "Tomšičeva ulica 32, 4000 Kranj, Slovenia",
+  "phone": "+38640859421",
+  "country-code": "SI",
+  "country": "Slovenia"
+ },
+ {
+  "id": 967,
+  "name": "Zdraviliški park",
+  "address": "Rebr 25a, 4273 Blejska Dobrava, Slovenia",
+  "phone": "+38651621511",
+  "country-code": "SI",
+  "country": "Slovenia"
+ }
+]

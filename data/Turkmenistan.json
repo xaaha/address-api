@@ -1,0 +1,2746 @@
+[
+ {
+  "id": 1,
+  "name": "Yyldyz Hotel",
+  "address": "V9XC+2GJ, Ataturk St, Ashgabat, Turkmenistan",
+  "phone": "+99312379888",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 2,
+  "name": "Grand Turkmen Hotel",
+  "address": "Magtymguly şaýoly 74, Aşgabat 744000, Turkmenistan",
+  "phone": "74744000",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 3,
+  "name": "Hotel \"Ashgabat\"",
+  "address": "W8HV+GWP, Ashgabat, Turkmenistan",
+  "phone": "+99312952861",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 4,
+  "name": "Divan Hotel",
+  "address": "Bitaraplyk şaýoly 548, Aşgabat 744000, Turkmenistan",
+  "phone": "548744000",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 5,
+  "name": "Archabil hotel",
+  "address": "W9RH+34C, Ashgabat, Turkmenistan",
+  "phone": "+99312920555",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 6,
+  "name": "Oguzkent Hotel",
+  "address": "W9HC+MRH, Ashgabat, Turkmenistan",
+  "phone": "+99312449500",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 7,
+  "name": "Ak Altyn Hotel",
+  "address": "Galkynysh St 70, Ashgabat, Turkmenistan",
+  "phone": "+99312221025",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 8,
+  "name": "Sport Hotel",
+  "address": "Arçabil şaýoly 54, Aşgabat, Turkmenistan",
+  "phone": "+99312400000",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 9,
+  "name": "Lachin Hotel",
+  "address": "Magtymguly Ave 141/1, Ashgabat, Turkmenistan",
+  "phone": "+99312363700",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 10,
+  "name": "Paytagt Hotel",
+  "address": "2002/5 (Bagtyyarlyk), 17, Aşgabat, Turkmenistan",
+  "phone": "+99312390900",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 11,
+  "name": "Olimpiya myhmanhanasy",
+  "address": "V9M6+JW4, Arçabil şaýoly, Aşgabat, Turkmenistan",
+  "phone": "+99312480180",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 12,
+  "name": "Gypjak hotel",
+  "address": "W9VG+6CW, улица Алишера Навои, Ashgabat, Turkmenistan",
+  "phone": "+99312931344",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 13,
+  "name": "Aziya Hotel",
+  "address": "просп. Великого Сапармурата Туркменбаши 17, Ashgabat, Turkmenistan",
+  "phone": "+99312462918",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 14,
+  "name": "Dayhan Hotel",
+  "address": "27H7+23R, Ashgabat, Turkmenistan",
+  "phone": "+99312257383",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 15,
+  "name": "Hezzet Restaurant",
+  "address": "W94P+WW5, Ashgabat, Turkmenistan",
+  "phone": "+99312457371",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 16,
+  "name": "ERZURUM RESTAURANT",
+  "address": "WCH3+M3M, Görogly köçesi, Aşgabat, Turkmenistan",
+  "phone": "+99312275371",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 17,
+  "name": "Ресторан \"SOLTAN\"",
+  "address": "Aşgabat ş. Oguzhan köç. 1-nji geç. 7-nji jaýy., Oguzhan Köçesi 5/7, Aşgabat 744000, Turkmenistan",
+  "phone": "1757744000",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 18,
+  "name": "Argentina Grill",
+  "address": "Sim Sim, ул. Нурмухамета Андалиба 50/1, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 19,
+  "name": "Sim-Sim",
+  "address": "Ул.Г.Кулиева 2127 Дом 34 здания Гурат Гурлущык, Ashgabat, Turkmenistan",
+  "phone": "+99312754707",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 20,
+  "name": "Mandarin Restaurant",
+  "address": "W9Q4+VVC, Mollanepes St, Ashgabat, Turkmenistan",
+  "phone": "+99365725332",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 21,
+  "name": "Altyn Ada",
+  "address": "V9V9+JXP Berkarar Söwda Merkezi, Ashgabat, Turkmenistan",
+  "phone": "+99365308888",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 22,
+  "name": "Beef restaurant",
+  "address": "Rd of 9th Km, Ashgabat, Turkmenistan",
+  "phone": "+99312951951",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 23,
+  "name": "Artur's Armenian Cuisine",
+  "address": "X9GV+7VP, Ashgabat, Turkmenistan",
+  "phone": "+99363445557",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 24,
+  "name": "Euphoria",
+  "address": "V9VQ+PWV, Ashgabat, Turkmenistan",
+  "phone": "+99312477505",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 25,
+  "name": "Chatma Restaurant \u0026 Lounge",
+  "address": "WC84+78F, Ashgabat, Turkmenistan",
+  "phone": "+99312429097",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 26,
+  "name": "SALAM RESTAURANT",
+  "address": "Ашхабад Мир 1 дом 48 Ашхабад, 744017, Turkmenistan",
+  "phone": "148744017",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 27,
+  "name": "Altyn Jam",
+  "address": "V9RM+V6M, Asgabat,Ашхабад, Aşgabat, Turkmenistan",
+  "phone": "+99312478086",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 28,
+  "name": "Kebapçy",
+  "address": "W8RQ+RW4 «Aşgabat» söwda we dynç alyş merkezi, Рядом с этим местом:, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 29,
+  "name": "Jana Restaurant",
+  "address": "W98G+JC5, Gurbannazar Ezizow St, Ashgabat, Turkmenistan",
+  "phone": "+99361421914",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 30,
+  "name": "Etaž Restaurant",
+  "address": "W9XF+P7F, Ashgabat, Turkmenistan",
+  "phone": "+99363198008",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 31,
+  "name": "Dürli Döner",
+  "address": "W8GR+PH3, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 32,
+  "name": "Obam Restaurant",
+  "address": "X8QG+PWC, Ashgabat, Turkmenistan",
+  "phone": "+99364413180",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 33,
+  "name": "Okean Restaurant",
+  "address": "Ankara St 12, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 34,
+  "name": "Restaurant \"Jeýhun\"",
+  "address": "ул. 1934 Бомака 45, Ashgabat, Turkmenistan",
+  "phone": "+99361607004",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 35,
+  "name": "Berk Garden Pub",
+  "address": "X86G+2CP, Ashgabat, Turkmenistan",
+  "phone": "+99312415389",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 36,
+  "name": "Ресторан \"Ашхабад\"",
+  "address": "X86G+2CP, Medeniyet street, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 37,
+  "name": "KOPETDAG PROJECT",
+  "address": "B. Karryyeva Street 74, Ashgabat, Turkmenistan",
+  "phone": "+99361109933",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 38,
+  "name": "Saher Salamy Fast Food",
+  "address": "V9V9+FM5, Ataturk St, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 39,
+  "name": "Çeşme Restoran",
+  "address": "MIR Bazaar, 40, Yunus Emre St, Ashgabat, Turkmenistan",
+  "phone": "+99365604806",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 40,
+  "name": "Burger Zone",
+  "address": "X94J+7QC, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 41,
+  "name": "Restaurant \"Hazyna\"",
+  "address": "Kovce yol ugrunda, gami glavni, Turkmenistan",
+  "phone": "+99361308809",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 42,
+  "name": "Ak öýli",
+  "address": "Magtymguly Ave 30 mkr, Ashgabat, Turkmenistan",
+  "phone": "+99362236923",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 43,
+  "name": "Рест-клуб \"Галерея\"",
+  "address": "Görogly köçesi 8, Aşgabat, Turkmenistan",
+  "phone": "+99312393351",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 44,
+  "name": "Ešretli Restoran",
+  "address": "WC54+Q24, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 45,
+  "name": "ELEVEN Cafe | Restaurant | Bar",
+  "address": "WC27+QCQ, Unnamed Road, Ashgabat, Turkmenistan",
+  "phone": "+99361070076",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 46,
+  "name": "Sverny saslik",
+  "address": "V9XQ+6HG, Unnamed Road, Ashgabat, Turkmenistan",
+  "phone": "+99365640065",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 47,
+  "name": "Yunus Restoran / Kafe",
+  "address": "W9CC+9GX, Garashsyzlyk Ave, Ashgabat, Turkmenistan",
+  "phone": "+99360137080",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 48,
+  "name": "MB Döner",
+  "address": "Ak Altyn Hotel, Ashgabat, Turkmenistan",
+  "phone": "+99365614927",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 49,
+  "name": "Ak dag kafe",
+  "address": "ул. Гёроглы, Ashgabat, Turkmenistan",
+  "phone": "+99362633223",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 50,
+  "name": "Gurt",
+  "address": "X87H+9X8, Project St, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 51,
+  "name": "Ресторан \"Restorantino\"",
+  "address": "Taslama köçesi, Aşgabat, Turkmenistan",
+  "phone": "+99312905612",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 52,
+  "name": "Kafe \"Taze Dushushyk\"",
+  "address": "W8RQ+CW4, Ashgabat, Turkmenistan",
+  "phone": "+99365501601",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 53,
+  "name": "Desterhan",
+  "address": "Santa Barbara, Ashgabat, Turkmenistan",
+  "phone": "+99365536444",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 54,
+  "name": "CentralPark",
+  "address": "WCR3+4RR, Lineynaya St, Ashgabat, Turkmenistan",
+  "phone": "+99312766777",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 55,
+  "name": "Restaurant Orbita / Ресторан Орбита",
+  "address": "XC2H+XHX, Unnamed Road, Ashgabat, Turkmenistan",
+  "phone": "+99365504219",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 56,
+  "name": "Döner",
+  "address": "Ашхбад, ТЦ, Ashgabat 744017, Turkmenistan",
+  "phone": "+99312415389",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 57,
+  "name": "Ресторан \"Talhan\"",
+  "address": "Merdana, Galkynysh St, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 58,
+  "name": "Yashlyk",
+  "address": "Santa Barbara, Ashgabat, Turkmenistan",
+  "phone": "+99361047276",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 59,
+  "name": "Tasin Tagam Kafe",
+  "address": "W8RR+GMR, Ashgabat, Turkmenistan",
+  "phone": "+99312180020",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 60,
+  "name": "Ashgabat Cable Car Restaurant",
+  "address": "Ataturk (1992) street 80, Aşgabat, Turkmenistan",
+  "phone": "+99364082160",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 61,
+  "name": "Böwenjik \"Garaşsyzlygyň 15 Ýyllygy\" SM",
+  "address": "Дом 86, Myati Kosayew St 86, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 62,
+  "name": "Soltan Restoran",
+  "address": "Торговая, Ashgabat, Turkmenistan",
+  "phone": "+99364817944",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 63,
+  "name": "Ресторан \"Камыши\"",
+  "address": "Дом 19, ул. Гёроглы 19, Ashgabat, Turkmenistan",
+  "phone": "+99365894511",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 64,
+  "name": "Dag Lezzeti Restaurant",
+  "address": "W92Q+8PR, Ashgabat, Turkmenistan",
+  "phone": "+99312470300",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 65,
+  "name": "Ресторан \"COCO CHICKEN BY MB\"",
+  "address": "WCP2+248, Magtymguly Ave, Ashgabat, Turkmenistan",
+  "phone": "+99361961111",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 66,
+  "name": "Şaperi",
+  "address": "W8RQ+QW7, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 67,
+  "name": "Бургерная \"Melbourne Burger\"",
+  "address": "WCG6+MGM, Ashgabat, Turkmenistan",
+  "phone": "+99312275600",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 68,
+  "name": "Pomodor’o Pizza",
+  "address": "Santa Barbara, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 69,
+  "name": "Coffee Grounds",
+  "address": "Ashgabat 744000, Ata Govshudov St 50/2, Ashgabat, Turkmenistan",
+  "phone": "744000502",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 70,
+  "name": "Orbita",
+  "address": "W9X3+5PV, Ashgabat, Turkmenistan",
+  "phone": "+99312346315",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 71,
+  "name": "Ресторан \"Lemon Lounge\"",
+  "address": "ул. Огузхана, Ashgabat, Turkmenistan",
+  "phone": "+99362632332",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 72,
+  "name": "Kőz Dőner Донер",
+  "address": "R77H+XXP, Ashgabat, Turkmenistan",
+  "phone": "+99312349277",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 73,
+  "name": "NUR RESTAURANT",
+  "address": "XC33+VF2, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 74,
+  "name": "DIYAR TOY MEKANY",
+  "address": "W87V+3FC, Ashgabat, Turkmenistan",
+  "phone": "+99312957618",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 75,
+  "name": "Ресторан \"ÇAÝ\"",
+  "address": "Lev Tolstoy St 5, Ashgabat 744000, Turkmenistan",
+  "phone": "+99362948888",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 76,
+  "name": "Ресторан \"GREEN SALAD\"",
+  "address": "W9RW+Q85, Ashgabat, Turkmenistan",
+  "phone": "+99312940208",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 77,
+  "name": "Arslan kafe",
+  "address": "XC94+VG2, Ashgabat, Turkmenistan",
+  "phone": "+99365726162",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 78,
+  "name": "Ресторан \"Sa Ýyldyz\"",
+  "address": "WCMM+V35, Ashgabat, Turkmenistan",
+  "phone": "+99362306006",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 79,
+  "name": "Ресторан \"Limon\"",
+  "address": "W9RQ+7F8, Ashgabat, Turkmenistan",
+  "phone": "+99312940595",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 80,
+  "name": "Berkarar Alem Restaurant",
+  "address": "Московская 211/A, Ashgabat, Turkmenistan",
+  "phone": "+99364175959",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 81,
+  "name": "Ресторан «Солтан»",
+  "address": "WC72+CQF, Aşgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 82,
+  "name": "«Бухара» ресторан",
+  "address": "XC2C+M45, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 83,
+  "name": "Jadyly Balyk",
+  "address": "Berkarar St 82, Ashgabat, Turkmenistan",
+  "phone": "+99312468603",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 84,
+  "name": "Böwenjik \"Gülüstan\" SM",
+  "address": "B. Karryyeva Street 66, Ashgabat, Turkmenistan",
+  "phone": "+99365675885",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 85,
+  "name": "Пицца 88",
+  "address": "W97M+V5H, Proezd Dosaaf, Ashgabat, Turkmenistan",
+  "phone": "+99312227082",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 86,
+  "name": "BOOMBURGER.TM 2 OPTOWKA",
+  "address": "VCX4+9VG, Garlyyev St, Aşgabat, Turkmenistan",
+  "phone": "+99365530050",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 87,
+  "name": "Balcone cafe",
+  "address": "WC75+966, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 88,
+  "name": "Hazyna Doner",
+  "address": "Andalyb 80 B Aşgabat, 744000, Turkmenistan",
+  "phone": "80744000",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 89,
+  "name": "Florida",
+  "address": "10 ýyl Abadançylyk şaýoly 60, Aşgabat, Turkmenistan",
+  "phone": "+99312477510",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 90,
+  "name": "Kamo шашлык",
+  "address": "WCVF+VPG, Ashgabat, Turkmenistan",
+  "phone": "+99365555512",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 91,
+  "name": "Ресторан \"Ayva\"",
+  "address": "W9VR+9P9, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 92,
+  "name": "NUR PIZZA",
+  "address": "Ашгабад, Bagtyýarlyk söwdä we dynç alyş merkezi, 3nji gat Ashgabat Ashgabat, 744001, Turkmenistan",
+  "phone": "+99363367604",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 93,
+  "name": "Gämi Loft",
+  "address": "Magtymguly Ave, Ashgabat, Turkmenistan",
+  "phone": "+99365811111",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 94,
+  "name": "Garnetlounge",
+  "address": "Gorogly St 122, Ashgabat, Turkmenistan",
+  "phone": "+99361078677",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 95,
+  "name": "NUR RESTAURANT",
+  "address": "W9PQ+595, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 96,
+  "name": "BURGER ZONE BERKARAR",
+  "address": "XC68+577, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 97,
+  "name": "Пивной сад \"Berk - Garden Pub\"",
+  "address": "ул. Кулиева 89, Ashgabat, Turkmenistan",
+  "phone": "+99365694949",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 98,
+  "name": "Ruhabat söwda merkezi",
+  "address": "XC3G+5WX, Ashgabat, Turkmenistan",
+  "phone": "+99312754441",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 99,
+  "name": "TM STAR KARAOKE CLUB",
+  "address": "Türkmen Atlary, Atamyrat Niyazow Şa yoly no:166, Ashgabat 744000, Turkmenistan",
+  "phone": "166744000",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 100,
+  "name": "رستوران آق یول (راه سفید)",
+  "address": "W9XJ+732, Kemine St, Ashgabat, Turkmenistan",
+  "phone": "+99312937001",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 101,
+  "name": "Ashgabat coffee \u0026 cafe",
+  "address": "ул. Нурмухамета Андалиба 50, Ashgabat, Turkmenistan",
+  "phone": "+99365721004",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 102,
+  "name": "Komelek kafe",
+  "address": "W9W4+3JQ, Gorogly St, Ashgabat, Turkmenistan",
+  "phone": "+99361398383",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 103,
+  "name": "GÜNEŞ restobar",
+  "address": "W8HX+C9M, 2002/5 St, Ashgabat, Turkmenistan",
+  "phone": "+99364014366",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 104,
+  "name": "Ресторан \"Paytagt\"",
+  "address": "W9G8+RQQ, Ashgabat, Turkmenistan",
+  "phone": "+99312212252",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 105,
+  "name": "Ресторан \"Umyt Grill Lounge\"",
+  "address": "80, Ashgabat, Turkmenistan",
+  "phone": "+99312473032",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 106,
+  "name": "Berkarar",
+  "address": "W9Q3+XFH, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 107,
+  "name": "Ashgabat",
+  "address": "W9R2+2XQ, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 108,
+  "name": "Paýtagt Shopping Center",
+  "address": "V9R3+8QQ, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 109,
+  "name": "«Aşgabat» söwda we dynç alyş merkezi",
+  "address": "W9HX+948, Ashgabat, Turkmenistan",
+  "phone": "+99365906828",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 110,
+  "name": "VDNH shopping center",
+  "address": "W9RH+XP4 Aşgabat söwda merkezi, Azadi Street, Aşgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 111,
+  "name": "Shypaly sowda merkezi",
+  "address": "W989+R8P, Ashgabat, Turkmenistan",
+  "phone": "+99312957035",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 112,
+  "name": "«Bagtyýarlyk» söwda-dynç alyş merkezi",
+  "address": "W8RQ+RW4, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 113,
+  "name": "Ýakymly söwda merkezi",
+  "address": "2011 street, Azadi Street 72, Aşgabat, Turkmenistan",
+  "phone": "+99312920728",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 114,
+  "name": "Altyn zaman söwda merkezi",
+  "address": "10 ýyl Abadançylyk şaýoly 60, Aşgabat, Turkmenistan",
+  "phone": "+99312477492",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 115,
+  "name": "State shopping center Gulistan",
+  "address": "Ataturk St 80, Ashgabat 744000, Turkmenistan",
+  "phone": "80744000",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 116,
+  "name": "ТЦ «Чарвадар»",
+  "address": "WCWJ+Q5F, Ashgabat, Turkmenistan",
+  "phone": "+99312760530",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 117,
+  "name": "Торгово-развлекательный центр \"Детский Мир\"",
+  "address": "Modeller öýi, Aşgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 118,
+  "name": "Торговый центр «Ак памык»",
+  "address": "2CVC+VJX, Ashgabat, Turkmenistan",
+  "phone": "+99365602979",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 119,
+  "name": "«Altyn Asyr» harytşynaslyk merkezi",
+  "address": "73 Magtymguly Road, Turkmenistan shopping center (uniwermag) 3rd floor, Aşgabat 744000, Turkmenistan",
+  "phone": "733744000",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 120,
+  "name": "Dadiş Kamaz magazin 1/07",
+  "address": "50/2, Ata Govshudov St, Ashgabat, Turkmenistan",
+  "phone": "+99312924784",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 121,
+  "name": "Teke Bazar",
+  "address": "Görogly köçesi 77, Aşgabat, Turkmenistan",
+  "phone": "+99312925173",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 122,
+  "name": "Altyn Asyr Bazar",
+  "address": "W937+QPX, Ashgabat, Turkmenistan",
+  "phone": "+99312484420",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 123,
+  "name": "Gujurly Education Centre",
+  "address": "W99C+3M8, Ashgabat, Turkmenistan",
+  "phone": "+99312212649",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 124,
+  "name": "World of Turkmenbashi Tales",
+  "address": "2783+X3F, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 125,
+  "name": "Independence Monument",
+  "address": "W9CC+QXJ, Garashsyzlyk Ave, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 126,
+  "name": "Ertugrul Gazi Mosque",
+  "address": "Konstitusiýa binasy, Archabil Hwy, Aşgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 127,
+  "name": "Turkmen Carpet Museum",
+  "address": "Atamyrat Nyýazow şaýoly, Aşgabat, Turkmenistan",
+  "phone": "+99312398886",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 128,
+  "name": "Turkmenbashy Ruhy Mosque",
+  "address": "X626+GGQ, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 129,
+  "name": "Constitution Monument",
+  "address": "X9FR+C5V, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 130,
+  "name": "Ashgabat Fountain",
+  "address": "V9PJ+RMF, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 131,
+  "name": "Independence Park",
+  "address": "V9JJ+FW3, Arçabil şaýoly, Aşgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 132,
+  "name": "Old Nisa",
+  "address": "W9JM+JMR, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 133,
+  "name": "Oguzhan Palace",
+  "address": "W9MX+5JM, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 134,
+  "name": "Seyit Jemaletdin Mosque",
+  "address": "W9XJ+732, Kemine St, Ashgabat, Turkmenistan",
+  "phone": "+99312937001",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 135,
+  "name": "Lenin Statue",
+  "address": "M543+22J, Merv, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 136,
+  "name": "Wedding Palace",
+  "address": "M533+93H, Merv, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 137,
+  "name": "Ashgabat",
+  "address": "M577+QF4, Merv, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 138,
+  "name": "Berkarar",
+  "address": "Ataturk St 80, Ashgabat 744000, Turkmenistan",
+  "phone": "80744000",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 139,
+  "name": "Teke Bazar",
+  "address": "50/2, Ata Govshudov St, Ashgabat, Turkmenistan",
+  "phone": "+99312924784",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 140,
+  "name": "Gokdepe",
+  "address": "2011 street, Azadi Street 72, Aşgabat, Turkmenistan",
+  "phone": "+99312920728",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 141,
+  "name": "Great Kyz Kala",
+  "address": "улица Алишера Навои 88, Ashgabat, Turkmenistan",
+  "phone": "+99312927169",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 142,
+  "name": "Little Kyz Kala",
+  "address": "V9QH+7MJ, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 143,
+  "name": "Etaž Restaurant",
+  "address": "W8GR+PM6, Ashgabat, Turkmenistan",
+  "phone": "+99312955754",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 144,
+  "name": "Saada tourism",
+  "address": "VGWV+5Q7, Annau, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 145,
+  "name": "Owadan Tourism",
+  "address": "W9QM+VR5, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 146,
+  "name": "Margush Hotel",
+  "address": "HRRW+FC4, Mollanepes Köçesi, Mary, Turkmenistan",
+  "phone": "+99352267951",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 147,
+  "name": "Piney Point Lighthouse Museum \u0026 Historic Park",
+  "address": "HVQ3+P38, Mary, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 148,
+  "name": "Hotel Erik",
+  "address": "RXM9+Q8C, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 149,
+  "name": "Oguz restaurant",
+  "address": "RXXC+57J, Mira St, Dashoguz, Turkmenistan",
+  "phone": "+99332224647",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 150,
+  "name": "Kafe \"Ak Bugdaý\"",
+  "address": "RXW6+VFQ, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 151,
+  "name": "Bay Town Restaurant",
+  "address": "RX69+JP5, Dashoguz, Turkmenistan",
+  "phone": "+905524750912",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 152,
+  "name": "Şatugy restorany",
+  "address": "RXRQ+P64, Vokzal'naya St, Dashoguz, Turkmenistan",
+  "phone": "+99365828245",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 153,
+  "name": "Bay town",
+  "address": "S Turkmenbashy Ave, Dashoguz, Turkmenistan",
+  "phone": "+99361954052",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 154,
+  "name": "Datly",
+  "address": "RXP7+QJM, Dashoguz, Turkmenistan",
+  "phone": "+99332292828",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 155,
+  "name": "Dawut kafe",
+  "address": "RXVP+8FP, Dashoguz, Turkmenistan",
+  "phone": "+99361899364",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 156,
+  "name": "Sultanmuradov Maşgalasy",
+  "address": "Duralga Bus Stop, Dashoguz, Turkmenistan",
+  "phone": "+99362344362",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 157,
+  "name": "Lounge Bar",
+  "address": "RWWJ+QW8, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 158,
+  "name": "Kafe Nur",
+  "address": "VW4F+HG, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 159,
+  "name": "\"Döwletli\" toý mekany",
+  "address": "RXQ3+828, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 160,
+  "name": "Ayna Restoran",
+  "address": "R4JH+FGR, Tezebazar, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 161,
+  "name": "Dowletli toy mekany",
+  "address": "RXGJ+62J, Chkalov St, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 162,
+  "name": "Restoran \"AZIYA\"",
+  "address": "RXHF+5X2, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 163,
+  "name": "Peter kebab",
+  "address": "VW6F+5HX, Dashoguz, Turkmenistan",
+  "phone": "+99365451140",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 164,
+  "name": "Новруз Кафе",
+  "address": "RXRH+6VJ, Dashoguz, Turkmenistan",
+  "phone": "+99364851251",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 165,
+  "name": "Düýeçi Toý Mekany",
+  "address": "RXR7+4VC, Dashoguz, Turkmenistan",
+  "phone": "+905326561735",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 166,
+  "name": "Lachyn banket zaly",
+  "address": "Duralga Bus Stop, Dashoguz, Turkmenistan",
+  "phone": "+99363737158",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 167,
+  "name": "Гозел Ресторан",
+  "address": "RXW8+2H6, Dashoguz, Turkmenistan",
+  "phone": "+99362094856",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 168,
+  "name": "\"Berkarar\" toy mekany",
+  "address": "Dashoguz city, Dashoguz, Turkmenistan",
+  "phone": "+99361594419",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 169,
+  "name": "Restoran \"Serpay\"",
+  "address": "RXW8+QFQ, Dashoguz, Turkmenistan",
+  "phone": "+99361465591",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 170,
+  "name": "Кафе Мечта",
+  "address": "RXQH+6VR, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 171,
+  "name": "\"Begler\" market Tiz tagam",
+  "address": "RXV7+93, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 172,
+  "name": "Kefe \"LACYN\"",
+  "address": "RXQH+J84, Unnamed Road, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 173,
+  "name": "Burger House",
+  "address": "RXGC+V43, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 174,
+  "name": "\"Jeýhun\" toý mekany",
+  "address": "RXCW+MG7, Internosanal, Daşoguz, Turkmenistan",
+  "phone": "+99362341217",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 175,
+  "name": "Ресторан \"Арзув\"",
+  "address": "V33C+274, Dekhkanazat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 176,
+  "name": "DZ BURGER NOVRUZ",
+  "address": "VX3R+9CC, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 177,
+  "name": "Esik",
+  "address": "RXHC+7PG, Daşoguz, Turkmenistan",
+  "phone": "+99364258005",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 178,
+  "name": "Jana Resto-Club",
+  "address": "RXXF+GXX, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 179,
+  "name": "GUBADAG FIÇI",
+  "address": "RWRM+P54, Dashoguz, Turkmenistan",
+  "phone": "+99332226000",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 180,
+  "name": "Kafe \"Laçyn\"",
+  "address": "Vokzal'naya St, Dashoguz, Turkmenistan",
+  "phone": "+99361261732",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 181,
+  "name": "Berkarar",
+  "address": "RXWF+G82, Mira St, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 182,
+  "name": "Zaman Toy Mekany",
+  "address": "R327+HJ9, Unnamed Road, Khamzashikh, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 183,
+  "name": "Бахтиярлык ресторан",
+  "address": "R2VG+RW7, Dekhkanazat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 184,
+  "name": "''Bahar\" Cafe",
+  "address": "VX94+74W, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 185,
+  "name": "DZ Palow",
+  "address": "R2W4+24X, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 186,
+  "name": "Bedew cafe",
+  "address": "RXJC+HH5, Daşoguz, Turkmenistan",
+  "phone": "+99361976655",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 187,
+  "name": "Bereket Kafe",
+  "address": "şäher Hemme Ýeri, Daşoguz 746300, Turkmenistan",
+  "phone": "+99361299111",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 188,
+  "name": "Чал будкасы",
+  "address": "RXG9+3X4, Daşoguz, Turkmenistan",
+  "phone": "+99362804761",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 189,
+  "name": "Lüle somsa.Dz",
+  "address": "RX8H+RJ8, ул. Ипподромная, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 190,
+  "name": "GURMAN tiz tagamlary",
+  "address": "ул. Маяковского, Dashoguz, Turkmenistan",
+  "phone": "+99361155255",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 191,
+  "name": "Millenium Club",
+  "address": "RXVP+C9J, Vokzal'naya St, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 192,
+  "name": "KAFE MARAT",
+  "address": "RXP8+P3W, Dashoguz, Turkmenistan",
+  "phone": "+99363505342",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 193,
+  "name": "\" Arazgül \" kafe",
+  "address": "пр. имени С. Туркменбаши Шайолы, Dashoguz 746300, Turkmenistan",
+  "phone": "+99361182211",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 194,
+  "name": "\"Nesibe\" Kafe",
+  "address": "RWWJ+28P, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 195,
+  "name": "Lounge bar Dream pizza",
+  "address": "RWJW+P68, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 196,
+  "name": "Han döner",
+  "address": "Дашогуз велаят ул:Мира, Daşoguz, Turkmenistan",
+  "phone": "+99365925055",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 197,
+  "name": "DATLYJA",
+  "address": "Ruhnama 78/1, Daşoguz ş, Turkmenistan",
+  "phone": "+99332222087",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 198,
+  "name": "Morojny",
+  "address": "RXW9+C9, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 199,
+  "name": "Saraf siti",
+  "address": "RXQ3+77W, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 200,
+  "name": "Fitji Dukan",
+  "address": "RX9F+5HM, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 201,
+  "name": "NOWBAHAR TOÝHANASY",
+  "address": "RWMV+749, Dashoguz, Turkmenistan",
+  "phone": "+99365574121",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 202,
+  "name": "EDEM",
+  "address": "RXQ3+998, Dashoguz, Turkmenistan",
+  "phone": "+99362094856",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 203,
+  "name": "DIRI BALYK",
+  "address": "Ruhnama78/1, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 204,
+  "name": "Kafe \"Abdal\"",
+  "address": "RXQ3+828, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 205,
+  "name": "Josgun Kafe",
+  "address": "RXQ3+77P, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 206,
+  "name": "Gamburger, Timsa",
+  "address": "RX43+28, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 207,
+  "name": "Cafe di marmellata",
+  "address": "RWVW+864, Ilyalinskaya, Dashoguz, Turkmenistan",
+  "phone": "+99361884070",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 208,
+  "name": "Nur Cafe",
+  "address": "RX9H+H5Q, Ippodromnaya St, Dashoguz, Turkmenistan",
+  "phone": "+99362254567",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 209,
+  "name": "Altyn aý kafe(tkani)",
+  "address": "RXV6+C8J, Dashoguz, Turkmenistan",
+  "phone": "+99363027184",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 210,
+  "name": "Yunus kafe",
+  "address": "RX9M+M8P, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 211,
+  "name": "Банкетный зал \"Lezzet\"",
+  "address": "RXPH+939, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 212,
+  "name": "Кафе \"Волна\"",
+  "address": "Dostluk\" park, Dashoguz, Turkmenistan",
+  "phone": "+99362254567",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 213,
+  "name": "DZ Burger House",
+  "address": "RXPJ+F8H, Magtymguly köçesi, Dashoguz, Turkmenistan",
+  "phone": "+99332272939",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 214,
+  "name": "\"Şabalyk\" kafe",
+  "address": "VW2F+HM5, Ilyalinskaya St, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 215,
+  "name": "Swings House",
+  "address": "RXP8+P3W, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 216,
+  "name": "Lalezar kafe",
+  "address": "RXRF+593, Dashoguz, Turkmenistan",
+  "phone": "+99361694230",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 217,
+  "name": "YUPEK YOLY toy Mekany",
+  "address": "RX54+25C, Unnamed Road, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 218,
+  "name": "Rysgal Söwda Merkezi",
+  "address": "RXW8+9F7, Dashoguz, Turkmenistan",
+  "phone": "+905537327539",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 219,
+  "name": "Бай Базар",
+  "address": "RXHC+6PX, Daşoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 220,
+  "name": "Nygmat Bazar",
+  "address": "RXWQ+6WR, Dashoguz, Turkmenistan",
+  "phone": "+99362301249",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 221,
+  "name": "Nygmat Dükany",
+  "address": "RXW5+VG5, Ilyalinskaya, Dashoguz, Turkmenistan",
+  "phone": "+99361273107",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 222,
+  "name": "Rehnetli Damja HK",
+  "address": "RXGC+W9C, Dashoguz, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 223,
+  "name": "Гостиница \"Yupek Yoly\" (Шелковый путь)",
+  "address": "3H5Q+2H7, Turkmenabat, Turkmenistan",
+  "phone": "+99342221041",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 224,
+  "name": "Jeyhun Oteli",
+  "address": "3HQM+QV7, Turkmenabat, Turkmenistan",
+  "phone": "+99342231227",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 225,
+  "name": "Bereketli Restoran",
+  "address": "A.S Pushkin St 51, Turkmenabat, Turkmenistan",
+  "phone": "+99342232757",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 226,
+  "name": "Kyrk-Gyz Restoran",
+  "address": "Görogly, Turkmenabat, Turkmenistan",
+  "phone": "+99363344707",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 227,
+  "name": "Cafe",
+  "address": "XHQ6+QVJ, Turkmenabat, Turkmenistan",
+  "phone": "+99365980270",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 228,
+  "name": "Praga Restaurant",
+  "address": "3H8M+6XW, Turkmenabat, Turkmenistan",
+  "phone": "+99342248128",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 229,
+  "name": "Arzuwly Agşam Restoran",
+  "address": "2HVM+MWC, Turkmenabat, Turkmenistan",
+  "phone": "+99363356838",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 230,
+  "name": "ALTYN NAL TOÝ MEKANY",
+  "address": "3HHG+GH6, S.A. Niyazov St, Turkmenabat, Turkmenistan",
+  "phone": "+99362429229",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 231,
+  "name": "Gozellik restaurant",
+  "address": "3HVF+RHF, Turkmenabat, Turkmenistan",
+  "phone": "+99362253450",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 232,
+  "name": "Kenar Restoran",
+  "address": "Azatlyk şäherçesi, Türkmenabat, Turkmenistan",
+  "phone": "+99364755777",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 233,
+  "name": "Lebap Restoran",
+  "address": "4H2C+PFF, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 234,
+  "name": "Fitchi restaurant",
+  "address": "3HFP+VCR, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 235,
+  "name": "Talyplar Naharhanasy",
+  "address": "3HQM+MJ6, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 236,
+  "name": "Lezzetli Kafe",
+  "address": "3H4M+GQ2, Turkmenabat, Turkmenistan",
+  "phone": "+99342221040",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 237,
+  "name": "Halal döner",
+  "address": "Kerki köçesi, 17 jay, Türkmenabat 746100, Turkmenistan",
+  "phone": "17746100",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 238,
+  "name": "Traktir",
+  "address": "2HFQ+W2C, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 239,
+  "name": "Империя",
+  "address": "3HQM+MJH, Bitarap Turkmenistan, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 240,
+  "name": "LEBAP toý mekany",
+  "address": "2H39+MG3, Magtymguly Pyragy str, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 241,
+  "name": "Kafe Täç",
+  "address": "3H6J+M6X, Turkmenabat, Turkmenistan",
+  "phone": "+99365580217",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 242,
+  "name": "Yaprak Restoran",
+  "address": "городок Киштуан улица Н.В Гоголь, Turkmenabat 746100, Turkmenistan",
+  "phone": "+99361020766",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 243,
+  "name": "Ojak Palow",
+  "address": "2HMQ+52X, Turkmenabat, Turkmenistan",
+  "phone": "+99342299999",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 244,
+  "name": "Yedigen Toy Mekany",
+  "address": "улица Молланепес 27 Туркменабат, 746100, Turkmenistan",
+  "phone": "27746100",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 245,
+  "name": "\"Yupek Yoly\" Ресторан",
+  "address": "Нефтянник круг, Uchpunkt neftyanik krug, Turkmenabat 746100, Turkmenistan",
+  "phone": "+99362357950",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 246,
+  "name": "Little Italy",
+  "address": "2HFR+X64, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 247,
+  "name": "Altyn Taç",
+  "address": "2H9W+P53, Turkmenabat, Turkmenistan",
+  "phone": "+99364686877",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 248,
+  "name": "Chillout restaurants",
+  "address": "3HCM+R9W, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 249,
+  "name": "Икбал Ресторан",
+  "address": "2HMF+RX7, Turkmenabat, Turkmenistan",
+  "phone": "+99342244444",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 250,
+  "name": "Супер Сталовая",
+  "address": "3H4W+64J, Turkmenabat, Turkmenistan",
+  "phone": "+99361136133",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 251,
+  "name": "Ashhana",
+  "address": "2HFQ+Q9V, Turkmenabat, Turkmenistan",
+  "phone": "+99363492041",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 252,
+  "name": "Эрсары ресторан",
+  "address": "Торгово-развлекательный центр\"Лебап, Turkmenabat, Turkmenistan",
+  "phone": "+99362106230",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 253,
+  "name": "Baý Kafe",
+  "address": "2HHM+CH6, Unnamed Road,, Türkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 254,
+  "name": "Jager",
+  "address": "2H5Q+VF, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 255,
+  "name": "Döwletli Restoran",
+  "address": "Unnamed Road, Turkmenabat, Turkmenistan",
+  "phone": "+99364228781",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 256,
+  "name": "Ресторанный комплекс «Chiilout»",
+  "address": "3C76+GMX, Turkmenabat, Turkmenistan",
+  "phone": "+99364727566",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 257,
+  "name": "БАХАР",
+  "address": "2H9W+M5M, Turkmenabat, Turkmenistan",
+  "phone": "+99364686877",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 258,
+  "name": "Türkmen Tagam",
+  "address": "3HXC+387, Turkmenabat, Turkmenistan",
+  "phone": "+99364202060",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 259,
+  "name": "Goşa Çynar Toy Mekany",
+  "address": "2H9G+FWG, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 260,
+  "name": "Beef House",
+  "address": "3JF2+4G6, ул. Гороглы, Turkmenabat, Turkmenistan",
+  "phone": "+99342266677",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 261,
+  "name": "ALPIZZA",
+  "address": "2, Komsomolsk,Туркменистан Bedev 1, Turkmenistan",
+  "phone": "+99363729554",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 262,
+  "name": "Ресторан Тохтагуль",
+  "address": "3JX5+3G4, Unnamed Road, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 263,
+  "name": "Кафе Янардаг",
+  "address": "3HGH+478, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 264,
+  "name": "Kolyoz",
+  "address": "2HMP+7J8, Turkmenabat, Turkmenistan",
+  "phone": "+99364767647",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 265,
+  "name": "\"Nargiza\" palow",
+  "address": "3HRC+WQH, Turkmenabat, Turkmenistan",
+  "phone": "+99365866777",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 266,
+  "name": "Neppi fast food",
+  "address": "2HGR+79M, Komsomolskiy, Turkmenabat, Turkmenistan",
+  "phone": "+99362748810",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 267,
+  "name": "Arçabil Merkez Rahat Kafe",
+  "address": "3HQJ+R3P, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 268,
+  "name": "Gold star",
+  "address": "2HGM+R92, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 269,
+  "name": "Berkararlyk Restoran",
+  "address": "3JG4+PGF, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 270,
+  "name": "Restoran \" Galkan\"",
+  "address": "3H9M+8GG, Turkmenabat, Turkmenistan",
+  "phone": "+99342229811",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 271,
+  "name": "JEREN",
+  "address": "3H4W+653, Turkmenabat, Turkmenistan",
+  "phone": "+99361974404",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 272,
+  "name": "Donerim",
+  "address": "3HGG+2RV, S.A. Niyazov St, Turkmenabat, Turkmenistan",
+  "phone": "+99363515808",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 273,
+  "name": "Чиллаут",
+  "address": "3H2M+R3W, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 274,
+  "name": "Yassydepe",
+  "address": "2H5Q+Q9, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 275,
+  "name": "Ay-gun hyzmatlar merkezi we toy mekany",
+  "address": "Bahar mikr 31/1, Turkmenabat, Turkmenistan",
+  "phone": "+99361212125",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 276,
+  "name": "Кафе \"Perizat\"",
+  "address": "4H59+6C7, Turkmenabat, Turkmenistan",
+  "phone": "+99365232595",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 277,
+  "name": "Furkat palow",
+  "address": "Бахар, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 278,
+  "name": "Çagalar dünýäsi",
+  "address": "3HRG+GP2, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 279,
+  "name": "\"Diýar\" toý mekany",
+  "address": "2HXP+PV2, Turkmenabat, Turkmenistan",
+  "phone": "+99342294444",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 280,
+  "name": "Пиццерия \"Neppi Pizza House\"",
+  "address": "3HQ7+P62, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 281,
+  "name": "Кафе \"FITÇI HOUSE\"",
+  "address": "3HR7+C2W, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 282,
+  "name": "VIP Ресторан \"Дениз\" VIP restoran \"Deňiz\"",
+  "address": "3HW2+58, Turkmenabat, Turkmenistan",
+  "phone": "+99365868633",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 283,
+  "name": "\"Бай\" Кафе",
+  "address": "Merkezi Daýhan bazary, Gurbansoltan Eje, Türkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 284,
+  "name": "Neppi fast food",
+  "address": "3H9H+RHR, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 285,
+  "name": "Işlekli 1-nji Mikroraýon",
+  "address": "2HWF+88F, Turkmenabat, Turkmenistan",
+  "phone": "+99361545560",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 286,
+  "name": "Donerim",
+  "address": "3HR7+F2V, Turkmenabat, Turkmenistan",
+  "phone": "+99365435745",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 287,
+  "name": "Koko",
+  "address": "3GFQ+5X6, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 288,
+  "name": "Datly Kafe",
+  "address": "3JF3+FCJ, Turkmenabat, Turkmenistan",
+  "phone": "+99342217900",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 289,
+  "name": "Kebapçı \u0026 Balikcy Restaurant",
+  "address": "2HFM+CWC, Turkmenabat, Turkmenistan",
+  "phone": "+99365206633",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 290,
+  "name": "Чайхана N°1",
+  "address": "3HXF+PXW, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 291,
+  "name": "Bedew Restoran Bashlygy",
+  "address": "Shabende st 15, Turkmenabat, Turkmenistan",
+  "phone": "+99342239933",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 292,
+  "name": "Café Maksatly",
+  "address": "3H4W+C52, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 293,
+  "name": "ZAMANA",
+  "address": "3H7G+6VJ, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 294,
+  "name": "Bahar cafe",
+  "address": "3HH8+VQH, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 295,
+  "name": "Kardelya",
+  "address": "3H6M+6VC, Bitarap Turkmenistan, Turkmenabat, Turkmenistan",
+  "phone": "+99342247878",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 296,
+  "name": "Aýly Agşam Kafe \u0026 Bar",
+  "address": "2HXJ+VX2, Turkmenabat, Turkmenistan",
+  "phone": "+99364232300",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 297,
+  "name": "Fitçi House",
+  "address": "3HXF+QPG, Turkmenabat, Turkmenistan",
+  "phone": "+99364440482",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 298,
+  "name": "Arçabil söwda Merkezi",
+  "address": "3HVM+675, A.S Pushkin St, Turkmenabat, Turkmenistan",
+  "phone": "+99342231438",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 299,
+  "name": "Банкетный зал «Айлы Агшам» (Лунный вечер)",
+  "address": "3HWF+FXP, Turkmenabat, Turkmenistan",
+  "phone": "+99342231404",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 300,
+  "name": "Ak Altyn Kafe",
+  "address": "3HQJ+39C, Turkmenabat, Turkmenistan",
+  "phone": "+99363344149",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 301,
+  "name": "DÖWREBAP Söwda Merkezi",
+  "address": "3HWV+Q7F, Turkmenabat, Turkmenistan",
+  "phone": "+99342237076",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 302,
+  "name": "Торгово-развлекательный центр \"Лебап\"",
+  "address": "3H2F+FFC, Turkmenabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 303,
+  "name": "Payhas Kompyuter Merkezi",
+  "address": "3H4W+64R, Turkmenabat, Turkmenistan",
+  "phone": "+99361930399",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 304,
+  "name": "Turkmenabat",
+  "address": "2783+X3F, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 305,
+  "name": "Chor Bakr Memorial Complex",
+  "address": "WHP8+MXR, Turkmenabat, Turkmenistan",
+  "phone": "+99342294600",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 306,
+  "name": "Erk Kala",
+  "address": "M59V+R2G, Merv, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 307,
+  "name": "Independence Monument",
+  "address": "3HFH+MWQ, S.A. Niýazow, Chardzhou, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 308,
+  "name": "Turkmenabat International Airport",
+  "address": "M6WG+JCV, Karaul-Kuyu, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 309,
+  "name": "Repetek Nature Reserve",
+  "address": "V9JJ+FW3, Arçabil şaýoly, Aşgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 310,
+  "name": "Nebitchi Hotel",
+  "address": "G9Q2+M8F, Balkanabat, Turkmenistan",
+  "phone": "+99322278038",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 311,
+  "name": "«Sport» myhmanhanasy",
+  "address": "G975+VX6, Balkanabat, Turkmenistan",
+  "phone": "+99322277031",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 312,
+  "name": "Nebitçi",
+  "address": "G937+PXW, Balkanabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 313,
+  "name": "Supra",
+  "address": "G89R+QJ, Balkanabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 314,
+  "name": "Ajaýyp Kafe",
+  "address": "G987+C27, Balkanabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 315,
+  "name": "Damak kafe",
+  "address": "G8WF+47, Balkanabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 316,
+  "name": "Restaurant \"Lezzet\" (Руслан)",
+  "address": "G9F2+34C, Balkanabat, Turkmenistan",
+  "phone": "+99322240077",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 317,
+  "name": "Gara Altyn",
+  "address": "G88X+Q2V, Balkanabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 318,
+  "name": "Кунжут",
+  "address": "G937+6P7, Balkanabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 319,
+  "name": "Balyklar dünyası",
+  "address": "G982+RWJ, Balkanabat, Turkmenistan",
+  "phone": "+99361780750",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 320,
+  "name": "Каламбур",
+  "address": "G9C4+H9Q, Balkanabat, Turkmenistan",
+  "phone": "+99364267039",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 321,
+  "name": "Toý mekany Enşalla",
+  "address": "Балканабат, 158квартал, Turkmenistan",
+  "phone": "+99365833613",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 322,
+  "name": "Arazbagt",
+  "address": "G992+3V2, Balkanabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 323,
+  "name": "Ресторан \"Güneş\"",
+  "address": "G88X+2XH, Balkanabat, Turkmenistan",
+  "phone": "+99322270063",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 324,
+  "name": "Ресторан \"Salam\"",
+  "address": "G964+4R5, Unnamed Road, Balkanabat, Turkmenistan",
+  "phone": "+99362180300",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 325,
+  "name": "Altyn Zaman",
+  "address": "G9C6+6H4, Balkanabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 326,
+  "name": "Кунжут",
+  "address": "F9VG+H22, Bakaleya bazar, Balkanabat, ş, Turkmenistan",
+  "phone": "+99364142606",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 327,
+  "name": "Бахар ресторан",
+  "address": "Japarow, Balkanabat, Turkmenistan",
+  "phone": "+99362933000",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 328,
+  "name": "ZEMIN Kаfe \u0026 Restaurant",
+  "address": "G9F2+26J, Balkanabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 329,
+  "name": "Naharhana",
+  "address": "G8FX+WM4, Balkanabat, Turkmenistan",
+  "phone": "+99365599792",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 330,
+  "name": "Ресторан язгелди",
+  "address": "G9F3+FMQ, Balkanabat, Turkmenistan",
+  "phone": "+99322221919",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 331,
+  "name": "Hazyna doner",
+  "address": "G992+4VH, Balkanabat, Turkmenistan",
+  "phone": "+99362452999",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 332,
+  "name": "Kafe \"Balkan\"",
+  "address": "G978+W24, Balkanabat, Turkmenistan",
+  "phone": "+99365831649",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 333,
+  "name": "Alem Pizza",
+  "address": "G92F+9V2, Balkanabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 334,
+  "name": "coffee house",
+  "address": "9 дом, Balkanabat, Turkmenistan",
+  "phone": "+99362104010",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 335,
+  "name": "Wypechka",
+  "address": "G88W+C8Q, Balkanabat, Turkmenistan",
+  "phone": "+99322277710",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 336,
+  "name": "Ресторан \"Älem\"",
+  "address": "154, Balkanabat, Turkmenistan",
+  "phone": "+99365542430",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 337,
+  "name": "iPhone Center",
+  "address": "W937+QPX, Ashgabat, Turkmenistan",
+  "phone": "+99312484420",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 338,
+  "name": "TRENDYOL GÖRK",
+  "address": "G9F3+9JJ, Balkanabat, Turkmenistan",
+  "phone": "+99362427087",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 339,
+  "name": "Paýtagt Shopping Center",
+  "address": "10 ýyl Abadançylyk şaýoly 60, Aşgabat, Turkmenistan",
+  "phone": "+99312477492",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 340,
+  "name": "Berkarar",
+  "address": "W8RQ+RW4, Ashgabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 341,
+  "name": "«Aşgabat» söwda we dynç alyş merkezi",
+  "address": "G9C4+CMM, Balkanabat, Turkmenistan",
+  "phone": "+99364367563",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 342,
+  "name": "ТЦ «Чарвадар»",
+  "address": "Ataturk St 80, Ashgabat 744000, Turkmenistan",
+  "phone": "80744000",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ },
+ {
+  "id": 343,
+  "name": "BELLI MEBEL",
+  "address": "G9C3+3P2, Balkanabat, Turkmenistan",
+  "phone": "",
+  "country-code": "TM",
+  "country": "Turkmenistan"
+ }
+]

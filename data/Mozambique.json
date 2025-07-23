@@ -1,0 +1,7618 @@
+[
+ {
+  "id": 1,
+  "name": "Pestana Rovuma",
+  "address": "125 Rua Orlando Mendes, Maputo, Mozambique",
+  "phone": "+258848591409",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 2,
+  "name": "Guesthouse 1109",
+  "address": "Av. da Marginal, Maputo, Mozambique",
+  "phone": "+25821495050",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 3,
+  "name": "Polana Serena Hotel",
+  "address": "Avenida 25 de Setembro, nº 692, Maputo 0000, Mozambique",
+  "phone": "256920000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 4,
+  "name": "Radisson Blu Hotel \u0026 Residence, Maputo",
+  "address": "Rua da Sé, 114, Maputo 4376, Mozambique",
+  "phone": "+25821305000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 5,
+  "name": "Southern Sun Maputo",
+  "address": "141 Av. Marginal, Maputo 1100, Mozambique",
+  "phone": "+25821242400",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 6,
+  "name": "Melia Maputo Sky",
+  "address": "1321, 340 Av. 25 de Setembro, Maputo, Mozambique",
+  "phone": "132134025",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 7,
+  "name": "Vip Grand Maputo",
+  "address": "1321, 340 Av. 25 de Setembro, Maputo, Mozambique",
+  "phone": "132134025",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 8,
+  "name": "Pestana Rovuma",
+  "address": "755 R. dos Desportistas, Maputo, Mozambique",
+  "phone": "+25820600397",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 9,
+  "name": "MAPUTO AFECC GLORIA HOTEL",
+  "address": "1380 Av. Julius Nyerere, Maputo 1900, Mozambique",
+  "phone": "13801900",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 10,
+  "name": "Tivoli-Maputo Hotel",
+  "address": "AV DA MARGINAL N 4441；, MAPUTO AV DA MARGINAL 4441, Mozambique",
+  "phone": "44414441",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 11,
+  "name": "StayEasy Maputo",
+  "address": "288 R. da Argélia, Maputo, Mozambique",
+  "phone": "+258875068842",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 12,
+  "name": "Montebelo Indy Maputo Congress Hotel",
+  "address": "Maputo, Mozambique",
+  "phone": "+258847144821",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 13,
+  "name": "Palm Aparthotel",
+  "address": "52, Rua B, Bairo Catembe - Maputo, Mozambique Catembe, 2450, Mozambique",
+  "phone": "+258840270228",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 14,
+  "name": "Afrin Prestige",
+  "address": "539 Av. Patrice Lumumba, Maputo, Mozambique",
+  "phone": "+258823041290",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 15,
+  "name": "Hotel Cardoso",
+  "address": "Rua das Dragagens, Catembe 1536, Mozambique",
+  "phone": "+258825561220",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 16,
+  "name": "Hotel Maputo",
+  "address": "339 Av. Filipe Samuel Magaia, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 17,
+  "name": "Villa das Mangas",
+  "address": "Nongué 14 Rua Macombe Nongué, Maputo, Mozambique",
+  "phone": "+258826914723",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 18,
+  "name": "Montebelo Girassol Maputo Hotel",
+  "address": "769 Avenida Agostinho Neto, Maputo, Mozambique",
+  "phone": "+258846911404",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 19,
+  "name": "Hotel Avenida",
+  "address": "1663 Av. 24 de Julho, Maputo 0258, Mozambique",
+  "phone": "1663240258",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 20,
+  "name": "Polana Plaza Hotel",
+  "address": "1267 Av. Guerra Popular, Maputo 0258, Mozambique",
+  "phone": "12670258",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 21,
+  "name": "City Lodge Hotel Maputo",
+  "address": "617 Av. Karl Marx, Maputo, Mozambique",
+  "phone": "+258843914388",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 22,
+  "name": "ONOMO Hotel Maputo",
+  "address": "Rua Palmar 81, Maputo 8177, Mozambique",
+  "phone": "+258827564860",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 23,
+  "name": "Montebelo Girassol Maputo Hotel",
+  "address": "Av.Mão Tse Tung, n°1419, 1419 Av. Mao Tse Tung, Maputo, Mozambique",
+  "phone": "14191419",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 24,
+  "name": "BONGA VILLA BOUTIQUE HOTEL",
+  "address": "Avenida Agostinho Neto, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 25,
+  "name": "Hotel Terminus",
+  "address": "480 Av. Emília Daússe, Maputo, Mozambique",
+  "phone": "+25821326404",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 26,
+  "name": "The Base Backpackers",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 27,
+  "name": "Blu Sky Hotel",
+  "address": "177 Av. Filipe Samuel Magaia, Maputo, Mozambique",
+  "phone": "+25821499644",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 28,
+  "name": "Stay Inn - Guest house",
+  "address": "1321 Av. Mao Tse Tung, Maputo, Mozambique",
+  "phone": "+258821851577",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 29,
+  "name": "Residencial Horizonte 2",
+  "address": "Avenida Julius Nyerere 281 Maputo, Maputo, Mozambique",
+  "phone": "+258856425385",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 30,
+  "name": "Hotel Atlantis 2",
+  "address": "961 Av. Filipe Samuel Magaia, Maputo, Mozambique",
+  "phone": "+25821310600",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 31,
+  "name": "Malagueta Inn",
+  "address": "R. Simões da Silva, Maputo, N62, Mozambique",
+  "phone": "+258824038736",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 32,
+  "name": "Hotel 2001",
+  "address": "Parque Nacional de Maputo, Maputo 1100, Mozambique",
+  "phone": "+258870162730",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 33,
+  "name": "Pensão Martins",
+  "address": "Maputo, Mozambique",
+  "phone": "+258823081748",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 34,
+  "name": "Hotel Kapital",
+  "address": "Av. Samora Machel , Quarteirao 01 , Parcela nr 372 Matola B, 1101, Mozambique",
+  "phone": "013721101",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 35,
+  "name": "Jacaranda Guesthouse \u0026 Restaurant",
+  "address": "Av. Filipe Samuel Magaia, Maputo, Mozambique",
+  "phone": "+258842996570",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 36,
+  "name": "Angel Guest House",
+  "address": "12 Av. Olof Palme, Maputo, Mozambique",
+  "phone": "+258824129670",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 37,
+  "name": "Triunfo Guest House",
+  "address": "4441 Av. da Marginal, Maputo, Mozambique",
+  "phone": "+25821266666",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 38,
+  "name": "VIP Executive Suites Maputo Aparthotel",
+  "address": "Maputo, Mozambique",
+  "phone": "+258829344535",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 39,
+  "name": "Monte Carlo",
+  "address": "Unnamed Road, Jamo, Mozambique",
+  "phone": "+258842709705",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 40,
+  "name": "Polana Guest House \u0026 Apartments",
+  "address": "TL 1510, Avenida Acordo Incomáti, Matola, Mozambique",
+  "phone": "+258850674063",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 41,
+  "name": "Residencial Palmeiras",
+  "address": "Av. Da Namaacha, Matola 1114, Mozambique",
+  "phone": "+258843116573",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 42,
+  "name": "Guesthouse 1109",
+  "address": "Matola, Maputo, Mozambique",
+  "phone": "+258845754091",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 43,
+  "name": "Resotel",
+  "address": "Portagem Matola - Maputo, N4,, N2, Mozambique",
+  "phone": "+258844017860",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 44,
+  "name": "Terra Guest House",
+  "address": "Macaneta Beach, Marracuene, Mozambique",
+  "phone": "+258870584545",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 45,
+  "name": "Casa Quimera",
+  "address": "Matola, Mozambique",
+  "phone": "+258845789356",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 46,
+  "name": "RESIDENCIAL HORIZONTE DELUXE",
+  "address": "Marracuene, Mozambique",
+  "phone": "+258844831763",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 47,
+  "name": "Hotel Santa Cruz",
+  "address": "Avenida Ngungunhana casa 1039 Qrt26, Matola, Mozambique",
+  "phone": "+258847074869",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 48,
+  "name": "Akua by Polana guest house",
+  "address": "Av. das Indústrias, Machava, Mozambique",
+  "phone": "+258844017860",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 49,
+  "name": "Sundown Guest House",
+  "address": "Maputo, Mozambique",
+  "phone": "+258844441197",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 50,
+  "name": "Joli GuestHouse",
+  "address": "798 Av. Emília Daússe, Maputo, Mozambique",
+  "phone": "+258827864499",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 51,
+  "name": "Catembe Gallery Hotel",
+  "address": "7, Rua A Casa 470 Romão Q 23, Maputo, Mozambique",
+  "phone": "+258848989239",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 52,
+  "name": "Otia Hotel",
+  "address": "Avenida Kwame Nkrumah, Maputo, Mozambique",
+  "phone": "+258846688300",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 53,
+  "name": "Green house lodge",
+  "address": "Av 24 de Julho, 563 R. dos Lusiadas, Maputo 1101, Mozambique",
+  "phone": "245631101",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 54,
+  "name": "Museu Mafalala B\u0026B",
+  "address": "1103 Avenida Agostinho Neto, Maputo, Mozambique",
+  "phone": "+25884333000121319191",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 55,
+  "name": "Moringa Guest House",
+  "address": "Rua A, 150, Catembe, Mozambique",
+  "phone": "+258867884699",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 56,
+  "name": "WONNA BAY VILA",
+  "address": "Rua da Goa Casa 92, Quarteirao 2, Maputo 1200, Mozambique",
+  "phone": "+258848846825",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 57,
+  "name": "Catembe Beach Lodge",
+  "address": "Dona Alice - Costa do Sol, 1778 Rua Engenheiro Santos Resenoe, Maputo, Mozambique",
+  "phone": "+258845559000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 58,
+  "name": "Quiet Corner Guest House",
+  "address": "Rua Almeida Garrett 40, Maputo, Mozambique",
+  "phone": "+258825948590",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 59,
+  "name": "Liv Inn Guest House",
+  "address": "Bairro Chali Rua B nr 67, Maputo, Mozambique",
+  "phone": "+258845789356",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 60,
+  "name": "Hotel Escola ICM",
+  "address": "798 Av. Emília Daússe, Maputo, Mozambique",
+  "phone": "+258823219210",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 61,
+  "name": "Hotel Africa Maputo Business",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 62,
+  "name": "Angel Guest House, Maputo",
+  "address": "Rua de Tchamba, Maputo, Mozambique",
+  "phone": "+258841421668",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 63,
+  "name": "Ancha's oásis",
+  "address": "125 Rua Orlando Mendes, Maputo, Mozambique",
+  "phone": "+258848591409",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 64,
+  "name": "TAKA-TAKA",
+  "address": "Rua 1301, Maputo, Mozambique",
+  "phone": "+258843137202",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 65,
+  "name": "AERO-PARK RESIDENCIAL ( B\u0026B)",
+  "address": "1417 Av. 24 de Julho, Maputo, Mozambique",
+  "phone": "+25821303004",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 66,
+  "name": "Acacia Guesthouse",
+  "address": "3015 Av. Vladimir Lenine, Maputo, Mozambique",
+  "phone": "+258862364444",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 67,
+  "name": "Hotel Al-Khalil Machava",
+  "address": "2116 Avenida Eduardo Mondlane, Maputo, Mozambique",
+  "phone": "+258870090988",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 68,
+  "name": "Cova De Tubarao",
+  "address": "Rua B 77, Catembe, Mozambique",
+  "phone": "+258842283623",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 69,
+  "name": "Palmeiras Guest House Matola",
+  "address": "Avenida da Zambia 354 Maputo, 0258, Mozambique",
+  "phone": "+258871707070",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 70,
+  "name": "Ecolux Mozambique",
+  "address": "310 Av. Mao Tse Tung, Maputo, Mozambique",
+  "phone": "+258856430504",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 71,
+  "name": "The Matola Hotel",
+  "address": "1109 Av. Patrice Lumumba, Maputo, Mozambique",
+  "phone": "+258843344520",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 72,
+  "name": "Garden Lodge",
+  "address": "Maputo, Mozambique",
+  "phone": "+25821300199",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 73,
+  "name": "HOTEL AL-KHALIL MATOLA",
+  "address": "33 Rua Comandante Augusto Cardoso, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 74,
+  "name": "Cristina´s Home Natural Feelings",
+  "address": "1304 Av. Karl Marx, Maputo, Mozambique",
+  "phone": "+25821320929",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 75,
+  "name": "Sylvannah Guest House",
+  "address": "Av. Patrice Lumumba, Maputo, Mozambique",
+  "phone": "+25821304048",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 76,
+  "name": "40/40 Accomodation Guesthouse",
+  "address": "Avenida Tomás Nduda Maputo Cidade de Maputo, 1106, Mozambique",
+  "phone": "+258841421668",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 77,
+  "name": "Residencial Kaya Kwanga",
+  "address": "Rua das Mafureiras, Maputo, Mozambique",
+  "phone": "+258841500060",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 78,
+  "name": "MH Residencial",
+  "address": "Avenida Mártires da Machada, nº 1309, Maputo 0000, Mozambique",
+  "phone": "13090000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 79,
+  "name": "Hotel Royal",
+  "address": "Av. Marginal Nº 4159, 4159, Av. da Marginal, Maputo, Mozambique",
+  "phone": "41594159",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 80,
+  "name": "GUEST HOUSE MODERNA",
+  "address": "Rua de Tchamba, N281, Mozambique",
+  "phone": "+258848655555",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 81,
+  "name": "Chinese Restaurant",
+  "address": "Av. 24 de Julho, Maputo, Mozambique",
+  "phone": "+258845638602",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 82,
+  "name": "Ponta Membene",
+  "address": "Av. Fernão De Magalhães, Maputo, Mozambique",
+  "phone": "+25821308080",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 83,
+  "name": "Villas Arábias",
+  "address": "14 Avenida 24 de Julho 14 Maputo, 1111, Mozambique",
+  "phone": "1424141111",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 84,
+  "name": "Casa de Hóspedes Oriente II",
+  "address": "65 Av. Armando Tivane, Maputo, Mozambique",
+  "phone": "+258823235180",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 85,
+  "name": "Orquidea GuestHouse Spa \u0026 Restaurant",
+  "address": "Avenida Karl Marx 617 1o Andar Esquerdo Maputo, 0258, Mozambique",
+  "phone": "61710258",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 86,
+  "name": "HOTEL TAMARIZ",
+  "address": "Avenida Kim Il Sung, 550 R. João de Barros, Maputo, Mozambique",
+  "phone": "+258852789335",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 87,
+  "name": "Kampfumo Residencial",
+  "address": "Maputo, Mozambique",
+  "phone": "+258821033002",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 88,
+  "name": "Fatima's Backpackers",
+  "address": "filipe samuel magaia 440 Maputo Cidade de Maputo, 376 Av. Josina Machel, Maputo 1100, Mozambique",
+  "phone": "4403761100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 89,
+  "name": "Hotel Kahina",
+  "address": "770 Av. Patrice Lumumba, Maputo, Mozambique",
+  "phone": "+258828207673",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 90,
+  "name": "Casa de Hóspedes Maputo",
+  "address": "Av. 25 de Setembro, Maputo, Mozambique",
+  "phone": "+258840937500",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 91,
+  "name": "Mozaika",
+  "address": "466 Av. Armando Tivane, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 92,
+  "name": "JN 281",
+  "address": "Avenida Francisco Orlando Magumbwe, Maputo, Mozambique",
+  "phone": "+25821491333",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 93,
+  "name": "Guesthouse Yuba",
+  "address": "627 3236 Av. Julius Nyerere, Maputo, Mozambique",
+  "phone": "+25821484400",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 94,
+  "name": "Hotel Moçambicano",
+  "address": "R. das Rosas, Maputo, Mozambique",
+  "phone": "+258861877777",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 95,
+  "name": "MozGuest Residence",
+  "address": "Avenida para o Palmar, Parcela 141BZ3 Maputo, 1100, Mozambique",
+  "phone": "14131100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 96,
+  "name": "Residencial Horizonte",
+  "address": "Av. Patrice Lumumba, Maputo, Mozambique",
+  "phone": "+25821360360",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 97,
+  "name": "INCANTO RESIDENCIAL",
+  "address": "Av. Patrice Lumumba, Maputo, Mozambique",
+  "phone": "+25821360360",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 98,
+  "name": "MyGuest",
+  "address": "Avenida 24 de Julho 401, Maputo, Mozambique",
+  "phone": "+25821497078",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 99,
+  "name": "Pensao Continental",
+  "address": "Avenida Ho Chi Min N 110, Maputo, Mozambique",
+  "phone": "+25821361333",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 100,
+  "name": "GreenHouse Residence",
+  "address": "56 R. Ngungunhane, Maputo 1100, Mozambique",
+  "phone": "+258843580001",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 101,
+  "name": "Campo de Fiori",
+  "address": "Cardoso, Av. Mártires da Mueda n. 790 em frente ao Hotel, Maputo, Mozambique",
+  "phone": "+258844863661",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 102,
+  "name": "Restaurante Nom",
+  "address": "Avenida Armando Tivane, Maputo, Mozambique",
+  "phone": "+258844445550",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 103,
+  "name": "A CASA DA MARIA",
+  "address": "710 Francisco Orlando Magumbwe, Maputo, Mozambique",
+  "phone": "+258845559640",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 104,
+  "name": "Restaurante Lugar e Meio",
+  "address": "45 Rua de Chuindi, Maputo, Mozambique",
+  "phone": "+258849224673",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 105,
+  "name": "Spazio Restaurant",
+  "address": "Parque dos Cronistas, R. Fernando Ganhão, Maputo, Mozambique",
+  "phone": "+258826844374",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 106,
+  "name": "Bel Piatto",
+  "address": "n 951, Avenida Kim Il Sung, Maputo, Mozambique",
+  "phone": "+258845630823",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 107,
+  "name": "Restaurante Taverna Portuguesa",
+  "address": "Maputo, Mozambique",
+  "phone": "+25821495201",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 108,
+  "name": "Sal \u0026 Grafia",
+  "address": "Avenida Paulo Samuel Kankhomba, Maputo, Mozambique",
+  "phone": "+258849500827",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 109,
+  "name": "Sagres Restaurant",
+  "address": "28 R. da Argélia, Maputo, Mozambique",
+  "phone": "+25821491130",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 110,
+  "name": "Zambi",
+  "address": "Maputo, Mozambique",
+  "phone": "+258847153784",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 111,
+  "name": "A Nossa Tasca",
+  "address": "Rua Consiglieri Pedroso, Maputo, Mozambique",
+  "phone": "+258842012608",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 112,
+  "name": "Tree House",
+  "address": "Rua Pereira Martinho, N-15 Sommerchield Maputo Maputo, 1100, Mozambique",
+  "phone": "+258857565860",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 113,
+  "name": "Maputo Waterfront",
+  "address": "Av. 24 de Julho, Maputo, Mozambique",
+  "phone": "+258846528151",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 114,
+  "name": "Botanica",
+  "address": "3847 Av. da Marginal, Maputo, Mozambique",
+  "phone": "+258833213968",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 115,
+  "name": "Píri Píri",
+  "address": "1258 Av. Mao Tse Tung, Maputo 1100, Mozambique",
+  "phone": "12581100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 116,
+  "name": "Restaurant Costa de Sol",
+  "address": "nr 418 Av. Mao Tse Tung, Maputo, Mozambique",
+  "phone": "+258873026148",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 117,
+  "name": "Manjar dos Deuses",
+  "address": "1152 Av. Mao Tse Tung, Maputo, Mozambique",
+  "phone": "+258844022113",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 118,
+  "name": "Campo Di Mare",
+  "address": "dona alice, Costa do Sol Rua, Maputo, Mozambique",
+  "phone": "+258867865468",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 119,
+  "name": "Mundo's",
+  "address": "Av. dos Mártires da Machava, Maputo 0000, Mozambique",
+  "phone": "+258858721282",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 120,
+  "name": "JN 281",
+  "address": "Radisson Blu Hotel \u0026 Residence, Av. da Marginal, Maputo, Mozambique",
+  "phone": "+25821242400",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 121,
+  "name": "Galaxy Indian Restaurant",
+  "address": "Avenida Armando Tivane, Maputo, Mozambique",
+  "phone": "+258841002001",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 122,
+  "name": "El Patron Restaurant \u0026 Lounge",
+  "address": "Av. Vladimir Lenine, Maputo, Mozambique",
+  "phone": "+258844925222",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 123,
+  "name": "South Beach Maputo",
+  "address": "Rua Beijo da Mulata, Maputo, Mozambique",
+  "phone": "+258822233765",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 124,
+  "name": "Restaurante Casa Do Peixe",
+  "address": "Maputo, Mozambique",
+  "phone": "+258848253194",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 125,
+  "name": "Txhapo Txhapo Restaurante",
+  "address": "Av. 24 de Julho, Maputo, Mozambique",
+  "phone": "+258849778888",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 126,
+  "name": "Taverna View",
+  "address": "955 Av. Alberto Luthuli, Maputo, Mozambique",
+  "phone": "+258852112110",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 127,
+  "name": "Bel Piatto Carne",
+  "address": "Av. 25 de Setembro, Maputo, Mozambique",
+  "phone": "+258879898786",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 128,
+  "name": "Dhow Mozambique",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 129,
+  "name": "Roadside Bar e Restaurante",
+  "address": "296 Rua de Dar-Es-Salaam, Maputo, Mozambique",
+  "phone": "+258855550024",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 130,
+  "name": "Brasa Rio",
+  "address": "1380 Av. Julius Nyerere, Maputo 1900, Mozambique",
+  "phone": "13801900",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 131,
+  "name": "MAMMA MIA LDA",
+  "address": "Rua Mateus Sansao Muthemba, Maputo, Mozambique",
+  "phone": "+25821084186",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 132,
+  "name": "Céu da Boca",
+  "address": "Maputo, Mozambique",
+  "phone": "+258842328887",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 133,
+  "name": "The Backroom",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 134,
+  "name": "da Kota Restaurante",
+  "address": "930 Av. Julius Nyerere, Maputo, Mozambique",
+  "phone": "+25821485030",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 135,
+  "name": "Restaurante A3",
+  "address": "146 Av. Olof Palme, Maputo, Mozambique",
+  "phone": "+258848531928",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 136,
+  "name": "Galaxy Indian Restaurant",
+  "address": "Avenida Kwame Nkrumah, Maputo, Mozambique",
+  "phone": "+258845865273",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 137,
+  "name": "Istambul Restaurant",
+  "address": "Av. 10 de Novembro, 8, Maputo, Mozambique",
+  "phone": "+258843392624",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 138,
+  "name": "Restaurante Cibum",
+  "address": "Av. Julius Nyerere, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 139,
+  "name": "Lola's Place",
+  "address": "Av. da Marginal, Maputo, Mozambique",
+  "phone": "+258870933666",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 140,
+  "name": "Spicy Thai Restaurant Maputo",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 141,
+  "name": "Jimmy's Bar \u0026 Grill",
+  "address": "Av. Marien Ngouabi, Maputo, Mozambique",
+  "phone": "+258876848440",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 142,
+  "name": "Maputo Fish Market",
+  "address": "450 Av. Julius Nyerere, Maputo, Mozambique",
+  "phone": "+258844828714",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 143,
+  "name": "SUNSET (Restaurante, Bar \u0026 Guestt House",
+  "address": "Avenida Mártires da Machava, Avenida Armando Tivane, Maputo, Mozambique",
+  "phone": "+258848180318",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 144,
+  "name": "Restaurante Manjo",
+  "address": "Avenida da Marginal Maputo, 1251, Mozambique",
+  "phone": "+258841012345",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 145,
+  "name": "Restaurante Acácias",
+  "address": "85 R. Ngungunhane, Maputo, Mozambique",
+  "phone": "+258851550000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 146,
+  "name": "Memories Gastrobar",
+  "address": "Av. Valentim Siti, # 407, R/C, Maputo, Mozambique",
+  "phone": "+258846304950",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 147,
+  "name": "Kwetu (Restaurant \u0026 CraftShop)",
+  "address": "Largo da Ilha de Moçambique, Maputo, Mozambique",
+  "phone": "+258843274332",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 148,
+  "name": "Cristal Restaurant",
+  "address": "Rua Mateus Sansao Muthemba, Maputo, Mozambique",
+  "phone": "+258843457570",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 149,
+  "name": "Boa maré",
+  "address": "562 Av. Julius Nyerere, Maputo 0000, Mozambique",
+  "phone": "2+255620000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 150,
+  "name": "Seagull Maputo",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 151,
+  "name": "Restaurant Mahindra",
+  "address": "306 R. da Argélia, Maputo, Mozambique",
+  "phone": "+258840606391",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 152,
+  "name": "BOSKE",
+  "address": "Avenida Marginal , 49 bairro costa do dol N 16 R/C kaM, avota Maputo Cidade MAPUTO Cidade de Maputo, 1100, Mozambique",
+  "phone": "49161100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 153,
+  "name": "Restaurante Caracol",
+  "address": "25 Av. 25 de Setembro, Maputo, Mozambique",
+  "phone": "+25821302618",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 154,
+  "name": "Ocean Restaurante",
+  "address": "326 Av. Julius Nyerere, Maputo 0000, Mozambique",
+  "phone": "+258823013148",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 155,
+  "name": "Pho Viet",
+  "address": "Av. Kenneth Kaunda, Maputo, Mozambique",
+  "phone": "+258861006986",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 156,
+  "name": "Lumma",
+  "address": "Rua Mateus Sansao Muthemba, Maputo, Mozambique",
+  "phone": "+258851912063",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 157,
+  "name": "Restaurante Coqueiro",
+  "address": "Maputo 1000, Mozambique",
+  "phone": "+258847106660",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 158,
+  "name": "Restaurant El Greco",
+  "address": "Av. 25 de Setembro, Maputo, Mozambique",
+  "phone": "+258847003695",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 159,
+  "name": "Aska Japanese / Korean Restaurant",
+  "address": "Rua da Gorongosa, Maputo, Mozambique",
+  "phone": "+258858430255",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 160,
+  "name": "CASABLANCA BEACH RESTAURANT",
+  "address": "201 Rua Mateus Sansao Muthemba, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 161,
+  "name": "Desfrute",
+  "address": "1, 217 Av. Mao Tse Tung, Maputo, Mozambique",
+  "phone": "+258840721737",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 162,
+  "name": "Restaurante Bairro Alto - Maputo",
+  "address": "Av. 24 de Julho, Maputo, Mozambique",
+  "phone": "+258823050566",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 163,
+  "name": "Meet and Meat",
+  "address": "Unnamed Road, Maputo, Mozambique",
+  "phone": "+258847276130",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 164,
+  "name": "O Maritimo",
+  "address": "475 R. da Argélia, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 165,
+  "name": "BAIRRO BISTRO",
+  "address": "698 Av. 24 de Julho, Maputo, Mozambique",
+  "phone": "+258843365121",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 166,
+  "name": "BBQ HOUSE",
+  "address": "Avenida No 36, Av. Marien Ngouabi, Maputo, Mozambique",
+  "phone": "+258877338899",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 167,
+  "name": "Unique Wine Restaurant and Bar",
+  "address": "813 Av. Patrice Lumumba, Maputo, Mozambique",
+  "phone": "+25821422648",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 168,
+  "name": "Graciana, O Sabor Da Tradição",
+  "address": "45 Av. Kenneth Kaunda, Maputo, Mozambique",
+  "phone": "+258865050505",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 169,
+  "name": "Vitrinni Restaurant Lounge Bar",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 170,
+  "name": "TAKA-TAKA",
+  "address": "141 Av. da Marginal, Maputo 1100, Mozambique",
+  "phone": "+258847479441",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 171,
+  "name": "Acacias Vietnamese Restaurant (Nem, Pho, Bun Cha....)",
+  "address": "Shopping Centenário, Av. da Marginal, Maputo, Mozambique",
+  "phone": "+258841000511",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 172,
+  "name": "Golden Sea Restaurant \u0026 Pub",
+  "address": "Antonio Da Conceicao, Maputo, Mozambique",
+  "phone": "+258845583102",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 173,
+  "name": "Park Maputo",
+  "address": "Avenida Zedequias Manganhela Nr 267 R/C Predio JAT IV Maputo, Maputo, Mozambique",
+  "phone": "+258848459222",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 174,
+  "name": "Bel piatto",
+  "address": "Jardim Dona Berta, Maputo, Mozambique",
+  "phone": "+258848268606",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 175,
+  "name": "Vodacom Tudo Bom Canteen",
+  "address": "657 Av. Julius Nyerere, Maputo, Mozambique",
+  "phone": "+258843099993",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 176,
+  "name": "Zaika Restaurant and take away",
+  "address": "nr. 4159 Av. da Marginal, Maputo, Mozambique",
+  "phone": "+258843141745",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 177,
+  "name": "Bom Garfo Rodízio Gourmet",
+  "address": "Rua de Kassuende n° 272, Maputo, Mozambique",
+  "phone": "+258844316034",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 178,
+  "name": "Aquaris Restaurant",
+  "address": "shopping centre, 85 R. Ngungunhane, Maputo 1818, Mozambique",
+  "phone": "+258823114447",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 179,
+  "name": "Café Sukrí",
+  "address": "Rua Ngungunhane, 85 - Loja G 25 R/C Maputo Shopping Center, Mozambique",
+  "phone": "+258847131300",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 180,
+  "name": "Peixe Restaurant",
+  "address": "417 Avenida Kwame Nkrumah, Maputo 1100, Mozambique",
+  "phone": "+258852872874",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 181,
+  "name": "Volare Restaurant Pizzeria \u0026 Bar",
+  "address": "Av. dos Mártires da Machava, Maputo, Mozambique",
+  "phone": "+258844105524",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 182,
+  "name": "Sabor Do Sempre",
+  "address": "Av. Vladimir Lenine, Maputo, Mozambique",
+  "phone": "+258878044770",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 183,
+  "name": "Break Food AZZONA",
+  "address": "Maputo, Mozambique",
+  "phone": "+258849668113",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 184,
+  "name": "TAKDIR , LDA",
+  "address": "4 Rua da Marracuene, Maputo, Mozambique",
+  "phone": "+258843222333",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 185,
+  "name": "Korean Restaurant",
+  "address": "Nr 10 Av. da Marginal, Maputo, Mozambique",
+  "phone": "+258847315191",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 186,
+  "name": "Sabor fresco",
+  "address": "173 Avenida Eduardo Mondlane, Maputo, Mozambique",
+  "phone": "+258845419820",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 187,
+  "name": "ArtFood",
+  "address": "794 Av. Julius Nyerere, Maputo, Mozambique",
+  "phone": "+258831099999",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 188,
+  "name": "Hosana Lunch",
+  "address": "nº 37 Av. Marginal, Maputo, Mozambique",
+  "phone": "+258845430269",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 189,
+  "name": "Shawarma Show",
+  "address": "Avenida Julius Nyerere 281 Maputo, Maputo, Mozambique",
+  "phone": "+258856425385",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 190,
+  "name": "BiQUi",
+  "address": "Av. Julius Nyerere, Maputo, Mozambique",
+  "phone": "+258823054267",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 191,
+  "name": "Azul Restaurant \u0026 Bar",
+  "address": "Av. Transversal Base N'tchinga Maputo, 2013, Mozambique",
+  "phone": "+258822541940",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 192,
+  "name": "Buso restaurant bar gelataria",
+  "address": "Maputo, Mozambique",
+  "phone": "+258823255120",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 193,
+  "name": "Wine Lovers - Restaurante e Winehouse",
+  "address": "10249 Av. da Marginal, Maputo, Mozambique",
+  "phone": "+258822282772",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 194,
+  "name": "The Deck - Restaurante e Bar",
+  "address": "Av. Julius Nyerere, Maputo, Mozambique",
+  "phone": "+258844686367",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 195,
+  "name": "Maputo Shopping Centre",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 196,
+  "name": "Baía Mall",
+  "address": "R. da Beira, Maputo, Mozambique",
+  "phone": "+258843659450",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 197,
+  "name": "Polana Shopping Center",
+  "address": "Unnamed Road, Maputo, Mozambique",
+  "phone": "+258847410191",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 198,
+  "name": "Marés Shopping",
+  "address": "Maputo Shopping Centre | 1º Andar | Loja 147, 85 R. Ngungunhane, Maputo, Mozambique",
+  "phone": "+25821329188",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 199,
+  "name": "Tiger Center",
+  "address": "Av. Julius Nyerere, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 200,
+  "name": "Laulane Shopping Center",
+  "address": "Maputo, Mozambique",
+  "phone": "+25821302763",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 201,
+  "name": "JAT Center",
+  "address": "Av. da Marginal, Maputo, Mozambique",
+  "phone": "+258823083655",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 202,
+  "name": "Eco Plaza",
+  "address": "Maputo, Mozambique",
+  "phone": "+258848839662",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 203,
+  "name": "Continental comercial",
+  "address": "R. dos Desportistas, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 204,
+  "name": "CASA DAS CAMAS",
+  "address": "Av. de Marginal, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 205,
+  "name": "Edificio Shop 24",
+  "address": "Maputo, Mozambique",
+  "phone": "+258826345789",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 206,
+  "name": "Manhique Family",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 207,
+  "name": "Zimpeto's Centrale Market",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 208,
+  "name": "Centro de copia",
+  "address": "R. de São Pedro, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 209,
+  "name": "Gloria Mall",
+  "address": "Rua Consiglieri Pedroso, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 210,
+  "name": "Elite Shopping Center",
+  "address": "Av. União Africana, Nr 4200, Cidade da Matola, Mozambique",
+  "phone": "+258847278187",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 211,
+  "name": "Okapi plaza",
+  "address": "Av. Josina Machel, Maputo, Mozambique",
+  "phone": "+258825797487",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 212,
+  "name": "Zimpeto Business Centre",
+  "address": "Rua Consiglieri Pedroso, Maputo, Mozambique",
+  "phone": "+258846665810",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 213,
+  "name": "Atlantico continental",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 214,
+  "name": "Cicoti",
+  "address": "Avenida Julius Nyerere, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 215,
+  "name": "Cicoti",
+  "address": "Matola malhampsene, Matola, Mozambique",
+  "phone": "+258840344560",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 216,
+  "name": "THANDAVANTO SHOPPING CENTER",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 217,
+  "name": "EIP Mocambique, P33 Andares",
+  "address": "Loja 3, 256 R. da Imprensa, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 218,
+  "name": "Centro Comercial Nkanhine Plaza",
+  "address": "Av. Amilcar Cabral, Maputo, Mozambique",
+  "phone": "+258852495470",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 219,
+  "name": "Mux Kids Shop",
+  "address": "Portagem Matola - Maputo, N4, EN2, Mozambique",
+  "phone": "+258879555505",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 220,
+  "name": "Copias1",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 221,
+  "name": "Centro Comercial Tubiakanga",
+  "address": "0000 R. do Maputo, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 222,
+  "name": "Armazèns Atlântico Comercial Lda",
+  "address": "Rua da Resistência, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 223,
+  "name": "PLAZA SHOPPING",
+  "address": "km 19, 568 Av. de Moçambique, Maputo 1100, Mozambique",
+  "phone": "195681100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 224,
+  "name": "Ologa  Sede",
+  "address": "Av. 25 de Setembro, Maputo, Mozambique",
+  "phone": "+25821303960",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 225,
+  "name": "Loja Zuneid",
+  "address": "Av. Filipe Samuel Magaia, Maputo, Mozambique",
+  "phone": "+25821324137",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 226,
+  "name": "Toys Center Lda",
+  "address": "Maputo, Mozambique",
+  "phone": "+258873824230",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 227,
+  "name": "Container Market",
+  "address": "THANDAVANTO SHOPPING CENTER Boane Maputo, 1114, Mozambique",
+  "phone": "+258827778025",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 228,
+  "name": "Mizy Trading, Lda.",
+  "address": "Avenida Do Trabalho, Maputo, Mozambique",
+  "phone": "+25821750040",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 229,
+  "name": "C\u0026S Atelier",
+  "address": "Avenida Do Trabalho, Maputo, Mozambique",
+  "phone": "+25821750040",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 230,
+  "name": "Luna Shopping",
+  "address": "Maputo, Mozambique",
+  "phone": "+258848839662",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 231,
+  "name": "Dalito Car Wash",
+  "address": "103 Av. Vladimir Lenine, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 232,
+  "name": "Ourivesaria pala",
+  "address": "Av. Alberto Luthuli, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 233,
+  "name": "Afro-caça",
+  "address": "N1, Maputo, Mozambique",
+  "phone": "+258870999999",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 234,
+  "name": "Novare Matola Mall",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 235,
+  "name": "Papelaria Vino",
+  "address": "R. da Beira, Maputo, Mozambique",
+  "phone": "+258872524000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 236,
+  "name": "Maputo shopping centre",
+  "address": "Maputo, Mozambique",
+  "phone": "+258844296723",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 237,
+  "name": "Dumba Nengue do Bagamoyo",
+  "address": "4441 Av. da Marginal, Maputo, Mozambique",
+  "phone": "+258851111222",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 238,
+  "name": "MOZAMBIQUE XINHONG INTERNATIONAL TRADING, LIMITADA",
+  "address": "Av. 24 de Julho, Maputo, Mozambique",
+  "phone": "+258846610440",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 239,
+  "name": "The Matola Hotel",
+  "address": "Unnamed Road, Jamo, Mozambique",
+  "phone": "+258842709705",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 240,
+  "name": "Polana Serena Hotel",
+  "address": "1380 Av. Julius Nyerere, Maputo 1900, Mozambique",
+  "phone": "13801900",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 241,
+  "name": "HOTEL AL-KHALIL MATOLA",
+  "address": "Portagem Matola - Maputo, N4,, N2, Mozambique",
+  "phone": "+258844017860",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 242,
+  "name": "Palmeiras Guest House Matola",
+  "address": "Av. das Indústrias, Machava, Mozambique",
+  "phone": "+258844017860",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 243,
+  "name": "Hotel Al-Khalil Machava",
+  "address": "Avenida Ngungunhana casa 1039 Qrt26, Matola, Mozambique",
+  "phone": "+258847074869",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 244,
+  "name": "Cristina´s Home Natural Feelings",
+  "address": "TL 1510, Avenida Acordo Incomáti, Matola, Mozambique",
+  "phone": "+258850674063",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 245,
+  "name": "Garden Lodge",
+  "address": "Matola, Maputo, Mozambique",
+  "phone": "+258845754091",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 246,
+  "name": "Sylvannah Guest House",
+  "address": "Matola, Mozambique",
+  "phone": "+258845789356",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 247,
+  "name": "40/40 Accomodation Guesthouse",
+  "address": "56 R. Ngungunhane, Maputo 1100, Mozambique",
+  "phone": "+258843580001",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 248,
+  "name": "Afrin Prestige",
+  "address": "Av. Da Namaacha, Matola 1114, Mozambique",
+  "phone": "+258843116573",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 249,
+  "name": "Palm Aparthotel",
+  "address": "N2 Km 6, Matola 0001, Mozambique",
+  "phone": "+258843053838",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 250,
+  "name": "Montebelo Indy Maputo Congress Hotel",
+  "address": "Avenida Agostinho Neto, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 251,
+  "name": "Jacaranda Guesthouse \u0026 Restaurant",
+  "address": "R. Simões da Silva, Maputo, N62, Mozambique",
+  "phone": "+258824038736",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 252,
+  "name": "Catembe Gallery Hotel",
+  "address": "Av. Filipe Samuel Magaia, Maputo, Mozambique",
+  "phone": "+258842996570",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 253,
+  "name": "Melia Maputo Sky",
+  "address": "N4, N2, Maputo, Mozambique",
+  "phone": "+25821780372",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 254,
+  "name": "Sundown Guest House",
+  "address": "12 Av. Olof Palme, Maputo, Mozambique",
+  "phone": "+258824129670",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 255,
+  "name": "Fig Tree Guest house",
+  "address": "961 Av. Filipe Samuel Magaia, Maputo, Mozambique",
+  "phone": "+25821310600",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 256,
+  "name": "Pestana Rovuma",
+  "address": "Marracuene, Mozambique",
+  "phone": "+258823349474",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 257,
+  "name": "WONNA BAY VILA",
+  "address": "480 Av. Emília Daússe, Maputo, Mozambique",
+  "phone": "+25821326404",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 258,
+  "name": "Hotel Terminus",
+  "address": "Avenida Julius Nyerere 281 Maputo, Maputo, Mozambique",
+  "phone": "+258856425385",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 259,
+  "name": "BONGA VILLA BOUTIQUE HOTEL",
+  "address": "Debonairs Matola, Debonair's Pizza, Ave. União Africana, Matola Cidade, Av. União Africana, Maputo 1006, Mozambique",
+  "phone": "+258848065419",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 260,
+  "name": "Jacaranda Guesthouse \u0026 Restaurant",
+  "address": "maputo mozambique Matola Belo Horizonte, carteirao 13, casa nr 619, Matola 1114, Mozambique",
+  "phone": "136191114",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 261,
+  "name": "Arabias Boutique Hotel",
+  "address": "2, Estrada Nacional NR2 Parcela 739/B/3, Matola, Mozambique",
+  "phone": "+258878253400",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 262,
+  "name": "WONNA BAY VILA",
+  "address": "Rua dos Herois Mocambicanos, Talhao 174 174, Cidade da Matola 2172, Mozambique",
+  "phone": "1741742172",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 263,
+  "name": "Stay Inn - Guest house",
+  "address": "Belo Horizonte, Mozambique",
+  "phone": "+258871000004",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 264,
+  "name": "Hotel Avenida",
+  "address": "Rua Regulo Xavier da Matola 344, Matola 1114, Mozambique",
+  "phone": "+258848201025",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 265,
+  "name": "Angel Guest House",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 266,
+  "name": "MAPUTO AFECC GLORIA HOTEL",
+  "address": "Maputo, Mozambique",
+  "phone": "+258829344535",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 267,
+  "name": "Joli GuestHouse",
+  "address": "Avenida Mario Esteves Coluna 61, Matola 6100, Mozambique",
+  "phone": "+25821721169",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 268,
+  "name": "Blu Sky Hotel",
+  "address": "Rua mahtlovele n 637, Matola, Mozambique",
+  "phone": "+258846851943",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 269,
+  "name": "Triunfo Guest House",
+  "address": "Unnamed Road, Matola, Mozambique",
+  "phone": "+258872100456",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 270,
+  "name": "Guesthouse 1109",
+  "address": "Matola, Mozambique",
+  "phone": "+258824824750",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 271,
+  "name": "Monte Carlo",
+  "address": "Av.30 de Janeiro N 116/1, 9258 Matola, Maputo, Mozambique",
+  "phone": "3011619258",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 272,
+  "name": "Hotel Atlantis 2",
+  "address": "Matola, Mozambique",
+  "phone": "+258843002810",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 273,
+  "name": "Polana Plaza Hotel",
+  "address": "Matola, Mozambique",
+  "phone": "+258845470875",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 274,
+  "name": "Pensão Martins",
+  "address": "N4, Matola 1114, Mozambique",
+  "phone": "+258848734461",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 275,
+  "name": "Hotel Cardoso",
+  "address": "Av 24 de Julho, 563 R. dos Lusiadas, Maputo 1101, Mozambique",
+  "phone": "245631101",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 276,
+  "name": "MH Residencial",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 277,
+  "name": "Tivoli-Maputo Hotel",
+  "address": "798 Av. Emília Daússe, Maputo, Mozambique",
+  "phone": "+258827864499",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 278,
+  "name": "Polana Guest House \u0026 Apartments",
+  "address": "Sequata, Mozambique",
+  "phone": "+258852287814",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 279,
+  "name": "Resotel",
+  "address": "2116 Avenida Eduardo Mondlane, Maputo, Mozambique",
+  "phone": "+258870090988",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 280,
+  "name": "Terra Guest House",
+  "address": "1103 Avenida Agostinho Neto, Maputo, Mozambique",
+  "phone": "+25884333000121319191",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 281,
+  "name": "Hotel Kapital",
+  "address": "Maputo, Mozambique",
+  "phone": "+258844441197",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 282,
+  "name": "The Base Backpackers",
+  "address": "Avenida Kwame Nkrumah, Maputo, Mozambique",
+  "phone": "+258846688300",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 283,
+  "name": "Montebelo Girassol Maputo Hotel",
+  "address": "Rua da Goa Casa 92, Quarteirao 2, Maputo 1200, Mozambique",
+  "phone": "+258848846825",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 284,
+  "name": "Catembe Beach Lodge",
+  "address": "Rua Almeida Garrett 40, Maputo, Mozambique",
+  "phone": "+258825948590",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 285,
+  "name": "Malagueta Inn",
+  "address": "3015 Av. Vladimir Lenine, Maputo, Mozambique",
+  "phone": "+258862364444",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 286,
+  "name": "Casa Quimera",
+  "address": "Rua de Tchamba, Maputo, Mozambique",
+  "phone": "+258841421668",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 287,
+  "name": "City Lodge Hotel Maputo",
+  "address": "Avenida Ho Chi Min N 110, Maputo, Mozambique",
+  "phone": "+25821361333",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 288,
+  "name": "TAKA-TAKA",
+  "address": "Avenida Mártires da Machada, nº 1309, Maputo 0000, Mozambique",
+  "phone": "13090000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 289,
+  "name": "Residencial Horizonte 2",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 290,
+  "name": "StayEasy Maputo",
+  "address": "7, Rua A Casa 470 Romão Q 23, Maputo, Mozambique",
+  "phone": "+258848989239",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 291,
+  "name": "Moringa Guest House",
+  "address": "Avenida da Zambia 354 Maputo, 0258, Mozambique",
+  "phone": "+258871707070",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 292,
+  "name": "Hotel Santa Cruz",
+  "address": "Dona Alice - Costa do Sol, 1778 Rua Engenheiro Santos Resenoe, Maputo, Mozambique",
+  "phone": "+258845559000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 293,
+  "name": "Vip Grand Maputo",
+  "address": "Av. 25 de Setembro, Maputo, Mozambique",
+  "phone": "+258840937500",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 294,
+  "name": "Hotel 2001",
+  "address": "Avenida 25 de Setembro, nº 692, Maputo 0000, Mozambique",
+  "phone": "256920000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 295,
+  "name": "ONOMO Hotel Maputo",
+  "address": "Av. Fernão De Magalhães, Maputo, Mozambique",
+  "phone": "+25821308080",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 296,
+  "name": "RESIDENCIAL HORIZONTE DELUXE",
+  "address": "1417 Av. 24 de Julho, Maputo, Mozambique",
+  "phone": "+25821303004",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 297,
+  "name": "Green house lodge",
+  "address": "798 Av. Emília Daússe, Maputo, Mozambique",
+  "phone": "+258823219210",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 298,
+  "name": "Liv Inn Guest House",
+  "address": "Av. da Marginal, Maputo, Mozambique",
+  "phone": "+258820607030",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 299,
+  "name": "VIP Executive Suites Maputo Aparthotel",
+  "address": "33 Rua Comandante Augusto Cardoso, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 300,
+  "name": "Hotel Maputo",
+  "address": "Avenida para o Palmar, Parcela 141BZ3 Maputo, 1100, Mozambique",
+  "phone": "14131100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 301,
+  "name": "Akua by Polana guest house",
+  "address": "Avenida Karl Marx 617 1o Andar Esquerdo Maputo, 0258, Mozambique",
+  "phone": "61710258",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 302,
+  "name": "Otia Hotel",
+  "address": "Bairro Chali Rua B nr 67, Maputo, Mozambique",
+  "phone": "+258845789356",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 303,
+  "name": "Quiet Corner Guest House",
+  "address": "14 Avenida 24 de Julho 14 Maputo, 1111, Mozambique",
+  "phone": "1424141111",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 304,
+  "name": "Museu Mafalala B\u0026B",
+  "address": "770 Av. Patrice Lumumba, Maputo, Mozambique",
+  "phone": "+258828207673",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 305,
+  "name": "Jardim das Acácias",
+  "address": "Av. Patrice Lumumba, Maputo, Mozambique",
+  "phone": "+25821360360",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 306,
+  "name": "Angel Guest House, Maputo",
+  "address": "310 Av. Mao Tse Tung, Maputo, Mozambique",
+  "phone": "+258856430504",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 307,
+  "name": "AERO-PARK RESIDENCIAL ( B\u0026B)",
+  "address": "Rua de Tchamba, N281, Mozambique",
+  "phone": "+258848655555",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 308,
+  "name": "Hotel Africa Maputo Business",
+  "address": "1304 Av. Karl Marx, Maputo, Mozambique",
+  "phone": "+25821320929",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 309,
+  "name": "Acacia Guesthouse",
+  "address": "Avenida Tomás Nduda Maputo Cidade de Maputo, 1106, Mozambique",
+  "phone": "+258841421668",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 310,
+  "name": "Hotel Escola ICM",
+  "address": "Av. Samora Machel , Quarteirao 01 , Parcela nr 372 Matola B, 1101, Mozambique",
+  "phone": "013721101",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 311,
+  "name": "Mulotane Lodge",
+  "address": "1321, 340 Av. 25 de Setembro, Maputo, Mozambique",
+  "phone": "132134025",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 312,
+  "name": "Quinta Oasis",
+  "address": "707 Avenida dos Mártires de Mueda, Maputo, Mozambique",
+  "phone": "+258844910721",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 313,
+  "name": "Aldeia Guest House",
+  "address": "Av. 24 de Julho, Maputo, Mozambique",
+  "phone": "+258845638602",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 314,
+  "name": "LEMON TREE GUESTHOUSE",
+  "address": "466 Av. Armando Tivane, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 315,
+  "name": "Casa da Jo Guesthouse",
+  "address": "1109 Av. Patrice Lumumba, Maputo, Mozambique",
+  "phone": "+258843344520",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 316,
+  "name": "Matola Maritima Lodge",
+  "address": "Av. Patrice Lumumba, Maputo, Mozambique",
+  "phone": "+25821304048",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 317,
+  "name": "GuestHouse Matola",
+  "address": "Avenida Paulo Samuel Kankhomba, Maputo, Mozambique",
+  "phone": "+258841322380",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 318,
+  "name": "Vila Teresa",
+  "address": "Rua das Mafureiras, Maputo, Mozambique",
+  "phone": "+258841500060",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 319,
+  "name": "Matola Garden - Guest House \u0026 Spa",
+  "address": "filipe samuel magaia 440 Maputo Cidade de Maputo, 376 Av. Josina Machel, Maputo 1100, Mozambique",
+  "phone": "4403761100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 320,
+  "name": "Residencial Kaya Kwanga",
+  "address": "125 Rua Orlando Mendes, Maputo, Mozambique",
+  "phone": "+258848591409",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 321,
+  "name": "Chiuta",
+  "address": "AV DA MARGINAL N 4441；, MAPUTO AV DA MARGINAL 4441, Mozambique",
+  "phone": "44414441",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 322,
+  "name": "Ushaka Hotel",
+  "address": "Av. Marginal Nº 4159, 4159, Av. da Marginal, Maputo, Mozambique",
+  "phone": "41594159",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 323,
+  "name": "Zulf Guest House",
+  "address": "Avenida Kim Il Sung, 550 R. João de Barros, Maputo, Mozambique",
+  "phone": "+258852789335",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 324,
+  "name": "Travellers Inn",
+  "address": "Maputo, Mozambique",
+  "phone": "+25821300199",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 325,
+  "name": "Matola Guest House",
+  "address": "627 3236 Av. Julius Nyerere, Maputo, Mozambique",
+  "phone": "+25821484400",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 326,
+  "name": "Matola Hotel Village",
+  "address": "698 Av. 24 de Julho, Maputo, Mozambique",
+  "phone": "+25821328945",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 327,
+  "name": "Wuyane Guest House",
+  "address": "Rua A, 150, Catembe, Mozambique",
+  "phone": "+258867884699",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 328,
+  "name": "Lar Feliz Acomodação",
+  "address": "R. das Rosas, Maputo, Mozambique",
+  "phone": "+258861877777",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 329,
+  "name": "Golda Hotels \u0026 Accommodation",
+  "address": "Rua A, 150, Catembe, Mozambique",
+  "phone": "+258867884699",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 330,
+  "name": "JN 281",
+  "address": "Avenida Francisco Orlando Magumbwe, Maputo, Mozambique",
+  "phone": "+25821491333",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 331,
+  "name": "Quinta Oazis",
+  "address": "65 Av. Armando Tivane, Maputo, Mozambique",
+  "phone": "+258823235180",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 332,
+  "name": "GUEST HOUSE MODERNA",
+  "address": "Maputo, Mozambique",
+  "phone": "+258821033002",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 333,
+  "name": "Hotel Kahina",
+  "address": "Rua da Sé, 114, Maputo 4376, Mozambique",
+  "phone": "+25821305000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 334,
+  "name": "Hotel Moçambicano",
+  "address": "65 Av. Armando Tivane, Maputo, Mozambique",
+  "phone": "+258823235180",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 335,
+  "name": "Casa de Hóspedes Oriente II",
+  "address": "Rua 1301, Maputo, Mozambique",
+  "phone": "+258843137202",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 336,
+  "name": "Maxi's Restaurant",
+  "address": "Matola, Mozambique",
+  "phone": "+258840207455",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 337,
+  "name": "Tio Manel Restaurante",
+  "address": "Matola, Mozambique",
+  "phone": "+258842415242",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 338,
+  "name": "Central Park",
+  "address": "Avenida Abel Baptista, 10 EN 4, Mozambique",
+  "phone": "+258821501473",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 339,
+  "name": "Emporium Wine \u0026 Dine",
+  "address": "Matola, Mozambique",
+  "phone": "+258843789970",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 340,
+  "name": "Brasa Rio",
+  "address": "R. da Namíbia, Matola, Mozambique",
+  "phone": "+258848712549",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 341,
+  "name": "Mundos",
+  "address": "Matola, Mozambique",
+  "phone": "+258846509035",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 342,
+  "name": "Galaxy Indian Restaurant",
+  "address": "Avenida União Africana Matola, 2013, Mozambique",
+  "phone": "+258845062348",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 343,
+  "name": "Bom Pastor",
+  "address": "557 Avenida Zedequias Manganhela, Matola, Mozambique",
+  "phone": "+258845794081",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 344,
+  "name": "Lusitano",
+  "address": "Matola, Mozambique",
+  "phone": "+258844387219",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 345,
+  "name": "Lusitano II",
+  "address": "Bairro Da Liberdade, Matola, Mozambique",
+  "phone": "+258867037547",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 346,
+  "name": "Casa Aroma Matola",
+  "address": "Matola, Mozambique",
+  "phone": "+258860737916",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 347,
+  "name": "Lusitano",
+  "address": "Malhampsene Paragem 120, Matola, Mozambique",
+  "phone": "+258848164428",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 348,
+  "name": "The Good Chicken Matola",
+  "address": "Unnamed Road, Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 349,
+  "name": "O Beco do HAMburguer",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 350,
+  "name": "Sr.KOFTE",
+  "address": "Matola, Mozambique",
+  "phone": "+258847552374",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 351,
+  "name": "Saurakh Restaurant Matola",
+  "address": "Bairro Patrice Lumumba, Matola, Mozambique",
+  "phone": "+258856891126",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 352,
+  "name": "Carlos Restaurante",
+  "address": "Matola, Mozambique",
+  "phone": "+258845203276",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 353,
+  "name": "Restaurante Tonecas",
+  "address": "Matola, Mozambique",
+  "phone": "+258848881549",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 354,
+  "name": "Bombay Indian Restaurant",
+  "address": "Godinho, Matola, Mozambique",
+  "phone": "+258840441244",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 355,
+  "name": "Adega Do Tamarindo",
+  "address": "Fernão Lopes n 207, Matola, Mozambique",
+  "phone": "+258865801186",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 356,
+  "name": "Wonders Grill House",
+  "address": "Av. Mario Esteves Coluna, 654 - Matola Matola Maputo, 1114, Mozambique",
+  "phone": "+258857459999",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 357,
+  "name": "Mimmo's",
+  "address": "Matola, Mozambique",
+  "phone": "+258852441626",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 358,
+  "name": "Kacehaal Restaurant",
+  "address": "Rua Zaida Lhongo, Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 359,
+  "name": "Muliba - Restaurante, Bar \u0026 Lounge",
+  "address": "Av. 25 de Setembro, Matola, Mozambique",
+  "phone": "+258847140085",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 360,
+  "name": "VENEZIA Café \u0026 Restaurante",
+  "address": "Fomento, Av. 25 de Setembro, Mozambique",
+  "phone": "+258846393935",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 361,
+  "name": "Libombos",
+  "address": "Maputo, Matola, Mozambique",
+  "phone": "+258842563727",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 362,
+  "name": "Indian Chef",
+  "address": "Unnamed Road, Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 363,
+  "name": "Zorba",
+  "address": "N4, Maputo, Mozambique",
+  "phone": "+258848229877",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 364,
+  "name": "Sabor na Grelha (No Xissak)",
+  "address": "Av. União Africana, Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 365,
+  "name": "Yo Yo",
+  "address": "av 04 de outubro zona verde Matola Maputo, 1114, Mozambique",
+  "phone": "+258846113073",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 366,
+  "name": "B-Tongas \u0026 Sons",
+  "address": "Unnamed Road, Rua de Palmas, Matola, Mozambique",
+  "phone": "+258820291336",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 367,
+  "name": "Taguta Restaurante",
+  "address": "En2 João Mateus Matola, 8080, Mozambique",
+  "phone": "+258852604907",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 368,
+  "name": "Café Jazz Spoon",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 369,
+  "name": "Bibos Cheesesteaks Matola",
+  "address": "Matola 700,Rua da Padaria Boane, Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 370,
+  "name": "JUPITER RESTAURANT \u0026 BAR",
+  "address": "Matola, Mozambique",
+  "phone": "+258845312975",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 371,
+  "name": "Restaurante Os Pinheiros",
+  "address": "Nr. 868 Mozal Road, Matola, Mozambique",
+  "phone": "+258864040410",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 372,
+  "name": "Secret Garden",
+  "address": "Parque dos Poetas, Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 373,
+  "name": "Anrid Cafes",
+  "address": "Av. das Indústrias, Matola, Mozambique",
+  "phone": "+258841000901",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 374,
+  "name": "Pizzaria Reem - Matola",
+  "address": "Av: Francisco manyanga Matola \"A Matola Maputo, 1114, Mozambique",
+  "phone": "+258849494798",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 375,
+  "name": "Take Away NYELETII",
+  "address": "Machava, Cidade da Matola, Bunhiça, Matola, Mozambique",
+  "phone": "+258870516126",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 376,
+  "name": "Raw and Rare Sushi and Restobar",
+  "address": "Rua da mozal, Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 377,
+  "name": "Na Jú",
+  "address": "Unnamed Road, Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 378,
+  "name": "Café Mozal",
+  "address": "Matola, Mozambique",
+  "phone": "+258842688005",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 379,
+  "name": "yo yo",
+  "address": "Matola-Rio rua da Mozal n. 22191, Matola, Mozambique",
+  "phone": "+258866067611",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 380,
+  "name": "King Pie",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 381,
+  "name": "Restaurante A Portuguesa",
+  "address": "Matola Maputo, 1112, Mozambique",
+  "phone": "+258840170789",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 382,
+  "name": "Boka Boka Take Away",
+  "address": "Escola Secundaria Matola, AV. Unidade Nacional casa n 99 ,Por tras, Matola 0000, Mozambique",
+  "phone": "+258847460885",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 383,
+  "name": "Take Away ASH",
+  "address": "Avenida da Matola, Matola, Moçambique Rua da fábrica de, Jamo, Mozambique",
+  "phone": "+258824414110",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 384,
+  "name": "Na Brasa",
+  "address": "Avenida josina Machel Machava-Matola Machava, Matola, Mozambique",
+  "phone": "+258868000901",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 385,
+  "name": "Grill Master",
+  "address": "Rua da Mozal, nº.189 Matola Rio, Maputo, Mozambique",
+  "phone": "+258841257015",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 386,
+  "name": "Le Baron Restaurant \u0026 Bar",
+  "address": "1100 Matola, 1100, Mozambique",
+  "phone": "11001100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 387,
+  "name": "Restaurant Kafofo",
+  "address": "Matola, Mozambique",
+  "phone": "+258846051790",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 388,
+  "name": "Escola de Culinária Assma Matola",
+  "address": "Av. Samorá machel En4 Próximo Empresa Bader Construção Lda, Matola, Mozambique",
+  "phone": "+258842345676",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 389,
+  "name": "PASTELARIA REEM",
+  "address": "Av. Samora Machel, Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 390,
+  "name": "Cafe’ sorriso",
+  "address": "3a, Estrada Circular, Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 391,
+  "name": "Lá capricciosa Pizza",
+  "address": "Av. União Africana, Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 392,
+  "name": "Matiko´s Firmino",
+  "address": "Av. Eduardo Mondlane, Matola, Mozambique",
+  "phone": "+258850222888",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 393,
+  "name": "Pantera Restaurante Grill",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 394,
+  "name": "Caminho de Casa",
+  "address": "Av. 25 de Setembro, Matola, Mozambique",
+  "phone": "+258840333311",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 395,
+  "name": "SABOR INTENSO",
+  "address": "Rua da Mozal Ao próximo Posto Administrativo da Matola Matola, 7100, Mozambique",
+  "phone": "+258847627569",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 396,
+  "name": "Zamzibar Churasqueira",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 397,
+  "name": "Restaurante llm",
+  "address": "2FR2+HP9 João Mateus, Av.da namaacha, Matola, Mozambique",
+  "phone": "+258845808410",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 398,
+  "name": "Guo Guo Restaurante",
+  "address": "Rua da Mozal155, Matola, Mozambique",
+  "phone": "+258845222277",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 399,
+  "name": "Esquina do Bairro",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 400,
+  "name": "Churrasqueira Xindzavane",
+  "address": "djuba n'298, rua da mozal, Matola, Mozambique",
+  "phone": "+258846785280",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 401,
+  "name": "Food Deliver.MZ",
+  "address": "Matola, Mozambique",
+  "phone": "+258845022777",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 402,
+  "name": "El-Tchaco",
+  "address": "Nr. 472 Av. Zedequias Manganhela, Matola, Mozambique",
+  "phone": "+258846905281",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 403,
+  "name": "Garden View",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 404,
+  "name": "Food Lovers Matola Rio",
+  "address": "Matola, Mozambique",
+  "phone": "+258848084155",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 405,
+  "name": "La capricciosa pizza 2",
+  "address": "av.samora machel, Matola, Mozambique",
+  "phone": "+258844351404",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 406,
+  "name": "Wonder’s Grill House",
+  "address": "Rua da Mozal, Matola, Mozambique",
+  "phone": "+258848997237",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 407,
+  "name": "Restaurante Barriguinhas",
+  "address": "Avenida Francisco Manyanga, Nº 924 Cidade da Matola, 1114, Mozambique",
+  "phone": "+258845474859",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 408,
+  "name": "DJUBA LIFESTYLE - Real Vibes \u0026 Good Flavours",
+  "address": "N4, Matola, Mozambique",
+  "phone": "+258850200008",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 409,
+  "name": "Eat and Drink.Mz",
+  "address": "Matola, Mozambique",
+  "phone": "+258845095716",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 410,
+  "name": "Cafe Paraiso",
+  "address": "Near, Matola, Mozambique",
+  "phone": "+258843380580",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 411,
+  "name": "Crazy Burgers Moz",
+  "address": "Matola, Patrice Lumumba, Rua U, Q.27 Matola Maputo, 1112, Mozambique",
+  "phone": "+258842917189",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 412,
+  "name": "Muzza Pizzarias",
+  "address": "Rua da Mozal, Matola, Mozambique",
+  "phone": "+258845222222",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 413,
+  "name": "Restaurante parafuso",
+  "address": "Matola, Mozambique",
+  "phone": "+258824488056",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 414,
+  "name": "Santorini Restaurante \u0026 Bar",
+  "address": "Matola, Mozambique",
+  "phone": "+258844588882",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 415,
+  "name": "The Green Garden",
+  "address": "Matola, Mozambique",
+  "phone": "+258820868735",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 416,
+  "name": "Comercio",
+  "address": "Rua das Salinas, Parcela 790, Talhão 227 Matola \"C\", Mozambique, Mozambique",
+  "phone": "+258853004385",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 417,
+  "name": "Cantinho dos sabores",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 418,
+  "name": "Dylan's Takeaway",
+  "address": "Fomento Matola, 73 Av. Patrice Lumumba, Matola, Mozambique",
+  "phone": "+258870200011",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 419,
+  "name": "Wonders Grill House",
+  "address": "Mapandane Matola Maputo Matola, Maputo 1114, Mozambique",
+  "phone": "+258846103524",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 420,
+  "name": "Moz Potatoes",
+  "address": "Av. da Liberdade, n° 621 - R/C Matola Maputo, 1100, Mozambique",
+  "phone": "+258857459999",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 421,
+  "name": "Restaurante Barriga Cheia",
+  "address": "João Mateus Bus Stop, EN2, Matola, Mozambique",
+  "phone": "+258841001011",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 422,
+  "name": "Na Bonga Restaurante \u0026 Bar",
+  "address": "Matola, Mozambique",
+  "phone": "+258846939075",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 423,
+  "name": "Loja Thuzine - Matola D",
+  "address": "No 2664, Qurterao 7, Av. Samora Machel Bairro da Matola Matola, 1114, Mozambique",
+  "phone": "266471114",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 424,
+  "name": "Tacho Perfeito",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 425,
+  "name": "Lanchonete Salsa e Pimenta",
+  "address": "Matola, Mozambique",
+  "phone": "+258866200820",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 426,
+  "name": "Teka Famba",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 427,
+  "name": "KFC",
+  "address": "Rua Almirante, Alves Leite, 0000, Matola, Mozambique",
+  "phone": "+258849116686",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 428,
+  "name": "Chuchu Pool\u0026Bar",
+  "address": "Av. das Indústrias, Município da Matola Matola Maputo, 8274, Mozambique",
+  "phone": "+258841686665",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 429,
+  "name": "Deep Inside Food Take Away",
+  "address": "Matola, Mozambique",
+  "phone": "+25821724883",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 430,
+  "name": "PLAZA SHOPPING",
+  "address": "Portagem Matola - Maputo, N4, EN2, Mozambique",
+  "phone": "+258879555505",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 431,
+  "name": "Novare Matola Mall",
+  "address": "AV. DOUTOR ALBERTO KUTHUMULA N°580, Matola, Mozambique",
+  "phone": "+258844420692",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 432,
+  "name": "Luna Shopping",
+  "address": "Av. União Africana, Matola, Mozambique",
+  "phone": "+258852765295",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 433,
+  "name": "AmyliciousMatola",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 434,
+  "name": "Vovo Gomes",
+  "address": "Av. União Africana, Nr 4200, Cidade da Matola, Mozambique",
+  "phone": "+258847278187",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 435,
+  "name": "Adnan Business Center",
+  "address": "Matola, Mozambique",
+  "phone": "+258877102630",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 436,
+  "name": "Parque de estacionamento",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 437,
+  "name": "Sonital Plaza",
+  "address": "Av Samora Machel, Matola, Mozambique",
+  "phone": "+258840495675",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 438,
+  "name": "Mercado Santos",
+  "address": "Matola malhampsene, Matola, Mozambique",
+  "phone": "+258840344560",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 439,
+  "name": "Palmeiras Shopping Center",
+  "address": "Av. Filipe Samuel Magaia, Maputo, Mozambique",
+  "phone": "+25821324137",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 440,
+  "name": "Círculo Ndlhavela",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 441,
+  "name": "Moçambique Diesel Electrica Matola",
+  "address": "Maputo, Mozambique",
+  "phone": "+25821302763",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 442,
+  "name": "Igreja Metodista Wesleyana",
+  "address": "R. dos Desportistas, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 443,
+  "name": "Centro Comercial Djonasse",
+  "address": "Maputo, Mozambique",
+  "phone": "+258848839662",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 444,
+  "name": "Maison Polex, lda",
+  "address": "Av. da Marginal, Maputo, Mozambique",
+  "phone": "+258823083655",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 445,
+  "name": "Centro Comercial Tubiakanga",
+  "address": "Av. Julius Nyerere, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 446,
+  "name": "Mercadinho da Zona Verde",
+  "address": "Av. de Marginal, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 447,
+  "name": "MOZRIVER Shopping Centre",
+  "address": "Maputo Shopping Centre | 1º Andar | Loja 147, 85 R. Ngungunhane, Maputo, Mozambique",
+  "phone": "+25821329188",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 448,
+  "name": "KP \u0026 V - Ferragens e Ferramentas",
+  "address": "3C54+QQR Bairro Djuba, Rua da Mozal, Chibungo, Mozambique",
+  "phone": "+258844652714",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 449,
+  "name": "Maputo Shopping Centre",
+  "address": "0000 R. do Maputo, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 450,
+  "name": "Baía Mall",
+  "address": "Av. da Namaacha, 339 N2, Mozambique",
+  "phone": "+25821720151",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 451,
+  "name": "Polana Shopping Center",
+  "address": "Matola, Mozambique",
+  "phone": "+258820103305",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 452,
+  "name": "Atlantico continental",
+  "address": "R. do Rio Tembe, Matola, Mozambique",
+  "phone": "+258848640363",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 453,
+  "name": "Marés Shopping",
+  "address": "Boane, Rua de mogiz/Mozal, Matola-rio, Mozambique",
+  "phone": "+258827359650",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 454,
+  "name": "JAT Center",
+  "address": "454 Matola Gare St, Matola, Mozambique",
+  "phone": "+25821720306",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 455,
+  "name": "Tiger Center",
+  "address": "Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 456,
+  "name": "Armazèns Atlântico Comercial Lda",
+  "address": "Matola, Mozambique",
+  "phone": "+258861968361",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 457,
+  "name": "Ferragem Muhalazi",
+  "address": "Av. União Africana, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 458,
+  "name": "Monumento e Centro de Interpretação da Matola avenida",
+  "address": "Maputo, Mozambique",
+  "phone": "+25821307385",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 459,
+  "name": "Fortress of Maputo",
+  "address": "R. da Rádio, Maputo, Mozambique",
+  "phone": "+25821310283",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 460,
+  "name": "Casa de Ferro",
+  "address": "Travessia de Zambeze, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 461,
+  "name": "Museu de Historia Natural",
+  "address": "Avenida Samora Machel, Maputo, Mozambique",
+  "phone": "+258845015014",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 462,
+  "name": "Tunduru Botanical Gardens",
+  "address": "Rua Henrique de Sousa, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 463,
+  "name": "Maputo Special Reserve",
+  "address": "Fortaleza de localiza-se junto ao porto de Pesca na praca 25 de Junho, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 464,
+  "name": "Parque dos Continuadores FEIMA",
+  "address": "Avenida Armando Tivane, Maputo, Mozambique",
+  "phone": "+258848898984",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 465,
+  "name": "Catedral de Maputo",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 466,
+  "name": "Jardim Dona Berta",
+  "address": "242 Av. Acordos De Lusaka, Maputo, Mozambique",
+  "phone": "+25821759252",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 467,
+  "name": "Mundos",
+  "address": "Loja G26-28, Maputo Shopping Centre, R. Ngungunhane, Maputo, Mozambique",
+  "phone": "+25821083437",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 468,
+  "name": "Matola",
+  "address": "Shops SR1E \u0026 SR2E, MBS Centre, RUA DA Imprensa, Maputo 9999, Mozambique",
+  "phone": "+25821328535",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 469,
+  "name": "Game Matola",
+  "address": "1, 178 Avenida Eduardo Mondlane, Maputo, Mozambique",
+  "phone": "+25821421010",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 470,
+  "name": "Saint Anthony Catholic Church",
+  "address": "PO B ox 9 06, Mbabane H100, Eswatini",
+  "phone": "+26876894611",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 471,
+  "name": "Padaria do \"Hanhane\"",
+  "address": "Avenida para o Palmar, Parcela 141BZ3 Maputo, 1100, Mozambique",
+  "phone": "14131100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 472,
+  "name": "Samora Machel Monument and Museum",
+  "address": "1351 Kameelperd Ave, Marloth Park, 1321, South Africa",
+  "phone": "13511321",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 473,
+  "name": "Matola",
+  "address": "Rua Das Estancias No. 120, Maputo, Mozambique",
+  "phone": "+258855977600",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 474,
+  "name": "Rio Matola",
+  "address": "AFECC Mall, 2° Andar, Av. da Marginal, Maputo, Mozambique",
+  "phone": "+258850243420",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 475,
+  "name": "Maputo City Walking Tours",
+  "address": "Siphofaneni, Eswatini",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 476,
+  "name": "Mafalala Walking Tour",
+  "address": "1380 Av. Julius Nyerere, Maputo 1900, Mozambique",
+  "phone": "13801900",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 477,
+  "name": "FEIMA banca nr 100 George Hwariva crafts sales.",
+  "address": "Av. Acordos De Lusaka, Maputo, Mozambique",
+  "phone": "+25821759252",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 478,
+  "name": "Shoprite Matola",
+  "address": "Marés Shopping 9519 Av da Margina Bairro do Triunfo, 0001, Mozambique",
+  "phone": "95190001",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 479,
+  "name": "Mercado Do Nkobe",
+  "address": "Av. 24 de Julho, Maputo, Mozambique",
+  "phone": "+25821225300",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 480,
+  "name": "PASTELARIA REEM",
+  "address": "Av Marginal, Nro 4441, Costa do Sol Maputo, 1100, Mozambique",
+  "phone": "44411100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 481,
+  "name": "Travellers Inn",
+  "address": "01 Mjejane Bush Camp Rd, Hectorspruit, 2021, South Africa",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 482,
+  "name": "The Matola Hotel",
+  "address": "Matola, Mozambique",
+  "phone": "+25821745666",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 483,
+  "name": "GALP",
+  "address": "R. dos Lusiadas, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 484,
+  "name": "Mabeco tours",
+  "address": "Núcleo de Arte, 144 R. da Argélia, Maputo, Mozambique",
+  "phone": "+258844302916",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 485,
+  "name": "Praia da Costa do Sol",
+  "address": "1078 Av. Karl Marx, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 486,
+  "name": "Aldeia Guest House",
+  "address": "1845 Av. 25 de Setembro, Maputo, Mozambique",
+  "phone": "+25821324538",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 487,
+  "name": "Macaneta Beach",
+  "address": "9, 246 Av. Das Industrias, Matola, Mozambique",
+  "phone": "+25821749356",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 488,
+  "name": "Centro Comercial Tubiakanga",
+  "address": "2631 Av. Acordos De Lusaka, Maputo, Mozambique",
+  "phone": "+25821466846",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 489,
+  "name": "Maputo",
+  "address": "Mlawula, Eswatini",
+  "phone": "+26823838885",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 490,
+  "name": "Hlane National Park",
+  "address": "Rua H. De Sousa SE, Maputo, Mozambique",
+  "phone": "+258844430799",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 491,
+  "name": "Maputo Free Walking Tour",
+  "address": "Av. Karl Marx, Maputo, Mozambique",
+  "phone": "+25821306840",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 492,
+  "name": "Kruger National Park",
+  "address": "0000 R. do Maputo, Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 493,
+  "name": "Mlawula Nature Reserve",
+  "address": "Matola, Mozambique",
+  "phone": "+258845470875",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 494,
+  "name": "Centro Social \u0026 Cultural Do Núcleo De Arte",
+  "address": "Rua mahtlovele n 637, Matola, Mozambique",
+  "phone": "+258846851943",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 495,
+  "name": "Museum Market",
+  "address": "Matola EN4 Avenida Samora Machel Malhampsene Matola Maputo, 1114, Mozambique",
+  "phone": "+258860083029",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 496,
+  "name": "Bela Vista",
+  "address": "MR3, Simunye, Eswatini",
+  "phone": "+26876776772",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 497,
+  "name": "Casa Elefante",
+  "address": "Av. Da Namaacha, Matola 1114, Mozambique",
+  "phone": "+258843116573",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 498,
+  "name": "Loja Tmcel",
+  "address": "Av. das Indústrias, Matola, Mozambique",
+  "phone": "+258845799434",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 499,
+  "name": "人民市场",
+  "address": "Portagem Matola - Maputo, N4,, N2, Mozambique",
+  "phone": "+258844017860",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 500,
+  "name": "Matola",
+  "address": "Rua Regulo Xavier da Matola 344, Matola 1114, Mozambique",
+  "phone": "+258848201025",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 501,
+  "name": "Woolworths Baia Mall",
+  "address": "1100 Matola, 1100, Mozambique",
+  "phone": "11001100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 502,
+  "name": "Mjejane Private Game Reserve",
+  "address": "estadio da machava, Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 503,
+  "name": "Builders Warehouse Marginal",
+  "address": "Matola, Mozambique",
+  "phone": "+258844351937",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 504,
+  "name": "Nu Metro",
+  "address": "Maputo, Mozambique",
+  "phone": "+258848846825",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 505,
+  "name": "Naamacha",
+  "address": "12. 125 Av. Abel Batista 30, Matola A, Matola, Mozambique",
+  "phone": "+25821783249",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 506,
+  "name": "Marracuene District",
+  "address": "Avenida Ngungunhana casa 1039 Qrt26, Matola, Mozambique",
+  "phone": "+258847074869",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 507,
+  "name": "DHL",
+  "address": "R. da Rádio, Maputo 1100, Mozambique",
+  "phone": "+258826799654",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 508,
+  "name": "Inhaca",
+  "address": "Av. dos Mártires da Machava, Maputo, Mozambique",
+  "phone": "+258842439046",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 509,
+  "name": "Maputo Fresh Market",
+  "address": "Maputo, Mozambique",
+  "phone": "+258841191491",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 510,
+  "name": "The Sugarcane Museum",
+  "address": "Maputo, Mozambique",
+  "phone": "+25821321321",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 511,
+  "name": "Woolworths Food COOP",
+  "address": "Avenida Kwame Nkrumah, Maputo, Mozambique",
+  "phone": "+25821491197",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 512,
+  "name": "City Lodge Hotel Maputo",
+  "address": "N4, Matola, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 513,
+  "name": "Discover Kruger Safaris",
+  "address": "Av. Da Namaacha 728 Talhoes 7A e 7B Matola, 1100, Mozambique",
+  "phone": "728771100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 514,
+  "name": "Southern Kruger Safaris",
+  "address": "EN4 Avenida da Namaacha, Matola, Mozambique",
+  "phone": "+25821788161",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 515,
+  "name": "Mr Price Maputo MBS Centre",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 516,
+  "name": "Studio 88",
+  "address": "Maputo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 517,
+  "name": "Hotel Tivoli Beira",
+  "address": "rua de salisburia 57 beira Sofala, 2100, Mozambique",
+  "phone": "+258844603536",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 518,
+  "name": "Golden Peacock Resort Hotel",
+  "address": "Av. Mártires da Revolução, Beira, Mozambique",
+  "phone": "+258825434528",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 519,
+  "name": "Beira Terrace Hotel",
+  "address": "Avenida Marginal, Beira 2200, Mozambique",
+  "phone": "+25823325942",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 520,
+  "name": "Golden Peacock Resort Hotel",
+  "address": "Avenida Bagamoio, 363 Beira, Moçambique, Beira, Moçambique, Mozambique",
+  "phone": "+25823320300",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 521,
+  "name": "Hotel Tivoli Beira",
+  "address": "AV.Martires de Revolucao n 50 A/B Macuti Beira Sofala, 0000, Mozambique",
+  "phone": "+25823313311",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 522,
+  "name": "Alina Apart Hotel",
+  "address": "Avenida das FPLM, Beira, Mozambique",
+  "phone": "+258845190243",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 523,
+  "name": "Private Studio with Pool and Kitchen",
+  "address": "Beira, Mozambique",
+  "phone": "+258843350700",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 524,
+  "name": "Hotel Sena",
+  "address": "Av Eduardo Mondlane Beira Sofala, 2100, Mozambique",
+  "phone": "+258843350700",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 525,
+  "name": "Hotel Uzeir",
+  "address": "Beira, Mozambique",
+  "phone": "+25823315088",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 526,
+  "name": "Hotel Lunamar",
+  "address": "Av. Mártires da Revolução, Beira, Mozambique",
+  "phone": "+258840645940",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 527,
+  "name": "Sun Sand Beach",
+  "address": "Dondo, Nhamayabwe Beira Sofala, 2100, Mozambique",
+  "phone": "+258858116585",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 528,
+  "name": "Rani's Hotel",
+  "address": "Rua Luis Inácio, nº172, Beira 0000, Mozambique",
+  "phone": "+25823340100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 529,
+  "name": "Hotel Miramar",
+  "address": "Beira, Mozambique",
+  "phone": "+258878299444",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 530,
+  "name": "Hotel Moçambique",
+  "address": "282 Avenida das FPLM, Beira, Mozambique",
+  "phone": "+25823312209",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 531,
+  "name": "Veromar Apart Hotel",
+  "address": "Pero De Anaia Avenida, Beira, Mozambique",
+  "phone": "+25823327048",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 532,
+  "name": "FJ Guest House",
+  "address": "Beira, Mozambique",
+  "phone": "+25823313578",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 533,
+  "name": "Indico Hotel",
+  "address": "Beira, Mozambique",
+  "phone": "+25823313578",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 534,
+  "name": "Vip Inn Beira",
+  "address": "3 bagamoyo avenue maquinino, Beira, Mozambique",
+  "phone": "+258843636071",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 535,
+  "name": "Pensão Sofala",
+  "address": "Beira, Mozambique",
+  "phone": "+258824528232",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 536,
+  "name": "Restaurante Do Chefe Anselmo",
+  "address": "Beira, Mozambique",
+  "phone": "+258849159061",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 537,
+  "name": "Clube Nautico Restaurant",
+  "address": "Avenida Mateus Sansao Muthemba, Beira, Mozambique",
+  "phone": "+25823322283",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 538,
+  "name": "Restaurante Tuga's",
+  "address": "Beira, Mozambique",
+  "phone": "+258821727812",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 539,
+  "name": "Restaurante MiraMar",
+  "address": "Beira, Mozambique",
+  "phone": "+258873811070",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 540,
+  "name": "Pizza House Estoril",
+  "address": "Estrada Carlos Pereira, Beira, Mozambique",
+  "phone": "+258844287240",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 541,
+  "name": "Restaurante Oceana",
+  "address": "Rua Capitão Gamito, Beira, Mozambique",
+  "phone": "+258846544555",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 542,
+  "name": "Restaurante Take-away 2+1",
+  "address": "Avenida Mateus Sansao Muthemba, Beira, Mozambique",
+  "phone": "+258843868888",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 543,
+  "name": "Taberna Titelvina",
+  "address": "Joao Quiero, Beira, Mozambique",
+  "phone": "+258822917938",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 544,
+  "name": "O Comilão",
+  "address": "Beira, Mozambique",
+  "phone": "+258845535049",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 545,
+  "name": "Red Chicken",
+  "address": "Beira, Mozambique",
+  "phone": "+258827648098",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 546,
+  "name": "Restaurante Kanimambo",
+  "address": "D.Diniz, Beira, Mozambique",
+  "phone": "+258850766106",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 547,
+  "name": "Varanda Do Índico",
+  "address": "Correia De Brito Rua, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 548,
+  "name": "Sunlight Food Court Beira",
+  "address": "Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 549,
+  "name": "PetisQueira",
+  "address": "Artur de canto resende Beira Maquinino, 2100, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 550,
+  "name": "Restaurante O Farol",
+  "address": "Pedro Alvares Cabral Rua De, Beira, Mozambique",
+  "phone": "+258876221733",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 551,
+  "name": "Moulin Rouge, Beira, Mozambique",
+  "address": "Sofala, Beira, Mozambique",
+  "phone": "+258846286243",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 552,
+  "name": "Pizza Point",
+  "address": "Correia De Brito Rua, Beira, Mozambique",
+  "phone": "+258845041396",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 553,
+  "name": "Só Bolos",
+  "address": "Krusse Gomes, Beira, Mozambique",
+  "phone": "+258845626958",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 554,
+  "name": "Miriam's Frango Restaurant",
+  "address": "Beira, Mozambique",
+  "phone": "+258877457860",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 555,
+  "name": "Coco Loco",
+  "address": "Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 556,
+  "name": "Mr Frango",
+  "address": "Rua Major Serpa Beira Sofala, 2100, Mozambique",
+  "phone": "+258858104694",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 557,
+  "name": "S Specials",
+  "address": "Beira, Mozambique",
+  "phone": "+258849643695",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 558,
+  "name": "Galaxy Indian Restaurant -Beira",
+  "address": "Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 559,
+  "name": "Restaurante \u0026 Quiosque Shana",
+  "address": "Praça do municipio, Chaimite, Beira, Mozambique",
+  "phone": "+258844487862",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 560,
+  "name": "AL-NUR Restaurant",
+  "address": "Correia De Brito Rua, Beira, Mozambique",
+  "phone": "+258842286759",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 561,
+  "name": "RED CHIKEN CHILLI",
+  "address": "R. Paiva Couceiro, Beira, Mozambique",
+  "phone": "+258845003695",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 562,
+  "name": "Riadel Restaurant \u0026 Exhibition Center",
+  "address": "Avenida 24 De Julho, Beira, Mozambique",
+  "phone": "+258846913500",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 563,
+  "name": "Lahori Take Away",
+  "address": "Avenida das FPLM, Beira, Mozambique",
+  "phone": "+258846350005",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 564,
+  "name": "Taberna Titelvina",
+  "address": "Fernao Velosa, Beira, Mozambique",
+  "phone": "+258844087870",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 565,
+  "name": "Biques",
+  "address": "Dr.A.Graca, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 566,
+  "name": "Solange",
+  "address": "Estrada Carlos Pereira, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 567,
+  "name": "Doxa Restaurante",
+  "address": "Beira, Mozambique",
+  "phone": "+258878557195",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 568,
+  "name": "Palmeira frango pizzeria",
+  "address": "Mouzinho De Albuquerque Rua, Beira, Mozambique",
+  "phone": "+258849113225",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 569,
+  "name": "Vibe's Restaurante e Bar de Praia",
+  "address": "Sofala, Beira, Mozambique",
+  "phone": "+258848383500",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 570,
+  "name": "A Proa",
+  "address": "764 Dom Fransisco Barreto, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 571,
+  "name": "Beira's take away café e bar",
+  "address": "Beira, Mozambique",
+  "phone": "+258872244667",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 572,
+  "name": "Tufo Restaurante lounge e Bar bacia 1 parque infraestruturas verdes Beira",
+  "address": "Rua Do Bagamoyo, Beira, Mozambique",
+  "phone": "+258840248966",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 573,
+  "name": "87 Bar / Restaurante Pizzaria",
+  "address": "Beira, Mozambique",
+  "phone": "+258828662927",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 574,
+  "name": "Churrasqueira Buzi",
+  "address": "Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 575,
+  "name": "Rail's Restaurante \u0026 Bar",
+  "address": "Rua do Partido em frente à Feira, Beira, Mozambique",
+  "phone": "+258870039241",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 576,
+  "name": "Chicken cabana",
+  "address": "Beira, Mozambique",
+  "phone": "+258843040115",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 577,
+  "name": "Nautilus",
+  "address": "Mouzinho De Albuquerque Rua, Beira, Mozambique",
+  "phone": "+258826627336",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 578,
+  "name": "Juma's",
+  "address": "Estrada Carlos Pereira, Beira, Mozambique",
+  "phone": "+258848936076",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 579,
+  "name": "Casa das Bifanas Restaurante",
+  "address": "Luis Inacio Rua, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 580,
+  "name": "Riviera",
+  "address": "Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 581,
+  "name": "O Fogareiro Snack Bar",
+  "address": "Costa Serrao, Beira, Mozambique",
+  "phone": "+25823326518",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 582,
+  "name": "Restaurante Chin Won",
+  "address": "Principe da Beira Beira Sofala, 2100, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 583,
+  "name": "KaSushi - Sushi-Bar \u0026 Restaurante | Beira",
+  "address": "Beira, Mozambique",
+  "phone": "+258827771587",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 584,
+  "name": "Chikens for africa",
+  "address": "Rua 1072, Chipangara, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 585,
+  "name": "Tuga’s bar \u0026 lounge",
+  "address": "23 Correia De Brito Rua, Beira, Mozambique",
+  "phone": "+258848455190",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 586,
+  "name": "Fast\u0026Food",
+  "address": "R. Joao da Nova, Beira, Mozambique",
+  "phone": "+258878758333",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 587,
+  "name": "Paraiso Restaurant",
+  "address": "Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 588,
+  "name": "Tufo Restaurante e bar",
+  "address": "Ivato Supermercado Karting, Beira, Mozambique",
+  "phone": "+258841090103",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 589,
+  "name": "Miminhos",
+  "address": "1, Rua club lions Palmeiras, Beira, Mozambique",
+  "phone": "+258822917938",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 590,
+  "name": "Nadia Take Away \u0026 Restaurant",
+  "address": "Gen.Machado rua do Beira Sofala, 2100, Mozambique",
+  "phone": "+258845020664",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 591,
+  "name": "Chipima's burguer",
+  "address": "Beira, Mozambique",
+  "phone": "+258852606601",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 592,
+  "name": "Delights of Indian Ocean",
+  "address": "Hotel Militar, Av. Mártires da Revolução, Beira, Mozambique",
+  "phone": "+258874090573",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 593,
+  "name": "Al Nasri Take Away",
+  "address": "2310 Av. Mártires da Revolução, Beira, Mozambique",
+  "phone": "+258840787442",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 594,
+  "name": "Chefe Das Pizzas",
+  "address": "Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 595,
+  "name": "Restaurante Pique-nique",
+  "address": "Avenida das FPLM, Beira, Mozambique",
+  "phone": "+258845900215",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 596,
+  "name": "Shisha Lounge",
+  "address": "Beira, Mozambique",
+  "phone": "+258848544725",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 597,
+  "name": "Beach Bar",
+  "address": "Oliveira Salazar Ayenida, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 598,
+  "name": "Petisqueira do MTC",
+  "address": "R. Cap. Pais Ramos, Beira, Mozambique",
+  "phone": "+258841698377",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 599,
+  "name": "Mr Frango",
+  "address": "Beira, Mozambique",
+  "phone": "+258874087870",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 600,
+  "name": "Um Mimo - Take Away",
+  "address": "Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 601,
+  "name": "Comilão",
+  "address": "Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 602,
+  "name": "Arte Culinária Fátima Karim",
+  "address": "Rua Eduardo Mondlane 4° Bairro, Beira, Mozambique",
+  "phone": "+258850517551",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 603,
+  "name": "Xuxa Catering",
+  "address": "Alfredo Lawley Rua, Beira, Mozambique",
+  "phone": "+258843852360",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 604,
+  "name": "Josh Pizza \u0026 Frango",
+  "address": "Presidente Cravero Lopes Avenida Do, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 605,
+  "name": "TAS \u0026 Serviços",
+  "address": "Estrada Carlos Pereira, Beira, Mozambique",
+  "phone": "+258865591502",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 606,
+  "name": "Super Chicken \u0026 Pizza - TAKE AWAY",
+  "address": "Rua Luís Inácio Chaimite Beira Sofala, 2100, Mozambique",
+  "phone": "+258855873700",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 607,
+  "name": "Restaurante Brasibeira",
+  "address": "2 Avenida das FPLM, Beira, Mozambique",
+  "phone": "+258848845022",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 608,
+  "name": "Daki daki Food",
+  "address": "Rua base Ntchinga Beira, 2100, Mozambique",
+  "phone": "+258844070079",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 609,
+  "name": "Estoril Skysurf Cafe",
+  "address": "Estoril Beira Verao Amarelo Beira / Mozambique Sofala, 1977, Mozambique",
+  "phone": "+258851639802",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 610,
+  "name": "Delícias da Glória",
+  "address": "Beira, Mozambique",
+  "phone": "+258843311786",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 611,
+  "name": "Mulata Sociedade Unipessoal Limitada",
+  "address": "Praia de Makuti, Beira, Mozambique, Beira, Mozambique",
+  "phone": "+258828833176",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 612,
+  "name": "Rainhas das espetadas",
+  "address": "Beira, Mozambique",
+  "phone": "+258844758863",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 613,
+  "name": "MARELÚ Restaurante",
+  "address": "Avenida Martires de Revolução Beira Sofala, 2101, Mozambique",
+  "phone": "+258876701081",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 614,
+  "name": "Takeway Chicken cabana",
+  "address": "Beira, Mozambique",
+  "phone": "+258849159061",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 615,
+  "name": "Restaurante GARAI",
+  "address": "Aires De Ornelas Rua, Beira, Mozambique",
+  "phone": "+258840134086",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 616,
+  "name": "Take Away Fast Food",
+  "address": "Beira, Mozambique",
+  "phone": "+258842993194",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 617,
+  "name": "Hyllas Burger Take Away E.I",
+  "address": "Beira Sofala, 2100, Mozambique",
+  "phone": "+258866650570",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 618,
+  "name": "JP BURGUER",
+  "address": "FIPAG, MATACUANE AO LADO DO, Mozambique",
+  "phone": "+258849360985",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 619,
+  "name": "Churasqueira Makanda",
+  "address": "Av. Mártires da Revolução, Beira, Mozambique",
+  "phone": "+258857372132",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 620,
+  "name": "Raquelícias Hambúrguer",
+  "address": "Rua general vieira de costa Cristal Box mall ,Spar Building Beira Sofala, 2013, Mozambique",
+  "phone": "+258868116767",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 621,
+  "name": "Grazi natura",
+  "address": "Avenida Samora Machel, Beira, Mozambique",
+  "phone": "+258848884041",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 622,
+  "name": "Mr. Frango",
+  "address": "Unnamed Road, Beira, Mozambique",
+  "phone": "+258843246116",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 623,
+  "name": "Pizza House",
+  "address": "Beira, Mozambique",
+  "phone": "+258844950353",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 624,
+  "name": "Escorpião",
+  "address": "Beira, Mozambique",
+  "phone": "+258848931223",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 625,
+  "name": "Thona's Snack Bar",
+  "address": "Avenida Mateus Sansao Muthemba, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 626,
+  "name": "Maida Restaurante",
+  "address": "5RFP+3JP Rua da City, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 627,
+  "name": "Mario",
+  "address": "Correia De Brito Rua, Beira, Mozambique",
+  "phone": "+258827589889",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 628,
+  "name": "Kasekome",
+  "address": "Beira, Mozambique",
+  "phone": "+258840514789",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 629,
+  "name": "al hamdu",
+  "address": "R. do Eng. Rezende, Beira, Mozambique",
+  "phone": "+258877655892",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 630,
+  "name": "Sumaila Shopping Centre",
+  "address": "5V7J+444 EXPANSAO, Beira, Mozambique",
+  "phone": "+258849157773",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 631,
+  "name": "Chacha Center",
+  "address": "Av. Do Centro Commercial, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 632,
+  "name": "Bai Faquira Shopping",
+  "address": "Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 633,
+  "name": "Mak Shopping Center",
+  "address": "N6, Beira, Mozambique",
+  "phone": "+258843926100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 634,
+  "name": "Bulha Shopping",
+  "address": "Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 635,
+  "name": "Mutarara Comercial",
+  "address": "Alfrado Lawley, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 636,
+  "name": "TDM Central Macuti",
+  "address": "R. do Eng. Rezende, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 637,
+  "name": "Livraria Ell-shadday",
+  "address": "Curada, Beira, Mozambique",
+  "phone": "+258845646407",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 638,
+  "name": "Tabacaria Somos Diferentes EI.",
+  "address": "Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 639,
+  "name": "Ivato Supernercado 中国城超市",
+  "address": "Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 640,
+  "name": "Murata Center",
+  "address": "Estrada Carlos Pereira, Beira, Mozambique",
+  "phone": "+258851111777",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 641,
+  "name": "QUADRI CENTRE",
+  "address": "Beira, Mozambique",
+  "phone": "+258843350100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 642,
+  "name": "Gorongosa National Park",
+  "address": "Avenida Bagamoio, 363 Beira, Moçambique, Beira, Moçambique, Mozambique",
+  "phone": "+25823320300",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 643,
+  "name": "Mercado Goto",
+  "address": "Avenida Marginal, Beira 2200, Mozambique",
+  "phone": "+25823325942",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 644,
+  "name": "Beira Railroad Station",
+  "address": "Goinha, Mozambique",
+  "phone": "+258823082252",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 645,
+  "name": "Beira Terrace Hotel",
+  "address": "282 Avenida das FPLM, Beira, Mozambique",
+  "phone": "+25823312209",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 646,
+  "name": "Jardim Das Velas",
+  "address": "5R9V+GMF Rua, Armando Tivane, Beira, Mozambique",
+  "phone": "+258846174190",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 647,
+  "name": "Hotel Tivoli Beira",
+  "address": "Beira, Mozambique",
+  "phone": "+25823315088",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 648,
+  "name": "PRAIA DO WIMBE",
+  "address": "Marques Sa Da Bandeira Rua, Beira, Mozambique",
+  "phone": "+258848301284",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 649,
+  "name": "Beira International Airport",
+  "address": "Beira, Mozambique",
+  "phone": "+258852253603",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 650,
+  "name": "Rani's Hotel",
+  "address": "Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 651,
+  "name": "Restaurante Tuga's",
+  "address": "Maputo, Mozambique",
+  "phone": "+25821307385",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 652,
+  "name": "Sun Sand Beach",
+  "address": "T. Cunna, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 653,
+  "name": "Safari Air Africa Ltd",
+  "address": "Jardim do Morro, 4430-210 Vila Nova de Gaia, Portugal",
+  "phone": "+351223742400",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 654,
+  "name": "Gelmar",
+  "address": "3 bagamoyo avenue maquinino, Beira, Mozambique",
+  "phone": "+258843636071",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 655,
+  "name": "Praia de Wimbi",
+  "address": "Beira, Mozambique",
+  "phone": "+258878299444",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 656,
+  "name": "Ferragens Chiveve Lda",
+  "address": "Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 657,
+  "name": "Tofinho Beach",
+  "address": "Av. Mártires da Revolução, Beira, Mozambique",
+  "phone": "+258840645940",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 658,
+  "name": "SPAR - VIP Supermarket, LDA",
+  "address": "Av. Mártires da Revolução, Beira, Mozambique",
+  "phone": "+258825434528",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 659,
+  "name": "Hotel Lunamar",
+  "address": "Armando Tivane, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 660,
+  "name": "Hotel Sena",
+  "address": "6406 Algarve Rua Do, Beira, Mozambique",
+  "phone": "+25823323637",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 661,
+  "name": "Pousada BEIRASOL",
+  "address": "Gen Vieira Da Rocha, Beira, Mozambique",
+  "phone": "+258847763766",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 662,
+  "name": "Maquinino Market",
+  "address": "Beira 2013, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 663,
+  "name": "Barceltecnica Moçambique Lda",
+  "address": "Rua 7 nr 99/109/117 Maquinino, Beira, Mozambique",
+  "phone": "799109117",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 664,
+  "name": "MIL SUPERMARKET",
+  "address": "Pemba, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 665,
+  "name": "Indico Hotel",
+  "address": "Beira, Mozambique",
+  "phone": "+27716094266",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 666,
+  "name": "Museu dos CFM",
+  "address": "Beira, Mozambique",
+  "phone": "+258821727812",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 667,
+  "name": "FJ Guest House",
+  "address": "Avenida das FPLM, Beira, Mozambique",
+  "phone": "+258845190243",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 668,
+  "name": "Grande Hotel",
+  "address": "Principe Da Beira Avenida Do, Beira, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 669,
+  "name": "Hotel Moçambique",
+  "address": "Joao Quiero, Beira, Mozambique",
+  "phone": "+258822917938",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 670,
+  "name": "Supermercado Centro",
+  "address": "Centro Comercial De Shoprite Beira, Av Samora Machel, Beira 2100, Mozambique",
+  "phone": "+25823327500",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 671,
+  "name": "Hotel Miramar",
+  "address": "Praia Tofo, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 672,
+  "name": "Hill Garden",
+  "address": "AV.Martires de Revolucao n 50 A/B Macuti Beira Sofala, 0000, Mozambique",
+  "phone": "+25823313311",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 673,
+  "name": "Pensão Moderna",
+  "address": "Unnamed Road, Beira, Mozambique",
+  "phone": "+258843246116",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 674,
+  "name": "Lower Zambezi National Park",
+  "address": "Estr. Manga Aeroporto, Beira, Mozambique",
+  "phone": "+25823301071",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 675,
+  "name": "Nagi Investimentos",
+  "address": "Avenida da Marginal Norte, Praia do Wimbe, Pemba, Cabo Delgado, Pemba, Mozambique",
+  "phone": "+258878369400",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 676,
+  "name": "New Hotel - Nampula",
+  "address": "Nampula, Mozambique",
+  "phone": "+258852157570",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 677,
+  "name": "Hotel Milenio",
+  "address": "Rua Macombre, Nampula, Mozambique",
+  "phone": "+258861299299",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 678,
+  "name": "Grand Plaza Hotel",
+  "address": "Memoria Cidade de Nampula, Av. trabalho, En.8 ,250 metros depois da, rotunda de Aeroporto, Nampula 3100, Mozambique",
+  "phone": "82503100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 679,
+  "name": "New Hotel - Nampula",
+  "address": "842 Avenida 25 de Setembro, Nampula, Mozambique",
+  "phone": "+25826218877",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 680,
+  "name": "Seasons Hotel and Spa",
+  "address": "Av do Trabalho, Nampula, Mozambique",
+  "phone": "+25826219050",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 681,
+  "name": "Hotel Milenio",
+  "address": "Rua dos Continuadores nr 447a, Nampula, Mozambique",
+  "phone": "+25826214483",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 682,
+  "name": "Hotel Paraíso",
+  "address": "Rua Das FPLM, Nampula, Mozambique",
+  "phone": "+258846012070",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 683,
+  "name": "Fenix",
+  "address": "842 Avenida 25 de Setembro, Nampula, Mozambique",
+  "phone": "+25826218877",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 684,
+  "name": "Residencial Primavera",
+  "address": "Nampula, Mozambique",
+  "phone": "+258846261035",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 685,
+  "name": "RESIDENCIAL AFRICA LDA, NAMPULA",
+  "address": "Av do Trabalho, Nampula, Mozambique",
+  "phone": "+25826219050",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 686,
+  "name": "Ruby Backpackers",
+  "address": "Nampula, Mozambique",
+  "phone": "+258845005480",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 687,
+  "name": "Girassol Nampula",
+  "address": "Nampula, Mozambique",
+  "phone": "+25826212898",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 688,
+  "name": "Hotel Brasilia",
+  "address": "Rua Monomotapa, Nampula 3100, Mozambique",
+  "phone": "+258874002810",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 689,
+  "name": "Residencial Quality",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 690,
+  "name": "BUTIK Hotel",
+  "address": "Nampula, Mozambique",
+  "phone": "+258877007666",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 691,
+  "name": "Hotel Lurio",
+  "address": "Nampula, 3100, Mozambique",
+  "phone": "+258867860091",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 692,
+  "name": "cityhotel",
+  "address": "398 R. Filipe Samuel Magaia, Nampula, Mozambique",
+  "phone": "+258841889656",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 693,
+  "name": "Hotel Banboos",
+  "address": "Av. Eduardo Mondlane, Nampula, Mozambique",
+  "phone": "+25826216000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 694,
+  "name": "Restaurante Ti'Maria",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 695,
+  "name": "Grill 21",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 696,
+  "name": "Saurakh Restaurant Nampula",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 697,
+  "name": "A Nova Portuguêsa",
+  "address": "Av. Paulo Samuel Kamkomba, Nampula, Mozambique",
+  "phone": "+258852000883",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 698,
+  "name": "Grill 21",
+  "address": "36 Av. Eduardo Mondlane, Nampula, Mozambique",
+  "phone": "+258828280999",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 699,
+  "name": "7 Sabores",
+  "address": "Rua das Flores, Nampula, Mozambique",
+  "phone": "+258849566999",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 700,
+  "name": "MOOD BLACKSHEEP NAMPULA",
+  "address": "Rua de França, Nampula, Mozambique",
+  "phone": "+258873865033",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 701,
+  "name": "Burguer_lovers",
+  "address": "marinha, Rua da, Nampula, Mozambique",
+  "phone": "+258843839308",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 702,
+  "name": "Frango a Rony - Take-Away e Restaurante",
+  "address": "Nampula, Mozambique",
+  "phone": "+258874408877",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 703,
+  "name": "Delicato Cafe",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 704,
+  "name": "Restaurante Sporting",
+  "address": "36 Av. Eduardo Mondlane, Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 705,
+  "name": "Mahesh takeaway",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 706,
+  "name": "Restaurante M'bau",
+  "address": "Avenida De Independencia, Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 707,
+  "name": "Bom Paladar",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 708,
+  "name": "Frango King",
+  "address": "Unnamed Road, Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 709,
+  "name": "Vivald",
+  "address": "Nampula, Mozambique",
+  "phone": "+258852157570",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 710,
+  "name": "Bar Restaurante o Ferroviario",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 711,
+  "name": "Sunlight Food court",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 712,
+  "name": "Cantinho da Pizza",
+  "address": "Rua Macombre, Nampula, Mozambique",
+  "phone": "+258861299299",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 713,
+  "name": "Piri Piri Bar",
+  "address": "3100 Nampula, 3100, Mozambique",
+  "phone": "31003100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 714,
+  "name": "Nakipiche",
+  "address": "Av. Eduardo Mondlane, Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 715,
+  "name": "Delicias",
+  "address": "Avenida 25 de Setembro, Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 716,
+  "name": "Hellen Bolos",
+  "address": "Avenida De Independencia, Nampula, Mozambique",
+  "phone": "+258874670000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 717,
+  "name": "Sabores do Norte Moz",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 718,
+  "name": "RESTAURANTE FAIZAL - Ó DA SILVA",
+  "address": "Unnamed Road, Nampula, Mozambique",
+  "phone": "+258840491737",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 719,
+  "name": "Tasca Café",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 720,
+  "name": "Super Batatinhas",
+  "address": "842 Avenida 25 de Setembro, Nampula, Mozambique",
+  "phone": "+25826218877",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 721,
+  "name": "Bar \u0026 Restaurante DID (Otchecula)",
+  "address": "Nampula, Mozambique",
+  "phone": "+258840317375",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 722,
+  "name": "Lord",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 723,
+  "name": "Museu Restaurant",
+  "address": "Napipine, Mozambique",
+  "phone": "+258845470114",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 724,
+  "name": "Bar O da Silva",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 725,
+  "name": "Madalena Maluca",
+  "address": "Nampula, Mozambique",
+  "phone": "+258845470114",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 726,
+  "name": "A Marisqueira",
+  "address": "Nampula, Mozambique",
+  "phone": "+258849255925",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 727,
+  "name": "Severino Naresda",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 728,
+  "name": "Cantinho do Sabor",
+  "address": "39 Rua 3 de Fevereiro, Nampula, Mozambique",
+  "phone": "+258851929975",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 729,
+  "name": "Shamyla Fast Food",
+  "address": "Av. Paulo Samuel Kamkomba, Nampula, Mozambique",
+  "phone": "+258863000222",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 730,
+  "name": "Takeaway Central",
+  "address": "N13, Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 731,
+  "name": "Mahesh takeawye",
+  "address": "Av. Paulo Samuel Kamkomba, Nampula, Mozambique",
+  "phone": "+258863000222",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 732,
+  "name": "Piazza Lounge Restaurante PUB",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 733,
+  "name": "Pastelaria Central",
+  "address": "Nampula, Mozambique",
+  "phone": "+258874505001",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 734,
+  "name": "Restaurante O Tirol",
+  "address": "Namutequeliua, Av Eduardo Mondlane, Nampula, Mozambique",
+  "phone": "+258842522283",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 735,
+  "name": "Pin Le Jia",
+  "address": "Rua Das FPLM, Nampula, Mozambique",
+  "phone": "+258847290967",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 736,
+  "name": "Bar o Sítio",
+  "address": "mandimba Niassa, 3304, Mozambique",
+  "phone": "+258845942332",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 737,
+  "name": "Pronto Nampula",
+  "address": "Avenida 25 de Setembro, Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 738,
+  "name": "Take Away Vô-Guida",
+  "address": "Nampula, Mozambique",
+  "phone": "+258846551733",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 739,
+  "name": "White Lounge Bar e Restaurante",
+  "address": "Av. Eduardo Mondlane, Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 740,
+  "name": "studio np nachilanga filmes",
+  "address": "Nr. 6 Rua Das FPLM, Nampula, Mozambique",
+  "phone": "+258868622655",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 741,
+  "name": "Abf\u0026Serviços Sabores Picantes",
+  "address": "Avenida 25 de Setembro, Nampula, Mozambique",
+  "phone": "+258842869705",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 742,
+  "name": "Sandoca's chicken Catering \u0026 take away",
+  "address": "Br de Namutequeliua, Nampula 3100, Mozambique",
+  "phone": "+258858663898",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 743,
+  "name": "Manica's Club",
+  "address": "Avenida 25 de Setembro, Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 744,
+  "name": "Jubaslice Restaurant",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 745,
+  "name": "Pizzeria Jamal",
+  "address": "Muhala Expansao, Nampula 3100, Mozambique",
+  "phone": "+258850657409",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 746,
+  "name": "Restaurantw Macua",
+  "address": "Rua da Moma, Nampula 3100, Mozambique",
+  "phone": "+258844039902",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 747,
+  "name": "Montes Nairuco",
+  "address": "Rua de Tete Nampula, 3100, Mozambique",
+  "phone": "+258866662221",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 748,
+  "name": "Pamy Catering \u0026 Serviços",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 749,
+  "name": "Mania de Churrasco",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 750,
+  "name": "Esquina da Pizza",
+  "address": "Rua Das FPLM, Nampula, Mozambique",
+  "phone": "+258843129580",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 751,
+  "name": "Grelha Bar",
+  "address": "Rua S/N, Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 752,
+  "name": "Ponto Final Caixa Take Away",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 753,
+  "name": "Take Away O cantinho da Yolanda",
+  "address": "1256 nampula Nampula, 1998, Mozambique",
+  "phone": "12561998",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 754,
+  "name": "Take Away Guly",
+  "address": "Muhala Expansão, Edificio antigo da Desminagem, Nampula 3012, Mozambique",
+  "phone": "+258862425157",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 755,
+  "name": "Leon Nights",
+  "address": "R. Dos Continuadores, Nampula, Mozambique",
+  "phone": "+258848172376",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 756,
+  "name": "Surf Cafe",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 757,
+  "name": "Owany Services - Centro Social",
+  "address": "Mártires de Nyasonia nr 121 Bairro Urbano Central/Limoerios cidade de Nampula Nampula Nampula, 3100, Mozambique",
+  "phone": "+258864077176",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 758,
+  "name": "TakeAway Somaliano",
+  "address": "299 Avenida Francisco Manyanga, Nampula, Mozambique",
+  "phone": "+258848569153",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 759,
+  "name": "Teka away doces e salgados ummi",
+  "address": "Unnamed Road, Nampula, Mozambique",
+  "phone": "+258857393677",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 760,
+  "name": "Nampula Pizzas",
+  "address": "Nampula, Mozambique",
+  "phone": "+258847006000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 761,
+  "name": "Restaurante lua",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 762,
+  "name": "Pensão parque.",
+  "address": "piazzarestaurantepub@gmail.com Nampula, 3100, Mozambique",
+  "phone": "+258857593013",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 763,
+  "name": "RESTAURANTE DELAS",
+  "address": "Rua unidade, Nampula, Mozambique",
+  "phone": "+258844786525",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 764,
+  "name": "Restaurante parque",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 765,
+  "name": "四季火锅",
+  "address": "Av. Paulo Samuel Kamkomba, Nampula, Mozambique",
+  "phone": "+258848687800",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 766,
+  "name": "Chicken Shop",
+  "address": "Cruzamento das avenidas 25 de Setembro e Eduardo Mondlane Nampula, 1106, Mozambique",
+  "phone": "+258862444433",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 767,
+  "name": "VILA CACHOEIRA",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 768,
+  "name": "Nicumane's BAR",
+  "address": "326 Av. Eduardo Mondlane, Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 769,
+  "name": "Dream Village",
+  "address": "R. dos Combatentes, Nampula, Mozambique",
+  "phone": "+258850291925",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 770,
+  "name": "Restaurante Galáxia",
+  "address": "Nampula, Mozambique",
+  "phone": "+258870051087",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 771,
+  "name": "Cantina da Politécnica",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 772,
+  "name": "Time \u0026 Place Restaurante and Bar",
+  "address": "Nampula, Mozambique",
+  "phone": "+258845470114",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 773,
+  "name": "Hotel Milenio",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 774,
+  "name": "VILLA CACHOEIRA",
+  "address": "Rua 3 de Fevereiro, Nampula, Mozambique",
+  "phone": "+258867792146",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 775,
+  "name": "Cila's Bar-Salao de eventos e",
+  "address": "Av Eduardo Mondlane, Partido Frelimo Nampula, 0066, Mozambique",
+  "phone": "+258846920440",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 776,
+  "name": "Bar \u0026 Restaurante Ar Puro",
+  "address": "Rua da Unidade, Nampula, Mozambique",
+  "phone": "+258845470114",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 777,
+  "name": "The Spot",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 778,
+  "name": "Quinta Fau",
+  "address": "842 Avenida 25 de Setembro, Nampula, Mozambique",
+  "phone": "+258844698875",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 779,
+  "name": "Restaurante TI MARIA",
+  "address": "Nampula, Mozambique",
+  "phone": "+258845425624",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 780,
+  "name": "O Cafe Nossa",
+  "address": "Unnamed Road, Nampula, Mozambique",
+  "phone": "+258845687210",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 781,
+  "name": "Group Maisha Park Solutions",
+  "address": "36 Av. Eduardo Mondlane, Nampula, Mozambique",
+  "phone": "+258844180696",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 782,
+  "name": "Residencial Primavera",
+  "address": "Rua Massacre de, Nampula, Mozambique",
+  "phone": "+258842996126",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 783,
+  "name": "Casa do Edom (NAMPULA)",
+  "address": "15°06'58. 39°15'44.5\"E, 2, Goba, Mozambique",
+  "phone": "15065839154452",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 784,
+  "name": "Mónica Shopping",
+  "address": "N8, Nampula, Mozambique",
+  "phone": "+25826214392",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 785,
+  "name": "Grand Plaza Hotel",
+  "address": "Nampula, Mozambique",
+  "phone": "+258844149703",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 786,
+  "name": "Sabir Gafra",
+  "address": "Av. Eduardo Mondlane, Nampula, Mozambique",
+  "phone": "+258847409720",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 787,
+  "name": "Centro Comercial de Nampula",
+  "address": "Nampula, Mozambique",
+  "phone": "+258842337500",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 788,
+  "name": "Qadri Shopping Center , LDA",
+  "address": "299 Avenida Francisco Manyanga, Nampula, Mozambique",
+  "phone": "+25826213010",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 789,
+  "name": "NS - Nampula Shopping",
+  "address": "Nampula, Mozambique",
+  "phone": "+258845220259",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 790,
+  "name": "Abreu Shopping",
+  "address": "Av. Eduardo Mondlane, Nampula, Mozambique",
+  "phone": "+258848314223",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 791,
+  "name": "Mónica Shopping",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 792,
+  "name": "Jer Benz",
+  "address": "Av. Paulo Samuel Kamkomba, Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 793,
+  "name": "Barrote Residêncial",
+  "address": "Nampula, Mozambique",
+  "phone": "+258845210472",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 794,
+  "name": "TREVO | Centro Comercial A.Gafar",
+  "address": "Nampula, Mozambique",
+  "phone": "+258864660000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 795,
+  "name": "Mercado do Diallo E.i",
+  "address": "Nampula, Mozambique",
+  "phone": "+25826212969",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 796,
+  "name": "Moz Gallery",
+  "address": "Rua da Mueda, Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 797,
+  "name": "Predio Lopes",
+  "address": "Rua Daniele Natatima Nr 4 Nampula, 6108, Mozambique",
+  "phone": "+25821400343",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 798,
+  "name": "EMCO LDA.",
+  "address": "Estrada Nacional nr 08, Cidade de, Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 799,
+  "name": "Shoprite Mini Makua Mall",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 800,
+  "name": "Oficina De Reparacao E Montagem De Pneus Telmo Montaz",
+  "address": "Nampula, Mozambique",
+  "phone": "+258848793199",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 801,
+  "name": "Smart Options",
+  "address": "Nampula, Mozambique",
+  "phone": "+258843575004",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 802,
+  "name": "Spar",
+  "address": "Avenida Francisco Manyanga, Nampula, Mozambique",
+  "phone": "+258848217033",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 803,
+  "name": "Mercado do Mwanko O’nvela",
+  "address": "Airport Circle; En8 Main Road, Nampula, Mozambique",
+  "phone": "+25826215948",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 804,
+  "name": "Shoprite 2",
+  "address": "Nampula, Mozambique",
+  "phone": "+258846426918",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 805,
+  "name": "PEP Nampula",
+  "address": "Unnamed Road, Nampula, Mozambique",
+  "phone": "+258847327011",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 806,
+  "name": "Catedral Nossa Senhora de Fátima",
+  "address": "Moçambique, Mozambique",
+  "phone": "+258842140997",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 807,
+  "name": "Mesquita Central de Nampula",
+  "address": "Avenida da Marginal Norte, Praia do Wimbe, Pemba, Cabo Delgado, Pemba, Mozambique",
+  "phone": "+258878369400",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 808,
+  "name": "Cidade de Nampula",
+  "address": "Moçambique, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 809,
+  "name": "Fortaleza de Sao Sebastao",
+  "address": "Goinha, Mozambique",
+  "phone": "+258823082252",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 810,
+  "name": "Aeroporto de Nampula",
+  "address": "Do nº 2674, N8, Nampula, Mozambique",
+  "phone": "+258844566615",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 811,
+  "name": "House of the Farmer",
+  "address": "Nampula, Mozambique",
+  "phone": "+258845215565",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 812,
+  "name": "PRAIA DO WIMBE",
+  "address": "Nampula, Mozambique",
+  "phone": "+258845280938",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 813,
+  "name": "Gorongosa National Park",
+  "address": "Nampula, Mozambique",
+  "phone": "+25821468500",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 814,
+  "name": "Grand Plaza Hotel",
+  "address": "Varanda 9, Mossuril, Nampula Varanda, Mossuril, Mozambique",
+  "phone": "+258844239826",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 815,
+  "name": "Nampula Province",
+  "address": "Nacala, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 816,
+  "name": "Praia de Wimbi",
+  "address": "Maputo, Mozambique",
+  "phone": "+25821307385",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 817,
+  "name": "Mercado Waresta",
+  "address": "Rua da Republica 26 Bairro do Museu-ilha de Moçambique Nampula Ilha de Moçambique Nampula, 0026, Mozambique",
+  "phone": "+258846131243",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 818,
+  "name": "Vip supermercado",
+  "address": "Cidade alta, Nampula 3112, Mozambique",
+  "phone": "+258826666666",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 819,
+  "name": "Shoprite Mini Makua Mall",
+  "address": "Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 820,
+  "name": "Bar Restaurante o Ferroviario",
+  "address": "Estrada Nacional nr 08, Cidade de, Nampula, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 821,
+  "name": "Shoprite Nampula",
+  "address": "Unnamed Road, Nampula, Mozambique",
+  "phone": "+258845687210",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 822,
+  "name": "Nampula, Mozambique",
+  "address": "Av. Eduardo Mondlane, Nampula, Mozambique",
+  "phone": "+25826216000",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 823,
+  "name": "Mossuril",
+  "address": "Nampula Pemba, Nampula 3100, Mozambique",
+  "phone": "+258849218296",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 824,
+  "name": "Piri Piri Bar",
+  "address": "Airport Circle; En8 Main Road, Nampula, Mozambique",
+  "phone": "+25826215948",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 825,
+  "name": "New Hotel",
+  "address": "Nampula, Mozambique",
+  "phone": "+258858195208",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 826,
+  "name": "Shoprite 2",
+  "address": "Nampula, Mozambique",
+  "phone": "+258846261035",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 827,
+  "name": "Niassa Reserve",
+  "address": "N8, Nampula, Mozambique",
+  "phone": "+25826214392",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 828,
+  "name": "Movitel Nampula Office",
+  "address": "Av. Eduardo Mondlane, Nampula, Mozambique",
+  "phone": "+258848072067",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 829,
+  "name": "Museu dos CFM",
+  "address": "Centro Comercial De Shoprite Nampula, Rua Dos Continuadores E Rua De Tete, Nampula 3100, Mozambique",
+  "phone": "+258826216739",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 830,
+  "name": "Mesquita Central de Nacala",
+  "address": "Pemba, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 831,
+  "name": "Terraço das Quitandas Design Guest House",
+  "address": "398 R. Filipe Samuel Magaia, Nampula, Mozambique",
+  "phone": "+258841889656",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 832,
+  "name": "Coral Lodge",
+  "address": "Nampula, Mozambique",
+  "phone": "+258852157570",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 833,
+  "name": "Indico Apart Hotel",
+  "address": "Nampula, Mozambique",
+  "phone": "+258850664106",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 834,
+  "name": "Hotel Castelo Branco",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 835,
+  "name": "Hotel Milpark",
+  "address": "EN6, Cafumpe Chimoio, Manica 2200, Mozambique",
+  "phone": "+258843834679",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 836,
+  "name": "Hotel Sunbae",
+  "address": "Chimoio, Mozambique",
+  "phone": "+25825123334",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 837,
+  "name": "Residêncial Meu Tio",
+  "address": "Estrada do Aeroporto, Chimoio, Mozambique",
+  "phone": "+258875090090",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 838,
+  "name": "Residencial Dabhad",
+  "address": "Tambara 2, Chimoio, Mozambique",
+  "phone": "+258852467708",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 839,
+  "name": "Hotel Bidju",
+  "address": "N6, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 840,
+  "name": "África Resort",
+  "address": "Ave 25 de Setembro, Chimoio, Mozambique",
+  "phone": "+258844336310",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 841,
+  "name": "Villa Sky Hotel Apartment",
+  "address": "Rua 25 de junho, Chimoio, Mozambique",
+  "phone": "+258825225960",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 842,
+  "name": "Linda’s Lodge",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 843,
+  "name": "Residencial e Restaurante Chinfura",
+  "address": "Bairro Herois Moçambicanos Entrada a direita nos eucalipto., Chimoio 2200, Mozambique",
+  "phone": "+258844682641",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 844,
+  "name": "Tangai Guest House",
+  "address": "entrada para UP, Chimoio, bairro Tembwe, Chimoio, Mozambique",
+  "phone": "+258867700020",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 845,
+  "name": "SanBae Hotel",
+  "address": "Estrada N6 Chimoio Manica, 2206, Mozambique",
+  "phone": "+258825718270",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 846,
+  "name": "Hotel Madrinha",
+  "address": "EN 6 Bairro Tembwe, Next to Deca Chimoio Chimoio Chimoio Manica, 2206, Mozambique",
+  "phone": "+258829909904",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 847,
+  "name": "Restaurante A Fornalha",
+  "address": "Rua do Hospital, Chimoio, Mozambique",
+  "phone": "+258879005001",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 848,
+  "name": "Capuchino",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258847027183",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 849,
+  "name": "Ponto De Encontro",
+  "address": "Bairro Trangapasso, Chimoio, Mozambique",
+  "phone": "+258863132115",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 850,
+  "name": "Cafe Chimoio",
+  "address": "Ave 25 de Setembro, Chimoio, Mozambique",
+  "phone": "+258847976892",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 851,
+  "name": "Chicateco Restaurante \u0026 Acomodacao",
+  "address": "Unnamed Road, Chimoio, Mozambique",
+  "phone": "+258852792424",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 852,
+  "name": "Restaurante e Bar",
+  "address": "Rua Pigivite Chimoio Manica, 2200, Mozambique",
+  "phone": "+258871015200",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 853,
+  "name": "Restaurante Xima Bar",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258827883184",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 854,
+  "name": "K Food",
+  "address": "Rua Doutor Araujo de Lacerda,10, Chimoio, Mozambique",
+  "phone": "+25825123293",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 855,
+  "name": "Scappi Restaurante Hamburgueria",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 856,
+  "name": "RESTAURANTE MOUNINO",
+  "address": "Rua Dr Araujo de la Cerda, Chimoio, Mozambique",
+  "phone": "+258871904365",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 857,
+  "name": "No Tasco",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 858,
+  "name": "Bismillah restaurant",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258852618591",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 859,
+  "name": "La Plaza",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 860,
+  "name": "Estalagem da Selva",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 861,
+  "name": "Delicia takeaway",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 862,
+  "name": "O Nosso Take-Away",
+  "address": "Bomba total Amerana, heros, Mozambique",
+  "phone": "+258841727090",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 863,
+  "name": "Cantina Ponto Certo",
+  "address": "N6, Mozambique",
+  "phone": "+258848866986",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 864,
+  "name": "Jumbo Snack Bar",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258843440446",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 865,
+  "name": "Shamwari's Bar",
+  "address": "Ave 25 de Setembro, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 866,
+  "name": "3 Tempos",
+  "address": "Rua Patrice Lumumba, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 867,
+  "name": "Restaurante Talleh",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 868,
+  "name": "Munaca's Food Golosão",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258844409061",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 869,
+  "name": "A Sombra",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258824423994",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 870,
+  "name": "banana split shop",
+  "address": "N6, Mozambique",
+  "phone": "+258848351419",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 871,
+  "name": "Restaurante Vila Mauà",
+  "address": "EN 6 Bairro Tembwe, Next to Deca Chimoio Chimoio Chimoio Manica, 2206, Mozambique",
+  "phone": "+258829909904",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 872,
+  "name": "Cely Sabores",
+  "address": "Heróis, Chimoio, Mozambique",
+  "phone": "+258848399862",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 873,
+  "name": "Caçarola 2 Take Away",
+  "address": "245 Rua do Barne, Chimoio, Mozambique",
+  "phone": "+25825124034",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 874,
+  "name": "ARIKASISOLUTION RESTAURANT /OLD SPLASH",
+  "address": "Rua dos Oprimidos, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 875,
+  "name": "Maua Resturant",
+  "address": "Bairro Trangapasso, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 876,
+  "name": "Zama Zama Take Away",
+  "address": "Mercado Feira, Rua Dos Trabalhadores, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 877,
+  "name": "Shamwari's Bistrô",
+  "address": "Millenium BIM, Bairro Tambara 2, ao lado do Banco, Chimoio, Mozambique",
+  "phone": "+258848163022",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 878,
+  "name": "Vapor (Pizzaria)",
+  "address": "Rua Dr Araujo de la Cerda, Chimoio, Mozambique",
+  "phone": "+258849202715",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 879,
+  "name": "Muianga's",
+  "address": "Rua Patrice Lumumba, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 880,
+  "name": "Nacke Restaurante e Bar",
+  "address": "Bairro 2, rua da Zâmbia, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 881,
+  "name": "Timoteo manuel",
+  "address": "Cell 878486200, Recinto da Fepom (Fiera Cell 848486200, Chimoio, Mozambique",
+  "phone": "878486200848486200",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 882,
+  "name": "Delicious Take Away",
+  "address": "Rua Pigvide, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 883,
+  "name": "LAHORI RESTAURANT \u0026 TAKEAWAY",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 884,
+  "name": "Papito",
+  "address": "bairro 3 - zona industrial, Chimoio, Mozambique",
+  "phone": "+258867001011",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 885,
+  "name": "Edenn street coffee",
+  "address": "Praça da independencia, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 886,
+  "name": "Lanches \u0026 take away",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258846063782",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 887,
+  "name": "Chicken cabana",
+  "address": "rua zona urbana nr2, Bairro 16 junho, Chimoio, Mozambique",
+  "phone": "+258872408972",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 888,
+  "name": "DK INN",
+  "address": "Rua Dr Araujo de la Cerda, Chimoio, Mozambique",
+  "phone": "+258869164018",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 889,
+  "name": "Teckaway Lúcia",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258874500100",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 890,
+  "name": "Almadavoh",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258846729604",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 891,
+  "name": "Nenucha",
+  "address": "Mercado 38 Bairro Francisco Manhanga, Chimoio, Mozambique",
+  "phone": "+258846884739",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 892,
+  "name": "Sixnine Club \u0026 Grill",
+  "address": "R. da Igreja, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 893,
+  "name": "Golden Chicken",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 894,
+  "name": "Requinte Services Chimoio",
+  "address": "N6, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 895,
+  "name": "BANCA EVELINA",
+  "address": "445 R. Dr Araujo de Lacerda, Chimoio, Mozambique",
+  "phone": "+258840659618",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 896,
+  "name": "O Cantinho De Maua",
+  "address": "R. Operários, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 897,
+  "name": "Bar Trio Amigável",
+  "address": "Chimoio/ Feira, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 898,
+  "name": "Nayara takeaway",
+  "address": "Centro Comercial frente antiga fábrica dos chinelos, Chimoio, Mozambique",
+  "phone": "+258845183364",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 899,
+  "name": "Linda’s Lodge",
+  "address": "N6, Chimoio, Mozambique",
+  "phone": "+258860455084",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 900,
+  "name": "Pensão Atlântida",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258863110258",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 901,
+  "name": "The Kyshas Pub",
+  "address": "Unnamed Road, Chimoio, Mozambique",
+  "phone": "+25825124277",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 902,
+  "name": "Adam’s Lodge - Restaurante",
+  "address": "Chimoio Rua Cidade de Lichinga Chimoio Manica, 2200, Mozambique",
+  "phone": "+258857096799",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 903,
+  "name": "Hotel FIM",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 904,
+  "name": "Banana shop2",
+  "address": "Rua Dos Trabalhadores, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 905,
+  "name": "Luxus Eventos.E.I",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 906,
+  "name": "CABANA DO REI",
+  "address": "Rua Doutor Araujo de lacerda, Chimoio, Mozambique",
+  "phone": "+258852441762",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 907,
+  "name": "Rei do Amburguer",
+  "address": "Unnamed Road, Chimoio, Mozambique",
+  "phone": "+258842231727",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 908,
+  "name": "Restaurante Galo Verde",
+  "address": "Rua do Barne, Chimoio, Mozambique",
+  "phone": "+258844986754",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 909,
+  "name": "Jazz Bar",
+  "address": "Rua 16 de Junho Chimoio Manica, 2200, Mozambique",
+  "phone": "+258845280644",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 910,
+  "name": "Restaurate Iac",
+  "address": "Rua Dos Trabalhadores, Chimoio, Mozambique",
+  "phone": "+258842707070",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 911,
+  "name": "KUNAKAS'S PLACE",
+  "address": "R. Operários, Chimoio, Mozambique",
+  "phone": "+258842235829",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 912,
+  "name": "Xeirino",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 913,
+  "name": "Rontil",
+  "address": "Rua Dos Trabalhadores, Chimoio, Mozambique",
+  "phone": "+258842844424",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 914,
+  "name": "Restaurante Bar and Sports Club",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 915,
+  "name": "Todos Locals",
+  "address": "Centro hipico, Bairro, Chimoio, Mozambique",
+  "phone": "+258843031593",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 916,
+  "name": "Manica Shopping Center",
+  "address": "Unnamed Road, Chimoio, Mozambique",
+  "phone": "+258842446876",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 917,
+  "name": "FrescoShopping",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258842083231",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 918,
+  "name": "Ameena Shopping",
+  "address": "Rua Pigivide, 188, Chimoio 2200, Mozambique",
+  "phone": "+25825124975",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 919,
+  "name": "Nahim Shopping Mall",
+  "address": "N6, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 920,
+  "name": "Papelaria Classica",
+  "address": "N6, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 921,
+  "name": "jumbo city cash and carry",
+  "address": "N6, Chimoio, Mozambique",
+  "phone": "+25825122044",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 922,
+  "name": "Supermercado. No.1",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 923,
+  "name": "Sena Cash LDA",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258862667262",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 924,
+  "name": "CELL- TECH",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258842473396",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 925,
+  "name": "Paragem Matsinho",
+  "address": "Mercado Feira, Rua Dos Trabalhadores, Chimoio, Mozambique",
+  "phone": "+258843539260",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 926,
+  "name": "Klein Karoo Seed Marketing",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 927,
+  "name": "Cogef Trading 1",
+  "address": "Rua Dr Americo Boavida, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 928,
+  "name": "Nagida Shopping Center",
+  "address": "Ave 25 de Setembro, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 929,
+  "name": "Adnaan centre",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 930,
+  "name": "City Center Electronic Lda",
+  "address": "Unnamed Road, Chimoio, Mozambique",
+  "phone": "+258865378966",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 931,
+  "name": "Shoprite Chimoio",
+  "address": "Chimoio - Manica - Moçambique No Recinto de Manica Shopping Center, Chimoio, Mozambique",
+  "phone": "+258866868444",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 932,
+  "name": "Vip supermercado",
+  "address": "Bairro 5 Macodamo, Chimoio, Mozambique",
+  "phone": "+258846426655",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 933,
+  "name": "Jeral Junto Sociedade Unipessoal Lda",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258846305522",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 934,
+  "name": "Mercado 38mm",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258848854605",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 935,
+  "name": "A Sombra",
+  "address": "Centro Comercial De Shoprite Chimoio, Strada Nasional Nr 6, Chimoio 2200, Mozambique",
+  "phone": "+25825124867",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 936,
+  "name": "Praça Ngungunhane",
+  "address": "Ave 25 de Setembro, Chimoio, Mozambique",
+  "phone": "+258844336310",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 937,
+  "name": "Praça dos Heróis",
+  "address": "Goinha, Mozambique",
+  "phone": "+258823082252",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 938,
+  "name": "Gorongosa National Park",
+  "address": "Caricanhi, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 939,
+  "name": "Chimoio",
+  "address": "Rua Doutor Araujo de Lacerda,10, Chimoio, Mozambique",
+  "phone": "+25825123293",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 940,
+  "name": "Chimanimani National Reserve",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258827663695",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 941,
+  "name": "Amirana",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 942,
+  "name": "Scappi Restaurante Hamburgueria",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258862667262",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 943,
+  "name": "Residencial e Restaurante Chinfura",
+  "address": "Chimoio, Mozambique",
+  "phone": "+25825123334",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 944,
+  "name": "Mercado 38mm",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258840492545",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 945,
+  "name": "La Plaza",
+  "address": "Centro Comercial De Shoprite Chimoio, Strada Nasional Nr 6, Chimoio 2200, Mozambique",
+  "phone": "+25825124867",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 946,
+  "name": "BELATRONIC TRADING LDA",
+  "address": "Avenida da Marginal Norte, Praia do Wimbe, Pemba, Cabo Delgado, Pemba, Mozambique",
+  "phone": "+258878369400",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 947,
+  "name": "Shoprite Chimoio",
+  "address": "Rua do Barue 316 Chimoio Manica, 2100, Mozambique",
+  "phone": "+258848857777",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 948,
+  "name": "Supermercado. No.1",
+  "address": "N6, Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 949,
+  "name": "Msika Lodge",
+  "address": "Mutarazi Falls Road, Nyanga, Zimbabwe",
+  "phone": "+263772469229",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 950,
+  "name": "Residencial Dabhad",
+  "address": "Chimoio, Mozambique",
+  "phone": "",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 951,
+  "name": "Mtarazi Falls Skywalk and Skyline Bookings",
+  "address": "Rua 25 de junho, Chimoio, Mozambique",
+  "phone": "+258825225960",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ },
+ {
+  "id": 952,
+  "name": "Chicateco Restaurante \u0026 Acomodacao",
+  "address": "Chimoio, Mozambique",
+  "phone": "+258846305522",
+  "country-code": "MZ",
+  "country": "Mozambique"
+ }
+]

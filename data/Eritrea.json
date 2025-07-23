@@ -1,0 +1,2130 @@
+[
+ {
+  "id": 1,
+  "name": "Asmara Palace Hotel",
+  "address": "Bakla Street # 20/22, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 2,
+  "name": "ክሪስታል ሆቴል | Crystal Hotel",
+  "address": "Mata St, Asmara, Eritrea",
+  "phone": "+249912265911",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 3,
+  "name": "Albergo Italia",
+  "address": "Bihat St, Asmara, Eritrea",
+  "phone": "+2911120944",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 4,
+  "name": "Savanna International Hotel",
+  "address": "13 Nakfa Avenue, Shegali St, Asmara, Eritrea",
+  "phone": "+2911120740",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 5,
+  "name": "Africa Pension",
+  "address": "04 Deb. Mie, Asmara, Eritrea",
+  "phone": "+2911153701",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 6,
+  "name": "Embasoira Hotel",
+  "address": "Beleza St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 7,
+  "name": "Expo Hotel",
+  "address": "Hday St, Asmara, Eritrea",
+  "phone": "+2911184242",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 8,
+  "name": "Hamasien Hotel",
+  "address": "Geregr Sudan St, Asmara, Eritrea",
+  "phone": "+2911202143",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 9,
+  "name": "Asmara Central Hotel",
+  "address": "Keskesse Street, Asmara, Eritrea",
+  "phone": "+2911121436",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 10,
+  "name": "Lion Hotel",
+  "address": "Beleza St, Asmara, Eritrea",
+  "phone": "+2911122981",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 11,
+  "name": "Ghirmay Hotel",
+  "address": "Terea Road, Emba Derho, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 12,
+  "name": "Ararat Hotel | Lamberert | አራራት ሆቴል | ላምበረት",
+  "address": "Baka St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 13,
+  "name": "Harambe Hotel | Ambassador | ሀራምቤ ሆቴል | አምባሳደር",
+  "address": "76 Bidho Street, Asmara, Eritrea",
+  "phone": "+2911127880",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 14,
+  "name": "Abysinia Hotel",
+  "address": "54 Harnet Ave, Eritrea, Asmara, Eritrea",
+  "phone": "+2911124491",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 15,
+  "name": "Parrot Guest House",
+  "address": "Asmara, Eritrea",
+  "phone": "+2911124855",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 16,
+  "name": "Ghibabo Restaurant And Pizzeria",
+  "address": "Shegali St, Asmara, Eritrea",
+  "phone": "+2917205476",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 17,
+  "name": "Al Sicomoro Restaurant",
+  "address": "176-3 St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 18,
+  "name": "MT Restaurant",
+  "address": "Warsay St, Asmara, Eritrea",
+  "phone": "+2911202477",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 19,
+  "name": "Golden Fork Fast Food",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 20,
+  "name": "Spaghetti And Pizza House",
+  "address": "175-15 St, Asmara, Eritrea",
+  "phone": "8+23217515",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 21,
+  "name": "The Roof Garden",
+  "address": "175-15 St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 22,
+  "name": "LAZA RESTAURANT",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 23,
+  "name": "Arobana Restaurant",
+  "address": "BDHO Ave, Asmara, Eritrea",
+  "phone": "+291202625",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 24,
+  "name": "Casa degli Italiani Restaurant",
+  "address": "Asmara, Eritrea",
+  "phone": "+2911202826",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 25,
+  "name": "Alba Bistro Restaurant",
+  "address": "Asmara, Eritrea",
+  "phone": "+2911113890",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 26,
+  "name": "SILLA RESTAURANT (እንዳ ሲላ)",
+  "address": "Selam St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 27,
+  "name": "Yodit Bar and Restaurant",
+  "address": "BDHO Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 28,
+  "name": "Abeba Restaurant",
+  "address": "Geregr Sudan St, Asmara, Eritrea",
+  "phone": "+2911202143",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 29,
+  "name": "Portico Snack Bar",
+  "address": "Asmara, Eritrea",
+  "phone": "+2911123971",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 30,
+  "name": "Restorante Caravel",
+  "address": "Sematat Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 31,
+  "name": "Cotsly Momona Restaurant",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 32,
+  "name": "Castello Bar And Restaurant",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 33,
+  "name": "Bar Pasticceria Vittoria",
+  "address": "Baka St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 34,
+  "name": "Admas Restaurant \u0026 Bar",
+  "address": "Beleza St, Asmara, Eritrea",
+  "phone": "+2911122981",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 35,
+  "name": "ሚላኖ Milano Restaurant",
+  "address": "76 Bidho Street, Asmara, Eritrea",
+  "phone": "+2911127880",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 36,
+  "name": "Sona cafe",
+  "address": "Beleza St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 37,
+  "name": "Eritrean Asmeea Senbel",
+  "address": "30 173-3 St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 38,
+  "name": "Bar Pasticceria Vittoria",
+  "address": "04 Deb. Mie, Asmara, Eritrea",
+  "phone": "+2911153701",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 39,
+  "name": "Dream Park",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 40,
+  "name": "Rendez-Vous Restaurant",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 41,
+  "name": "Bar Zilli",
+  "address": "Harnet Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 42,
+  "name": "Restaurant Mariano",
+  "address": "13 Nakfa Avenue, Shegali St, Asmara, Eritrea",
+  "phone": "+2911120740",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 43,
+  "name": "Nice Bar and Restaurant",
+  "address": "Mereb St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 44,
+  "name": "Raka",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 45,
+  "name": "Hibal Snack Bar",
+  "address": "Dekemhare, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 46,
+  "name": "Hirgigo Restaurant",
+  "address": "Binbina St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 47,
+  "name": "NCEW - ሃኮሰኤ",
+  "address": "Hager St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 48,
+  "name": "Pyramid Buffet Restaurant",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 49,
+  "name": "Mona Lisa Snack Bar And Pastry",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 50,
+  "name": "Hebron Bar And Restaurant",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 51,
+  "name": "Dankin Family Restaurant",
+  "address": "Alfaromayo, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 52,
+  "name": "China Star Restaurant",
+  "address": "Felket Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 53,
+  "name": "Mebrahtu Bahta Fast Food",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 54,
+  "name": "Restaurant Massawa",
+  "address": "Elabered St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 55,
+  "name": "Pasticceria Moderna",
+  "address": "Baka St, Asmara, Eritrea",
+  "phone": "+2911127277",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 56,
+  "name": "Bet Qursi Torino",
+  "address": "Tafebi Yazew St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 57,
+  "name": "Daniel Fastfood",
+  "address": "Bihat St, Asmara, Eritrea",
+  "phone": "+2911120944",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 58,
+  "name": "Z pizzeria",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 59,
+  "name": "Dynasty Restaurant",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 60,
+  "name": "Ararat Pizza \u0026 Grill",
+  "address": "Marsatekly Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 61,
+  "name": "New Fork",
+  "address": "Denden St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 62,
+  "name": "Hdmona Restaurant and Club",
+  "address": "194-3 St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 63,
+  "name": "ቤት ቁርሲ ሞዴርና Modern Snack Bar",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 64,
+  "name": "St George's",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 65,
+  "name": "Werki mesob bar and restaurant",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 66,
+  "name": "Gayem restaurant",
+  "address": "Fenkil St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 67,
+  "name": "Bar Royal",
+  "address": "Alitena-Mereb Rd, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 68,
+  "name": "Bar Zara",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 69,
+  "name": "Bar Lodi",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 70,
+  "name": "Bar Torino",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 71,
+  "name": "Gebretnsaie Cafe",
+  "address": "Ku'shet, Asmara, Eritrea",
+  "phone": "+2917180930",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 72,
+  "name": "Bar Jima",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 73,
+  "name": "Dolce Vita",
+  "address": "P-3, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 74,
+  "name": "Goitom's Bar and Restaurant",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 75,
+  "name": "Bar Lidia",
+  "address": "Sahel St, Eritrea Asmara ER, Sahel St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 76,
+  "name": "Cinema Roma Cafe",
+  "address": "Marsatekly Ave, Asmara, Eritrea",
+  "phone": "+2911117420",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 77,
+  "name": "Tesfa Internet Cafe",
+  "address": "Alfaromayo, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 78,
+  "name": "ሞካ ባር | BAR MOKA",
+  "address": "Falket Sayb St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 79,
+  "name": "Gezamanda Habesha Enda Haile Shahi",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 80,
+  "name": "The City Park Café",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 81,
+  "name": "Bonjour Cafe",
+  "address": "176-3 St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 82,
+  "name": "Bar Impero",
+  "address": "Harnet Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 83,
+  "name": "Enda Fenili",
+  "address": "176-5 St, Asmara, Eritrea",
+  "phone": "+2911120741",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 84,
+  "name": "Bar Hiwnet",
+  "address": "EXPO, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 85,
+  "name": "Damera Bar And Pastry",
+  "address": "173-5 St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 86,
+  "name": "May JahJah cafe, ቤት ቁርሲ ማይ ጃሕጃሕ",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 87,
+  "name": "Bar Folia",
+  "address": "Omhajer St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 88,
+  "name": "ክሪስታል ሆቴል | Crystal Hotel",
+  "address": "Harnet Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 89,
+  "name": "Asmara Sweet Cafe",
+  "address": "Aredayb St, Asmara, Eritrea",
+  "phone": "+2917157977",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 90,
+  "name": "Sheghey Hotel, Bar \u0026 Restaurant",
+  "address": "Harnet Ave, Asmara, Eritrea",
+  "phone": "+291123784",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 91,
+  "name": "Bar Rosina",
+  "address": "Asmara, Eritrea",
+  "phone": "+2917139881",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 92,
+  "name": "uni cafe",
+  "address": "Asmara, Eritrea",
+  "phone": "+2911114503",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 93,
+  "name": "Janti ጃንቲ",
+  "address": "Unnamed Road, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 94,
+  "name": "American Bar",
+  "address": "Mata St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 95,
+  "name": "Cinema Asmara",
+  "address": "Asmara, Eritrea",
+  "phone": "+2917303560",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 96,
+  "name": "Bar Piccolo",
+  "address": "Denden St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 97,
+  "name": "Cherhi",
+  "address": "nora street no 33/35, Back side of Pushkin, behind redsea corporation, Asmara, Eritrea",
+  "phone": "+2917638143",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 98,
+  "name": "Bar Gejeret",
+  "address": "Embaderho st, Asmara, Eritrea",
+  "phone": "+291163855",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 99,
+  "name": "Peacoke Bar \u0026 Reastaurant",
+  "address": "Beirut St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 100,
+  "name": "Da Fortuna Gelato Italiano",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 101,
+  "name": "Flamingo (Bar Kennedy)",
+  "address": "Nakfa Ave, Asmara, Eritrea",
+  "phone": "+2917112374",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 102,
+  "name": "Kibrom\"s Ice cream shop",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 103,
+  "name": "Albergo Italia",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 104,
+  "name": "Bar Ugo (ባር ኡጎ)",
+  "address": "Mata St, # 14, Asmara, Eritrea",
+  "phone": "+2911200261",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 105,
+  "name": "Asmarini amici di Mussolini",
+  "address": "Asmara, Eritrea",
+  "phone": "+291121732",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 106,
+  "name": "Zerimariam Market (እንዳ ዘርእማርያም ዱኳን)",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 107,
+  "name": "post office (አንዳ ፖስታ ዕዳጋ ዓርቢ)",
+  "address": "Hager St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 108,
+  "name": "Asmara Palace Hotel",
+  "address": "Sematat Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 109,
+  "name": "Modka cafe",
+  "address": "Adi Hawesha St, Asmara, Eritrea",
+  "phone": "+2911120534",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 110,
+  "name": "Embasoira Hotel",
+  "address": "Sematat Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 111,
+  "name": "Savanna International Hotel",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 112,
+  "name": "Latteria Awet",
+  "address": "Aredayb St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 113,
+  "name": "ሰንሻይን ሆቴል Sunshine",
+  "address": "Adi Hawesha St, Asmara, Eritrea",
+  "phone": "+2911120534",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 114,
+  "name": "Bologna Hotel",
+  "address": "Mereb St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 115,
+  "name": "Cathedral Stationery",
+  "address": "Alfaromayo, Asmara, Eritrea",
+  "phone": "+2911120453",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 116,
+  "name": "Minassie Computer Center",
+  "address": "Asmara, Eritrea",
+  "phone": "+2911124455",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 117,
+  "name": "Fasika Gift Shop",
+  "address": "172-4, Asmara, Eritrea",
+  "phone": "+2917339313",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 118,
+  "name": "Cheromit Shopping Centre.",
+  "address": "Dekseb, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 119,
+  "name": "Fitsum Business center",
+  "address": "ማእኸል ዛግር, Eritrea",
+  "phone": "+31650590022",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 120,
+  "name": "Roman Ridge Shopping Arcade",
+  "address": "Harnet Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 121,
+  "name": "ኣስመራ ካቴድራል | Cathedral Our Lady of the Rosary",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 122,
+  "name": "Fiat Tagliero ፡ፍያት ታሌሮ",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 123,
+  "name": "Tank Graveyard",
+  "address": "Beirut St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 124,
+  "name": "Khulafa al-Rashidun Mosque",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 125,
+  "name": "Asmara Italian Cemetery",
+  "address": "Harnet Ave, Asmara, Eritrea",
+  "phone": "+2917495623",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 126,
+  "name": "Asmara",
+  "address": "Road, Mitsiwa, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 127,
+  "name": "Asmara Synagogue",
+  "address": "Harnet Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 128,
+  "name": "Imperial Palace",
+  "address": "Mereb St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 129,
+  "name": "Governor's Palace, Asmara",
+  "address": "Senafe St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 130,
+  "name": "Jumeirah Beach Residence",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 131,
+  "name": "Rhino Camp",
+  "address": "Harnet Ave, Asmara, Eritrea",
+  "phone": "+291123784",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 132,
+  "name": "Kaabong",
+  "address": "Raza Building First Floor, Bdho Street, Asmara, Eritrea",
+  "phone": "+2917190374",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 133,
+  "name": "Danau/Waduk",
+  "address": "Harnet Ave, Asmara, Eritrea",
+  "phone": "+2911111292",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 134,
+  "name": "Leopards Hill Memorial Park",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 135,
+  "name": "Sumberkima",
+  "address": "Kerkebet 746, Asmara, Eritrea",
+  "phone": "+2917628882",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 136,
+  "name": "Nglurah",
+  "address": "04 Deb. Mie, Asmara, Eritrea",
+  "phone": "+2911153701",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 137,
+  "name": "La Preneuse",
+  "address": "Asmara, Eritrea",
+  "phone": "+2917308247",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 138,
+  "name": "Greyhound Bus Museum",
+  "address": "Asmara, Eritrea",
+  "phone": "+2911181822",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 139,
+  "name": "Costina Hotel ኮስቲና ሆቴል",
+  "address": "Keren, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 140,
+  "name": "Sarina Hotel",
+  "address": "P-2, Keren, Eritrea",
+  "phone": "+2911402301",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 141,
+  "name": "ኣስመራ ካቴድራል | Cathedral Our Lady of the Rosary",
+  "address": "Harnet Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 142,
+  "name": "Fiat Tagliero ፡ፍያት ታሌሮ",
+  "address": "Mereb St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 143,
+  "name": "Dahlak Hotel",
+  "address": "Mitsiwa, Eritrea",
+  "phone": "+249912128628",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 144,
+  "name": "Central Hotel",
+  "address": "Mitsiwa, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 145,
+  "name": "Five Guys",
+  "address": "Unnamed Road, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 146,
+  "name": "Seghen Restaurant",
+  "address": "Edaga campo marrta, Mitsiwa, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 147,
+  "name": "ኣኸዛ ስናክ ባር | Akeza Snack Bar",
+  "address": "Mitsiwa, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 148,
+  "name": "Banuna Bar \u0026 Restaurant",
+  "address": "Mitsiwa, Eritrea",
+  "phone": "+2917138343",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 149,
+  "name": "M.A.Dafla \u0026 sons for trade",
+  "address": "Mitsiwa, Eritrea",
+  "phone": "+2917134368",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 150,
+  "name": "Grmay Luba Resturant",
+  "address": "Mitsiwa, Eritrea",
+  "phone": "+291540596",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 151,
+  "name": "BAR ALMAZ ረስቶራንት ዮናስ",
+  "address": "Mitsiwa, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 152,
+  "name": "Restaurant Massawa",
+  "address": "Mitsiwa, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 153,
+  "name": "mama hansu cafe",
+  "address": "Asmara, Eritrea",
+  "phone": "+2911114503",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 154,
+  "name": "SILLA RESTAURANT (እንዳ ሲላ)",
+  "address": "Massawa Port, Mitsiwa, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 155,
+  "name": "Subway",
+  "address": "Asmara, Eritrea",
+  "phone": "+291121732",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 156,
+  "name": "Amatare shopping center",
+  "address": "Mitsiwa, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 157,
+  "name": "memorial plaza for victims of massawa battle",
+  "address": "Twalet, مصوع،, Mitsiwa, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 158,
+  "name": "memorial plaza for victims of massawa battle",
+  "address": "Twalet, مصوع،, Mitsiwa, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 159,
+  "name": "Tank Graveyard",
+  "address": "Mitsiwa, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 160,
+  "name": "Mitsiwa",
+  "address": "Dhu Bellu, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 161,
+  "name": "Dahlak Marine National Park",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 162,
+  "name": "Fiat Tagliero ፡ፍያት ታሌሮ",
+  "address": "Harnet Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 163,
+  "name": "Massawa",
+  "address": "Road, Mitsiwa, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 164,
+  "name": "Old Railway Station",
+  "address": "Mereb St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 165,
+  "name": "Maripipi",
+  "address": "Raza Building First Floor, Bdho Street, Asmara, Eritrea",
+  "phone": "+2917190374",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 166,
+  "name": "Bantayan",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 167,
+  "name": "Assab Hotel",
+  "address": "Āssab, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 168,
+  "name": "KEBAL INTERNATIONAL HOTEL",
+  "address": "27 Miazia Street, Āssab, Eritrea",
+  "phone": "+2911660229",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 169,
+  "name": "የጀግኖች ማህበር ሆቴል Jegnoch Mahiber Hotel",
+  "address": "Miazia street, Āssab, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 170,
+  "name": "New Eritrea Restaurant",
+  "address": "Āssab, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 171,
+  "name": "Cafe Dareye",
+  "address": "P3, Segheneyti, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 172,
+  "name": "Āssab",
+  "address": "Harnet Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 173,
+  "name": "Rock-Hewn Churches, Lalibela",
+  "address": "Mereb St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 174,
+  "name": "H.G Hotel",
+  "address": "P3, سخناتي،, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 175,
+  "name": "Mereb Hotel",
+  "address": "Adi Ugri, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 176,
+  "name": "semhar hotel",
+  "address": "P-4, Adi Ugri, Eritrea",
+  "phone": "+291610669",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 177,
+  "name": "Cherhi Hotel, ጨርሒ ሆተል",
+  "address": "P-4, Adi Ugri, Eritrea",
+  "phone": "+2911610165",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 178,
+  "name": "Luna Hotel",
+  "address": "Dbarwa, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 179,
+  "name": "Awet Hotel",
+  "address": "Adi Ugri, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 180,
+  "name": "Momona Hotel",
+  "address": "Mendefera, مندفراMendefera, Eritrea",
+  "phone": "+2917136652",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 181,
+  "name": "HG Hotel and Recreation Centre",
+  "address": "P-4, Adi Ugri, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 182,
+  "name": "Wahabit Hotel",
+  "address": "Adi Ugri, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 183,
+  "name": "Merhaba hotel",
+  "address": "Adi Ugri, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 184,
+  "name": "Bana Hotel",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 185,
+  "name": "Halhal Hotel (ሓልሓል ሆቴል)",
+  "address": "Gonder St, Asmara, Eritrea",
+  "phone": "+2917114791",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 186,
+  "name": "Mustie Tehanit Factory",
+  "address": "Geregr Sudan St, Asmara, Eritrea",
+  "phone": "+2911202143",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 187,
+  "name": "Enda biniam belay",
+  "address": "Adi Ugri, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 188,
+  "name": "Garden Hotel",
+  "address": "Unnamed Road, Asmara, Eritrea",
+  "phone": "+2911151226",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 189,
+  "name": "Fika Hotel",
+  "address": "Keren, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 190,
+  "name": "Tesfaldet Tekali",
+  "address": "13 Nakfa Avenue, Shegali St, Asmara, Eritrea",
+  "phone": "+2911120740",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 191,
+  "name": "Dina Hotel",
+  "address": "Hinbirti, Eritrea",
+  "phone": "+2917117501",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 192,
+  "name": "Shegay",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 193,
+  "name": "Hazhaz - ሓዝሓዝ",
+  "address": "Adi Ugri, Eritrea",
+  "phone": "+2911610037",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 194,
+  "name": "Ghenet Hotel",
+  "address": "Hday St, Asmara, Eritrea",
+  "phone": "+2911184242",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 195,
+  "name": "Mistes Hotel",
+  "address": "P-2, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 196,
+  "name": "Azmaro Pension",
+  "address": "176-9 St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 197,
+  "name": "ሞሞና መዕረፊ ኣጋይሽ Hotel Momona",
+  "address": "Baka St, Asmara, Eritrea",
+  "phone": "+2911127277",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 198,
+  "name": "Ghirmay Hotel",
+  "address": "54 Harnet Ave, Eritrea, Asmara, Eritrea",
+  "phone": "+2911124491",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 199,
+  "name": "Park Hotel",
+  "address": "Sawa street 18, Gejeret, Asmara, Eritrea",
+  "phone": "+2911185345",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 200,
+  "name": "Damera Pension",
+  "address": "Hbday Street, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 201,
+  "name": "Rainbow Hotel",
+  "address": "Mata St, Asmara, Eritrea",
+  "phone": "+249912265911",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 202,
+  "name": "Hotel Akele guzay",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 203,
+  "name": "Red Sea Hotel (ቐይሕ ባሕሪ ሆቴል)",
+  "address": "Bihat St, Asmara, Eritrea",
+  "phone": "+2911120944",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 204,
+  "name": "Dekemhare Hotel",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 205,
+  "name": "TMT",
+  "address": "Igri-Mekel St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 206,
+  "name": "Babiene Hotel (ባቤነ ሆቴል)",
+  "address": "Bakla Street # 20/22, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 207,
+  "name": "Maik Hotel",
+  "address": "Beleza St, Asmara, Eritrea",
+  "phone": "+2911122981",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 208,
+  "name": "Paradise Hotel",
+  "address": "Beleza St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 209,
+  "name": "ሰላም ሆቴል Selam Hotel",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 210,
+  "name": "Melano Hotel",
+  "address": "Sematat Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 211,
+  "name": "Asmara Palace Hotel",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 212,
+  "name": "Khartoum Hotel",
+  "address": "04 Deb. Mie, Asmara, Eritrea",
+  "phone": "+2911153701",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 213,
+  "name": "ሰንሻይን ሆቴል Sunshine",
+  "address": "Keskesse Street, Asmara, Eritrea",
+  "phone": "+2911121436",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 214,
+  "name": "Nyala Hotel",
+  "address": "Baka St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 215,
+  "name": "Africa Pension",
+  "address": "Adi Tafa, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 216,
+  "name": "ዓዲ ጣፋ Adi Tafa",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 217,
+  "name": "Embasoira Hotel",
+  "address": "76 Bidho Street, Asmara, Eritrea",
+  "phone": "+2911127880",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 218,
+  "name": "Lion Hotel",
+  "address": "Dekemhare, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 219,
+  "name": "DAN PENSIONS",
+  "address": "Ad Guadad, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 220,
+  "name": "Ring Road Motel",
+  "address": "Segheneyti, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 221,
+  "name": "Top Five Hotel",
+  "address": "Dekemhare, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 222,
+  "name": "ክሪስታል ሆቴል | Crystal Hotel",
+  "address": "Segheneyti, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 223,
+  "name": "Asmara Central Hotel",
+  "address": "Off P-2 Road, Emba Derho, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 224,
+  "name": "Bologna Hotel",
+  "address": "P3, Dekemhare, Eritrea",
+  "phone": "+2911641126",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 225,
+  "name": "Ask Pension",
+  "address": "Asmara, Eritrea",
+  "phone": "+2911124855",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 226,
+  "name": "Asmara Star Hotel",
+  "address": "Dekemhare, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 227,
+  "name": "Sheghey Hotel, Bar \u0026 Restaurant",
+  "address": "Terea Road, Emba Derho, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 228,
+  "name": "Pensione Pisa",
+  "address": "Seraye St, Asmara, Eritrea",
+  "phone": "+2917546288",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 229,
+  "name": "universal cafe",
+  "address": "Dekemhare, Eritrea",
+  "phone": "+2911641304",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 230,
+  "name": "አምባሳደር ሆቴል Ambassador Hotel",
+  "address": "Senafe, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 231,
+  "name": "Stadium Hotel",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 232,
+  "name": "Expo Hotel",
+  "address": "Debre Bizen St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 233,
+  "name": "Alla Scala Hotel hotel",
+  "address": "Baka St, Asmara, Eritrea",
+  "phone": "+2911127277",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 234,
+  "name": "Hamelay Kewhi Resort",
+  "address": "Segheneyti, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 235,
+  "name": "Albergo Italia",
+  "address": "Marsatekly Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 236,
+  "name": "ማይ ሰራው",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 237,
+  "name": "Savanna International Hotel",
+  "address": "Dekemhare, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 238,
+  "name": "Fsiha Meresa Hotel",
+  "address": "Dekemhare, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 239,
+  "name": "Lion Hotel",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 240,
+  "name": "Keren Hotel",
+  "address": "Adi Hizba, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 241,
+  "name": "Eritrean orthodox church",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 242,
+  "name": "Asmerom Ghebremedhin",
+  "address": "May-Nefhi, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 243,
+  "name": "ሙሳ ቀመማ ቀመም",
+  "address": "P3, Segheneyti, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 244,
+  "name": "Adi Ugri",
+  "address": "Unnamed Road, Adi Ugri, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 245,
+  "name": "መንበሪ መምህር ኢሳይያስ ዓንደብርሃን",
+  "address": "Dekemhare, Eritrea",
+  "phone": "+2911641696",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 246,
+  "name": "seven burger Places",
+  "address": "14°52'43.6\"N 38°48'43.6\"E, مندفرا،, Eritrea",
+  "phone": "14524363848436",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 247,
+  "name": "Zemennawi City Park",
+  "address": "Adi Ugri, Eritrea",
+  "phone": "+2911610037",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 248,
+  "name": "siye cafe",
+  "address": "Adi Ugri, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 249,
+  "name": "universal cafe",
+  "address": "Adi Ugri, Eritrea",
+  "phone": "+2917423453",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 250,
+  "name": "Zara",
+  "address": "Adi Ugri, Eritrea",
+  "phone": "+2917123690",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 251,
+  "name": "Laken",
+  "address": "Adi Ugri, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 252,
+  "name": "family Bar (tegera)",
+  "address": "Mendefera, مندفراMendefera, Eritrea",
+  "phone": "+2917136652",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 253,
+  "name": "H.G Hotel",
+  "address": "P-4, Mendefera, مندفرا،, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 254,
+  "name": "Red Sea Cafeteria",
+  "address": "Adi Ugri, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 255,
+  "name": "HG Hotel and Recreation Centre",
+  "address": "Guhchia, Kisad Dairo, Eritrea",
+  "phone": "+2917143071",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 256,
+  "name": "Mendefera",
+  "address": "Adi Keyh, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 257,
+  "name": "Haserlibo",
+  "address": "Adi Keyh, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 258,
+  "name": "Af May",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 259,
+  "name": "Le K'fé",
+  "address": "Adi Geda (1), Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 260,
+  "name": "Emba Soira",
+  "address": "Adi Ugri, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 261,
+  "name": "Tank Graveyard",
+  "address": "Twalet, مصوع،, Mitsiwa, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 262,
+  "name": "Mendefera",
+  "address": "Dhu Bellu, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 263,
+  "name": "Dahlak Marine National Park",
+  "address": "Mereb St, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 264,
+  "name": "Debre Bizen Monastery",
+  "address": "Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 265,
+  "name": "memorial plaza for victims of massawa battle",
+  "address": "Harnet Ave, Asmara, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ },
+ {
+  "id": 266,
+  "name": "Emba Derho",
+  "address": "Nefasit, Eritrea",
+  "phone": "",
+  "country-code": "ER",
+  "country": "Eritrea"
+ }
+]

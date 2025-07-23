@@ -1,0 +1,3458 @@
+[
+ {
+  "id": 1,
+  "name": "Bintumani Hotel",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23277200202",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 2,
+  "name": "Medrie International Hotel",
+  "address": "75 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23280222222",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 3,
+  "name": "Radisson Blu Mammy Yoko Hotel, Freetown",
+  "address": "38 Spur Rd, Freetown, Sierra Leone",
+  "phone": "+23277399399",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 4,
+  "name": "Atlantic Lumley Hotel",
+  "address": "17 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279454000",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 5,
+  "name": "The Country Lodge Hotel",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23230000120",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 6,
+  "name": "Home Suites Boutique Hotel",
+  "address": "Cape Rd, Freetown, Sierra Leone",
+  "phone": "+23299100100",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 7,
+  "name": "Pearl Hotel",
+  "address": "Lumley Beach Road, Freetown, Sierra Leone",
+  "phone": "+23280212121",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 8,
+  "name": "Sierra Palms Resort",
+  "address": "78A Cape road, Bintumani Drive, Aberdeen, Freetown, Sierra Leone",
+  "phone": "+23230222227",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 9,
+  "name": "Mamba Point Hotel Restaurant Lagoonda",
+  "address": "HS 51 Hillstation, Freetown, Sierra Leone",
+  "phone": "+23277692000",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 10,
+  "name": "The Swiss Hotel Freetown",
+  "address": "184 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23277211111",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 11,
+  "name": "New Brookfields Hotel",
+  "address": "Parsonage St, Waterloo, Sierra Leone",
+  "phone": "+23276616095",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 12,
+  "name": "The Lead Hotel",
+  "address": "George, Brook Rd, Freetown, Sierra, Leone, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 13,
+  "name": "The Family Kingdom Resort",
+  "address": "19 Murge Farm, off Aberdeen Road, Freetown, Sierra Leone",
+  "phone": "+23279904339",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 14,
+  "name": "Hotel Barmoi",
+  "address": "Congo Cross, 9 Motor Main Rd, Freetown, Sierra Leone",
+  "phone": "+447952445158",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 15,
+  "name": "Hotel Cabenda",
+  "address": "4 College Road, Goderich, Freetown, Sierra Leone",
+  "phone": "+23299612128",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 16,
+  "name": "Bintumani Hotel",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 17,
+  "name": "Cole Street Guesthouse",
+  "address": "103, Bo-Kenema Highway, Sierra Leone",
+  "phone": "+23279944444",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 18,
+  "name": "Medrie International Hotel",
+  "address": "Leigh St, Freetown, Sierra Leone",
+  "phone": "+23278221722",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 19,
+  "name": "Stafford Lodge",
+  "address": "47 Fort St, Freetown, Sierra Leone",
+  "phone": "+23278882400",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 20,
+  "name": "REGENT PALACE HOTEL",
+  "address": "12 Dorwaila Avenue, Reservation Area, Kenema, Sierra Leone",
+  "phone": "+23233212121",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 21,
+  "name": "Ishmajoso Lodge",
+  "address": "Rawdon St, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 22,
+  "name": "Metro Hotel",
+  "address": "York road Sussex, Town, Sierra Leone",
+  "phone": "+23276541236",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 23,
+  "name": "SKY INN HOTEL \u0026 FITNESS CENTER",
+  "address": "Sierra Leone, Freetown, Unnamed Road",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 24,
+  "name": "Belvoir",
+  "address": "7c Damba Rd, Freetown, Sierra Leone",
+  "phone": "6086223810",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 25,
+  "name": "Stafford Lodge",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 26,
+  "name": "Jam Hotel Lodge",
+  "address": "Off Airport Ferry Road, Tagrin, Lungi, Sierra Leone, Tagrin, Sierra Leone",
+  "phone": "+23279233246",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 27,
+  "name": "Jennabwa Lodge and Restaurant",
+  "address": "Calabar Town, along Bai Bureh Road, Freetown, Sierra Leone",
+  "phone": "+23278954040",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 28,
+  "name": "Kings Empire SL",
+  "address": "freetown road wilkinson road, Freetown, Sierra Leone",
+  "phone": "+23277222757",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 29,
+  "name": "Paradise City Hotel",
+  "address": "34 Rawdon St, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 30,
+  "name": "ZUNOX GUEST HOUSE",
+  "address": "York,Main Street, York, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 31,
+  "name": "Lungi Airport Hotel",
+  "address": "No.7 Hassan Drive, Juba Hill, Freetown, Sierra Leone",
+  "phone": "+23278103895",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 32,
+  "name": "Mansholl Luxurious Apartment",
+  "address": "Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279193747",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 33,
+  "name": "East West Hospitality Wilknston road",
+  "address": "13A Bintumani Drive, Freetown, Sierra Leone",
+  "phone": "2153018919",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 34,
+  "name": "Lungi Airport Lodge",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23275616122",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 35,
+  "name": "Tokeh Beach Resort",
+  "address": "Backstreet, Hospital Road, York, Sierra Leone",
+  "phone": "+23288557740",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 36,
+  "name": "The Hub Hotel",
+  "address": "5A Off Beach Road, Aberdeen, Freetown, Sierra Leone",
+  "phone": "+23276886046",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 37,
+  "name": "Seaside Suites and Hotel",
+  "address": "Pipe Ln, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 38,
+  "name": "Lungi gateway hotel",
+  "address": "1 Dora Way Off Port Loko Road, Lungi, Sierra Leone",
+  "phone": "+23288622622",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 39,
+  "name": "Chinatown Hotel and Restaurant",
+  "address": "33 Murray Town Rd, Freetown, Sierra Leone",
+  "phone": "+23276605222",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 40,
+  "name": "Roy Hotel \u0026 Restaurant",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23299355842",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 41,
+  "name": "The Place Resort",
+  "address": "Rokel Community, 4 Sewah Road, Off Freetown Waterloo Highway, Sierra Leone",
+  "phone": "+23277220220",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 42,
+  "name": "Golden Tulip Essential Kimbima Hotel",
+  "address": "4B Lordmo Drive, Freetown, Sierra Leone",
+  "phone": "+23279906060",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 43,
+  "name": "Leone Lodge Freetown",
+  "address": "River No.1 overlooking Tokeh Beach, Tokeh, Sierra Leone",
+  "phone": "+23299000050",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 44,
+  "name": "Motherland City Beach Residences",
+  "address": "Aberdeen Rd, Freetown, Sierra Leone",
+  "phone": "+23230236385",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 45,
+  "name": "Florence Resort",
+  "address": "Boyle Ln, Freetown, Sierra Leone",
+  "phone": "+23230241212",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 46,
+  "name": "High Peak Hotel",
+  "address": "16 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23299111444",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 47,
+  "name": "Occasions Resort",
+  "address": "137 wilkinson road, Freetown, Sierra Leone",
+  "phone": "+23288808888",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 48,
+  "name": "The View Hotel, Restaurant \u0026 Sky Lounge",
+  "address": "2 Sesay Drive Off Peninsula Highway, Lakka Western Peninsula, Lakka beach, Lakka, Sierra Leone",
+  "phone": "+447448463159",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 49,
+  "name": "SIERRA BAY HOTEL AND RESIDENCE",
+  "address": "Portersville Private Lodge, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 50,
+  "name": "Lomtible Beach Resort",
+  "address": "1 Frazer Davies Drive, King St, Freetown, Sierra Leone",
+  "phone": "+23277700020",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 51,
+  "name": "Companero Hotel",
+  "address": "34 Signal Hill Rd, Wilberforce, Sierra Leone",
+  "phone": "+23276610439",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 52,
+  "name": "Lacs Villa",
+  "address": "Sussex, Sierra Leone",
+  "phone": "+23276687823",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 53,
+  "name": "Hotel De La Joie",
+  "address": "29 Off Cape Road, Lumley Beach, Arberdeen, Freetown, Sierra Leone",
+  "phone": "+23288140316",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 54,
+  "name": "Fabulous Resort York Village",
+  "address": "86 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23288791010",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 55,
+  "name": "The Villa 9 at Seaview Estate",
+  "address": "Peninsular Highway, York, Sierra Leone",
+  "phone": "+23278911677",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 56,
+  "name": "Kololi Hotel \u0026 Casino",
+  "address": "30 Off Cape Road, Aberdeen SL, Freetown, Sierra Leone",
+  "phone": "+23288321272",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 57,
+  "name": "Charm's Beach Hotel",
+  "address": "Seaview Estate, 9 Beach Road, Freetown, Sierra Leone",
+  "phone": "+212673632809",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 58,
+  "name": "Leisure Lodge Hotel",
+  "address": "King Street, The Maze, Congo Cross, Wilberforce, Freetown, Sierra Leone",
+  "phone": "+23276611793",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 59,
+  "name": "Eco Lodge",
+  "address": "3a Cantonment Road Off, King Harman Rd, Freetown, Sierra Leone",
+  "phone": "+23278215668",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 60,
+  "name": "De Kona Lodge",
+  "address": "110 Kingston Upon Hall Way, Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23278869828",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 61,
+  "name": "Hotel Africanus",
+  "address": "Area, Peninsular Highway, York, Sierra Leone",
+  "phone": "+23279666600",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 62,
+  "name": "Portersville Private Lodge",
+  "address": "Main Road, Lakka, Gbonkobe, Sierra Leone",
+  "phone": "+23278860030",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 63,
+  "name": "Hill Valley Hotel",
+  "address": "Lakka, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 64,
+  "name": "The Lion Inn Hotel",
+  "address": "17 Wallace Johnson St, Freetown, Sierra Leone",
+  "phone": "+23273332323",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 65,
+  "name": "JC Guest House",
+  "address": "Sierra Leone, Freetown, Motor Main Rd, 58",
+  "phone": "+23299636072",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 66,
+  "name": "Hotobah Lodge",
+  "address": "Tokeh Beach Freetown, Tokeh, Sierra Leone",
+  "phone": "+23276531781",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 67,
+  "name": "Raza Guesthouse",
+  "address": "35 Goderich Rd, Freetown, Sierra Leone",
+  "phone": "+23275745652",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 68,
+  "name": "catco international hotel",
+  "address": "90 Kingston Upon Hull Way, Freetown, Sierra Leone",
+  "phone": "+23276800300",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 69,
+  "name": "The Big Bamboo Inn",
+  "address": "Unnamed Rd, Sussex, Sierra Leone",
+  "phone": "+23276744406",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 70,
+  "name": "Humble African",
+  "address": "Unnamed Road SL, Freetown, Sierra Leone",
+  "phone": "+23279582465",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 71,
+  "name": "WS Diamond Hotel",
+  "address": "Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279599999",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 72,
+  "name": "Nimiyama Hotel",
+  "address": "54 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279655677",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 73,
+  "name": "Royal Buckingham Guest Houses",
+  "address": "84 lumley beach rd, Lumley beach, Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23222272796",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 74,
+  "name": "Pangolin Guesthouse",
+  "address": "Penninsula Road Tokeh Beach, Tokeh, Sierra Leone",
+  "phone": "+23231313131",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 75,
+  "name": "Royal Buckingham",
+  "address": "6 Regent Road, Wilberforce, Freetown, Sierra Leone",
+  "phone": "+23288112121",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 76,
+  "name": "Hotel Mariam",
+  "address": "4 Humper st, Lungi-Town, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 77,
+  "name": "Elm Jay Lodge",
+  "address": "3A Off Bintumani Drive, Freetown, Sierra Leone",
+  "phone": "+23276224459",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 78,
+  "name": "Iceville B\u0026B",
+  "address": "Tokeh Beach Resort, Tokeh Beach, Freetown, Sierra Leone",
+  "phone": "+23278911111",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 79,
+  "name": "Holiday Lodge",
+  "address": "Lightfoot Boston Road, Freetown, Sierra Leone",
+  "phone": "+23277639856",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 80,
+  "name": "Sweet Mother's Guesthouse",
+  "address": "3 Kebe Drive, Pipe Line Juba Hill, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 81,
+  "name": "Oasis Juice Bar \u0026 Guesthouse",
+  "address": "54 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+27605705800",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 82,
+  "name": "Mozza Beach Resort",
+  "address": "81 Levuma Beach Road Goderich, Freetown, Sierra Leone",
+  "phone": "+23277714455",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 83,
+  "name": "York Guesthouse",
+  "address": "Lungi-Town, Sierra Leone",
+  "phone": "+23288755151",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 84,
+  "name": "Joesal Hotel Freetown",
+  "address": "30 FEMI TURNER DRIVE MARJAY TOWN OFF GODERICH, Freetown, Sierra Leone",
+  "phone": "+23275459244",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 85,
+  "name": "Hedzazi Hotel",
+  "address": "Peninsular Highway, Freetown, Sierra Leone",
+  "phone": "+23277714455",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 86,
+  "name": "Harmony Hotel",
+  "address": "Tulun Road, Lungi-Town, Sierra Leone",
+  "phone": "+23288200001",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 87,
+  "name": "SierraGuesthouse and restuarant",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23232146177",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 88,
+  "name": "Elna Garden",
+  "address": "86 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23277777063",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 89,
+  "name": "Wilkinson Road Appartment",
+  "address": "1 Stafford Dr, Freetown, Sierra Leone",
+  "phone": "+23278190515",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 90,
+  "name": "COMFORT LODGE",
+  "address": "Motor Main Rd, Freetown, Sierra Leone",
+  "phone": "+23279667788",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 91,
+  "name": "Green Bamboo Lodge \u0026 Guest House",
+  "address": "184 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23277211111",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 92,
+  "name": "Sierra International Hotel",
+  "address": "55 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23278321321",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 93,
+  "name": "The King’s Lodge",
+  "address": "1 Stafford Dr, Freetown, Sierra Leone",
+  "phone": "+23278190515",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 94,
+  "name": "Lamrana bah",
+  "address": "Ishmajoso Lodge 15 Graceland, Adonkia, Freetown, Freetown, Sierra Leone",
+  "phone": "+23275383933",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 95,
+  "name": "Comfort Zone",
+  "address": "117 main regent road, regent, Freetown, Sierra Leone",
+  "phone": "+23279214000",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 96,
+  "name": "Jam Lodge Apartments",
+  "address": "36 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23277896608",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 97,
+  "name": "Nic's Inn",
+  "address": "5 Cole St, Freetown, Sierra Leone",
+  "phone": "+23278169930",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 98,
+  "name": "Swan restaurant \u0026 Grill",
+  "address": "54 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279655677",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 99,
+  "name": "Crown Xpress",
+  "address": "75 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23288111100",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 100,
+  "name": "Crown Bakery",
+  "address": "78A Cape road, Bintumani drive, Aberdeen, Freetown, Sierra Leone",
+  "phone": "+23230222228",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 101,
+  "name": "Bliss Restaurant",
+  "address": "125 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23277999444",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 102,
+  "name": "City sandwich",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 103,
+  "name": "Papaya Restaurant",
+  "address": "14b Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23288963963",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 104,
+  "name": "Roof Garden Bar \u0026 Restaurant",
+  "address": "73 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23276611000",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 105,
+  "name": "Roy Hotel \u0026 Restaurant",
+  "address": "5 Wilberforce St, Freetown, Sierra Leone",
+  "phone": "+23276639349",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 106,
+  "name": "Basha Bakery \u0026 Restaurant",
+  "address": "Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23278609312",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 107,
+  "name": "Olba Restaurant",
+  "address": "31A Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23288003004",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 108,
+  "name": "D's Bazaar",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 109,
+  "name": "Seafood City Restaurant",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 110,
+  "name": "Lily's Restaurant \u0026 cafe",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 111,
+  "name": "Chicken Town",
+  "address": "50 Adelaide Steet, Freetown, Sierra Leone",
+  "phone": "+23279201212",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 112,
+  "name": "Hangout Restaurant \u0026 Bar",
+  "address": "Dougan St, Freetown, Sierra Leone",
+  "phone": "+23288284913",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 113,
+  "name": "Brimelia Vegetarian Restaurant",
+  "address": "Mount Aureol, Freetown, Sierra, Leone, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 114,
+  "name": "Lumley Restaurant and Fast Food",
+  "address": "37 Circular Rd, Freetown, Sierra Leone",
+  "phone": "+23290779977",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 115,
+  "name": "Francesca's",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23299885500",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 116,
+  "name": "Lovetta's Kitchen Sport Bar And Restaurant",
+  "address": "64 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23233000009",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 117,
+  "name": "Sulaila's Multi Cuisine Restaurant",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 118,
+  "name": "ARIRANG Restaurant - Korean Barbecue",
+  "address": "29 Upper Brook St, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 119,
+  "name": "Mixed Flavour restaurant",
+  "address": "Lumley Rd, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 120,
+  "name": "Chinny\"s restaurant",
+  "address": "49 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23230824490",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 121,
+  "name": "Lady Sha-Sha' Kitchen",
+  "address": "Lumley Beach Road, Freetown, Sierra Leone",
+  "phone": "+23288674142",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 122,
+  "name": "The Butcher and The Grill",
+  "address": "Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 123,
+  "name": "Rooster Restaurant",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23278610064",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 124,
+  "name": "All As One Restaurant",
+  "address": "De La Paix By Samsumana Drive, 79 Rue, Freetown, Sierra Leone",
+  "phone": "+23275223036",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 125,
+  "name": "Jomat Bar N Lounge",
+  "address": "82 Regent Road, Hill Station, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 126,
+  "name": "SSL TAKE WAY",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23230323333",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 127,
+  "name": "Pulse Resturant and Bar",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 128,
+  "name": "Elfrida's Restaurant",
+  "address": "28 Regent Rd, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 129,
+  "name": "Mezza \u0026 More",
+  "address": "53 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23279534634",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 130,
+  "name": "B'classic kitchen",
+  "address": "Lumley Beach Rd, Freetown, Sierra, Leone, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 131,
+  "name": "Mango Peak",
+  "address": "8a Henry St, Freetown, Sierra Leone",
+  "phone": "+23276277456",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 132,
+  "name": "Bee's Kitchen Bar",
+  "address": "40 Freetown Road, Freetown, Sierra Leone",
+  "phone": "+23275111119",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 133,
+  "name": "Big Mike's Bar and Restaurant",
+  "address": "15 Charlotte St, Freetown, Sierra Leone",
+  "phone": "+23274800700",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 134,
+  "name": "Eva Fast Food Bar Restaurant",
+  "address": "Aberdeen Rd, Freetown, Sierra Leone",
+  "phone": "+23279201212",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 135,
+  "name": "Cravings \u0026 Delicacies",
+  "address": "17 Wallace Johnson St, Freetown, Sierra Leone",
+  "phone": "+23273332323",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 136,
+  "name": "Oryza Food and Bar",
+  "address": "8 Regent Rd, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 137,
+  "name": "Yemoris Kitchen - Nigerian Dishes",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23276852536",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 138,
+  "name": "Cokie's Cookery \u0026 Bar",
+  "address": "170 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23278595881",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 139,
+  "name": "Agenkwa Ghanaian Restaurant",
+  "address": "33 Murray Town Rd, Freetown, Sierra Leone",
+  "phone": "+23276605222",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 140,
+  "name": "Walla! Beach Bar , Restaurant and Events Venue",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23299396111",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 141,
+  "name": "Jem’s",
+  "address": "Rokupa, Freetown, Sierra Leone",
+  "phone": "+23278787547",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 142,
+  "name": "Momoh's place (Naija Restaurant)",
+  "address": "Lumley Mall, 26A Freetown Rd, Freetown, Sierra Leone",
+  "phone": "+23288825668",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 143,
+  "name": "LimeTree Bar and Restaurant, Freetown, Sierra Leone, West Africa",
+  "address": "Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23288791010",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 144,
+  "name": "Silver Star Bar and Restaurant",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 145,
+  "name": "King's Bakery",
+  "address": "10 Lewis St, Freetown, Sierra Leone",
+  "phone": "+23230300500",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 146,
+  "name": "J'Royals Bar \u0026 Restaurant",
+  "address": "1 Beach Road, Freetown, Sierra Leone",
+  "phone": "+23279091900",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 147,
+  "name": "nalita's bar \u0026 restaurant",
+  "address": "23a Cantonment Rd, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 148,
+  "name": "Happy Chicken",
+  "address": "21 Howe St, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 149,
+  "name": "Matteh's Mode",
+  "address": "34 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279462372",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 150,
+  "name": "Jeskamac Guest House \u0026 Restaurant",
+  "address": "No. 16 Red Pump, Kingyama Road, Red Pump No. 33 Kamara Lane, Tree planting, Freetown +232 77 669185, Freetown, Sierra Leone",
+  "phone": "1633+23277669185",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 151,
+  "name": "Grab a Bite",
+  "address": "13 Goderich Rd, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 152,
+  "name": "Mommy J Restaurant",
+  "address": "133 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23288464646",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 153,
+  "name": "Yori Yori and Daughter Restaurant",
+  "address": "20 garsssfield, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 154,
+  "name": "Glorious Kitchen and restaurant",
+  "address": "Regent Rd, Freetown, Sierra Leone",
+  "phone": "+23278737070",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 155,
+  "name": "Jaserak Enterprise",
+  "address": "Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 156,
+  "name": "CAFÉ DE LA ROSE",
+  "address": "Rawdon St, Freetown, Sierra Leone",
+  "phone": "+23276280616",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 157,
+  "name": "DeVillage Beach Bar \u0026 Restaurant",
+  "address": "Kennedy St, Freetown, Sierra Leone",
+  "phone": "+23276501155",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 158,
+  "name": "China House",
+  "address": "Lewis Ln, College Road, Freetown, Sierra, Leone, Sierra Leone",
+  "phone": "+23277333310",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 159,
+  "name": "Fanta’s Kitchen",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23276318169",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 160,
+  "name": "Darlene Restaurant \u0026 Bar",
+  "address": "177 Main Regent Rd, Hill Station, Freetown, Sierra Leone",
+  "phone": "+23276533655",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 161,
+  "name": "Home Food Restaurant",
+  "address": "129c Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 162,
+  "name": "Dee's Delight (D's Bazaar)",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23276431152",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 163,
+  "name": "Al-Arez Restaurant and Bakery",
+  "address": "Steward St, Freetown, Sierra Leone",
+  "phone": "+23279593967",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 164,
+  "name": "KOLOLI Bar \u0026 Restaurant",
+  "address": "71a Regent Rd, Freetown, Sierra Leone",
+  "phone": "+23234966408",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 165,
+  "name": "Accra Restaurant Lounge SL",
+  "address": "Peninsular Highway, Freetown, Sierra Leone",
+  "phone": "+23275990990",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 166,
+  "name": "Downtown Restaurant",
+  "address": "Beccles St, Freetown, Sierra Leone",
+  "phone": "+23279452316",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 167,
+  "name": "Restaurant",
+  "address": "1 Pademba Rd, Freetown, Sierra Leone",
+  "phone": "+23272161919",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 168,
+  "name": "Oasis Juice Bar \u0026 Guesthouse",
+  "address": "Opposite BIS, 32 Hill Cot Rd, Freetown, Sierra Leone",
+  "phone": "+23276336660",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 169,
+  "name": "The View Hotel, Restaurant \u0026 Sky Lounge",
+  "address": "74 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279153911",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 170,
+  "name": "Aista's Restaurant",
+  "address": "Concern Road, Off, Cantonment Rd, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 171,
+  "name": "NEW CREATIVE ENTERPRICE (GHANAIAN RESTAURANT)",
+  "address": "133 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23288662791",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 172,
+  "name": "Havana's Dream Bar\u0026Restaurant",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23276972338",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 173,
+  "name": "Chicken Town",
+  "address": "133 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23230150150",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 174,
+  "name": "Tito's Bar and Restaurant",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23277717717",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 175,
+  "name": "JANDIS RESTAURANT",
+  "address": "Orange Head office, Hillstation, 26 Regent Road, opposite to, Freetown, Sierra Leone",
+  "phone": "+23279666632",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 176,
+  "name": "CFC",
+  "address": "82 Regent Rd, Freetown, Sierra Leone",
+  "phone": "+23278585727",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 177,
+  "name": "ROCK ATM BAR \u0026 RESTAURANT",
+  "address": "1c College Rd, Freetown, Sierra Leone",
+  "phone": "+23276900500",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 178,
+  "name": "McBendu's Coffee and Food",
+  "address": "5 Regent Rd, Freetown, Sierra Leone",
+  "phone": "+23222280539",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 179,
+  "name": "SSL TAKE WAY",
+  "address": "3 Gloucester St, Freetown, Sierra Leone",
+  "phone": "+23275200020",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 180,
+  "name": "JM LIN RESTAURANT",
+  "address": "2 Spur Rd, Freetown, Sierra Leone",
+  "phone": "+23288111267",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 181,
+  "name": "Vyb's",
+  "address": "Freetown Rd, Freetown, Sierra Leone",
+  "phone": "+23277714915",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 182,
+  "name": "Nouveau chez nous",
+  "address": "Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 183,
+  "name": "Tito's Bar and Restaurant",
+  "address": "41 Fourah Bay Rd, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 184,
+  "name": "WanWanWan Bar \u0026 Restaurant",
+  "address": "Lower Syke St, Freetown, Sierra Leone",
+  "phone": "+23277842424",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 185,
+  "name": "Gigibontà Ice Cream and Pizzeria",
+  "address": "Gooding Drive, Regent Rd, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 186,
+  "name": "Posseh Hotel \u0026 Rokama Restaurant",
+  "address": "Aberdeen Rd, Freetown, Sierra Leone",
+  "phone": "+23276691136",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 187,
+  "name": "Masika's Restaurant and Catering Service",
+  "address": "37 Bathurst St, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 188,
+  "name": "Newyork pizza",
+  "address": "5 Hill Side By Pass Road, Freetown, Sierra Leone",
+  "phone": "+23276318966",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 189,
+  "name": "Obelisk Cafe",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23277433000",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 190,
+  "name": "Aista's Restaurant \u0026 Cafe",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23234438219",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 191,
+  "name": "Beijing Restaurant",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23276415534",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 192,
+  "name": "CREAM'S DELUXE",
+  "address": "196B Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 193,
+  "name": "Tees Shopping Center",
+  "address": "George Brook Rd, Freetown, Sierra Leone",
+  "phone": "+23279469100",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 194,
+  "name": "H.Baydoun \u0026 Sons",
+  "address": "31 Wilberforce St, Freetown, Sierra Leone",
+  "phone": "+23279142101",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 195,
+  "name": "PZ Building",
+  "address": "Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23276110409",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 196,
+  "name": "Sinko store",
+  "address": "135 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23288000007",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 197,
+  "name": "ADAHASSAN SL Ltd.",
+  "address": "1 Kono Park, Freetown Maisaika, Highway, Sierra, Leone, Sierra Leone",
+  "phone": "+23288559276",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 198,
+  "name": "Mubarak trading",
+  "address": "Wilberforce St, Freetown, Sierra Leone",
+  "phone": "+23278151224",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 199,
+  "name": "Viascity Plaza",
+  "address": "169 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23279144569",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 200,
+  "name": "Freetown Mall",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23277909973",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 201,
+  "name": "HEMA Trading \u0026 Construction CO. ltd",
+  "address": "King Harman Rd, Freetown, Sierra Leone",
+  "phone": "+23278591758",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 202,
+  "name": "Ishwari Supermarket",
+  "address": "Lumley shopping center, 9 Freetown Rd, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 203,
+  "name": "PLAYSTATION GAME CENTRE",
+  "address": "Mellon Street, Freetown, Sierra Leone",
+  "phone": "+23275892070",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 204,
+  "name": "Eddie Matthews Plaza",
+  "address": "133 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 205,
+  "name": "LaDeDa Online Plaza",
+  "address": "Kallon Drive Beside Aberdeen Women Center, 2b, off Cape Rd, Aberdeen, Sierra Leone",
+  "phone": "+23231612150",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 206,
+  "name": "Printing Shop",
+  "address": "676 REGENT RD, IMATT BTW SAINT PAUL DRIVE \u0026 JAMES DRIVE FREETOWN, IMATT CITY, Sierra Leone",
+  "phone": "+23276538768",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 207,
+  "name": "City Plaza",
+  "address": "47 Dougan St, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 208,
+  "name": "Kal hazel fashion Butuique",
+  "address": "Zarra Lane, Freetown, Sierra Leone",
+  "phone": "+23276542910",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 209,
+  "name": "WINNIFIED PERFUMERY.SL",
+  "address": "93 Bai Bureh Road, Freetown, Sierra Leone",
+  "phone": "+23278642216",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 210,
+  "name": "PCM Operation Center Sierra Leone",
+  "address": "97 Wilkinson Road SL, Freetown, Sierra Leone",
+  "phone": "+23277365254",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 211,
+  "name": "Sierra Leone Peace Museum",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23231777777",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 212,
+  "name": "Tacugama Chimpanzee Sanctuary",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 213,
+  "name": "National Railway Museum",
+  "address": "32 Walpole St, Freetown, Sierra Leone",
+  "phone": "+23278046257",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 214,
+  "name": "Sierra Leone National Museum",
+  "address": "Lightfoot Boston St, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 215,
+  "name": "Freetown Central Mosque",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 216,
+  "name": "Freetown Amusement Park - Victoria Park",
+  "address": "Unnamed Road, Freetown, Sierra Leone",
+  "phone": "+23275233451",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 217,
+  "name": "St. John's Maroon Church",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 218,
+  "name": "Climb Salone",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23299872103",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 219,
+  "name": "Cotton Tree",
+  "address": "Jomo Kenyatta Rd, Freetown, Sierra Leone",
+  "phone": "+23276819242",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 220,
+  "name": "Gola Forest Reserve",
+  "address": "Liverpool St, Freetown, Sierra Leone",
+  "phone": "+23277748376",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 221,
+  "name": "Outamba Kilimi National Park",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23288442103",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 222,
+  "name": "Beartown State Forest",
+  "address": "18 Ross Rd, Freetown, Sierra Leone",
+  "phone": "+23276617550",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 223,
+  "name": "Eastern Point Lighthouse",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 224,
+  "name": "Heartland Auto Spare parts",
+  "address": "Wallace Johnson St, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 225,
+  "name": "Fort Rodman",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 226,
+  "name": "Freetown",
+  "address": "Blama, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 227,
+  "name": "Ballanta Academy",
+  "address": "Dubaia, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 228,
+  "name": "Pilgrim Memorial State Park",
+  "address": "Kenema, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 229,
+  "name": "FreeTown",
+  "address": "31A Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23288003004",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 230,
+  "name": "Lloyd Center for the Environment",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23230000120",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 231,
+  "name": "Freetown",
+  "address": "Tokeh Beach Resort, Tokeh Beach, Freetown, Sierra Leone",
+  "phone": "+23278911111",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 232,
+  "name": "Chester-Blandford State Forest",
+  "address": "Kissy Beach, Tasso Island, Pepel, Sierra Leone",
+  "phone": "+23276791281",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 233,
+  "name": "Borden Flats Lighthouse",
+  "address": "Mobah House, 77 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23299890077",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 234,
+  "name": "Freetown",
+  "address": "Lumley Beach Road, Freetown, Sierra Leone",
+  "phone": "+23280212121",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 235,
+  "name": "Freetown",
+  "address": "Kroo Town Rd, Freetown, Sierra Leone",
+  "phone": "+23276669165",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 236,
+  "name": "Eastern Province",
+  "address": "6 Regent Road, Wilberforce, Freetown, Sierra Leone",
+  "phone": "+23288112121",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 237,
+  "name": "Fall River Heritage State Park",
+  "address": "38 Spur Rd, Freetown, Sierra Leone",
+  "phone": "+23277399399",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 238,
+  "name": "Ashland State Park",
+  "address": "11 Man 'O' War Bay, Aberdeen, Freetown, Sierra Leone",
+  "phone": "+23276748407",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 239,
+  "name": "Freetown",
+  "address": "Campbell street, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 240,
+  "name": "Allen C. Haskell Public Gardens",
+  "address": "Lumley Rd, Freetown, Sierra Leone",
+  "phone": "+23234670399",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 241,
+  "name": "Georgetown-Rowley State Forest",
+  "address": "17 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279454000",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 242,
+  "name": "Children's Museum of Greater Fall River",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 243,
+  "name": "Wahconah Falls State Park",
+  "address": "14 Wallace Johnson St, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 244,
+  "name": "Children's Museum In Easton",
+  "address": "Kailahun, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 245,
+  "name": "PALOMA GUEST HOUSE",
+  "address": "10 Sahara Street, Kenema, Sierra Leone",
+  "phone": "+23276889999",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 246,
+  "name": "Paloma Guest House \u0026 Restaurant",
+  "address": "12 Dorwaila Avenue, Reservation Area, Kenema, Sierra Leone",
+  "phone": "+23233212121",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 247,
+  "name": "DORWAILA INN \u0026 SUITE",
+  "address": "Savage St, Freetown, Sierra Leone",
+  "phone": "4049064001",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 248,
+  "name": "Hotel Albertson",
+  "address": "17 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279454000",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 249,
+  "name": "Capitol Hotel",
+  "address": "72a Cape Rd, Freetown, Sierra Leone",
+  "phone": "+23233933333",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 250,
+  "name": "Radisson Blu Mammy Yoko Hotel, Freetown",
+  "address": "14B Signal Hill Rd, Freetown, Sierra Leone",
+  "phone": "+23278822202",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 251,
+  "name": "The Family Kingdom Resort",
+  "address": "Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23276777949",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 252,
+  "name": "HOTEL MALLIKA COMPANY SL",
+  "address": "Kenema, Sierra Leone",
+  "phone": "+23233330934",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 253,
+  "name": "Hotel Cabenda",
+  "address": "Opposite shopping plaza, Kenema, Sierra Leone",
+  "phone": "+23276889999",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 254,
+  "name": "SKY INN HOTEL \u0026 FITNESS CENTER",
+  "address": "Leigh St, Freetown, Sierra Leone",
+  "phone": "+23278221722",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 255,
+  "name": "Jennabwa Lodge and Restaurant",
+  "address": "Congo Cross, 9 Motor Main Rd, Freetown, Sierra Leone",
+  "phone": "+447952445158",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 256,
+  "name": "Home Suites Boutique Hotel",
+  "address": "15, Off Teko Road, Makeni, Sierra Leone",
+  "phone": "+23288839003",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 257,
+  "name": "Atlantic Lumley Hotel",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 258,
+  "name": "New Brookfields Hotel",
+  "address": "Rawdon St, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 259,
+  "name": "Metro Hotel",
+  "address": "Calabar Town, along Bai Bureh Road, Freetown, Sierra Leone",
+  "phone": "+23278954040",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 260,
+  "name": "The Country Lodge Hotel",
+  "address": "7c Damba Rd, Freetown, Sierra Leone",
+  "phone": "6086223810",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 261,
+  "name": "Kings' Empire hotel bar \u0026 restaurant",
+  "address": "5A Off Beach Road, Aberdeen, Freetown, Sierra Leone",
+  "phone": "+23276886046",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 262,
+  "name": "ZUNOX GUEST HOUSE",
+  "address": "No.7 Hassan Drive, Juba Hill, Freetown, Sierra Leone",
+  "phone": "+23278103895",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 263,
+  "name": "East West Hospitality Wilknston road",
+  "address": "4B Lordmo Drive, Freetown, Sierra Leone",
+  "phone": "+23279906060",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 264,
+  "name": "East West Hospitality Wilknston road",
+  "address": "Sierra Leone, Freetown, Unnamed Road",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 265,
+  "name": "Capitol Hotel",
+  "address": "Rokel Community, 4 Sewah Road, Off Freetown Waterloo Highway, Sierra Leone",
+  "phone": "+23277220220",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 266,
+  "name": "Joesal Hotel Kenema",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23275616122",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 267,
+  "name": "Dohas Hotel And Restaurant",
+  "address": "No.1 Conteh U drive off Kay Street, Makeni, Sierra Leone",
+  "phone": "+23278012322",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 268,
+  "name": "De Kona Lodge",
+  "address": "137 wilkinson road, Freetown, Sierra Leone",
+  "phone": "+23288808888",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 269,
+  "name": "Kololi Hotel \u0026 Casino",
+  "address": "Unnamed Road SL, Freetown, Sierra Leone",
+  "phone": "+23279582465",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 270,
+  "name": "Diamond Lodge",
+  "address": "Main Road, Lakka, Gbonkobe, Sierra Leone",
+  "phone": "+23278860030",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 271,
+  "name": "Leisure Lodge Hotel",
+  "address": "5A MAN O WAR BAY BAY, Freetown, Sierra Leone",
+  "phone": "+23277393999",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 272,
+  "name": "The Lion Inn Hotel",
+  "address": "1 Frazer Davies Drive, King St, Freetown, Sierra Leone",
+  "phone": "+23277700020",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 273,
+  "name": "Hotel Africanus",
+  "address": "16 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23299111444",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 274,
+  "name": "Lomtible Beach Resort",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 275,
+  "name": "SIERRA BAY HOTEL AND RESIDENCE",
+  "address": "136, Azzolini Highway, Makeni, Makeni, Sierra Leone",
+  "phone": "+23278573303",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 276,
+  "name": "Golden Tulip Essential Kimbima Hotel",
+  "address": "30 Off Cape Road, Aberdeen SL, Freetown, Sierra Leone",
+  "phone": "+23288321272",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 277,
+  "name": "Mena Hills Hotel",
+  "address": "Yengema, Sierra Leone",
+  "phone": "+23231459141",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 278,
+  "name": "catco international hotel",
+  "address": "86 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23288791010",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 279,
+  "name": "Sahara Hotel",
+  "address": "Waahmann Abu road, Kenema, Kenema, Sierra Leone",
+  "phone": "+23278954040",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 280,
+  "name": "Conteh U Hotel",
+  "address": "King Street, The Maze, Congo Cross, Wilberforce, Freetown, Sierra Leone",
+  "phone": "+23276611793",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 281,
+  "name": "Holiday Lodge",
+  "address": "103, Bo-Kenema Highway, Sierra Leone",
+  "phone": "+23279944444",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 282,
+  "name": "SierraGuesthouse and restuarant",
+  "address": "Lightfoot Boston Road, Freetown, Sierra Leone",
+  "phone": "+23277639856",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 283,
+  "name": "Joesal Hotel Freetown",
+  "address": "30 FEMI TURNER DRIVE MARJAY TOWN OFF GODERICH, Freetown, Sierra Leone",
+  "phone": "+23275459244",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 284,
+  "name": "WS Diamond Hotel",
+  "address": "Lightfoot Boston Road, Freetown, Sierra Leone",
+  "phone": "+23277639856",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 285,
+  "name": "Elm Jay Lodge",
+  "address": "Peninsular Highway, Freetown, Sierra Leone",
+  "phone": "+23277714455",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 286,
+  "name": "Hotel Mariam",
+  "address": "HS 51 Hillstation, Freetown, Sierra Leone",
+  "phone": "+23277692000",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 287,
+  "name": "COMFORT LODGE",
+  "address": "184 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23277211111",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 288,
+  "name": "Sierra International Hotel",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23232146177",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 289,
+  "name": "Lodge Valley Hotel",
+  "address": "Lumley Beach Road, Freetown, Sierra Leone",
+  "phone": "+23280212121",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 290,
+  "name": "Nic's Inn",
+  "address": "78A Cape road, Bintumani Drive, Aberdeen, Freetown, Sierra Leone",
+  "phone": "+23230222227",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 291,
+  "name": "Lamrana bah",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23230000120",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 292,
+  "name": "R \u0026 B Hotel",
+  "address": "55 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23278321321",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 293,
+  "name": "Food Master Restaurant \u0026 Bakery",
+  "address": "Kenema, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 294,
+  "name": "Unique",
+  "address": "Kenema, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 295,
+  "name": "Goat Kingdom",
+  "address": "Kenema, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 296,
+  "name": "Bingerville",
+  "address": "Opposite shopping plaza, Kenema, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 297,
+  "name": "Goat modern",
+  "address": "1 Wesley Street, Kenema, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 298,
+  "name": "Bintos Bar",
+  "address": "Unnamed Road, Kenema, Sierra Leone",
+  "phone": "+23276467234",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 299,
+  "name": "Noah Idriss",
+  "address": "Kenema, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 300,
+  "name": "ARMANI Restaurant",
+  "address": "Road Kenema, Karima Gas Station, Blama, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 301,
+  "name": "Ericsson Lodge And Restaurant",
+  "address": "10 Sahara Street, Kenema, Sierra Leone",
+  "phone": "+23276889999",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 302,
+  "name": "Paloma Guest House \u0026 Restaurant",
+  "address": "48 Swaray Street, Kenema, Sierra Leone",
+  "phone": "+23276410722",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 303,
+  "name": "Business",
+  "address": "10 Hangha Road, Kenema, Sierra Leone",
+  "phone": "+23299547672",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 304,
+  "name": "luawa resort hotel",
+  "address": "Kenema, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 305,
+  "name": "DHL Service Point (TOTALL FUEL STATION)",
+  "address": "Bo-Kenema Highway, Kenema, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 306,
+  "name": "Kenema New Clock Tower",
+  "address": "Blama, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 307,
+  "name": "Kamboi Hills",
+  "address": "Kenema, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 308,
+  "name": "Kambui Hills Forest Reserve",
+  "address": "Kailahun, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 309,
+  "name": "Gola Rainforest National Park",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23231777777",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 310,
+  "name": "Tacugama Chimpanzee Sanctuary",
+  "address": "Kenema, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 311,
+  "name": "Kenema",
+  "address": "Kenema, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 312,
+  "name": "Sierra Leone Peace Museum",
+  "address": "Kenema, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 313,
+  "name": "Kenema Show Field",
+  "address": "Jomo Kenyatta Rd, Freetown, Sierra Leone",
+  "phone": "+23276819242",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 314,
+  "name": "National Railway Museum",
+  "address": "Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 315,
+  "name": "Kenema",
+  "address": "Opposite shopping plaza, Kenema, Sierra Leone",
+  "phone": "+23276889999",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 316,
+  "name": "Kenema",
+  "address": "Kenema, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 317,
+  "name": "Capitol Hotel",
+  "address": "Kenema, Sierra Leone",
+  "phone": "+23276755146",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 318,
+  "name": "PALOMA GUEST HOUSE",
+  "address": "Baoma, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 319,
+  "name": "Dohas Hotel And Restaurant",
+  "address": "Bo, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 320,
+  "name": "Bo Paramedical",
+  "address": "103, Bo-Kenema Highway, Sierra Leone",
+  "phone": "+23279944444",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 321,
+  "name": "Restaurat Luz Andina-UNI",
+  "address": "Kissy Town Road, Bo, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 322,
+  "name": "Kings and Queens",
+  "address": "YMCA Regional Center, 92, Bo, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 323,
+  "name": "Ruri's Restaurant",
+  "address": "Tikonko Rd, Bo, Sierra Leone",
+  "phone": "+23276854407",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 324,
+  "name": "Hancess Bar and Restaurant",
+  "address": "74 Johannes St, Bo, Sierra Leone",
+  "phone": "+23279899354",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 325,
+  "name": "Nile Sam Steven Street, Bo.",
+  "address": "Bo, Sierra Leone",
+  "phone": "+23299491298",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 326,
+  "name": "Vicanda Parlour Restaurant",
+  "address": "Unnamed Road, Bo, Sierra Leone",
+  "phone": "+23231014118",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 327,
+  "name": "Taiama",
+  "address": "Bo, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 328,
+  "name": "Mimiko lounge \u0026 Restaurant",
+  "address": "Bo, Sierra Leone",
+  "phone": "+23279600600",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 329,
+  "name": "Growth Center Bo",
+  "address": "4 Fenton Rd, Bo, Sierra Leone",
+  "phone": "+23230505086",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 330,
+  "name": "Eaty Food",
+  "address": "275 Bo-Kenema Highway, Bo, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 331,
+  "name": "Americana Bakery and Cafe",
+  "address": "Dambala Road, Bo, Sierra Leone",
+  "phone": "+23276614440",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 332,
+  "name": "Phở Bờm, Vietnamese Noodle \u0026 Grill",
+  "address": "Tikonko Rd, Bo, Sierra Leone",
+  "phone": "+23276460452",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 333,
+  "name": "Saigon Bistro",
+  "address": "Bo-Kenema Highway, Bo, Sierra Leone",
+  "phone": "+23277453573",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 334,
+  "name": "The Palace Complex",
+  "address": "Nr Government Hospital entrance, 4 Fenton Rd, Bo, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 335,
+  "name": "Wusum Hotel",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23232146177",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 336,
+  "name": "SKY INN HOTEL \u0026 FITNESS CENTER",
+  "address": "No.1 Conteh U drive off Kay Street, Makeni, Sierra Leone",
+  "phone": "+23278012322",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 337,
+  "name": "Royal Hotel Makeni",
+  "address": "136, Azzolini Highway, Makeni, Makeni, Sierra Leone",
+  "phone": "+23278573303",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 338,
+  "name": "Jennabwa Lodge and Restaurant",
+  "address": "Magburaka Road, Makeni, Sierra Leone",
+  "phone": "+23288722351",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 339,
+  "name": "Atlantic Lumley Hotel",
+  "address": "Lightfoot Boston Road, Freetown, Sierra Leone",
+  "phone": "+23277639856",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 340,
+  "name": "The Country Lodge Hotel",
+  "address": "VXJ8+8MR Teko Road, Makeni, Sierra Leone",
+  "phone": "+23274600043",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 341,
+  "name": "Conteh U Hotel",
+  "address": "55 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23278321321",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 342,
+  "name": "Mena Hills Hotel",
+  "address": "HS 51 Hillstation, Freetown, Sierra Leone",
+  "phone": "+23277692000",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 343,
+  "name": "East West Hospitality Wilknston road",
+  "address": "Lumley Beach Road, Freetown, Sierra Leone",
+  "phone": "+23280212121",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 344,
+  "name": "MADAMNELIS GUEST HOUSE",
+  "address": "19 Magburaka Road, Makeni, Sierra Leone",
+  "phone": "+23275568401",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 345,
+  "name": "Sahara Hotel",
+  "address": "Rokel Community, 4 Sewah Road, Off Freetown Waterloo Highway, Sierra Leone",
+  "phone": "+23277220220",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 346,
+  "name": "MVR Makambo",
+  "address": "4B Lordmo Drive, Freetown, Sierra Leone",
+  "phone": "+23279906060",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 347,
+  "name": "Makama Lodge",
+  "address": "15, Off Teko Road, Makeni, Sierra Leone",
+  "phone": "+23288839003",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 348,
+  "name": "Joesal Hotel Makeni",
+  "address": "Off Magburaka Highway, Makeni, Makeni, Sierra Leone",
+  "phone": "+23278954040",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 349,
+  "name": "Multiple Guesthouse",
+  "address": "7 Mathankoh Street, Makeni, Sierra Leone",
+  "phone": "+23277529851",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 350,
+  "name": "Lodge Valley Hotel",
+  "address": "Kabala Hwy, Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 351,
+  "name": "R \u0026 B Hotel",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 352,
+  "name": "Nimiyama Hotel",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 353,
+  "name": "WS Diamond Hotel",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 354,
+  "name": "Global Restaurant and General Enterprise",
+  "address": "Azzolini Highway, Makeni, Sierra Leone",
+  "phone": "+23277719746",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 355,
+  "name": "Papa's Restaurant \u0026 Deco Relaxation",
+  "address": "51 Magburaka Road, Makeni, Sierra Leone",
+  "phone": "+23276226153",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 356,
+  "name": "Country Friends Bar \u0026 Restaurant",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 357,
+  "name": "Millie's Devine Bar \u0026 Restaurant",
+  "address": "Makeni, Sierra Leone",
+  "phone": "+23276699903",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 358,
+  "name": "Syls Kitchen",
+  "address": "7 Barracks Road, Makeni, Sierra Leone",
+  "phone": "+23299778460",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 359,
+  "name": "Subish Fast Food",
+  "address": "40 Station Road, Makeni, Sierra Leone",
+  "phone": "+23276220169",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 360,
+  "name": "Paradise Chilling Restaurant",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 361,
+  "name": "Shop 131-Mama Yalie Mini Restaurant",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 362,
+  "name": "Yeanne's Restaurant and Multi Purpose Hall",
+  "address": "Makeni, Sierra Leone",
+  "phone": "+23288543892",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 363,
+  "name": "Kanumasala Kitchen Bar Center",
+  "address": "Makeni, Sierra Leone",
+  "phone": "+23288445509",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 364,
+  "name": "City Bar Restorant",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 365,
+  "name": "Neneh Haja Wayliya Restaurant",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 366,
+  "name": "Abundant Fast Food Restaurant",
+  "address": "Azzolini Highway, Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 367,
+  "name": "Syl's Kitchen",
+  "address": "Kabala Hwy, Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 368,
+  "name": "Jaway \u0026 Son Enterprise",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 369,
+  "name": "Mem's Enterprise",
+  "address": "Lunsar-Makeni Highway, Makeni, Sierra Leone",
+  "phone": "+23277208000",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 370,
+  "name": "Conteh U Hotel",
+  "address": "Magburaka Road, Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 371,
+  "name": "Church of Jesus Christ of Latter-day Saints",
+  "address": "No.1 Conteh U drive off Kay Street, Makeni, Sierra Leone",
+  "phone": "+23278012322",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 372,
+  "name": "The Gold kitchen",
+  "address": "Makeni, Sierra Leone",
+  "phone": "+23288382529",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 373,
+  "name": "INDIAN HUT",
+  "address": "1 Albert Street, Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 374,
+  "name": "BHAIYATS BRAAI",
+  "address": "15, Off Teko Road, Makeni, Sierra Leone",
+  "phone": "+23288839003",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 375,
+  "name": "Pizza Inn",
+  "address": "68 Masuba Road, Makeni, Sierra Leone",
+  "phone": "+23277829575",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 376,
+  "name": "Panarottis Makeni Mall",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 377,
+  "name": "SADAR'S BRAAI",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 378,
+  "name": "Mashawi",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 379,
+  "name": "Kamikaz",
+  "address": "19 Magburaka Road, Makeni, Sierra Leone",
+  "phone": "+23275568401",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 380,
+  "name": "K Restaurant",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 381,
+  "name": "Shampalace Restaurant",
+  "address": "Lunsar-Makeni Highway, Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 382,
+  "name": "Texan Pub \u0026 Grill Makeni Mall",
+  "address": "VXJ8+8MR Teko Road, Makeni, Sierra Leone",
+  "phone": "+23274600043",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 383,
+  "name": "McSydney's Restaurant",
+  "address": "12 Mabanta Road, Makeni, Sierra Leone",
+  "phone": "+23273430000",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 384,
+  "name": "Fleva Foods Restaurant",
+  "address": "108 Freetown Highway, Mathinka Junction, Makeni, Sierra Leone",
+  "phone": "+23230567674",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 385,
+  "name": "The Grill Shack",
+  "address": "makeni, Freetown, Sierra Leone",
+  "phone": "+23279329467",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 386,
+  "name": "Food Boss",
+  "address": "Magburaka Road, Makeni, Sierra Leone",
+  "phone": "+23288006712",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 387,
+  "name": "Nando's Makeni",
+  "address": "Azzolini Highway, Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 388,
+  "name": "Rhodes Park Restaurant makeni",
+  "address": "Magburaka Road, Makeni, Sierra Leone",
+  "phone": "+23278207770",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 389,
+  "name": "KFC | Makeni Mall",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 390,
+  "name": "Red Apple Farm Limited",
+  "address": "New Makeni Highway, Lunsar, Sierra Leone",
+  "phone": "+23288695150",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 391,
+  "name": "Social At Makeni",
+  "address": "Azzolini Highway, Makeni, Sierra Leone",
+  "phone": "+23278339921",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 392,
+  "name": "Prince Charles Hotel",
+  "address": "4 Samuel st, Makeni, Sierra Leone",
+  "phone": "+23278711704",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 393,
+  "name": "The Cake Bar - Makeni Mall",
+  "address": "2 Station Road, Makeni, Sierra Leone",
+  "phone": "+23230889595",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 394,
+  "name": "Montana Restaurant",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 395,
+  "name": "Home Affairs Ent. \u0026 GM",
+  "address": "Lunsar-Makeni Highway, Makeni, Sierra Leone",
+  "phone": "+23288482117",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 396,
+  "name": "Old Mabanta Road",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 397,
+  "name": "MAKAMA APEX",
+  "address": "Tecko Road, Makeni, Sierra, Leone, Sierra Leone",
+  "phone": "+23279906939",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 398,
+  "name": "Whereelse",
+  "address": "Makeni, Sierra Leone",
+  "phone": "+23288065235",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 399,
+  "name": "University of Makeni, Sylvanus Koroma Campus, Student's Canteen",
+  "address": "Makeni, Sierra Leone",
+  "phone": "+23275223564",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 400,
+  "name": "Makeni Mall",
+  "address": "Makeni, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 401,
+  "name": "Makeni Mall",
+  "address": "Makeni, Sierra Leone",
+  "phone": "+23230612819",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 402,
+  "name": "WS Diamond Hotel of Kono",
+  "address": "48 Massingbai road 555 Spot, Koidu, Sierra Leone",
+  "phone": "+23277927732",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 403,
+  "name": "Leisure Lodge Ndambie",
+  "address": "Yengema, Sierra Leone",
+  "phone": "+23231459141",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 404,
+  "name": "Lion Mountains Hotel (Formerly Uncle Ben's Hotel)",
+  "address": "Sierra Leone, Freetown, Unnamed Road",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 405,
+  "name": "Diamond Lodge",
+  "address": "1 Frazer Davies Drive, King St, Freetown, Sierra Leone",
+  "phone": "+23277700020",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 406,
+  "name": "Joesal Hotel Kono",
+  "address": "Koidu, Sierra Leone",
+  "phone": "+23278601893",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 407,
+  "name": "De Kona Lodge",
+  "address": "Koidu, No. 3 Sir George Street, 55 Spot, Koidu, Sierra Leone",
+  "phone": "+23277927732",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 408,
+  "name": "Hotel Africanus",
+  "address": "Rokel Community, 4 Sewah Road, Off Freetown Waterloo Highway, Sierra Leone",
+  "phone": "+23277220220",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 409,
+  "name": "SierraGuesthouse and restuarant",
+  "address": "King Street, The Maze, Congo Cross, Wilberforce, Freetown, Sierra Leone",
+  "phone": "+23276611793",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 410,
+  "name": "Nimiyama Hotel",
+  "address": "1 Moigua St, Koidu Town, Sierra Leone",
+  "phone": "+23279907868",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 411,
+  "name": "YEANE'S",
+  "address": "Dabundeh St, Koidu, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 412,
+  "name": "Premier Sunshine",
+  "address": "44 Main, Kainkordu road, Koidu, Sierra Leone",
+  "phone": "+23276482187",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 413,
+  "name": "Royal restaurant",
+  "address": "1 Moigua St, Koidu Town, Sierra Leone",
+  "phone": "+23279907868",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 414,
+  "name": "Average Guest House \u0026 Restaurant",
+  "address": "Koidu, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 415,
+  "name": "Dabundeh Street Coffehouse",
+  "address": "44 Main Kainkordu Road, Koidu City, Sierra Leone",
+  "phone": "+23276482187",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 416,
+  "name": "Shine On and Stay Hotel",
+  "address": "Koidu, No. 3 Sir George Street, 55 Spot, Koidu, Sierra Leone",
+  "phone": "+23277927732",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 417,
+  "name": "Monarch Restaurant",
+  "address": "Koidu, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 418,
+  "name": "WS Diamond Hotel of Kono",
+  "address": "Koidu, Sierra Leone",
+  "phone": "+23279243738",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 419,
+  "name": "Lion Mountains Hotel (Formerly Uncle Ben's Hotel)",
+  "address": "Koidu, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 420,
+  "name": "Elysee bar and relaxation",
+  "address": "Konomanyi St, Koidu, Sierra Leone",
+  "phone": "+23299112618",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 421,
+  "name": "Matturie Enterprise",
+  "address": "Sorie Lane Kono, 52, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 422,
+  "name": "Viascity Plaza",
+  "address": "Yardu Rd, Koidu, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 423,
+  "name": "Sinko store",
+  "address": "31 Wilberforce St, Freetown, Sierra Leone",
+  "phone": "+23279142101",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 424,
+  "name": "H.Baydoun \u0026 Sons",
+  "address": "Sanni Abacha St, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 425,
+  "name": "Mubarak trading",
+  "address": "135 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23288000007",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 426,
+  "name": "PZ Building",
+  "address": "1 Kono Park, Freetown Maisaika, Highway, Sierra, Leone, Sierra Leone",
+  "phone": "+23288559276",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 427,
+  "name": "Punjab tarding center",
+  "address": "Wilberforce St, Freetown, Sierra Leone",
+  "phone": "+23278151224",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 428,
+  "name": "Freetown Mall",
+  "address": "97 Wilkinson Road SL, Freetown, Sierra Leone",
+  "phone": "+23277365254",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 429,
+  "name": "Kotin Tri",
+  "address": "169 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23279144569",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 430,
+  "name": "Dada Enterprise",
+  "address": "Freetown, Sierra Leone",
+  "phone": "+23277909973",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 431,
+  "name": "Ishwari Supermarket",
+  "address": "Pultney St, Freetown, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ },
+ {
+  "id": 432,
+  "name": "Koidu New Sembehun City Council",
+  "address": "Koidu, Sierra Leone",
+  "phone": "",
+  "country-code": "SL",
+  "country": "Sierra Leone"
+ }
+]

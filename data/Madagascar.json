@@ -1,0 +1,6138 @@
+[
+ {
+  "id": 1,
+  "name": "Les 3 Metis",
+  "address": "Jardin Antaninarenina, 29 rue Prince Ratsimamanga, Antananarivo 101, Madagascar",
+  "phone": "+261202220202",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 2,
+  "name": "Hotel Carlton",
+  "address": "Immeuble Aloe, Antanimena Antananarivo Antananarivo, 101, Madagascar",
+  "phone": "+261202264004",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 3,
+  "name": "Radisson Blu Hotel, Antananarivo Waterfront",
+  "address": "Rue Pierre Stibbe- Anosy 959, Antananarivo 101, Madagascar",
+  "phone": "+261202226060",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 4,
+  "name": "Novotel Convention \u0026 Spa Antananarivo",
+  "address": "LOT II 150 ALAROBIA IVANDRY TANANARIVE, 101, Madagascar",
+  "phone": "+261321148888",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 5,
+  "name": "Radisson Hotel Antananarivo Waterfront",
+  "address": "Zone Tana Waterfront, Antananarivo 101, Madagascar",
+  "phone": "+261202269200",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 6,
+  "name": "ibis Antananarivo Ankorondrano",
+  "address": "Routes Des Hydrocarbures, Antananarivo 101 Enceinte Toyota Rasseta Antananarivo, 101, Madagascar",
+  "phone": "+261331132385",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 7,
+  "name": "Hôtel Colbert - SPA \u0026 Casino",
+  "address": "Antananarivo 105, Madagascar",
+  "phone": "+261340598999",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 8,
+  "name": "MERCURE HOTEL ALAROBIA",
+  "address": "Zone Tana Waterfront, Antananarivo 101, Madagascar",
+  "phone": "+261202269300",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 9,
+  "name": "Le Centell Hotel \u0026 Spa",
+  "address": "Route Des Hydrocarbures, Antananarivo 101, Madagascar",
+  "phone": "+261322355555",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 10,
+  "name": "Le Louvre Hôtel \u0026 Spa",
+  "address": "37 avenue de l'indépendance, Analakely Antananarivo, 101, Madagascar",
+  "phone": "+261320324685",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 11,
+  "name": "FLY INN Madagascar Hôtel",
+  "address": "26 Av. de L'Independance, Antananarivo 101, Madagascar",
+  "phone": "+261342031030",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 12,
+  "name": "Palissandre Hôtel \u0026 Spa",
+  "address": "3GPH+7HF Lot VE49 Ambatovinaky, Lalana Tsiombikibo, Antananarivo 101, Madagascar",
+  "phone": "+261202262765",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 13,
+  "name": "Central Hotel Tana",
+  "address": "Lot IIO 74 Bis Anjanahary Antananarivo Antananarivo Province, 101, Madagascar",
+  "phone": "+261347064426",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 14,
+  "name": "Radisson Serviced Apartments Antananarivo City Center",
+  "address": "Lot IBK7bis, Lalana Adrianary Ratianarivo,, Ampasamadinika, Madagascar, 101, Madagascar",
+  "phone": "+261202235809",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 15,
+  "name": "Madagascar Golden Peacock Hotel",
+  "address": "Lalana Rabefiraisana, Antananarivo 101, Madagascar",
+  "phone": "+261202220260",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 16,
+  "name": "Le Grand Mellis",
+  "address": "Lot IV F 1C Ambodihady, Antananarivo 101, Madagascar",
+  "phone": "+261321158495",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 17,
+  "name": "TANA HOTEL",
+  "address": "lot VW 115 Ambohimitsimbina, Antananarivo 101, Madagascar",
+  "phone": "+261202223549",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 18,
+  "name": "Ikopa Hôtel Madagascar",
+  "address": "K6 / 28 IMOTRO IVATO, Ivato, Madagascar",
+  "phone": "+261342244510",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 19,
+  "name": "Tsanga Tsanga Hotel",
+  "address": "ivandry, Antananarivo, Madagascar",
+  "phone": "+261202243711",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 20,
+  "name": "Hôtel La Ribaudiere",
+  "address": "K5 Numéro 119ter quartier Antanimarina IVATO AÉROPORT ANTANANARIVO, 105, Madagascar",
+  "phone": "+261347911594",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 21,
+  "name": "Hotel Rova",
+  "address": "Rue Rasoamiaramanana, Antananarivo 101, Madagascar",
+  "phone": "+33754392042",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 22,
+  "name": "Tsanga Tsanga Hotel",
+  "address": "Lot 94 B Bis Talatamaty Antananarivo, 105, Madagascar",
+  "phone": "+261346129740",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 23,
+  "name": "Hotel Restaurant La Varangue",
+  "address": "le green Resort Antsakaviro Vontovorona Antananarivo Antananarivo Province, 102, Madagascar",
+  "phone": "+261340283046",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 24,
+  "name": "San Cristobal Boutique Hotel",
+  "address": "Lot IB 332 Andoharanofotsy ANTANANARIVO, 102, Madagascar",
+  "phone": "+261340206380",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 25,
+  "name": "Le Pavillon de l'Emyrne",
+  "address": "Lot Il A 78 Bis B, Antananarivo, Madagascar",
+  "phone": "+261343127343",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 26,
+  "name": "Hôtel Belvedere",
+  "address": "LALANA DOK JOSEPH RASETA LOT IVF 40 FITROAFANA MANDROSOA IVATO Ivato, 105, Madagascar",
+  "phone": "+261346452890",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 27,
+  "name": "Les Flots Bleu",
+  "address": "LOT II B 60 FARAVOHITRA, Antananarivo 101, Madagascar",
+  "phone": "+261331197156",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 28,
+  "name": "Résidence Le Hublot",
+  "address": "Lot AP, 103 30, Antananarivo, Madagascar",
+  "phone": "+261326996053",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 29,
+  "name": "HUMAN HOTEL IVATO",
+  "address": "Rue Arabe Victoire Rasoamanarivo Antananarivo, 101, Madagascar",
+  "phone": "+261325176343",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 30,
+  "name": "Madagascar Underground",
+  "address": "26 rue Andrianony Ratianarivo - Ampasamadinika, Isoraka Antananarivo, 101, Madagascar",
+  "phone": "+261341475783",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 31,
+  "name": "Sunny Garden",
+  "address": "Lot IIK10, Lalana Pasteur Rabary, Antananarivo 101, Madagascar",
+  "phone": "+261348315409",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 32,
+  "name": "Hotel Rova",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261345252874",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 33,
+  "name": "Downtown Hotel",
+  "address": "Lot AB 399 Bis / D - Antanimenakely Ampitatafika Antananarivo Atsimondrano, 102, Madagascar",
+  "phone": "+33782961235",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 34,
+  "name": "CITIZEN Guest House",
+  "address": "Lot 093 bis/1 MMA I Ivato, Antananarivo 105, Madagascar",
+  "phone": "+261342303333",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 35,
+  "name": "Hôtel La Ribaudiere",
+  "address": "Lot K5 068 bis Andraondrikely, 105, Madagascar",
+  "phone": "+261349317627",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 36,
+  "name": "Motel Anosy",
+  "address": "Logt A P 30 Ankadikely, Antananarivo, Madagascar",
+  "phone": "+261341567993",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 37,
+  "name": "Hotel Le Pousse Pousse",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261340281496",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 38,
+  "name": "Les 3 Metis",
+  "address": "Talatamaty Amboropotsy, Secteur F, Antananarivo, Madagascar",
+  "phone": "+261320264397",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 39,
+  "name": "Asia and Africa Hotel",
+  "address": "Lot IVD 48, 101 R Dr Zamenhoi, Antananarivo 101, Madagascar",
+  "phone": "48101101",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 40,
+  "name": "Sole Hotel",
+  "address": "5 Lalana Andriantsilavo, Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 41,
+  "name": "Hotel la Villette Isoraka",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261338475497",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 42,
+  "name": "La Pergola - Appartement Hôtel",
+  "address": "Rue Docteur Joseph Raseta, Antananarivo 101, Madagascar",
+  "phone": "+261202260458",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 43,
+  "name": "Hotel Tana-Jacaranda",
+  "address": "Imerinafovoany - Talatamaty Lot 5B, Antananarivo 105, Madagascar",
+  "phone": "+261336334839",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 44,
+  "name": "Atmosphere Hotel \u0026 Spa",
+  "address": "LOT 70 E II Imerinafovoany, Antananarivo 105, Madagascar",
+  "phone": "+261324289662",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 45,
+  "name": "Green palace",
+  "address": "K6/32 Imotro-Ivato, Antananarivo 101, Madagascar",
+  "phone": "+261347063841",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 46,
+  "name": "Hôtel La Maison Lovasoa",
+  "address": "All. d'Ambohiminono, Talatamaty, Madagascar",
+  "phone": "+261349360190",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 47,
+  "name": "Flora hotel (Ivato , Airport)",
+  "address": "Lot II A 41 Antalamohitra Ambohijanahary, Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 48,
+  "name": "HOTEL EVERGREEN Ampandrana长荣大酒店",
+  "address": "Mandriambero, Antananarivo 101, Madagascar",
+  "phone": "+261202244235",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 49,
+  "name": "Atmosphère hôtel \u0026 Spa",
+  "address": "Consulate of France, Lalana Adrianary Ratianarivo, Antananarivo 101 A coté de l, Madagascar",
+  "phone": "+261320553680",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 50,
+  "name": "Le Relais Normand",
+  "address": "31 Rue Andriba, Sud 101, Madagascar",
+  "phone": "+261340779746",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 51,
+  "name": "Chambre d'hôtes Chez Jeanne",
+  "address": "Rue razafindralambo, Antananarivo, Madagascar",
+  "phone": "+261202222716",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 52,
+  "name": "Evergreen Hotel",
+  "address": "Lot MO 114 Ambohitsiroa Est Ambohidratrimo, 105, Madagascar",
+  "phone": "+261385628359",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 53,
+  "name": "Cocody Roc",
+  "address": "Lot K4 009 IVATO Aéroport, Antananarivo, Madagascar",
+  "phone": "+261346479193",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 54,
+  "name": "Ivotel",
+  "address": "Lot 9M, Antananarivo, Madagascar",
+  "phone": "+261320264397",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 55,
+  "name": "Maison d'hôtes Le Manoir",
+  "address": "Lot II L Ankorondrano Andranomahery Antananarivo, 102, Madagascar",
+  "phone": "+261384885915",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 56,
+  "name": "Palm Hotel Antananarivo",
+  "address": "Vs 4, Lalana Printsey Kamamy, Antananarivo 101, Madagascar",
+  "phone": "+261348213107",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 57,
+  "name": "SOMPTUA GARDEN",
+  "address": "21 Arabe Rainibertsimisaraka, Antananarivo 101, Madagascar",
+  "phone": "+261202220788",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 58,
+  "name": "Le Cocooning Hôtel Restaurant",
+  "address": "P.K 11,5 Route de l'Aéroport, Talatamaty, Madagascar",
+  "phone": "+261384906644",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 59,
+  "name": "AZALEE IVATO HOTEL RESTAURANT",
+  "address": "Lot VE28 Bis Rue Razanakombana Ambohijatovo, Antananarivo 101, Madagascar",
+  "phone": "+261340780771",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 60,
+  "name": "NY Telomiova",
+  "address": "Lot 1219 MC Mandrosoa Ivato Tananarive, 105, Madagascar",
+  "phone": "+261349372050",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 61,
+  "name": "Relais De La Haute Ville Tana",
+  "address": "Lot II L 102 Ankorondrano, Antananarivo 101, Madagascar",
+  "phone": "+261327515178",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 62,
+  "name": "Sahamalaza",
+  "address": "14 Rue Emile Rajohnson, Antsahavola Antananarivo, 101, Madagascar",
+  "phone": "+261345886314",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 63,
+  "name": "ANOUK HOTEL",
+  "address": "23 Lalana R. Ramelina, Antananarivo 101, Madagascar",
+  "phone": "+261344483866",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 64,
+  "name": "Meva Guesthouse",
+  "address": "18 Rue, du Dr Villette Isoraka ANTANANARIVO, 18 Rue Dok Villette, Antananarivo 101, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 65,
+  "name": "Avamada Lodge",
+  "address": "Antananarivo 105, Madagascar",
+  "phone": "+261340598999",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 66,
+  "name": "Feima Hotel",
+  "address": "Rue Jean Jaures, Antananarivo, Madagascar",
+  "phone": "+261344906680",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 67,
+  "name": "A L'Hotel",
+  "address": "24 Arabe Rainitsarovy, Antananarivo 101, Madagascar",
+  "phone": "+261202256239",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 68,
+  "name": "Auberge Chez Jeanne",
+  "address": "Lot II F 5 Ambondrona - 74, rue Antananarivo 101, 101, Madagascar",
+  "phone": "574101101",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 69,
+  "name": "Hotel Cristal Madagascar",
+  "address": "Lot IVA 1 Antaninandro, 101, Madagascar",
+  "phone": "+261202235983",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 70,
+  "name": "Live Hotel Andavamamba",
+  "address": "IMMEUBLE VALIHA ANTANIMENA, IVG 204 Antananarivo, 101, Madagascar",
+  "phone": "+261345074152",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 71,
+  "name": "Homelidays",
+  "address": "9 Rue Général Rébehevitra Antaninarenina Antananarivo, 101, Madagascar",
+  "phone": "+261324205262",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 72,
+  "name": "Iarimbato Hotel",
+  "address": "Route d'Arivonimamo, Anosy, Antananarivo 101, Madagascar",
+  "phone": "+261202267083",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 73,
+  "name": "Chambre d'hôtes Valiha Ivato",
+  "address": "Antananarivo 101, Madagascar",
+  "phone": "+261320241151",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 74,
+  "name": "Villa Mahefa",
+  "address": "Routes Des Hydrocarbures, Antananarivo 101, Madagascar",
+  "phone": "+261202232385",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 75,
+  "name": "le Chat'o Park Hotel",
+  "address": "Rue Dok Villette, Antananarivo 101, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 76,
+  "name": "Hotel St. Antoine",
+  "address": "Lot IC 12 rue d'Angleterre Isoraka, Antananarivo 101, Madagascar",
+  "phone": "+261340572060",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 77,
+  "name": "Magnolia Guest House, Antananarivo",
+  "address": "Lalana Adrianary Ratianarivo Antananarivo, 101, Madagascar",
+  "phone": "+261321102347",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 78,
+  "name": "Hotel Midi Minuit",
+  "address": "18 Lalana Rainitovo, Antananarivo, Madagascar",
+  "phone": "+261342990907",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 79,
+  "name": "Iarimbato Hôtel",
+  "address": "Routes Des Hydrocarbures, Antananarivo 101 Enceinte Toyota Rasseta Antananarivo, 101, Madagascar",
+  "phone": "+261331132385",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 80,
+  "name": "Petite Flower Guest House",
+  "address": "6 rue Rainitovo IBF 7 TER ANTANANARIVO, 101, Madagascar",
+  "phone": "+261343154500",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 81,
+  "name": "Joyau secret # Jardin # Piscine # Bien-être # prox centre ville",
+  "address": "101 Rue Rakotonirina S, Antananarivo, Madagascar",
+  "phone": "+261202225945",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 82,
+  "name": "Villa ChezSoa Andoharanofotsy",
+  "address": "Rue Dok Villette, Antananarivo 101, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 83,
+  "name": "Palm Guest House Talatamaty - Chambres d'hôtes",
+  "address": "Antananarivo 101, Madagascar",
+  "phone": "+261320241151",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 84,
+  "name": "Joyau secret # Jardin # Piscine # prox centre ville",
+  "address": "2 rue Reallon - Tsaralalana Antananarivo, 101, Madagascar",
+  "phone": "+261202225480",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 85,
+  "name": "IVATO AÉROPORT STUDIOS ANNEXE 2",
+  "address": "2 rue Reallon - Tsaralalana Antananarivo, 101, Madagascar",
+  "phone": "+261202225480",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 86,
+  "name": "Chambre D’Hôtes Durable Et Tourisme Solidaire",
+  "address": "Lalana Ranaivo Jules, Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 87,
+  "name": "Lokanga Boutique Hotel",
+  "address": "lot P1O4 bis sud, Akadindratombo Barrage, près castel, Madrid, Madagascar",
+  "phone": "+261343686888",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 88,
+  "name": "Le Combava",
+  "address": "54 villas, antanetibe Antanetibe Antananarivo, 105, Madagascar",
+  "phone": "+261330562233",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 89,
+  "name": "L'ORION RESTAURANT",
+  "address": "Lalana S. Rahamefy, Antananarivo 101, Madagascar",
+  "phone": "+261202239234",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 90,
+  "name": "Marais Restaurant Madagascar",
+  "address": "Lalana Général Gabriel Ramanantsoa, Antananarivo, Madagascar",
+  "phone": "+261202234244",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 91,
+  "name": "Restaurant Le CITIZEN",
+  "address": "Lalana Russie Antananarivo, 101, Madagascar",
+  "phone": "+261329165897",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 92,
+  "name": "Le Carnivore - Restaurant Bar Lounge",
+  "address": "66 Rue Ratsimilaho Ambatonakanga, Lalana Ranavalona III, Antananarivo 101, Madagascar",
+  "phone": "+261340512504",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 93,
+  "name": "Le Pourquoi Pas",
+  "address": "Rue des 77 parlementaires Français Antsahavola, Antananarivo 101, Madagascar",
+  "phone": "+261327229901",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 94,
+  "name": "Le petit verdot",
+  "address": "Lalana Rabobalahy, Antananarivo, Madagascar",
+  "phone": "+261202223118",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 95,
+  "name": "Nerone Restaurant Italiano",
+  "address": "Lalana Rainitovo, Antananarivo, Madagascar",
+  "phone": "+261346052029",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 96,
+  "name": "Le Rossini",
+  "address": "Routes des Hydrocarbures, Immeuble Atrium Ankorondrano, 5è étage Antananarivo, 101, Madagascar",
+  "phone": "+261345067497",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 97,
+  "name": "Le Carré",
+  "address": "Lalana Russie, Antananarivo, Madagascar",
+  "phone": "+261340572060",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 98,
+  "name": "Dzama Cocktail Café Antananarivo",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261388392807",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 99,
+  "name": "Chez Sucett's",
+  "address": "32 rue de liege, Antananarivo 101, Madagascar",
+  "phone": "+261326581527",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 100,
+  "name": "Restaurant Les Artistes",
+  "address": "Lot IBK7bis, Lalana Adrianary Ratianarivo,, Ampasamadinika, Madagascar, 101, Madagascar",
+  "phone": "+261202235809",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 101,
+  "name": "KUDéTA",
+  "address": "Dans l'enceinte de l'Espace Dera Tsiadana Antananarivo, 101, Madagascar",
+  "phone": "+261344861132",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 102,
+  "name": "Le B Restaurant",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 103,
+  "name": "Vertigo restaurant",
+  "address": "Food Court Tana Water Front, 101, Madagascar",
+  "phone": "+261341478605",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 104,
+  "name": "Le Gourmet",
+  "address": "3GPH+7HF Lot VE49 Ambatovinaky, Lalana Tsiombikibo, Antananarivo 101, Madagascar",
+  "phone": "+261202262765",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 105,
+  "name": "Café du Musée",
+  "address": "Ampasamadinika (en face Sakamanga, Antananarivo, Madagascar",
+  "phone": "+261349991099",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 106,
+  "name": "Restaurant Maka'ai",
+  "address": "Lalana Russie, Antananarivo, Madagascar",
+  "phone": "+261342034347",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 107,
+  "name": "Arirang Restaurant",
+  "address": "2 Lalana Adrianary Ratianarivo, Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 108,
+  "name": "La Marée Ivandry",
+  "address": "II M 38 F Androhibe Antananarivo Antananarivo, 101, Madagascar",
+  "phone": "+261320513513",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 109,
+  "name": "Le Chalet des Roses",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261341961049",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 110,
+  "name": "Grizzlee Steakhouse",
+  "address": "Androhibe, Antananarivo 101, Madagascar",
+  "phone": "+261331102818",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 111,
+  "name": "COIN DU FOIE GRAS Isoraka",
+  "address": "Lalana R. Ramelina, Antananarivo 101, Madagascar",
+  "phone": "+261320267901",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 112,
+  "name": "Restaurant Ravimpôntsy",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261325224245",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 113,
+  "name": "Little India Ankazomanga",
+  "address": "Avenue de L'indépendance, Tananarive, Province d, Antananarivo 101, Madagascar",
+  "phone": "+261331259292",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 114,
+  "name": "l'Orient Asian Fusion Restaurant",
+  "address": "Andraharo, Rue Docteur Joseph Raseta, Antananarivo, Madagascar",
+  "phone": "+261344670013",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 115,
+  "name": "La Verriere",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 116,
+  "name": "Restaurant Pizzeria Chez Arnaud",
+  "address": "Galana service station, Rue Ravoninahitriniarivo Ankorondrano, Antananarivo, Madagascar, across the street from, Rue Ravoninahitriniarivo, Antananarivo, Madagascar",
+  "phone": "+261340281866",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 117,
+  "name": "La petite Brasserie",
+  "address": "IVN 87 EV 67Ha Nord Ouest 67ha Antananarivo, 101, Madagascar",
+  "phone": "876767101",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 118,
+  "name": "L'Oriental Ivandry",
+  "address": "Lot VC 17 bis Ambatonakanga Antananarivo, 101, Madagascar",
+  "phone": "+261324276735",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 119,
+  "name": "Le Palladio's",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261341422666",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 120,
+  "name": "La table au plafond",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 121,
+  "name": "Restaurant Shalimar",
+  "address": "Rue Lietna Andriamaromanana Albert, Antananarivo 101, Madagascar",
+  "phone": "+261331515858",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 122,
+  "name": "Le Grand Orient",
+  "address": "2, Antananarivo, Madagascar",
+  "phone": "+261202234622",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 123,
+  "name": "Restaurant Atlantis",
+  "address": "Antaninarenina Antananarivo, 101, Madagascar",
+  "phone": "+261346749800",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 124,
+  "name": "La Compagnie des Voyageurs - Restaurant",
+  "address": "Enceinte Aquamad - Route du Pape Anosivavaka Antananarivo, 101, Madagascar",
+  "phone": "+261345485529",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 125,
+  "name": "Restaurant Le Paris-Delhi",
+  "address": "Lot IVD 48F Ter Behoririka, Razanamaniraka, Madagascar",
+  "phone": "+261330703307",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 126,
+  "name": "Restaurant Sak'Malao",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261327966089",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 127,
+  "name": "Sakamanga Restaurant",
+  "address": "Lalana Hugues Rabesahala, Antananarivo, Madagascar",
+  "phone": "+261345605555",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 128,
+  "name": "L'épicurien",
+  "address": "Lalana Vitori Francoise, Antananarivo, Madagascar",
+  "phone": "+261322739194",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 129,
+  "name": "La Trattoria",
+  "address": "4 chemins, Antananarivo, Madagascar",
+  "phone": "+261320572824",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 130,
+  "name": "Restaurant Fatapera",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261340572110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 131,
+  "name": "Vatel Restaurant Ankorondrano",
+  "address": "1ere etage, Immeuble La City, Antananarivo, Madagascar",
+  "phone": "+261325685764",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 132,
+  "name": "Serendipity Co.",
+  "address": "1st floor, Lalana S. Rahamefy, Antananarivo 101, Madagascar",
+  "phone": "+261202269400",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 133,
+  "name": "La Jonquille",
+  "address": "Rue Andriantsihoarana Ratsimbazafy, Antananarivo, Madagascar",
+  "phone": "+261320513508",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 134,
+  "name": "Indian Taste - La Route Vers L'Inde",
+  "address": "Rue Me Albertini, Antananarivo, Madagascar",
+  "phone": "+261341457979",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 135,
+  "name": "Restaurant Ranjatiana",
+  "address": "explorer business park ankorondrano antananarivo, 101, Madagascar",
+  "phone": "+261321518846",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 136,
+  "name": "La Table d'Anosy",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 137,
+  "name": "DRAGON ROYAL Restaurant",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261329268822",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 138,
+  "name": "La Taverne Hotel Colbert",
+  "address": "Route d'Arivonimamo Anosy Antananarivo, 101, Madagascar",
+  "phone": "+261202267083",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 139,
+  "name": "Séquoia Ivandry",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261320511376",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 140,
+  "name": "SOHO Restaurant",
+  "address": "Lycee Clairefontaine, Ivandry avant, Antananarivo, Madagascar",
+  "phone": "+261320402536",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 141,
+  "name": "Restaurant Le Complexe",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261342100488",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 142,
+  "name": "SHAKAN",
+  "address": "Lalana R. Ramelina, Antananarivo, Madagascar",
+  "phone": "+261331508822",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 143,
+  "name": "Indian Taste - La Route Vers L'Inde",
+  "address": "Arabe Victoire Rasoamanarivo, Antananarivo, Madagascar",
+  "phone": "+261324037942",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 144,
+  "name": "L' Arrivage",
+  "address": "Rue Massignon, Antananarivo, Madagascar",
+  "phone": "+261342596840",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 145,
+  "name": "Le 5ème Élément",
+  "address": "Immeuble Atelemec, Ankorondrano Antananarivo, 101, Madagascar",
+  "phone": "+261345030850",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 146,
+  "name": "Restaurant Lai",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 147,
+  "name": "Restaurant L'Hirondelle",
+  "address": "Logement 715 ampefiloha ANTANANARIVO, 101, Madagascar",
+  "phone": "+261340234645",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 148,
+  "name": "Dité",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261340688737",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 149,
+  "name": "TENDM RESTAURANT",
+  "address": "Lot II J 1 / AA, Morarano Alarobia Antananarivo, 101, Madagascar",
+  "phone": "+261346383353",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 150,
+  "name": "Korea Barbeque",
+  "address": "Lot II Ivandry JF Bis antananarivo, 101, Madagascar",
+  "phone": "+261340813030",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 151,
+  "name": "Au Bungalow",
+  "address": "IAB34 ANDRONONOBE, Antananarivo 103, Madagascar",
+  "phone": "+261340163944",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 152,
+  "name": "Vatel Hôtel \u0026 Restaurant",
+  "address": "Rue Andriantsihoarana Ratsimbazafy, Antananarivo 101, Madagascar",
+  "phone": "+261202220288",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 153,
+  "name": "Pan Asia",
+  "address": "3, rue Indira Gandhi Tsaralalana Antananarivo, 101, Madagascar",
+  "phone": "+261333723428",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 154,
+  "name": "Fleuve Rouge (Red River)",
+  "address": "2 Lalana Adrianary Ratianarivo, Antananarivo, Madagascar",
+  "phone": "+261327992413",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 155,
+  "name": "Look's Andravoahangy",
+  "address": "Enceinte Jumbo Score Ankorondrano, Antananarivo, Madagascar",
+  "phone": "+261202237338",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 156,
+  "name": "Art'HOME",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261202226070",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 157,
+  "name": "Malone's restaurant bar",
+  "address": "Ivandry Ambodivoanjo lot II I 161, Antananarivo 101, Madagascar",
+  "phone": "+261344211111",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 158,
+  "name": "Le Jardin Du Raphia",
+  "address": "12 Rue Rakotonirina S, Antananarivo, Madagascar",
+  "phone": "+261202225945",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 159,
+  "name": "Arlequin",
+  "address": "En face Stade Municipal Alarobia, Antananarivo, Madagascar",
+  "phone": "+261349746143",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 160,
+  "name": "Le Ballon Rouge",
+  "address": "MG Antananarivo Làlana Rainandriamampandry Lot Siah 06, 101, Madagascar",
+  "phone": "+261343678888",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 161,
+  "name": "Restaurant Duo",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261334297170",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 162,
+  "name": "Restaurant Le Baobab",
+  "address": "Isoraka Antanananarivo, 101, Madagascar",
+  "phone": "+261345208201",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 163,
+  "name": "Tsiky Restaurant traiteur",
+  "address": "VA42S Tsiadana, Antananarivo 101, Madagascar",
+  "phone": "+261334525214",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 164,
+  "name": "Le Carpe Diem",
+  "address": "Lalana Russie, Antananarivo, Madagascar",
+  "phone": "+261342257955",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 165,
+  "name": "Hotel Restaurant La Varangue",
+  "address": "Lalana Russie, Antananarivo, Madagascar",
+  "phone": "+261320792483",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 166,
+  "name": "Zen Garden",
+  "address": "Boulevard de I'Europe, Antananarivo, Madagascar",
+  "phone": "+261337170310",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 167,
+  "name": "No Comment BAR",
+  "address": "Rte Nanisana, Antananarivo, Madagascar",
+  "phone": "+261342876695",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 168,
+  "name": "TEND M Isoraka",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261341258222",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 169,
+  "name": "INSIDE meet and chill",
+  "address": "Zone Zital Ankorondrano Antananarivo, 101, Madagascar",
+  "phone": "+261320356201",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 170,
+  "name": "Phô Resto Ampasamadinika",
+  "address": "2 Lalana Ingereza, Antananarivo, Madagascar",
+  "phone": "+261202222244",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 171,
+  "name": "CITY CENTER",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 172,
+  "name": "La city Ivandry",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 173,
+  "name": "Tana Center Soarano",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 174,
+  "name": "Immeuble SHOPPING CENTER",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 175,
+  "name": "Digue Market",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 176,
+  "name": "Victoria Plaza",
+  "address": "Rue Lietna Andriamaromanana Albert, Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 177,
+  "name": "IKOPA Center.",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 178,
+  "name": "Imanga Center",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 179,
+  "name": "MANDROSOBE CENTER",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 180,
+  "name": "Immeuble AVANCE CENTER",
+  "address": "Rue Dok Ramisaray, Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 181,
+  "name": "Galerie Commerciale PLAZA",
+  "address": "Antaninandro Antananarivo, 101, Madagascar",
+  "phone": "+261343165882",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 182,
+  "name": "FY'DELIKO Antanimena ambany",
+  "address": "Lot IT 57 TER A Itaosy Antananarivo, 102, Madagascar",
+  "phone": "+261349275024",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 183,
+  "name": "SM Center Tananarive",
+  "address": "Behoririka Rue Menalamba, Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 184,
+  "name": "Unisex Fashion Tana",
+  "address": "Lot IVS 60 Bis Antanimena, Antananarivo 101, Madagascar",
+  "phone": "+261343555434",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 185,
+  "name": "Sirène",
+  "address": "Fenoarivo Ambonisaha Antananarivo, 102, Madagascar",
+  "phone": "+261384241011",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 186,
+  "name": "E-Tower Technologie Center",
+  "address": "VICTORIA PLAZA - ANTANIMENA URBANIA GALERIE COMMERCIALE - ANALAKELY SHOPPING CENTER - BEHORIRIKA Antananarivo, 101, Madagascar",
+  "phone": "+261321195060",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 187,
+  "name": "Immeuble Golden Center",
+  "address": "Tia analakely Antananarivo, 101, Madagascar",
+  "phone": "+261347768754",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 188,
+  "name": "PARADISE",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 189,
+  "name": "The Shopping Center",
+  "address": "Premier étage - En face de la pharmacie principale, Ivandry, Tananarive 101, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 190,
+  "name": "Angelsbbeauty Avance Center Behoririka",
+  "address": "Arabe Rahezavana, Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 191,
+  "name": "NEHATRADE",
+  "address": "Immeuble CITIC, Behoririka, Antananarivo, Madagascar",
+  "phone": "+261337622120",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 192,
+  "name": "Akoor Digue",
+  "address": "40 Rue Naka Rabemabantsoa, Antananarivo, Madagascar",
+  "phone": "+261202266774",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 193,
+  "name": "Golden Business Center",
+  "address": "Lalana Général Andrimahazo, Antananarivo, Madagascar",
+  "phone": "+261202435876",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 194,
+  "name": "IT Station",
+  "address": "Lot ISAA4 Tohatohabato ambondrona Antananarivo, 101, Madagascar",
+  "phone": "+261329400289",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 195,
+  "name": "Immeuble Corona Plaza",
+  "address": "Behoririka 2, Antananarivo 101, Madagascar",
+  "phone": "+261341012335",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 196,
+  "name": "New City",
+  "address": "42 Arabe Andrinampoinimerina, Antananarivo 101, Madagascar",
+  "phone": "+261202260588",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 197,
+  "name": "PRADON",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261337281843",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 198,
+  "name": "Building Ramaroson",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261343417888",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 199,
+  "name": "CITIC Behoririka",
+  "address": "R Dr Zamenhoi, Antananarivo 101, Madagascar",
+  "phone": "+261337653345",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 200,
+  "name": "FUQING CENTER",
+  "address": "91 rue de liege, Antananarivo, Madagascar",
+  "phone": "+261202254178",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 201,
+  "name": "KAWAII Mode Beauté",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261202234563",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 202,
+  "name": "ZOMA CENTER",
+  "address": "Unnamed Road, Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 203,
+  "name": "Ravazo Shop 179-1 Inside Golden Center",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 204,
+  "name": "Mahiratra Center",
+  "address": "Lalana Razafindrokoto, Antananarivo 101, Madagascar",
+  "phone": "+261343950128",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 205,
+  "name": "Suprême Center",
+  "address": "Pochard Market, Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 206,
+  "name": "Brico-Center Behoririka",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261347605268",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 207,
+  "name": "CITIC",
+  "address": "Andohatapenaka, Antananarivo, Madagascar",
+  "phone": "+261321207000",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 208,
+  "name": "Miss tati",
+  "address": "Rue Dok Ramisaray, Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 209,
+  "name": "Nil Home Center",
+  "address": "Lalana Rainandriamampandry, Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 210,
+  "name": "Analakely Market",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261340953935",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 211,
+  "name": "KID'STYLE",
+  "address": "Talatamaty, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 212,
+  "name": "National Center",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 213,
+  "name": "Mon jardin Mg",
+  "address": "FJKM Mandrosoa Ilafy, CM 66 Mandrosoa Ilafy Antananarivo, Antananarivo 101, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 214,
+  "name": "UBuff/UShopTana",
+  "address": "Rte chinoise saissonière de la Francophonie, Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 215,
+  "name": "Hope\u0026ration",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 216,
+  "name": "Magro",
+  "address": "Rue Ampanjaka Toera, Antananarivo, Madagascar",
+  "phone": "+261342082174",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 217,
+  "name": "SATRANA HÔTEL",
+  "address": "34 Boulevard Joffre, Toamasina, Madagascar",
+  "phone": "+261341225253",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 218,
+  "name": "La Maison Tamatave",
+  "address": "LOT 3015 PARCELLE 22/12 derriere Hôtel Barrière TOAMASINA, 501, Madagascar",
+  "phone": "30152212501",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 219,
+  "name": "Victoria Beach Hotel",
+  "address": "5, Toamasina 501, Madagascar",
+  "phone": "+261202232385",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 220,
+  "name": "Sunny Golf Hotel",
+  "address": "Rue Richelieu, Toamasina, Madagascar",
+  "phone": "+261341566888",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 221,
+  "name": "Hotel Joffre",
+  "address": "5, Toamasina, Madagascar",
+  "phone": "+261340687064",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 222,
+  "name": "Java Hôtel Tamatave",
+  "address": "Rue Victor Hugo, Toamasina 501, Madagascar",
+  "phone": "+261324463043",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 223,
+  "name": "CHEZ BIEN AIME",
+  "address": "Boulevard Ratsimilaho Salazamay, Toamasina 501, Madagascar",
+  "phone": "+261326414743",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 224,
+  "name": "OCEAN 501",
+  "address": "BP-159 Rue du Lieutenant Nöel Ambodimanga, 501, Madagascar",
+  "phone": "+261205330459",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 225,
+  "name": "SPLENDIDE HOTEL TOAMASINA",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261320328628",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 226,
+  "name": "Hotel Neptune Tamatave",
+  "address": "Ambodiatafana, 501, Madagascar",
+  "phone": "+261325396141",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 227,
+  "name": "Hôtel Marina Beach",
+  "address": "Chez Paul Toamasina Rural, 502, Madagascar",
+  "phone": "+261331925849",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 228,
+  "name": "Hotel melville, Hotel Chretien",
+  "address": "R.N.5, 501, Madagascar",
+  "phone": "+261325396141",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 229,
+  "name": "Plaisance Appart Hotel",
+  "address": "Ambodimanga, Madagascar",
+  "phone": "+261329988290",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 230,
+  "name": "Villa MANANTSOA Hôtel",
+  "address": "Vohitsara, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 231,
+  "name": "L'ÉTAPE HÔTEL",
+  "address": "Analarajy, 515 Sainte-Marie, Madagascar",
+  "phone": "+261341747870",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 232,
+  "name": "Hotel Restaurant La Veranda",
+  "address": "5 Rue Guynemer, Toamasina 501, Madagascar",
+  "phone": "+261205331603",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 233,
+  "name": "Hôtel Fleuri",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261329988290",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 234,
+  "name": "BUNGALOW FINARITRA",
+  "address": "Lot AP, 103 30, Antananarivo, Madagascar",
+  "phone": "+261326996053",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 235,
+  "name": "Hotel melville, Hotel Chretien",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261320462882",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 236,
+  "name": "BUNGALOW FINARITRA",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 237,
+  "name": "Hotel Restaurant Longo",
+  "address": "Boulevard De La Liberte, Toamasina 501, Madagascar",
+  "phone": "+261205301124",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 238,
+  "name": "Plaisance Appart Hotel",
+  "address": "Ampasimazava Tamatave, 501, Madagascar",
+  "phone": "+261338188888",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 239,
+  "name": "Hotel Ocean d'Or",
+  "address": "Lot 55 II BIS VALPISON PLLE 11/61 Toamasina, 501, Madagascar",
+  "phone": "551161501",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 240,
+  "name": "Veranda",
+  "address": "Boulevard Marechal Foch, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 241,
+  "name": "Hotel Miray Tamatave",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261320777999",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 242,
+  "name": "Hotel Nica",
+  "address": "34 Boulevard Joffre, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 243,
+  "name": "ESPACE LE MAJESTIC TOAMASINA",
+  "address": "Rue Lambert, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 244,
+  "name": "Hotel Luciole",
+  "address": "Ambohijafy Nord Toamasina, 501, Madagascar",
+  "phone": "+261344533575",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 245,
+  "name": "CHEZ OLI",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261205335082",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 246,
+  "name": "Centre Lambahoany",
+  "address": "Carreau N° 5 Parcelle 11/47 Mangarano II Toamasina Toamasina, 501, Madagascar",
+  "phone": "51147501",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 247,
+  "name": "Iarimbato Hôtel",
+  "address": "Carreau N° 5 Parcelle 11/47 Mangarano II Toamasina Toamasina, 501, Madagascar",
+  "phone": "51147501",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 248,
+  "name": "Hotel Eden",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261205333180",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 249,
+  "name": "Riverside Camp",
+  "address": "SALAZAMAY NORD Parcelle 14/21, Boulevard Ratsimilaho, Toamasina 501, Madagascar",
+  "phone": "+261322549872",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 250,
+  "name": "Salle de formation",
+  "address": "25 Boulevard de l'OUA, Toamasina 501, Madagascar",
+  "phone": "+261205330032",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 251,
+  "name": "Hotel H1",
+  "address": "Ambohijafy Nord Toamasina, 501, Madagascar",
+  "phone": "+261344533575",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 252,
+  "name": "Chez Paul",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261205333180",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 253,
+  "name": "Kanto Cruise Hotel",
+  "address": "Immeuble Streamliner Bloc F \u0026 G Tanamakoa Plle 12/14 Toamasina MG 501, Toamasina, Madagascar",
+  "phone": "+261348736342",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 254,
+  "name": "Kanto bungalow",
+  "address": "Rue Lieutenant Berard, Toamasina, Madagascar",
+  "phone": "+261205334086",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 255,
+  "name": "Hôtel Mamisoa",
+  "address": "Boulevard Ratsimilaho / Salazamay Nord Toamasina, 501, Madagascar",
+  "phone": "+261346140040",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 256,
+  "name": "Riverside camp",
+  "address": "Boulevard Ratsimilaho, Toamasina 501, Madagascar",
+  "phone": "+261205332226",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 257,
+  "name": "La Braise",
+  "address": "Boulevard Joffre, Toamasina 501, Madagascar",
+  "phone": "+261349539033",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 258,
+  "name": "La braise Coté cour",
+  "address": "Rue Victor Hugo, Toamasina 501, Madagascar",
+  "phone": "+261340804309",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 259,
+  "name": "La Villa Tamatave",
+  "address": "Boulevard Augagneur, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 260,
+  "name": "Restaurant Mahatehotia",
+  "address": "Rue Le Berthold, Toamasina, Madagascar",
+  "phone": "+261324820354",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 261,
+  "name": "Restaurant L7",
+  "address": "Rue Bir Hackeim Toamasina, 501, Madagascar",
+  "phone": "+261341595191",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 262,
+  "name": "La Brasserie de la Gare",
+  "address": "31 Bis Rue Du Marechal De Lattre De Tassigny, Toamasina, Madagascar",
+  "phone": "+261342008842",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 263,
+  "name": "Verre à Soi",
+  "address": "Immeuble The Streamliner Bloc F/G Plle 12/14, Toamasina, Madagascar",
+  "phone": "+261347362434",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 264,
+  "name": "Urban Grill",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 265,
+  "name": "Restaurant Pacifique",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 266,
+  "name": "L'affiche",
+  "address": "Ankirihiry Nord, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 267,
+  "name": "Restaurant Fortuna",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 268,
+  "name": "Lotus Rouge",
+  "address": "Rue De La Batterie, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 269,
+  "name": "Restaurant Longo",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 270,
+  "name": "SARKY'S",
+  "address": "Rue Flacourt, Toamasina, Madagascar",
+  "phone": "+261346829768",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 271,
+  "name": "BURGER \u0026 GRILL",
+  "address": "Toamasina, Tanambao V, Boulevard d'Andovoranto, Anjara henor Tanambao v, 501, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 272,
+  "name": "Hotel Restaurant La Veranda",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 273,
+  "name": "Restaurant Chez RAFRA",
+  "address": "Boulevard Ratsimilaho, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 274,
+  "name": "La Table",
+  "address": "5, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 275,
+  "name": "Restaurant",
+  "address": "Rue Lieutenant Noel, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 276,
+  "name": "Restaurant Cibus",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 277,
+  "name": "El-Barco",
+  "address": "Boulevard Denis Papin, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 278,
+  "name": "Gastro Pizza Tanambao V",
+  "address": "Rue Frere Marcel, Toamasina, Madagascar",
+  "phone": "+261344802299",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 279,
+  "name": "Resto-Snack TRIO CAFE",
+  "address": "Boulevard Paul Doumer, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 280,
+  "name": "RESTAURANT KALOINA",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 281,
+  "name": "Hotel Restaurant Longo",
+  "address": "Rue De Rigny, Toamasina, Madagascar",
+  "phone": "+261328932101",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 282,
+  "name": "Le Dattier",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 283,
+  "name": "Via mare (hôtel neptune \u0026 la braise)",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261328754534",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 284,
+  "name": "RESTAURANT LA MAISON",
+  "address": "Rue Du Petit Thouars, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 285,
+  "name": "Fortuna Express",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 286,
+  "name": "Cosy",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 287,
+  "name": "la vanilla'soupe",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 288,
+  "name": "Adam \u0026 Eve",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261340495353",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 289,
+  "name": "Gelateria Italiana",
+  "address": "BP-159 Rue du Lieutenant Nöel Ambodimanga Tamatave, 501, Madagascar",
+  "phone": "+261205330459",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 290,
+  "name": "Okura Milktea",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 291,
+  "name": "Restaurant Chifa",
+  "address": "501 Toamasina, 501, Madagascar",
+  "phone": "+261347945141",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 292,
+  "name": "Koinonia",
+  "address": "Rue Lubert, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 293,
+  "name": "Le Métiss",
+  "address": "Boulevard Ratsimilaho, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 294,
+  "name": "Ti-Waii",
+  "address": "501 Tamatave Toamasina, 501, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 295,
+  "name": "AU LIT DOR BN",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261326915933",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 296,
+  "name": "CULINA",
+  "address": "6 Rue Aviateur Goulette, Toamasina 501, Madagascar",
+  "phone": "+261349180840",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 297,
+  "name": "Parfum D'Asie",
+  "address": "Boulevard d'Andevoranto, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 298,
+  "name": "California",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261325233671",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 299,
+  "name": "Veranda",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 300,
+  "name": "Venus Restaurant Soupe",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 301,
+  "name": "ASIA",
+  "address": "nord, Toamasina, Madagascar",
+  "phone": "+261642856319",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 302,
+  "name": "Pizzeria Italiana",
+  "address": "Boulevard de Livondro, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 303,
+  "name": "Coin du foie gras Tamatave",
+  "address": "RN5, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 304,
+  "name": "Grillades de Tamatave",
+  "address": "Boulevard Ratsimilaho Tamatave, 501, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 305,
+  "name": "Hotel Grand Port Toamasina",
+  "address": "Ankirihiry Nord parcelle 11/54 Lot 260 Toamasina, 501, Madagascar",
+  "phone": "1154260501",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 306,
+  "name": "Restaurant Soupe chinoise Le Kangourou",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 307,
+  "name": "Restaurant Musulman Al Barakat",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261348087978",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 308,
+  "name": "Restaurant Super Maxi",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 309,
+  "name": "La vanilla'soupe",
+  "address": "Boulevard de Livondro, Toamasina, Madagascar",
+  "phone": "+261344802299",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 310,
+  "name": "Gastro Pizza Bazary Kely",
+  "address": "Rue Michel Mahazo, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 311,
+  "name": "Soupe Marika",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261320466453",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 312,
+  "name": "Soupe Chinoise de l'Est",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261341056341",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 313,
+  "name": "La Gastronomie Pizza Bazar Be",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261325333671",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 314,
+  "name": "KFZ Kaly Fy Zalah",
+  "address": "501 Tamatave, 501, Madagascar",
+  "phone": "+261341123949",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 315,
+  "name": "Chez Delin",
+  "address": "Bvd Ratsimilao, Toamasina, Madagascar",
+  "phone": "+261344488545",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 316,
+  "name": "Belle de Jour",
+  "address": "cité haras ankirihiry Toamasina, 501, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 317,
+  "name": "LE BENAC Pâtisserie",
+  "address": "Rue Du Marechal De Lattre De Tassigny, Toamasina, Madagascar",
+  "phone": "+261340700899",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 318,
+  "name": "Soupe Plaque Jaune",
+  "address": "501 Rue Guynemer, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 319,
+  "name": "Grillades de Tamatave",
+  "address": "34 Boulevard Joffre, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 320,
+  "name": "Soupe Chinoise Ambodipont",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 321,
+  "name": "Kung-fu Soupe",
+  "address": "Boulevard Joffre, Toamasina, Madagascar",
+  "phone": "+261331182038",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 322,
+  "name": "Henor Dragon",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 323,
+  "name": "Soupe Chinoise \"Dachy\"",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 324,
+  "name": "Poisson d'or",
+  "address": "Route d’Ivoloina, Toamasina, Madagascar",
+  "phone": "+261327158575",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 325,
+  "name": "Namaste 501",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 326,
+  "name": "Abdallah Wade Ice-cream",
+  "address": "Rue Lieutenant Berard, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 327,
+  "name": "L'Odyssée",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 328,
+  "name": "PIZZERIA VESUVIO",
+  "address": "Rue Amiral Billard, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 329,
+  "name": "Biggy 501",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 330,
+  "name": "Queen's Pizza",
+  "address": "TOAMASINA Rue Guynemer Tamatave, 501, Madagascar",
+  "phone": "+261341715034",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 331,
+  "name": "Soupe Chinoise Orchidée",
+  "address": "Boulevard Joffre, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 332,
+  "name": "KAIROS",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 333,
+  "name": "Texas bar 501 Salazamay Tamatave",
+  "address": "Rue Amiral Billard, Toamasina, Madagascar",
+  "phone": "+261349071241",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 334,
+  "name": "Restaurant Sikinà",
+  "address": "Rue Victor Hugo Toamasina, 501, Madagascar",
+  "phone": "+261324463043",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 335,
+  "name": "Le Cantonnais",
+  "address": "Rue De La Batterie, Toamasina, Madagascar",
+  "phone": "+261320302633",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 336,
+  "name": "La Casa Pizza",
+  "address": "Rue Lambert, Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 337,
+  "name": "Karaambar Kamyoncular Derneği",
+  "address": "Rue De La Batterie, Toamasina, Madagascar",
+  "phone": "+261381085832",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 338,
+  "name": "Restaurant Laïda",
+  "address": "7, Rue Grandidier Toamasina, 501, Madagascar",
+  "phone": "+261344530645",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 339,
+  "name": "Chez Maman'i Lone",
+  "address": "Rue Maitre Nativel, Toamasina, Madagascar",
+  "phone": "+261320533630",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 340,
+  "name": "Soupe chinoise LES SPÉCIALES",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261331747056",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 341,
+  "name": "La vanilla'soupe",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 342,
+  "name": "Le Malouja",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 343,
+  "name": "塔夫酒店",
+  "address": "Boulevard Joffre Toamasina, 501, Madagascar",
+  "phone": "+261322745537",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 344,
+  "name": "Chez Eliane",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 345,
+  "name": "Soupe Delice",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261347089415",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 346,
+  "name": "Soupe Chinoise Chez Daniah",
+  "address": "Rue Lieutenant Berard, Toamasina, Madagascar",
+  "phone": "+261205334086",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 347,
+  "name": "Baobab snack",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 348,
+  "name": "Le Bauvet Halal Fast-food",
+  "address": "Rue Victor Hugo, Toamasina 501, Madagascar",
+  "phone": "+261327856541",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 349,
+  "name": "La Recrea",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 350,
+  "name": "Restaurant Chez Delin",
+  "address": "Toamasina, Madagascar",
+  "phone": "+261327470505",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 351,
+  "name": "Miray Center",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 352,
+  "name": "OCEAN Dépôt Vente",
+  "address": "85 boulevard joffre Toamasina, 501, Madagascar",
+  "phone": "+261347174749",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 353,
+  "name": "Bethany Center",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 354,
+  "name": "Bazar Be Pharmacy",
+  "address": "Toamasina, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 355,
+  "name": "Couleur Café",
+  "address": "1118 E 325 Mahazoarivo Nord Antsirabe, 110, Madagascar",
+  "phone": "1118325110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 356,
+  "name": "Arotel",
+  "address": "0116F35, Ave Des Thermes, Madagascar",
+  "phone": "+261331778656",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 357,
+  "name": "Eco Lodge Les Chambres Du Voyageur",
+  "address": "Lot 108B 253 Tsarafara Andrefan'Ivohitra, Antsirabe 110, Madagascar",
+  "phone": "108253110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 358,
+  "name": "Couleur Café",
+  "address": "110 Rue D' Ambositra, Antsirabe, Madagascar",
+  "phone": "+261320220065",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 359,
+  "name": "Chambre d'hôtes - VILLA MARITAMPONA - Antsirabe",
+  "address": "rte circulaire derrière la gare, Antsirabe 201, Madagascar",
+  "phone": "+261328308361",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 360,
+  "name": "Antsirabe Hotel",
+  "address": "Rue Jean Ralaimongo Antsirabe, 110, Madagascar",
+  "phone": "+261204448120",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 361,
+  "name": "HOTEL H1 ANTSIRABE",
+  "address": "Face Cercle-Mess Manodidina ny Gara Antsirabe, 110, Madagascar",
+  "phone": "+261343485890",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 362,
+  "name": "Plumeria Hotel Antsirabe",
+  "address": "110 Rue D' Ambositra, Antsirabe, Madagascar",
+  "phone": "+261320220065",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 363,
+  "name": "Hôtel Le Trianon",
+  "address": "Grande Ave, Antsirabe, Madagascar",
+  "phone": "+261204448891",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 364,
+  "name": "Bed \u0026 Breakfast Vanilla",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 365,
+  "name": "MENABE'L",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 366,
+  "name": "Hôtel Le Royal Palace",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261347161232",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 367,
+  "name": "Badiane B\u0026B, By L'anis Etoilé",
+  "address": "7, 0710-C-81 Antanety, Antsirabe, Madagascar",
+  "phone": "+261325497323",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 368,
+  "name": "Hôtel Menabe'L",
+  "address": "lot 0906B275 Antsirabe Nord Antsirabe Province d'Antananarivo, 110, Madagascar",
+  "phone": "0906275110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 369,
+  "name": "Flower Palace Hotel",
+  "address": "Rue De La Myre De Villers Rue de la Myre de Villers | Lot 0112 R 07 Antsenakely Antsirabe MG 110, Rue De La Myre De Villers, Antsirabe, Madagascar",
+  "phone": "011207110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 370,
+  "name": "Hotel Diamant",
+  "address": "En face de la Cathedrale, Ave Foch, Antsirabe, Madagascar",
+  "phone": "+261340142304",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 371,
+  "name": "Hôtel Restaurant Vohitsoa",
+  "address": "Rte Circulaire, Antsirabe, Madagascar",
+  "phone": "+261324018567",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 372,
+  "name": "Hotel des Thermes",
+  "address": "7, Antsirabe, Madagascar",
+  "phone": "+261320591609",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 373,
+  "name": "Hotel Hasina",
+  "address": "Rue D' Andranobe, Antsirabe 110, Madagascar",
+  "phone": "+261341197361",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 374,
+  "name": "Imperial Hotel",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261341175799",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 375,
+  "name": "Hotel VATOLAHY",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261204448347",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 376,
+  "name": "Nouveau Synchro",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261345252874",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 377,
+  "name": "La Residence Camelia",
+  "address": "Rue De La Myre De Villers, Antsirabe, Madagascar",
+  "phone": "+261341323207",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 378,
+  "name": "Hôtel Vahiny",
+  "address": "Rte Circulaire, Antananarivo 101, Madagascar",
+  "phone": "+261202221716",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 379,
+  "name": "Chez Billy",
+  "address": "Avenue de l'indépendance 110,, Antsirabe, Madagascar",
+  "phone": "+261204448844",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 380,
+  "name": "Hotel St. Antoine",
+  "address": "Lot 01E150, Lalana Pastuer, Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 381,
+  "name": "Hôtel Prisme",
+  "address": "27H10 Rue fonk Mahazoarivo sud, Antsirabe, Madagascar",
+  "phone": "+261341193777",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 382,
+  "name": "Ty Vahiny Hotel",
+  "address": "RN7, Antsirabe, Madagascar",
+  "phone": "+261345514198",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 383,
+  "name": "La Palmeraie",
+  "address": "ANTSENAKELY, LOT 112 F 05, Antsirabe 110, Madagascar",
+  "phone": "11205110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 384,
+  "name": "Cristal Hotel Antsirabe",
+  "address": "110 Rue Clemenceau, Antsirabe 110, Madagascar",
+  "phone": "+261329784852",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 385,
+  "name": "Au Bon Coin",
+  "address": "route d Antananarivo et rue Dr Rasakaiza, Rue D' Andranobe, Antsirabe 110, Madagascar",
+  "phone": "+261320549873",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 386,
+  "name": "Faly Madagascar Tour",
+  "address": "Rue Joffre, Antsirabe, Madagascar",
+  "phone": "+261332501314",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 387,
+  "name": "Residence Madalief",
+  "address": "Lot 910 A 124 Mahafaly Vatofotsy, Antsirabe 110, Madagascar",
+  "phone": "910124110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 388,
+  "name": "ANTSIRABE HOTEL",
+  "address": "Route de tiko, vatofotsy Antsirabe, 110, Madagascar",
+  "phone": "+261343034346",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 389,
+  "name": "Green land Lodge \u0026 Restaurant",
+  "address": "Lot 512 C 61 Tsarasaotra Route d'Ambositra, Rue D' Ambositra, Antsirabe 110, Madagascar",
+  "phone": "51261110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 390,
+  "name": "Maison Tanimanga Demeure de Charme",
+  "address": "Ave Foch, Antsirabe, Madagascar",
+  "phone": "+261324623769",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 391,
+  "name": "Chez Jenny",
+  "address": "Ave Foch, Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 392,
+  "name": "Chez Cecile et Angel",
+  "address": "110 Antsirabe, 110, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 393,
+  "name": "L'Insolite",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 394,
+  "name": "Restaurant Le Rêve",
+  "address": "5 rue Maréchal Floch, cercle Mess, Antsirabe, Madagascar",
+  "phone": "+261326763331",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 395,
+  "name": "Zandina",
+  "address": "110 Rue Clemenceau, Antsirabe, Madagascar",
+  "phone": "+261348004212",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 396,
+  "name": "L'anis Étoilé, Restaurant - B\u0026B",
+  "address": "0512C30 soamalaza, Rue D' Ambositra, Antsirabe 110, Madagascar",
+  "phone": "051230110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 397,
+  "name": "Randrana Restaurant",
+  "address": "Rue Marin, Antsirabe, Madagascar",
+  "phone": "+261340837438",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 398,
+  "name": "Zakaranda restaurant",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 399,
+  "name": "Pousse-Pousse Snack Bar",
+  "address": "Unnamed Road, Alakamisy Antivato, Madagascar",
+  "phone": "+261346715956",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 400,
+  "name": "Grillaro Restaurant \u0026 Fast Food",
+  "address": "7, Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 401,
+  "name": "Oasis Restaurant",
+  "address": "Antsirabe, 110, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 402,
+  "name": "Gasy Garden",
+  "address": "Rue Lyantey, Antsirabe, Madagascar",
+  "phone": "+261340686109",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 403,
+  "name": "Le Grec",
+  "address": "Unnamed Road, Antsirabe, Madagascar",
+  "phone": "+261331141161",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 404,
+  "name": "Le Grec D Antsirabe",
+  "address": "rte circulaire derrière la gare, Antsirabe 201, Madagascar",
+  "phone": "+261328308361",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 405,
+  "name": "Restaurant l insolite",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 406,
+  "name": "Restaurant MANNE",
+  "address": "Ambohimena, Antsirabe, Madagascar",
+  "phone": "+261342036112",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 407,
+  "name": "Razafimamonjy",
+  "address": "Rue Joffre, Antsirabe, Madagascar",
+  "phone": "+261332501314",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 408,
+  "name": "Osman'ın Tombikçisi",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261347649550",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 409,
+  "name": "Arche Soafytel",
+  "address": "RN7, Antsirabe, Madagascar",
+  "phone": "+261347301342",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 410,
+  "name": "Manambina",
+  "address": "110 Ave Jean Ralaimongo, Antsirabe, Madagascar",
+  "phone": "+261331615900",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 411,
+  "name": "Happy Nouilles Antsirabe",
+  "address": "RN7, Antsirabe, Madagascar",
+  "phone": "+261345514198",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 412,
+  "name": "Chef Tahiana",
+  "address": "0912E09 Est Gare, 110, Antsirabe, Madagascar",
+  "phone": "091209110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 413,
+  "name": "Green Park Hotel",
+  "address": "Rue Gouverneur Rasolomon, Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 414,
+  "name": "Food Lover's",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 415,
+  "name": "Entre 2 Mers",
+  "address": "906 A 165 Antsirabé, 110, Madagascar",
+  "phone": "906165110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 416,
+  "name": "LE TSIHY",
+  "address": "Lot 01E150, Lalana Pastuer, Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 417,
+  "name": "Maharitr'afo",
+  "address": "Face Cercle-Mess Manodidina ny Gara Antsirabe, 110, Madagascar",
+  "phone": "+261343485890",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 418,
+  "name": "O mille goûts",
+  "address": "RN7, Antsirabe, Madagascar",
+  "phone": "+261341680838",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 419,
+  "name": "Sakafo Malagasy",
+  "address": "32VR+R88 le village antsirabe karaoke, Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 420,
+  "name": "Le Chalet",
+  "address": "En face de la Cathedrale, Ave Foch, Antsirabe, Madagascar",
+  "phone": "+261340142304",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 421,
+  "name": "Gargote Maintso",
+  "address": "110 Grande Ave, Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 422,
+  "name": "La Gastronomie Pizza",
+  "address": "Passion Moto RN7, près, Madagascar",
+  "phone": "+261342131722",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 423,
+  "name": "Pizza in",
+  "address": "ANTSENAKELY, LOT 112 F 05, Antsirabe 110, Madagascar",
+  "phone": "11205110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 424,
+  "name": "V.I.P",
+  "address": "1118 E 325 Mahazoarivo Nord Antsirabe, 110, Madagascar",
+  "phone": "1118325110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 425,
+  "name": "Villa Iarintsoa Privée",
+  "address": "Lot 0112 D 60 Antsenakely, Antsirabe, Madagascar",
+  "phone": "+261321140554",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 426,
+  "name": "Ô Gourmand",
+  "address": "Rue Jean Ralaimongo Antsirabe, 110, Madagascar",
+  "phone": "+261204448120",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 427,
+  "name": "Hotel VATOLAHY",
+  "address": "Rue D' Ambositra, Antsirabe, Madagascar",
+  "phone": "+261341327752",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 428,
+  "name": "GasyCook Restaurant",
+  "address": "Lot 108B 253 Tsarafara Andrefan'Ivohitra, Antsirabe 110, Madagascar",
+  "phone": "108253110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 429,
+  "name": "Sinan Abinin Mekanı",
+  "address": "Rue De La Myre De Villers, Antsirabe, Madagascar",
+  "phone": "+261341323207",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 430,
+  "name": "Hotely Ravaka",
+  "address": "7, Vatofotsy, Antsirabe, Madagascar",
+  "phone": "+261343628680",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 431,
+  "name": "TI'ART RESTO",
+  "address": "Unnamed Road, Antsirabe, Madagascar",
+  "phone": "+261325600691",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 432,
+  "name": "Le Fleuve Parfumé",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261326489068",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 433,
+  "name": "110% Food - Fabrication Artisanale",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 434,
+  "name": "Le Dragon Rouge",
+  "address": "Mahazoarivo Nord, Paraky, Antsirabe 110, Madagascar",
+  "phone": "+261349236950",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 435,
+  "name": "O'ano BURGER",
+  "address": "110 Rue D' Ambositra, Antsirabe, Madagascar",
+  "phone": "+261320220065",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 436,
+  "name": "Plumeria Hotel Antsirabe",
+  "address": "Lot 512 C 61 Tsarasaotra Route d'Ambositra, Rue D' Ambositra, Antsirabe 110, Madagascar",
+  "phone": "51261110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 437,
+  "name": "Ô 'delices",
+  "address": "Lot 50, Avenue Georges Clémenceau BP 182 Antsirabe, 110, Madagascar",
+  "phone": "50182110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 438,
+  "name": "My Food",
+  "address": "Ave Foch, Antsirabe, Madagascar",
+  "phone": "+261342106111",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 439,
+  "name": "Aux Douces heures",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 440,
+  "name": "La Palmeraie",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 441,
+  "name": "La Palette",
+  "address": "Rue Clemenceau, Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 442,
+  "name": "Café de l'Alliance",
+  "address": "Lot 0912C190 Manodidina ny gara,, Antsirabe, Madagascar",
+  "phone": "+261345101315",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 443,
+  "name": "Sucré salé",
+  "address": "Rue De La Myre De Villers Rue de la Myre de Villers | Lot 0112 R 07 Antsenakely Antsirabe MG 110, Rue De La Myre De Villers, Antsirabe, Madagascar",
+  "phone": "011207110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 444,
+  "name": "Miangaly",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261342017605",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 445,
+  "name": "Snack Dangalia",
+  "address": "Ampiaviana en face du clinique ave maria, Antsirabe 110, Madagascar",
+  "phone": "+261347671304",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 446,
+  "name": "Sanfil",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 447,
+  "name": "Couleur Café",
+  "address": "Grande Ave, Antsirabe, Madagascar",
+  "phone": "+261204448891",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 448,
+  "name": "Hôtel Le Royal Palace",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 449,
+  "name": "Liantsoa Restaurant",
+  "address": "Tranompokon'olona, Antsirabe, Madagascar",
+  "phone": "+261348380758",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 450,
+  "name": "Le xv be null bar ailleurs",
+  "address": "Rue De La Myre De Villers, Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 451,
+  "name": "Antsirabe. Madagascar",
+  "address": "Lot 512 A 240 Tsarasaotra Antsirabe, 110, Madagascar",
+  "phone": "512240110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 452,
+  "name": "Hôtel Restaurant Voninkazo",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 453,
+  "name": "Chez Billy",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261341160354",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 454,
+  "name": "Rivetoiles Hotel",
+  "address": "Rue Amiral Miot, Antsirabe, Madagascar",
+  "phone": "+261331238905",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 455,
+  "name": "Souimanga Hôtel- Restaurant",
+  "address": "Avenue de La Gare Antsirabe face au poste, Antsirabe 110, Madagascar",
+  "phone": "+261344763454",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 456,
+  "name": "Arotel",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 457,
+  "name": "AK'ETO",
+  "address": "Terrain de basket Tomboarivo, Antsirabe, Madagascar",
+  "phone": "+261348795443",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 458,
+  "name": "B'Art Haingo",
+  "address": "27H10 Rue fonk Mahazoarivo sud, Antsirabe, Madagascar",
+  "phone": "+261341193777",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 459,
+  "name": "La Gastronomie Pizza",
+  "address": "Lot 0514 E 45 Mahafaly Tomboarivo Antsirabe, 110, Madagascar",
+  "phone": "051445110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 460,
+  "name": "Antsirabe Hotel",
+  "address": "Lot 0514 E 45 Antsirabe, 110, Madagascar",
+  "phone": "051445110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 461,
+  "name": "LA RESIDENCE MAHASOA",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 462,
+  "name": "Imaintsoanala",
+  "address": "Rue D'Andon Flavelle, Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 463,
+  "name": "Restaurant de la Pépinière",
+  "address": "Antsenakely, 110 Rue Georges V, Antsirabe, Madagascar",
+  "phone": "+261340678662",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 464,
+  "name": "Le Village Karaoke",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 465,
+  "name": "Au Bon Coin",
+  "address": "110 Rue Georges V, Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 466,
+  "name": "Vakinahandro",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261347901614",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 467,
+  "name": "Hotel des Thermes",
+  "address": "Antsenakely, Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 468,
+  "name": "Green land Lodge \u0026 Restaurant",
+  "address": "Rue Benyowsky, Antsirabe, Madagascar",
+  "phone": "+261341803895",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 469,
+  "name": "Nouveau Synchro",
+  "address": "RN34, Antsirabe, Madagascar",
+  "phone": "+261330892513",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 470,
+  "name": "Tropik art",
+  "address": "0306 A 79 Ambohipeno Antsirabe, 110, Madagascar",
+  "phone": "030679110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 471,
+  "name": "RAVAKA CYBER",
+  "address": "Antsenakely, Antsirabe, Madagascar",
+  "phone": "+261347911161",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 472,
+  "name": "Hôtel Le Trianon",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261204405190",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 473,
+  "name": "Hôtel Restaurant Vohitsoa",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261349035307",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 474,
+  "name": "Blue Sky Antsirabe",
+  "address": "110 Rue Georges V, Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 475,
+  "name": "Le Retrait",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 476,
+  "name": "Epi Bar FARATIANA",
+  "address": "Rue Voltaire, Antsirabe, Madagascar",
+  "phone": "+261340368117",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 477,
+  "name": "Table et Chambre d'hôtes Villa Mena",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 478,
+  "name": "HOTEL H1 ANTSIRABE",
+  "address": "110 Rue Georges V, Antsirabe, Madagascar",
+  "phone": "+261204449181",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 479,
+  "name": "Cercle Mess Mixte",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 480,
+  "name": "Eco Lodge Les Chambres Du Voyageur",
+  "address": "Unnamed Road, Antsirabe, Madagascar",
+  "phone": "+261340382737",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 481,
+  "name": "Le LOUIS 15",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261345124422",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 482,
+  "name": "Flower Palace Hotel",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 483,
+  "name": "Hôtel Prisme",
+  "address": "Rue Lyantey, Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 484,
+  "name": "Antsenakely",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 485,
+  "name": "Antsirabe Hotel",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261204405076",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 486,
+  "name": "Hôtel Le Trianon",
+  "address": "Grande Ave, Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 487,
+  "name": "Shop Liantsoa Antsirabe",
+  "address": "7, Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 488,
+  "name": "Score",
+  "address": "1118 E 325 Mahazoarivo Nord Antsirabe, 110, Madagascar",
+  "phone": "1118325110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 489,
+  "name": "Point Marchand DABL",
+  "address": "Rte Circulaire, Antsirabe, Madagascar",
+  "phone": "+261337576675",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 490,
+  "name": "GASYmart Vatofotsy",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 491,
+  "name": "Mandray Galerie",
+  "address": "Face Cercle-Mess Manodidina ny Gara Antsirabe, 110, Madagascar",
+  "phone": "+261343485890",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 492,
+  "name": "Super Maxi",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 493,
+  "name": "Ny Mpanarato",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261341824132",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 494,
+  "name": "Digue Market",
+  "address": "RN7, Antsirabe, Madagascar",
+  "phone": "+261343040721",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 495,
+  "name": "Akoor Digue",
+  "address": "1118 E 325 Mahazoarivo Nord Antsirabe, 110, Madagascar",
+  "phone": "1118325110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 496,
+  "name": "Shoprite Antsirabe",
+  "address": "40 Rue Naka Rabemabantsoa, Antananarivo, Madagascar",
+  "phone": "+261202266774",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 497,
+  "name": "Antemoro Paper",
+  "address": "0910A287 Mahafaly Vatofotsy, Antsirabe, 110, Madagascar",
+  "phone": "0910287110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 498,
+  "name": "La city Ivandry",
+  "address": "15 C 170 Antsinanantsena Antsirabe, 110, Madagascar",
+  "phone": "15170110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 499,
+  "name": "Antsirabe",
+  "address": "ANTSENAKELY, LOT 112 F 05, Antsirabe 110, Madagascar",
+  "phone": "11205110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 500,
+  "name": "Couleur Café",
+  "address": "Rue Jean Ralaimongo Antsirabe, 110, Madagascar",
+  "phone": "+261204448120",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 501,
+  "name": "Thermal Baths",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 502,
+  "name": "Zandina",
+  "address": "5 rue Maréchal Floch, cercle Mess, Antsirabe, Madagascar",
+  "phone": "+261326763331",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 503,
+  "name": "CODE 110",
+  "address": "110 Rue D' Ambositra, Antsirabe, Madagascar",
+  "phone": "+261320220065",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 504,
+  "name": "Brico-Center Behoririka",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 505,
+  "name": "LA RESIDENCE MAHASOA",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 506,
+  "name": "Antsirabe",
+  "address": "Shoprite, Propriete Dite, Fitiavana 4 Titre No 13.977-Plot 08 A 120, Antsirabe, Madagascar",
+  "phone": "41397708120",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 507,
+  "name": "Ecole Dihydance Antsirabe",
+  "address": "Andohatapenaka, Antananarivo, Madagascar",
+  "phone": "+261321207000",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 508,
+  "name": "Antsirabe Hotel",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 509,
+  "name": "Monument Fahaleovantena",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261341824132",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 510,
+  "name": "Notre Dame de la Salette",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 511,
+  "name": "Maminirina Corne et Raphia",
+  "address": "Lot 512 A 254 Antsenakely, Ave Jean Ralaimongo, Antsirabe 110, Madagascar",
+  "phone": "512254110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 512,
+  "name": "Antsirabe",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 513,
+  "name": "Antsirabe",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261343190581",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 514,
+  "name": "Les Boutik Coeur de Foret Madagascar",
+  "address": "0910A287 Mahafaly Vatofotsy, Antsirabe, 110, Madagascar",
+  "phone": "0910287110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 515,
+  "name": "Mandray Galerie",
+  "address": "0512 F 265, Antsirabe, Madagascar",
+  "phone": "+261344014713",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 516,
+  "name": "Souimanga Hôtel- Restaurant",
+  "address": "Avenue de l'indépendance 110,, Antsirabe, Madagascar",
+  "phone": "+261204448844",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 517,
+  "name": "Tsingy De Bemaraha National Park",
+  "address": "Lot VR 30 Ambohidraserika Mahazoarivo Antananarivo, 101, Madagascar",
+  "phone": "+261345018975",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 518,
+  "name": "Andafiavaratra Palace",
+  "address": "Jardin Antaninarenina, Antananarivo, Madagascar",
+  "phone": "+261202239000",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 519,
+  "name": "Mandray Galerie",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261341175799",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 520,
+  "name": "ComeToMadagascar",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261204449970",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 521,
+  "name": "Madagascar Green Tours",
+  "address": "Lot: IVN-87-EE 67ha-Nord Ouest, 101, Madagascar",
+  "phone": "+261341613957",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 522,
+  "name": "Madagascar Tropic Voyage",
+  "address": "Antananarivo, Madagascar",
+  "phone": "+261346526363",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 523,
+  "name": "Souimanga Hôtel- Restaurant",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 524,
+  "name": "Office Régional du Tourisme da Vakinankaratra",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 525,
+  "name": "Eco Lodge Les Chambres Du Voyageur",
+  "address": "1118 E 325 Mahazoarivo Nord Antsirabe, 110, Madagascar",
+  "phone": "1118325110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 526,
+  "name": "Arotel",
+  "address": "14 Av. de L'Independance, Antananarivo, Madagascar",
+  "phone": "+261202223647",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 527,
+  "name": "Couleur Café",
+  "address": "110 Rue D' Ambositra, Antsirabe, Madagascar",
+  "phone": "+261320220065",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 528,
+  "name": "French Institute Of Madagascar",
+  "address": "lot III A 512 Bis Tsarafiraisana, Tombotsoa (Ambano) 111, Madagascar",
+  "phone": "+261346062275",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 529,
+  "name": "Manoro",
+  "address": "Rue Jean Ralaimongo Antsirabe, 110, Madagascar",
+  "phone": "+261204448120",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 530,
+  "name": "Antsirabe Hotel",
+  "address": "rte circulaire derrière la gare, Antsirabe 201, Madagascar",
+  "phone": "+261328308361",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 531,
+  "name": "Thermal Baths",
+  "address": "Rue Maréchal Foch, Antsirabe 110, Madagascar",
+  "phone": "+261346013540",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 532,
+  "name": "Saha Travel Madagascar (SATRAMA)",
+  "address": "Lot 108B 253 Tsarafara Andrefan'Ivohitra, Antsirabe 110, Madagascar",
+  "phone": "108253110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 533,
+  "name": "Ambohitsorohitra Palace",
+  "address": "Lot 512 A 254 Antsenakely, Ave Jean Ralaimongo, Antsirabe 110, Madagascar",
+  "phone": "512254110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 534,
+  "name": "Ville d' Eau",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261341824132",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 535,
+  "name": "Hotel des Thermes",
+  "address": "0512B275 Tsarasaotra, Rue d Ambositra, Madagascar",
+  "phone": "+261348056684",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 536,
+  "name": "Andravoahangy",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261330435117",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 537,
+  "name": "Ampefy",
+  "address": "912 B 67, Antsirabe 110, Madagascar",
+  "phone": "91267110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 538,
+  "name": "Madagascar",
+  "address": "Rue Maréchal Foch, Antsirabe 110, Madagascar",
+  "phone": "+261346013540",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 539,
+  "name": "Hotel Hasina",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 540,
+  "name": "Manjakamiadana",
+  "address": "Lalana Justin Rajoro, Antananarivo 101, Madagascar",
+  "phone": "+261202220726",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 541,
+  "name": "Ndao-i-Travel Madagascar",
+  "address": "9 Lalana Printsy Ratsimamanga, Antananarivo 101, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 542,
+  "name": "Le Louvre Hôtel \u0026 Spa",
+  "address": "912 B 67, Antsirabe 110, Madagascar",
+  "phone": "91267110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 543,
+  "name": "La Residence Camelia",
+  "address": "Begara, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 544,
+  "name": "Ivato",
+  "address": "Lot 108B 253 Tsarafara Andrefan'Ivohitra, Antsirabe 110, Madagascar",
+  "phone": "108253110",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 545,
+  "name": "Andasibe",
+  "address": "Falierana, Madagascar",
+  "phone": "+261331444031",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 546,
+  "name": "Tsarasaotra",
+  "address": "Antsirabe, Madagascar",
+  "phone": "+261330435117",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 547,
+  "name": "Isoraka",
+  "address": "0512B275 Tsarasaotra, Rue d Ambositra, Madagascar",
+  "phone": "+261348056684",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 548,
+  "name": "Zomatel",
+  "address": "Rte de Fanjakana, Fianarantsoa 301, Madagascar",
+  "phone": "+261207552111",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 549,
+  "name": "Tsara Guest House",
+  "address": "B.P.1150 - Isaha, 301 Bd Hubert Garbit, Madagascar",
+  "phone": "+261207551405",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 550,
+  "name": "Résidence Matsiatra",
+  "address": "Ambanimaso Croisement Anosy, Fianarantsoa 301, Madagascar",
+  "phone": "+261341356060",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 551,
+  "name": "Rem Hotel",
+  "address": "BP 1367 Fianarantsoa, 301, Madagascar",
+  "phone": "+261207550797",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 552,
+  "name": "Chez Julienne et Patrick",
+  "address": "lot I N 15, Fianarantsoa 301, Madagascar",
+  "phone": "+261320551612",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 553,
+  "name": "Pietra hotel Fianarantsoa",
+  "address": "Rte de la Petite Corniche, Fianarantsoa, Madagascar",
+  "phone": "+261341274091",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 554,
+  "name": "Hotel? Trivago",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "+261344741042",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 555,
+  "name": "Lac Hotel Sahambavy",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "+261341961585",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 556,
+  "name": "Hôtel Tombontsoa",
+  "address": "Rue Rakotozafy Alphonse, Fianarantsoa, Madagascar",
+  "phone": "+261346559818",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 557,
+  "name": "Villa Sylvestre",
+  "address": "Fianarantsoa 301, Madagascar",
+  "phone": "+261320230131",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 558,
+  "name": "Plaza Inn",
+  "address": "Antarandolo VILLA SOALALAO Lot 030E/3603 Fianarantsoa MG 301, Fianarantsoa, Madagascar",
+  "phone": "0303603301",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 559,
+  "name": "Hotel Grand Palais",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 560,
+  "name": "Victoria Hôtel",
+  "address": "Ambalafary, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 561,
+  "name": "Vannie Hótel",
+  "address": "Fianarantsoa 301, Madagascar",
+  "phone": "+261320230131",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 562,
+  "name": "SALEM HOTEL",
+  "address": "Descemle d Isaha, Fianarantsoa, Madagascar",
+  "phone": "+261340930199",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 563,
+  "name": "Hotel Ambalakely",
+  "address": "Antarandolo, Fianarantsoa, Madagascar",
+  "phone": "+261345202802",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 564,
+  "name": "Dragon d'Or",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "+261207550705",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 565,
+  "name": "La Case Madrigal",
+  "address": "Lot II P 2, Rue Pasteur Tambohobe, Fianarantsoa 301, Madagascar",
+  "phone": "+261207551119",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 566,
+  "name": "BABI FOOD",
+  "address": "Fianarantsoa 301, Madagascar",
+  "phone": "+261320230131",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 567,
+  "name": "La Surprise Betsileo",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "+261348996649",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 568,
+  "name": "Gastro Pizza - Fianarantsoa",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 569,
+  "name": "Chez Domm",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "+261320246078",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 570,
+  "name": "Ancre D`Or",
+  "address": "Antarandolo, Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 571,
+  "name": "Petite Bouffe",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 572,
+  "name": "Restaurant Gosena",
+  "address": "LOT: IN 30 Rue Pasteur Ramasitera Alfred, Fianarantsoa 301, Madagascar",
+  "phone": "+261340199804",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 573,
+  "name": "Chez Ninie",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "+261340012300",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 574,
+  "name": "La Riziere",
+  "address": "Antarandolo, en face Station TOTAL, Fianarantsoa 301, Madagascar",
+  "phone": "+261321278910",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 575,
+  "name": "Hotel Restaurant Petite Bouffe",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 576,
+  "name": "La Terrasse Anosy",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 577,
+  "name": "Maison d'Hôtes Three Palms",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 578,
+  "name": "Restaurant local cuisine",
+  "address": "Rte de Besorohitra, Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 579,
+  "name": "Victoria Hôtel",
+  "address": "Market, Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 580,
+  "name": "Royal Espace",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 581,
+  "name": "Chez Tantine",
+  "address": "7, Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 582,
+  "name": "L'Ivoneatel",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 583,
+  "name": "Résidence Matsiatra",
+  "address": "Antarandolo VILLA SOALALAO Lot 030E/3603 Fianarantsoa MG 301, Fianarantsoa, Madagascar",
+  "phone": "0303603301",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 584,
+  "name": "ELIRELAX Hotel Restaurant",
+  "address": "BP 1367 Fianarantsoa, 301, Madagascar",
+  "phone": "+261207550797",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 585,
+  "name": "Cedric",
+  "address": "RN7, Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 586,
+  "name": "Nick's",
+  "address": "lot I N 15, Fianarantsoa 301, Madagascar",
+  "phone": "+261320551612",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 587,
+  "name": "La table du Rova",
+  "address": "B.P.1150 - Isaha, 301 Bd Hubert Garbit, Madagascar",
+  "phone": "+261207551405",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 588,
+  "name": "LaHaute parc",
+  "address": "Lot 30B/3504FR - AMPOPOKA ANKOFAFALAHY FIANARANTSOA, 301, Madagascar",
+  "phone": "303504301",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 589,
+  "name": "Fady Kisoa",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 590,
+  "name": "Site 2",
+  "address": "Descemle d Isaha, Fianarantsoa, Madagascar",
+  "phone": "+261340930199",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 591,
+  "name": "Au RELAX",
+  "address": "Rue Pasteur Groult, Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 592,
+  "name": "The Kebab's",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "+261344741042",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 593,
+  "name": "Snack \"Piscine\"",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "+261341961585",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 594,
+  "name": "Hotel? Trivago",
+  "address": "Rue Randriantsilanizaka Joseph, Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 595,
+  "name": "RANJALIA Hôtel",
+  "address": "Lot E 021/3702 Bis Ambalapaiso Fianarantsoa MG 301, Fianarantsoa, Madagascar",
+  "phone": "0213702301",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 596,
+  "name": "JAX Disco",
+  "address": "Rte de Fanjakana, Fianarantsoa 301, Madagascar",
+  "phone": "+261207552111",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 597,
+  "name": "Chez Julienne et Patrick",
+  "address": "Isaha - Fianarantsoa Hôtel TOMBONTSOA Fianarantsoa, 301, Madagascar",
+  "phone": "+261349805625",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 598,
+  "name": "Pietra hotel Fianarantsoa",
+  "address": "au Relax, Imm N.6 face poste Tsianolondroa, Fianarantsoa 301, Madagascar",
+  "phone": "+261320234873",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 599,
+  "name": "Vannie Hótel",
+  "address": "O'matsiatra, Antarandolo, Ex-Somacodis, Fianarantsoa, Madagascar",
+  "phone": "+261347121828",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 600,
+  "name": "La Chaud'Hier",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 601,
+  "name": "Hôtel Restaurant La Ruche d'Or",
+  "address": "RN42, Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 602,
+  "name": "Hôtel Tombontsoa",
+  "address": "O'matsiatra, Antarandolo, Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 603,
+  "name": "Arc Hôtel",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "+261341060884",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 604,
+  "name": "Tsara Guest House",
+  "address": "Isaha Fianarantsoa, 301, Madagascar",
+  "phone": "+261340585803",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 605,
+  "name": "La Case Madrigal",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 606,
+  "name": "Zomatel",
+  "address": "Rue Rakotozafy Alphonse, Fianarantsoa, Madagascar",
+  "phone": "+261346559818",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 607,
+  "name": "Le Croustillant",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 608,
+  "name": "Casa Delices",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 609,
+  "name": "Espace Relax",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 610,
+  "name": "Maison d'Hôtes Three Palms",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "+261207550705",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 611,
+  "name": "Codebar 301",
+  "address": "Rte de la Petite Corniche, Fianarantsoa, Madagascar",
+  "phone": "+261341274091",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 612,
+  "name": "Le Goût",
+  "address": "Lac Anosy Fianarantsoa, 301, Madagascar",
+  "phone": "+261349618367",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 613,
+  "name": "Rakotondramparany anjarasoa fanomezana",
+  "address": "Rue Ichouard Smadja, Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 614,
+  "name": "Le Relais Madagascar",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 615,
+  "name": "Digue Market",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 616,
+  "name": "Akoor Digue",
+  "address": "Antananarivo, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 617,
+  "name": "La city Ivandry",
+  "address": "Andohatapenaka, Antananarivo, Madagascar",
+  "phone": "+261321207000",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 618,
+  "name": "Place Du Zoma",
+  "address": "Ankofafalahy BP1212, Fianarantsoa 301, Madagascar",
+  "phone": "+261321251004",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 619,
+  "name": "Ranomafana National Park",
+  "address": "12°38'08. 49°29'37.0\"E, 5, Madagascar",
+  "phone": "12380849293705",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 620,
+  "name": "Anja Community Reserve",
+  "address": "lot I N 15, Fianarantsoa 301, Madagascar",
+  "phone": "+261320551612",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 621,
+  "name": "Reserve Reniala",
+  "address": "Ifaty, Madagascar",
+  "phone": "+261340379040",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 622,
+  "name": "Tsara Guest House",
+  "address": "Begara, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 623,
+  "name": "Zomatel",
+  "address": "Antsirabe, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 624,
+  "name": "SORAKO",
+  "address": "Ampasambazaha Fianarantsoa, 301, Madagascar",
+  "phone": "+261207551666",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 625,
+  "name": "Lac Hotel",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "+261321202702",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 626,
+  "name": "Fianarantsoa Province",
+  "address": "301, Lot 048/3606 *****ivory Sud, Villa Tantelisoa, Fianarantsoa, Madagascar",
+  "phone": "3010483606",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 627,
+  "name": "Ranomafana",
+  "address": "BP 1367 Fianarantsoa, 301, Madagascar",
+  "phone": "+261207550797",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 628,
+  "name": "Marojejy National Park",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 629,
+  "name": "Score Fianarantsoa",
+  "address": "Fianarantsoa, Madagascar",
+  "phone": "+261320325309",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 630,
+  "name": "Hotel LES ROCHES ROUGES",
+  "address": "Avenue Georges 5, Mahajanga 401, Madagascar",
+  "phone": "+261340706986",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 631,
+  "name": "Saara Hotel",
+  "address": "Lot 0204aw0340, Amborovy, Mahajanga, Madagascar",
+  "phone": "02040340",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 632,
+  "name": "Lodge des Terres Blanches",
+  "address": "grand pavois, Mahajanga, Madagascar",
+  "phone": "+261342366160",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 633,
+  "name": "Hôtel Restaurant Gourmand Coco Lodge Majunga",
+  "address": "Mahajanga 401, Mahajanga, Madagascar",
+  "phone": "+261206223023",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 634,
+  "name": "New Park Resort - Majunga",
+  "address": "49 Ave De France, Mahajanga 401, Madagascar",
+  "phone": "+261340701111",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 635,
+  "name": "EDENAKELY HOTEL DE CHARME MAJUNGA",
+  "address": "Boulevard Marcoz, Mahajanga 401, Madagascar",
+  "phone": "+261320587581",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 636,
+  "name": "Lovencie Lodge",
+  "address": "Amborovy, Petite Plage, Mahajanga 401, Madagascar",
+  "phone": "+261325555800",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 637,
+  "name": "Sunny Hotel Majunga",
+  "address": "Ave D' Amborovy, Mahajanga, Madagascar",
+  "phone": "+261345274363",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 638,
+  "name": "Coco Lodge",
+  "address": "BP522, La Corniche, Boulevard Marcoz, Mahajanga 401, Madagascar",
+  "phone": "+261206224172",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 639,
+  "name": "SKAR HOTEL",
+  "address": "Ave Gillon, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 640,
+  "name": "Holidays Hotel Majunga",
+  "address": "Rue Docteur Bereni, Mahajanga, Madagascar",
+  "phone": "+261320473561",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 641,
+  "name": "PAP'S Chambre d'Hôtes",
+  "address": "5 Av. de la Republique, Mahajanga, Madagascar",
+  "phone": "+261326961406",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 642,
+  "name": "Hotel Salala",
+  "address": "Madagascar, Mahajanga, Villa Amatoullah secteur 4, Ambondrona",
+  "phone": "+261349285480",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 643,
+  "name": "Antsanitia Resort",
+  "address": "Rue Henri Garnier, Mahajanga, Madagascar",
+  "phone": "+261341009752",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 644,
+  "name": "Domaine Du Mandravasarotra",
+  "address": "Rue M Ruefast Bostani, Mahajanga 401, Madagascar",
+  "phone": "+261206222753",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 645,
+  "name": "Châteaux Yolande",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 646,
+  "name": "Chez Karon",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261320752459",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 647,
+  "name": "Chez Karon",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 648,
+  "name": "Zahamotel",
+  "address": "Villa Miadana Maroala Amborovy, Amborovy, Madagascar",
+  "phone": "+261324522269",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 649,
+  "name": "Hotel Akbar",
+  "address": "ex terrain de tennis, 401 Boulevard Marcoz, Mahajanga, Madagascar",
+  "phone": "+261344342224",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 650,
+  "name": "Le Tropicana",
+  "address": "401, Mahajanga 401, Madagascar",
+  "phone": "+261346137985",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 651,
+  "name": "Anjary Hotel Mahajanga",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261326763446",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 652,
+  "name": "Hotel Restaurant Bar SHAMS",
+  "address": "5ter rue Pasteur-Androva Mahajanga MG 401, Androva, Madagascar",
+  "phone": "+261324012758",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 653,
+  "name": "Hotel le Badamier",
+  "address": "Ave Gillon, Mahajanga, Madagascar",
+  "phone": "+261206222255",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 654,
+  "name": "Hôtel Mahajanga - Andafirôï Écolodge Resort",
+  "address": "R. Georges, Mahajanga, Madagascar",
+  "phone": "+261206223798",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 655,
+  "name": "Majesty Palm Resort Majunga",
+  "address": "Av. de la Republique, Mahajanga 401, Madagascar",
+  "phone": "+261206224065",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 656,
+  "name": "Resto Fishing Résidence",
+  "address": "Mangarivotra, Mahajanga, Madagascar",
+  "phone": "+261325841677",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 657,
+  "name": "Villa Miadana",
+  "address": "Ave D' Amborovy, Mahajanga 401, Madagascar",
+  "phone": "+261206223709",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 658,
+  "name": "HOTEL SKAR",
+  "address": "0212-AG-0190 Secteur 4 Tanambao sotema Mahajanga, 401, Madagascar",
+  "phone": "021201904401",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 659,
+  "name": "RAOOF HOTEL",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261320320340",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 660,
+  "name": "Hotel Bella Maria",
+  "address": "Boulevard Marcoz, Mahajanga, Madagascar",
+  "phone": "+261206224705",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 661,
+  "name": "L'Orion Bleu Bellatrix",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261327860065",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 662,
+  "name": "Cayra Holidays",
+  "address": "Rte de Mahavoky, Mahajanga, Madagascar",
+  "phone": "+261324561316",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 663,
+  "name": "Hotel Continental",
+  "address": "ex terrain de tennis, Boulevard Marcoz, Mahajanga 401, Madagascar",
+  "phone": "+261344342224",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 664,
+  "name": "Maruti Hotel",
+  "address": "88PP+JV2 Holidays Hotel, Ave D' Amborovy, Mahajanga, Madagascar",
+  "phone": "+261348860369",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 665,
+  "name": "La petite cour",
+  "address": "Boulevard Marcoz, Mahajanga, Madagascar",
+  "phone": "+261326554450",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 666,
+  "name": "Le guest",
+  "address": "Rue Henri Paul, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 667,
+  "name": "La Promenade - Majunga",
+  "address": "Rue Iules Ferry, Mahajanga, Madagascar",
+  "phone": "+2616222379",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 668,
+  "name": "Kanto \u0026 Fils",
+  "address": "2 rue Marius Barriquand La corniche Mahajanga, 401, Madagascar",
+  "phone": "+261337243344",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 669,
+  "name": "Le Bajaj",
+  "address": "401 Bd Poincarre, Mahajanga, Madagascar",
+  "phone": "+261349436280",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 670,
+  "name": "Restaurant Gourmand Coco Lodge Majunga",
+  "address": "Boulevard Marcos la Corniche, Mahajanga 401, Madagascar",
+  "phone": "+261324711588",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 671,
+  "name": "Restaurant Thi Lan",
+  "address": "Ave Jules Aubourg, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 672,
+  "name": "Parad'Ice Restaurant",
+  "address": "Ave Philibert Tsiranana, Mahajanga 401, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 673,
+  "name": "SAMPAN D'OR",
+  "address": "Rue Iules Ferry, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 674,
+  "name": "Chez Mama Jeze",
+  "address": "49 Ave De France, Mahajanga 401, Madagascar",
+  "phone": "+261340701134",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 675,
+  "name": "Bolo - Italian Restaurant \u0026 Gelato",
+  "address": "route de sib, Mahajanga, Madagascar",
+  "phone": "+261346410000",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 676,
+  "name": "VATOBE",
+  "address": "Rte de Mahavoky, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 677,
+  "name": "Lakana Manga",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261325791499",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 678,
+  "name": "La Botega du Tobany",
+  "address": "Ave D' Amborovy, Mahajanga, Madagascar",
+  "phone": "+261325320048",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 679,
+  "name": "Roches Restaurant",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261340772428",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 680,
+  "name": "Restaurant Karibo Mahoraise",
+  "address": "Rue De Belgloue, Mahajanga, Madagascar",
+  "phone": "+261344149926",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 681,
+  "name": "La Rotonde",
+  "address": "Av. de la Liberation, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 682,
+  "name": "Restaurant barbakus",
+  "address": "RN4, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 683,
+  "name": "AQUARhum",
+  "address": "Unnamed Road, Mahajanga, Madagascar",
+  "phone": "+261331256281",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 684,
+  "name": "Maskita Bord Majunga",
+  "address": "Madirokely, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 685,
+  "name": "Kali...tao",
+  "address": "Boulevard Marcoz, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 686,
+  "name": "Chez Tataly",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261341572444",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 687,
+  "name": "Restaurant Les Bougainvilliers",
+  "address": "R. Gambetta, Mahajanga, Madagascar",
+  "phone": "+261347386932",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 688,
+  "name": "Hôtel Restaurant Gourmand Coco Lodge Majunga",
+  "address": "route village touristique,, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 689,
+  "name": "C'Bon",
+  "address": "Rue Larrouy, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 690,
+  "name": "Bollywood Restaurant",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261340610771",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 691,
+  "name": "Motra Khimo",
+  "address": "14 Rue du Col. Barre, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 692,
+  "name": "Reg halal majunga",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 693,
+  "name": "Retaurant papy raleur",
+  "address": "Ave Barday, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 694,
+  "name": "Arm'Elle Snack",
+  "address": "Boulevard Marcoz, Mahajanga 401, Madagascar",
+  "phone": "+261320587581",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 695,
+  "name": "Chez Zébulon",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 696,
+  "name": "What 's up",
+  "address": "Boulevard Marcoz, Mahajanga, Madagascar",
+  "phone": "+261206224705",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 697,
+  "name": "trano Aristide",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261349071309",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 698,
+  "name": "Salon De The Snack Grill Zahra",
+  "address": "5ter rue Pasteur-Androva Mahajanga MG 401, Androva, Madagascar",
+  "phone": "+261324012758",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 699,
+  "name": "C'Gasy",
+  "address": "Majunga 401, Mahajanga 411, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 700,
+  "name": "Petite Plage, Majunga",
+  "address": "Marolah Amborovy, Mahajanga, Madagascar",
+  "phone": "+261346977115",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 701,
+  "name": "Anais Residence",
+  "address": "** ROYAL CLUB **, Mahajanga 401, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 702,
+  "name": "arc en ciel",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261340265290",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 703,
+  "name": "Tsaradia Restaurant",
+  "address": "Lot 0204aw0340, Amborovy, Mahajanga, Madagascar",
+  "phone": "02040340",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 704,
+  "name": "Longcheng Hotel and Restaurant",
+  "address": "Av. Andriamisara, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 705,
+  "name": "NYA SNACK BAR",
+  "address": "District Majunga, Mahajanga, Madagascar",
+  "phone": "+261340695090",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 706,
+  "name": "Délice",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261320240225",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 707,
+  "name": "Bel Air Restaurant",
+  "address": "BP522, La Corniche, Boulevard Marcoz, Mahajanga 401, Madagascar",
+  "phone": "+261206224172",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 708,
+  "name": "JRS",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 709,
+  "name": "Brochettes",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261327009822",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 710,
+  "name": "La Kaze",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261347580558",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 711,
+  "name": "LE NEXT",
+  "address": "78RC+W8W centre commercial Baobab city, Mahajanga 401, Madagascar",
+  "phone": "+261346978008",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 712,
+  "name": "La Gastro Pizza",
+  "address": "6 Av. de la Republique, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 713,
+  "name": "Restaurant Dallas halal",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 714,
+  "name": "Lakouzi",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261332996933",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 715,
+  "name": "Nour Goûté",
+  "address": "17 Av. de la Republique, Mahajanga, Madagascar",
+  "phone": "+261327987645",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 716,
+  "name": "Green Club",
+  "address": "Petite plage, Mahajanga, Madagascar",
+  "phone": "+261327423985",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 717,
+  "name": "Halal Brochette and Mokary",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261206222141",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 718,
+  "name": "La Cohésion Maskita",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261320237659",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 719,
+  "name": "Escale De La Plage",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261325335857",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 720,
+  "name": "La Gastronomie Pizza",
+  "address": "401 Bd Poincarre, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 721,
+  "name": "Sakafo Sahaza",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 722,
+  "name": "Coco loko",
+  "address": "17 Av. de la Republique, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 723,
+  "name": "2friends beach",
+  "address": "Avenue barday Majunga be Majunga, 401, Madagascar",
+  "phone": "+261346410000",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 724,
+  "name": "La cafet'",
+  "address": "Bd Poincarre, Mahajanga, Madagascar",
+  "phone": "+261332996933",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 725,
+  "name": "Tohanaina",
+  "address": "Ave Des Comores, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 726,
+  "name": "Oli Andy snack",
+  "address": "52, Mahajanga 401, Madagascar",
+  "phone": "+261339240036",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 727,
+  "name": "Baobab Tree Hotel \u0026 Spa",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 728,
+  "name": "Restaurant Mora Mora",
+  "address": "Rue Marius Barriouand, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 729,
+  "name": "Au bol cantonnais",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261346137985",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 730,
+  "name": "Lo següent",
+  "address": "Hotel Kismat, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 731,
+  "name": "Fandresena",
+  "address": "Boulevard Marcoz, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 732,
+  "name": "Saara Hotel",
+  "address": "EX-TRANOMBAROTRA ROSO, MAJUNGA BE, Mahajanga, Madagascar",
+  "phone": "+261342600000",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 733,
+  "name": "Zam Zam",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 734,
+  "name": "GASY TSARA PIZZA Mangarivotra",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 735,
+  "name": "** ROYAL CLUB **",
+  "address": "Amborovy à 200m de l'aéroport, Mahajanga, Madagascar",
+  "phone": "+261330262231",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 736,
+  "name": "COCO BEACH",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 737,
+  "name": "Pubcity17",
+  "address": "Unnamed Road,, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 738,
+  "name": "Restaurant Carlsson",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 739,
+  "name": "Hotel Villa Mena",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 740,
+  "name": "Le Tamarinier",
+  "address": "Rue flacourt Mahajanga, 401, Madagascar",
+  "phone": "+261320296926",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 741,
+  "name": "Karibu Lodge",
+  "address": "Mahahanga Tanana, Mahajanga, Madagascar",
+  "phone": "+261320202329",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 742,
+  "name": "La Cascade II",
+  "address": "Ave Du Port, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 743,
+  "name": "Hotel Restaurant Abu Nawas",
+  "address": "2 R. De Serbie, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 744,
+  "name": "Hotel LES ROCHES ROUGES",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261347989739",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 745,
+  "name": "Bourhani Breakfast \u0026 Cafe",
+  "address": "Unnamed Road, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 746,
+  "name": "Café de la gare",
+  "address": "Boulevard Marcoz, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 747,
+  "name": "Restaurant West Food Majunga",
+  "address": "Rue lules Ferry Mahajanga, 401, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 748,
+  "name": "MASSA BAOBAB",
+  "address": "R. Georges, Mahajanga, Madagascar",
+  "phone": "+261324009661",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 749,
+  "name": "Mon soleil Jouaw Langou",
+  "address": "Rue Docteur Bereni, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 750,
+  "name": "Expresso Majunga be",
+  "address": "Rue M. Rauffast, Mahajanga, Madagascar",
+  "phone": "+261343604700",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 751,
+  "name": "MAH'TSIRO RESTAURANT",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 752,
+  "name": "Restaurant Camelia",
+  "address": "49 Ave De France, Mahajanga 401, Madagascar",
+  "phone": "+261340701111",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 753,
+  "name": "Le Tsis'Blem",
+  "address": "Rue du Col. Barre, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 754,
+  "name": "Les Alizes",
+  "address": "Bd Poincarre, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 755,
+  "name": "La parisienne",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261328847937",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 756,
+  "name": "kaly gasy",
+  "address": "R. Gambetta, Mahajanga, Madagascar",
+  "phone": "+261327737659",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 757,
+  "name": "Epi-Gargotte Bayah",
+  "address": "Rue Berthelot, Mahajanga 401, Madagascar",
+  "phone": "+261326582267",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 758,
+  "name": "Jamoka",
+  "address": "Unnamed Road, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 759,
+  "name": "Miarisoa",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261320591596",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 760,
+  "name": "Restaurant le Caprice",
+  "address": "Mahajanga, Madagascar",
+  "phone": "+261206202001",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 761,
+  "name": "NIKA",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 762,
+  "name": "Aicha Center",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 763,
+  "name": "Score Majunga",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 764,
+  "name": "Marché de Mahabibo",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 765,
+  "name": "WELLO Majunga",
+  "address": "Ave Du Genfrai, Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 766,
+  "name": "Dame de Coeur",
+  "address": "Rue du Col. Barre, Mahajanga, Madagascar",
+  "phone": "+261206224874",
+  "country-code": "MG",
+  "country": "Madagascar"
+ },
+ {
+  "id": 767,
+  "name": "Baobab City",
+  "address": "Mahajanga, Madagascar",
+  "phone": "",
+  "country-code": "MG",
+  "country": "Madagascar"
+ }
+]

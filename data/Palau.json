@@ -1,0 +1,394 @@
+[
+ {
+  "id": 1,
+  "name": "Palau Royal Resort",
+  "address": "Main Street 1926, Koror, 96940, Palau",
+  "phone": "192696940",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 2,
+  "name": "DW Motel",
+  "address": "Omis Lot #018COL, Melekeok, Palau",
+  "phone": "+6806541111",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 3,
+  "name": "Coco Beach Resort",
+  "address": "Palau, Airai, 巴 貝 圖 阿 普 島",
+  "phone": "+6805876688",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 4,
+  "name": "NOT YET OPEN FOR BUSINESS; UNDER CONSTRUCTION",
+  "address": "Main St, Koror, Palau",
+  "phone": "+6804882641",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 5,
+  "name": "Island Garden Hotel",
+  "address": "Ngerbeched, Koror 96940, Palau",
+  "phone": "+6804881486",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 6,
+  "name": "Papago International Resort",
+  "address": " Main St, Koror, PW 96939, Palau",
+  "phone": "+6804883856",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 7,
+  "name": "Island Garden Hotel",
+  "address": "Malakal, Koror, 96940, Palau",
+  "phone": "+6804882000",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 8,
+  "name": "日暉國際渡假村",
+  "address": " Meyuns Road, Meyungs, 96940, Palau",
+  "phone": "",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 9,
+  "name": "Okemii Deli \u0026 Internet Cafe",
+  "address": " Unnamed Road, Airai, Palau",
+  "phone": "+6805872121",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 10,
+  "name": "Shawarma Corner",
+  "address": "Meyungs, Koror 96940, Palau",
+  "phone": "+6804882600",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 11,
+  "name": "Red Rooster Cafe",
+  "address": " Main St, Koror, Palau",
+  "phone": "+6804887505",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 12,
+  "name": "Coconut Terrace Restaurant, Palau Pacific Resort",
+  "address": "Main Street, Malakal, Koror 96940, Palau",
+  "phone": "+6804883476",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 13,
+  "name": "The Taj",
+  "address": "Ukaeb, Koror, Melekeok 96940, Palau",
+  "phone": "+6806541000",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 14,
+  "name": "Kim’s Restaurant",
+  "address": "Malakal Hamlet, Koror, P.O box 1595, Koror 96940, Palau",
+  "phone": "159596940",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 15,
+  "name": "Bem Ermii Burger \u0026 Fries",
+  "address": " Lebuu Street, Koror, Palau",
+  "phone": "",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 16,
+  "name": "Riptide Beach Bar \u0026 Grill",
+  "address": " Unnamed Road, Koror, Palau",
+  "phone": "",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 17,
+  "name": "Penthouse Hotel Restaurant",
+  "address": " Unnamed Road, Melekeok, Palau",
+  "phone": "",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 18,
+  "name": "Coffee Berry",
+  "address": " Ikelau, Koror, Palau",
+  "phone": "+6804885999",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 19,
+  "name": "Side Street Cafe",
+  "address": " Ngetkib Road, Airai, Palau",
+  "phone": "+6805874254",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 20,
+  "name": "Marina Café VITA",
+  "address": " Unnamed Road, Koror, Palau",
+  "phone": "+6804882266",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 21,
+  "name": "Hi Resort, Palau.",
+  "address": " Main St, Koror, Palau",
+  "phone": "+6804881010",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 22,
+  "name": "WCTC Shopping Center",
+  "address": "West Caroline Trading Center, Koror, Palau",
+  "phone": "",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 23,
+  "name": "R\u0026C Retail Store",
+  "address": "Koror Island, Koror, Palau",
+  "phone": "",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 24,
+  "name": "Kwik Mart",
+  "address": "Surangel Building, 4th Floor, Ernguul Road Ikelau Koror, 295 Main St, Koror, PW 96940, Palau",
+  "phone": "429596940",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 25,
+  "name": "M \u0026 R Store",
+  "address": " Top Side, Koror, Palau",
+  "phone": "",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 26,
+  "name": "Rur Gift Shop",
+  "address": "280, Main St, Koror, Palau",
+  "phone": "+6804882775",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 27,
+  "name": "Malakal",
+  "address": "Palau, Koror, Medalaii, Downtown (accross Post Office)",
+  "phone": "+6804888852",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 28,
+  "name": "Globus Palau",
+  "address": "Main Street, Medalaii, Koror 96940, Palau",
+  "phone": "+6804881633",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 29,
+  "name": "Carp Palau Dive Center",
+  "address": "PO 493 Palau 7th Wonder Dive \u0026 Tours,, Dngeronger hamlet,, at the back of WCTC shopping center, Koror 96940, Palau",
+  "phone": "493796940",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 30,
+  "name": "Splash Dive Center",
+  "address": "P.O. Box 847 Koror, Koror, 96940, Palau",
+  "phone": "84796940",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 31,
+  "name": "I Love Palau",
+  "address": "帛琉969401242, Koror, Palau",
+  "phone": "969401242",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 32,
+  "name": "Palau Pacific Dive Center",
+  "address": " Main St, Malakal, Koror, Palau",
+  "phone": "+6804886844",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 33,
+  "name": "Palau 83 dive center",
+  "address": " Ngetkib, Airai 96940, Palau",
+  "phone": "+6805877030",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 34,
+  "name": "Overdrive",
+  "address": " Lebuu St, Koror, Palau",
+  "phone": "+6804886680",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 35,
+  "name": "Palau 7th Wonder Dive \u0026 Tours",
+  "address": "Palau, Koror, Main St, Neco Plaza, Main St, Koror Neco Plaza",
+  "phone": "+6804886591",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 36,
+  "name": "Palau Aquarium",
+  "address": " Unnamed Rd,, Airai, Palau",
+  "phone": "",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 37,
+  "name": "Etpison Museum",
+  "address": " Unnamed Road, Airai, Palau",
+  "phone": "",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 38,
+  "name": "Ngerukewid",
+  "address": "Marina Hotel, 2nd Floor Landmark, Koror, Palau",
+  "phone": "+6804880606",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 39,
+  "name": "Palau Visitors Authority jd",
+  "address": "129 Main St, Koror, Palau",
+  "phone": "+6804881755",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 40,
+  "name": "Palau Visitors Authority jd",
+  "address": "07020 Palau, Province of Sassari, Italy",
+  "phone": "",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 41,
+  "name": "PALAU ESCAPE",
+  "address": "Palau, Koror, Medalaii, Downtown (accross Post Office)",
+  "phone": "+6804888852",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 42,
+  "name": "Fish 'n Fins Palau",
+  "address": "Surangel Building, 4th Floor, Ernguul Road Ikelau Koror, 295 Main St, Koror, PW 96940, Palau",
+  "phone": "429596940",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 43,
+  "name": "Rur Gift Shop",
+  "address": "Loc. Porto Pollo snc, 07020 Palau SS, Italy",
+  "phone": "",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 44,
+  "name": "Palau Water",
+  "address": "Main St, Koror, Palau",
+  "phone": "+6804885387",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 45,
+  "name": "Koror",
+  "address": "PO 493 Palau 7th Wonder Dive \u0026 Tours,, Dngeronger hamlet,, at the back of WCTC shopping center, Koror 96940, Palau",
+  "phone": "493796940",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 46,
+  "name": "Neco Marine Palau",
+  "address": " Koror, 96940, Palau",
+  "phone": "+6804882793",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 47,
+  "name": "Airai",
+  "address": " Koror, 96940, Palau",
+  "phone": "+6804882793",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 48,
+  "name": "Aimeliik",
+  "address": "7076 Main Street, Koror, 96940, Palau",
+  "phone": "707696940",
+  "country-code": "PW",
+  "country": "Palau"
+ },
+ {
+  "id": 49,
+  "name": "Prisoners Gift Shop",
+  "address": " Malakal Island, Koror, 96940, Palau",
+  "phone": "+6804881573",
+  "country-code": "PW",
+  "country": "Palau"
+ }
+]

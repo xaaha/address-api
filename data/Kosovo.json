@@ -1,0 +1,1874 @@
+[
+ {
+  "id": 1,
+  "name": "Hotel Sara",
+  "address": "rr. Shkupi, Veternik, Prishtina 10000",
+  "phone": "+38138600222",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 2,
+  "name": "Swiss Diamond Hotel Prishtina",
+  "address": "Kosta Novakoviq, 14A, Prishtin 10000",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 3,
+  "name": "Emerald Hotel",
+  "address": "Str. Ahmet Krasniqi nn, Dragodan, Prishtina 10000",
+  "phone": "+38344916559",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 4,
+  "name": "Hotel Garden",
+  "address": "XK, 5 Fehmi Agani, Prishtina 10000",
+  "phone": "+38344603604",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 5,
+  "name": "Hotel lacorte",
+  "address": "Liqeni i Batllaves, Orllan, Besianë 11000",
+  "phone": "+38348102102",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 6,
+  "name": "HOTEL 4 LLULLAT",
+  "address": "Parku i qytetit, Nijazi Elshani 24, Prishtina 10000",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 7,
+  "name": "Stay Ok Prishtina Boutique Hotel",
+  "address": "str, no. 56 Ukë Sadiku, Prishtina 10000",
+  "phone": "+38344311022",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 8,
+  "name": "HOTEL BAVARIA",
+  "address": "Nr.78 St.Demir Vitija or St, Edmond Hoxha, Prishtina 10000",
+  "phone": "+38348140077",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 9,
+  "name": "Hotel Konstantin",
+  "address": "202 UCK, Prishtinë, Prishtina 10000",
+  "phone": "20210000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 10,
+  "name": "Hotel United Prishtina",
+  "address": "XK, Rrustem Statovci, Prishtina 10000",
+  "phone": "+38345912668",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 11,
+  "name": "Bus Station Hostel",
+  "address": "St.Anton Çetta,Aktash A-3, 22, Prishtina 10000",
+  "phone": "32210000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 12,
+  "name": "Guest House Prishtine",
+  "address": "24 maj, nr 137 Arben Xheladini, Prishtina 10000",
+  "phone": "2413710000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 13,
+  "name": "Moon Hostel",
+  "address": "Kosta Novakoviq, 14A, Prishtin 10000",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 14,
+  "name": "Hotel Villa ERA",
+  "address": "Str XK, 10000 Pjetër Bogdani, Prishtina 10000",
+  "phone": "1000010000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 15,
+  "name": "MoonLight Hostel",
+  "address": "Rrugë, 341 Nënë Tereza, Fushë Kosovë 12000",
+  "phone": "34112000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 16,
+  "name": "Apartment Royal",
+  "address": "Hotel Río, M2, Prishtina",
+  "phone": "+38344215182",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 17,
+  "name": "Alias Hostel",
+  "address": "Mujo Ulqinaku, No 59, Prishtina 10000",
+  "phone": "+38349166777",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 18,
+  "name": "Flower House",
+  "address": "Rr.Tirana, Nr.189 Rr.Bekim Fehmiu, Prishtina 10000",
+  "phone": "18910000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 19,
+  "name": "Ura e Gurit",
+  "address": "Str. Ahmet Krasniqi nn, Dragodan, Prishtina 10000",
+  "phone": "+38344916559",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 20,
+  "name": "Grand Hotel Prishtina",
+  "address": "Rr. Prishtinë  Gjilan, nr. 34 Veternik, Prishtina 10000",
+  "phone": "+38649777766",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 21,
+  "name": "Andoena",
+  "address": "Ahmet Krasniqi , No.110, Prishtina 10000",
+  "phone": "11010000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 22,
+  "name": "Hotel Town",
+  "address": "Str. Ahmet Krasniqi nn, Dragodan, Prishtina 10000",
+  "phone": "+38344916559",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 23,
+  "name": "Hotel \u0026 Restaurant BRILANT",
+  "address": "Boulevard Nena Tereze, 14/6, Prishtina 10000",
+  "phone": "14610000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 24,
+  "name": "Dardania",
+  "address": "24 Maji Nr.115 -, Arben Xheladini nr. 35, Prishtina 10000",
+  "phone": "241153510000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 25,
+  "name": "Hotel Donarti",
+  "address": "Str XK, 10000 Ferid Curri, Prishtina 10000",
+  "phone": "1000010000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 26,
+  "name": "Casa Rita Restaurant",
+  "address": "XK XK, 4/A Fazli Grajqevci, Prishtina 10000",
+  "phone": "+38346748818",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 27,
+  "name": "Soma Book Station",
+  "address": "XK, 5 Fazli Grajqevci, Prishtina 10000",
+  "phone": "+38344160665",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 28,
+  "name": "Home Restaurant \u0026 Lounge Bar",
+  "address": "Rruga, 10 Xhemajl Mustafa, Prishtina 10000",
+  "phone": "+38345777441",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 29,
+  "name": "Baba Ganoush Meze",
+  "address": "XK, 11 Eqrem Çabej, Prishtina 10000",
+  "phone": "+38348227788",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 30,
+  "name": "Thai Restaurant Pristina",
+  "address": "XK, Djure Dajkovića, Prishtina 10000",
+  "phone": "+38348161616",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 31,
+  "name": "deRada Brasserie",
+  "address": "Rruga Ali Pashë Tepelena, Rruga Karl Gega, Prishtina",
+  "phone": "+37744101090",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 32,
+  "name": "Collection",
+  "address": "Arberi, Bashkim Fehmiu Prishtina XK, 10000",
+  "phone": "+38346383383",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 33,
+  "name": "Te Muja",
+  "address": "XK, 2 Fehmi Agani, Prishtina 10000",
+  "phone": "+38344141292",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 34,
+  "name": "A\u0026A Restaurant",
+  "address": "Hyrja 1, Arbëria 3, Veranda C2.7, Prishtina 10000",
+  "phone": "132710000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 35,
+  "name": "Central Room",
+  "address": "Fazli Grajqevci, no: 104, Prishtine 10000",
+  "phone": "10410000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 36,
+  "name": "Infinit Food \u0026 Drinks",
+  "address": "Rruga Muharrem Fejza 179, 10000 Prishtinë, Kosovë Prishtine XK, 10000",
+  "phone": "1791000010000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 37,
+  "name": "Serai",
+  "address": "Rr.Universiteti 36/1, Prishtina XK, 10000",
+  "phone": "36110000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 38,
+  "name": "Sunny Hill Restaurant",
+  "address": "Eqrem Çabej, Nr:9, Prishtina 10000",
+  "phone": "+37744833866",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 39,
+  "name": "Monaco Lounge",
+  "address": "XK, Rexhep Luci, Prishtina 10000",
+  "phone": "+38349780010",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 40,
+  "name": "Jana Napoletana Pizza",
+  "address": "XK, Faton Shabani, Prishtina 10000",
+  "phone": "+38348533555",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 41,
+  "name": "Turkish Grill",
+  "address": "N#, 3 Bulevardi Nënë Tereza, Prishtina",
+  "phone": "+38949131572",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 42,
+  "name": "Cavallero",
+  "address": "Sunny Hill/Bregu i Diellit, Hyzri Talla, Prishtina 10000",
+  "phone": "+38345599767",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 43,
+  "name": "Adel's Restaurant",
+  "address": "XK, 52 Fehmi Agani, Prishtina 10000",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 44,
+  "name": "Ramazzotti",
+  "address": "42, Rruga, 6 Fehmi Agani, Prishtina",
+  "phone": "+38349687716",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 45,
+  "name": "CHE BAR Bistro",
+  "address": "42, Rruga 6 XK, Fehmi Agani, Prishtina 10000",
+  "phone": "42610000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 46,
+  "name": "Amaro",
+  "address": "Thai Restaurant UKC Streets, QAFA Building, No 59 1st Floor, Prishtina 10000",
+  "phone": "59110000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 47,
+  "name": "Restaurant Lord",
+  "address": "2 Korriku no.12, Mother Theresa Boulevard Prishtina Kosovo, 10000",
+  "phone": "21210000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 48,
+  "name": "Në Zbritje",
+  "address": "Zona e Re Industriale, Veternik 10000 Prishtine Prishtina XK, 10000",
+  "phone": "1000010000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 49,
+  "name": "TE AFRIMI",
+  "address": "XK, Hajredin Bajrami, Lipjan 14000",
+  "phone": "+38344435984",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 50,
+  "name": "Prishtina Mall",
+  "address": "Rr. Zona e Re Industriale, Albi Mall shoping center, Prishtine",
+  "phone": "+38338724288",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 51,
+  "name": "Herta Kids",
+  "address": "XK, Adem Jashari, Prishtina 10010",
+  "phone": "578+56610010",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 52,
+  "name": "Shopping Family Center",
+  "address": "Elez Berisha, nr. 56, përballë Kolegjit AAB në Prishtinë Prishtina, 10000",
+  "phone": "+38649168800",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 53,
+  "name": "MiniMarket \"Llapi\"",
+  "address": "Musa Tolaj, Prishtinë, Pristina 10000 Prishtine XK, 10000",
+  "phone": "1000010000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 54,
+  "name": "Emona Center",
+  "address": "Zona Industriale Prishtinë-Fushë Kosovë 10000 Prishtinë, Republic of Kosova, Prishtina",
+  "phone": "+38139431991",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 55,
+  "name": "Ethnographic Museum",
+  "address": "XK, 111 Luan Haradinaj, Prishtina 10000",
+  "phone": "11110000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 56,
+  "name": "Jashar Pasha's Mosque",
+  "address": "Nr.78 St.Demir Vitija or St, Edmond Hoxha, Prishtina 10000",
+  "phone": "+38348140077",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 57,
+  "name": "Pristina",
+  "address": "Alekse Santica, Shushicë, Prishtina 10000",
+  "phone": "+38344228909",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 58,
+  "name": "White Drin Waterfall",
+  "address": "Egnatia, 6 19, Prishtina 10000",
+  "phone": "61910000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 59,
+  "name": "Christ the Saviour Orthodox Cathedral",
+  "address": "St.Anton Çetta,Aktash A-3, 22, Prishtina 10000",
+  "phone": "32210000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 60,
+  "name": "Royal MALL",
+  "address": "Blvd. Partizanski Odredi 17, Skopje 1000, North Macedonia",
+  "phone": "+38923227450",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 61,
+  "name": "Museum of Mitrovica",
+  "address": "31, Ribariće, Serbia",
+  "phone": "+38120453400",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 62,
+  "name": "Explore Kosovo",
+  "address": "Ganimete Tërbeshi, 26A, Aktash, Prishtina 10000",
+  "phone": "+38349962656",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 63,
+  "name": "Monastery Visoki Decani",
+  "address": "P.O. Box 482, Samoilova, Skopje 1000, North Macedonia",
+  "phone": "+38923117734",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 64,
+  "name": "Memorial House of Mother Teresa",
+  "address": "XK XK, 4/A Fazli Grajqevci, Prishtina 10000",
+  "phone": "+38346748818",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 65,
+  "name": "Stone Bridge",
+  "address": "MK MK, Boulevard Ilinden 1000, Skopje 1000, North Macedonia",
+  "phone": "10001000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 66,
+  "name": "Ordo Draconis",
+  "address": "Iljo Vojvoda Br. 2, Skopje 1000, North Macedonia",
+  "phone": "+38923122697",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 67,
+  "name": "Catholic Cathedral of Our Lady of Perpetual Succour",
+  "address": "Stevana Nemanje 20, Novi Pazar, Serbia",
+  "phone": "+38120331681",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 68,
+  "name": "Albi Mall",
+  "address": "11th of October 33, Kumanovo 1300, North Macedonia",
+  "phone": "11331300",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 69,
+  "name": "Zebrnjak",
+  "address": "Samoilova, Skopje 1000, North Macedonia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 70,
+  "name": "St. Panteleimon",
+  "address": "Кеј Димитар Влахов 1000, Skopje 1000, North Macedonia",
+  "phone": "10001000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 71,
+  "name": "Museum of the City of Skopje",
+  "address": "Atanas Babata, Skopje 1000, North Macedonia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 72,
+  "name": "Balkan Destination",
+  "address": "Kjurchiska 1000, Skopje 1000, North Macedonia",
+  "phone": "10001000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 73,
+  "name": "Millennium Cross",
+  "address": "Str. Qendresa, No 107, Prishtina 10000",
+  "phone": "10710000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 74,
+  "name": "Valbona Valley National Park",
+  "address": "Daut Pasin Hamam, Boulevard Goce Delchev, Skopje 1000, North Macedonia",
+  "phone": "+38923133102",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 75,
+  "name": "Dit' e Nat'",
+  "address": "VStreet 1;Village Matka, Village Matka 1000, North Macedonia",
+  "phone": "+38970271900",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 76,
+  "name": "Archaeological Museum of the Republic of Macedonia",
+  "address": "Ss Cyril \u0026 Methodius 1000, Skopje 1000, North Macedonia",
+  "phone": "10001000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 77,
+  "name": "Beer Garden Pub",
+  "address": "11-ти Март 11 March, Skopje 1000, North Macedonia",
+  "phone": "11111000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 78,
+  "name": "Valbona valley",
+  "address": "Ilaz Agushi 4 Ilaz Agushi, 4 Iliaz Agushi, Prishtina",
+  "phone": "+38349873378",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 79,
+  "name": "Feudal Tower",
+  "address": "Fort Kale, MK MK, Fort Kale, Skopje 1000, North Macedonia",
+  "phone": "+38923297204",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 80,
+  "name": "Stone Castle Vineyards and Winery",
+  "address": "Braka Milladinovi, Tetovo 1220, North Macedonia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 81,
+  "name": "Bill Klinton Bulvarı",
+  "address": "Zona e Re Industriale, Veternik 10000 Prishtine Prishtina XK, 10000",
+  "phone": "1000010000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 82,
+  "name": "Liburnia",
+  "address": "MK, Makedonija 1000, Skopje 1000, North Macedonia",
+  "phone": "10001000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 83,
+  "name": "El Greco Restaurant",
+  "address": "MK, Skopje 1000, North Macedonia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 84,
+  "name": "Hotel Centrum Prizren",
+  "address": "Str Tirana, Tirana, Prizren 20000",
+  "phone": "+38643504504",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 85,
+  "name": "Premium Park Hotel",
+  "address": "XK, Marin Barleti, Prizren 20000",
+  "phone": "+38344201106",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 86,
+  "name": "Hotel Prizreni",
+  "address": "XK, Ismail Kryeziu, Prizren 20000",
+  "phone": "+38348820810",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 87,
+  "name": "Hotel Cleon",
+  "address": "Prizren, R115, Reçan 20000",
+  "phone": "11520000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 88,
+  "name": "Hostel Bushati",
+  "address": "Autostrada Dr. Ibrahim Rugova,Veri Prizren 20000, Prizren 20000",
+  "phone": "2000020000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 89,
+  "name": "Meka Hotel",
+  "address": "355, Nuri Sherifi, Prizren 20000",
+  "phone": "35520000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 90,
+  "name": "Monarch Boutique Hotel",
+  "address": "Rruga Prizren - Gjakove, R107, Prizren 20000",
+  "phone": "6+4610720000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 91,
+  "name": "Hotel Denis",
+  "address": "Edit Durham nr 113, Edit Durham, Prizren 20000",
+  "phone": "11320000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 92,
+  "name": "Hotel Butro",
+  "address": "Sheshi i Dëshmorëve, PN R114, Dragash 22000",
+  "phone": "11422000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 93,
+  "name": "Otro Café \u0026 Restaurant",
+  "address": "Innovation and Training Park (ITP, Ukë Bytyqi, Prizren 20000",
+  "phone": "+38345216105",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 94,
+  "name": "Grill House DEA",
+  "address": "XK, Enver Haradinaj, Prizren 20010",
+  "phone": "+38344670389",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 95,
+  "name": "Konak",
+  "address": "Zahir Pajaziti, Hasan Prishtina, Prizren 20000",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 96,
+  "name": "Cream Cafe - Prizren",
+  "address": "Skender Latifi, XK, Prizren 20000",
+  "phone": "+38349664744",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 97,
+  "name": "Fry\u0026Fly - Potato Hotpoint.",
+  "address": "Te Shtrumpfat, Zara, Prizren",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 98,
+  "name": "Quick Bar Shisha",
+  "address": "Bon Pizza \u0026 More, XK, Prizren 20000",
+  "phone": "+38349830003",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 99,
+  "name": "Bus station",
+  "address": "Abi Carshia, Rr. Tirana, Prizren 20000",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 100,
+  "name": "GADA Restaurant",
+  "address": "Rr. Tirana P.n Prizren Republik Of, Tirana, Prizren",
+  "phone": "+38343970900",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 101,
+  "name": "Aurora",
+  "address": "Rruga \"Tirana\", Premium Park, Prizren 20000",
+  "phone": "+38380021212",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 102,
+  "name": "Cafe TE YMERI",
+  "address": "Rruga Pushkëtarëve, nr. 5 Prizren XK, 20000",
+  "phone": "+38345413291",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 103,
+  "name": "Yes'Please food\u0026drink",
+  "address": "R115 , 20000 Prizren-Reqan Km1, Prizren 20000",
+  "phone": "11520000120000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 104,
+  "name": "Hayir Plastik",
+  "address": "Zona e Re Industriale, Veternik 10000 Prishtine Prishtina XK, 10000",
+  "phone": "1000010000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 105,
+  "name": "Shopping Center \"Nertili\"",
+  "address": "Ilindenska 86/5, Tetovo 1220 Tetovo MK, 2000, North Macedonia",
+  "phone": "86512202000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 106,
+  "name": "Kastrati Center",
+  "address": "Rruga e UÇK-së, Gjakovë 50000, 50000 Gjakova, Gjakova 50000",
+  "phone": "500005000050000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 107,
+  "name": "Interex Prizren",
+  "address": "Lagja e Terzinjëve, Rruga Nr. 122, Lekë Matranga, Prizren 20000",
+  "phone": "12220000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 108,
+  "name": "KFC Gjakova",
+  "address": "XK, Abi Carshia, Prizren 20000",
+  "phone": "+38349712733",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 109,
+  "name": "Vrrini Center",
+  "address": "M25, Prizren, Prizren 20000",
+  "phone": "+37744116316",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 110,
+  "name": "Amper Bau-Center",
+  "address": "Galleria Shopping, Rruga Tirana, Prizren",
+  "phone": "+38338748443",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 111,
+  "name": "PONTE Coffee \u0026 More",
+  "address": "A\u0026N Center, Korishe, Prizren 20000",
+  "phone": "+38348100989",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 112,
+  "name": "MoniBau",
+  "address": "Korishë, M25, Korishë 25050",
+  "phone": "+37745502011",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 113,
+  "name": "Gërmia Park",
+  "address": "Ilaz Agushi 4 Ilaz Agushi, 4 Iliaz Agushi, Prishtina",
+  "phone": "+38349873378",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 114,
+  "name": "Gadima Cave",
+  "address": "11th of October 33, Kumanovo 1300, North Macedonia",
+  "phone": "11331300",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 115,
+  "name": "Gërmia Park",
+  "address": "Valbona, Pass, Albania",
+  "phone": "+35542225063",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 116,
+  "name": "Sheshi \"Skënderbeu\", Prishtinë",
+  "address": "Kamnik bb Skopje MK, 1000, North Macedonia",
+  "phone": "+38922521789",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 117,
+  "name": "Ethnographic Museum",
+  "address": "31, Ribariće, Serbia",
+  "phone": "+38120453400",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 118,
+  "name": "Art Theatre",
+  "address": "Gerberova 2, Bečej, Serbia",
+  "phone": "+381216912918",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 119,
+  "name": "Kurila Camisi",
+  "address": "☦️, Berane, Montenegro",
+  "phone": "+38268745270",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 120,
+  "name": "Xhamia e Larme",
+  "address": "Vusanje-kufiri Shqiptar, Vusanje, Montenegro",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 121,
+  "name": "Tregu i Gjelber",
+  "address": "MK MK, Boulevard Ilinden 1000, Skopje 1000, North Macedonia",
+  "phone": "10001000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 122,
+  "name": "Restaurant Beska",
+  "address": "Kjurchiska 1000, Skopje 1000, North Macedonia",
+  "phone": "10001000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 123,
+  "name": "Memorial House of Mother Teresa",
+  "address": "Samoilova, Skopje 1000, North Macedonia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 124,
+  "name": "Banjska Monastery",
+  "address": "Ss Cyril \u0026 Methodius 1000, Skopje 1000, North Macedonia",
+  "phone": "10001000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 125,
+  "name": "Fellas Coffee \u0026 Kitchen",
+  "address": "Rruga Nikgjonaj, Qender Theth, Albania",
+  "phone": "+355696015771",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 126,
+  "name": "Museum of the City of Skopje",
+  "address": "Fort Kale, MK MK, Fort Kale, Skopje 1000, North Macedonia",
+  "phone": "+38923297204",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 127,
+  "name": "Parku i qytetit",
+  "address": "MK, Makedonija 1000, Skopje 1000, North Macedonia",
+  "phone": "10001000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 128,
+  "name": "Bishtazhin",
+  "address": "Braka Milladinovi, Tetovo 1220, North Macedonia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 129,
+  "name": "Skopje Zoo",
+  "address": "XK, William Volker, Prizren 20000",
+  "phone": "+38349400507",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 130,
+  "name": "Resort Mavrovo",
+  "address": "MK, Skopje 1000, North Macedonia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 131,
+  "name": "Palace Hotel \u0026 SPA",
+  "address": "Vllezrit Ademi, fshati Rashan XK, Mitrovicë 40000",
+  "phone": "+38348147459",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 132,
+  "name": "Restoran \"GREY\"",
+  "address": "XK, Sheshi i, Mitrovicë 40000",
+  "phone": "+38344157039",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 133,
+  "name": "Ujvara",
+  "address": "Rr. Ibri, Liqeni akumulues, Mitrovicë",
+  "phone": "+38349651025",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 134,
+  "name": "St.Tropez",
+  "address": "XK, Rr. Kumanova, Mitrovicë 40000",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 135,
+  "name": "Picerija Mrvica",
+  "address": "134, Kralja Petra Prvog, Mitrovicë e Sremit 38220",
+  "phone": "13438220",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 136,
+  "name": "Trepça",
+  "address": "XK, Rr Mbretresha Teutë, Mitrovicë 40000",
+  "phone": "+38349644222",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 137,
+  "name": "Rinia te Naimi",
+  "address": "Ive Lole Ribara, Mitrovica 40000 Rajoni i Mitrovicës, 38220",
+  "phone": "4000038220",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 138,
+  "name": "BB",
+  "address": "Mehë Uka, Rruga Agim Hajrizi, Mitrovicë 40000, Mitrovicë 40000",
+  "phone": "4000040000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 139,
+  "name": "PELASGIANS",
+  "address": "Avni, Nr. 21 Rexhep Mitrovica, Mitrovicë 40000",
+  "phone": "+38344192571",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 140,
+  "name": "Emona City",
+  "address": "Luxmall, Bislim Bajgora, Mitrovicë 40000",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 141,
+  "name": "STOP SHOP",
+  "address": "Shemsi Ahmeti, Mitrovicë, 40000",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 142,
+  "name": "ETC - Elkos Trading Center, Vushtrri",
+  "address": "Mall of Mitrovica, Sheshi Isa Boletini, Mitrovicë 40000",
+  "phone": "+38349604635",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 143,
+  "name": "Extra Time Game Center",
+  "address": "ETC\" shopping center, XK, Mitrovicë 40000",
+  "phone": "+38349939011",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 144,
+  "name": "Walkmaxx",
+  "address": "XK, Sheshi Skënderbej, Mitrovicë 40000",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 145,
+  "name": "Mirja center",
+  "address": "Bulevar Konstantina Velikog 74, Sremska Mitrovica 22000, Serbia",
+  "phone": "+381692007429",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 146,
+  "name": "Gadima Cave",
+  "address": "Daut Pasin Hamam, Boulevard Goce Delchev, Skopje 1000, North Macedonia",
+  "phone": "+38923133102",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 147,
+  "name": "Sirmium Imperial Palace",
+  "address": "Nikole Pašića, Niš 700140, Serbia",
+  "phone": "+38118511531",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 148,
+  "name": "Monastery Gračanica",
+  "address": "Jugovića, Novi Pazar, Serbia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 149,
+  "name": "National Park Prokletije",
+  "address": "Rruga Nikgjonaj, Qender Theth, Albania",
+  "phone": "+355696015771",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 150,
+  "name": "Teatri Kombëtar",
+  "address": "Generala Milojka Lešjanina 8, Niš, Serbia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 151,
+  "name": "Monastery Visoki Decani",
+  "address": "Unnamed Road, Vrnjačka Banja, Serbia",
+  "phone": "+38136611106",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 152,
+  "name": "Prizren Fortress",
+  "address": "Slobodište, Kruševac, Serbia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 153,
+  "name": "Hadum Mosque",
+  "address": "☦️, Berane, Montenegro",
+  "phone": "+38268745270",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 154,
+  "name": "Xhamia e Madhe",
+  "address": "Bez ulice, Đake 18430, Serbia",
+  "phone": "+38127381344",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 155,
+  "name": "Xhamia e Madhe",
+  "address": "313, 22328, Serbia",
+  "phone": "31322328",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 156,
+  "name": "Sinan Pasha Mosque",
+  "address": "Braka Milladinovi, Tetovo 1220, North Macedonia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 157,
+  "name": "Studenica Monastery",
+  "address": "446, Brzeće, Serbia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 158,
+  "name": "Đurđevi stupovi",
+  "address": "Fort Kale, MK MK, Fort Kale, Skopje 1000, North Macedonia",
+  "phone": "+38923297204",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 159,
+  "name": "Vivianit Village",
+  "address": "village Kokino, 1303, North Macedonia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 160,
+  "name": "Museum Ras",
+  "address": "Vusanje-kufiri Shqiptar, Vusanje, Montenegro",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 161,
+  "name": "Maglič Castle",
+  "address": "Bulevar 12. februara, Niš, Serbia",
+  "phone": "+38118588889",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 162,
+  "name": "Niš Fortress",
+  "address": "Shqipëri, AL, Mes 4012, Albania",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 163,
+  "name": "Belgrade Fortress",
+  "address": "Sat, Tvrđava BB Petrovaradinska tvrđava, Petrovaradin 21131, Serbia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 164,
+  "name": "Crna Reka Monastery",
+  "address": "Kopitareva, Niš 700184, Serbia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 165,
+  "name": "Zip Line Zlatibor Ljubiš",
+  "address": "Bulevar Svetog cara Konstantina Rd, Niš, Serbia",
+  "phone": "+38118550433",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 166,
+  "name": "Stopić Cave",
+  "address": "31, Ribariće, Serbia",
+  "phone": "+38120453400",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 167,
+  "name": "Stevan Sremac and Kalča Monument",
+  "address": "230, Zlatibor, Serbia",
+  "phone": "+38131841646",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 168,
+  "name": "Ordo Draconis",
+  "address": "Pariske Komune 11, Niš, Serbia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 169,
+  "name": "Special Nature Reserve ''Zasavica''",
+  "address": "Ljubiš bb Ljubiš RS, 31209, Serbia",
+  "phone": "+381616772596",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 170,
+  "name": "Stone Bridge",
+  "address": "Нишка, Bobiste, Serbia",
+  "phone": "+381628924854",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 171,
+  "name": "Nazi Concentration Camp \"Crveni Krst\" (Red Cross)",
+  "address": "Stevana Nemanje 20, Novi Pazar, Serbia",
+  "phone": "+38120331681",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 172,
+  "name": "Cerjanska Cave",
+  "address": "Đuke Dinić, Niš, Serbia",
+  "phone": "+381631735871",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 173,
+  "name": "Mustafa Paša",
+  "address": "Ђурђеви ступови, Novi Pazar, Serbia",
+  "phone": "+38120353502",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 174,
+  "name": "The National Gallery of Kosovo",
+  "address": "210, Kopaonik, Serbia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 175,
+  "name": "MISSINI Kitchen \u0026 Sweets",
+  "address": "Unnamed Road, Grčak Milentija, Brus 37227, Serbia",
+  "phone": "+381643716333",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 176,
+  "name": "Đurđevi stupovi",
+  "address": "Unnamed Road, Brezova 36343, Serbia",
+  "phone": "+381365436050",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 177,
+  "name": "King Milan Square",
+  "address": "Pivarska 2, Sremska Mitrovica 320510, Serbia",
+  "phone": "+38122618817",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 178,
+  "name": "Hotel Çarshia e Jupave",
+  "address": "Ganimete Terbeshi, 38, Gjakovë 50000",
+  "phone": "+38344464576",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 179,
+  "name": "Jakova",
+  "address": "Ismail Qemajli, 9 Str, Gjakovë 50000",
+  "phone": "+38344129159",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 180,
+  "name": "Hotel and Restaurant \"Dukagjini\"",
+  "address": "42.472686,20.432154, Gjakovë 50000",
+  "phone": "424726862043215450000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 181,
+  "name": "Grand Antika 2",
+  "address": "Rruga, Mazllom Mejzini St, Gjakovë",
+  "phone": "+38649404730",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 182,
+  "name": "Frida Restaurant",
+  "address": "Tirana, 7, Gjakovë 50000",
+  "phone": "+38345198338",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 183,
+  "name": "Grill Saranda 1965",
+  "address": "Nëna Terezë, Gjakovë, Gjakovë, Gjakove 50000",
+  "phone": "+38344935792",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 184,
+  "name": "Qebaptore Driloni",
+  "address": "Domenik Pergega 19, Brekoc, Gjakove 50000",
+  "phone": "+37744186280",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 185,
+  "name": "Milano (Food \u0026 Caffe)",
+  "address": "Ismail Qemajli, 9 Str, Gjakovë 50000",
+  "phone": "+38344129159",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 186,
+  "name": "Pizza Albi",
+  "address": "XK, Pashko Vasa, Gjakovë 50000",
+  "phone": "+38344385289",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 187,
+  "name": "Banana Split",
+  "address": "XK, Rr Nënë Tereza, Gjakovë 50000",
+  "phone": "+38349777199",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 188,
+  "name": "El Punto - Gjakova",
+  "address": "Kulla e Xheladin Begut, number, 69 Abedin Terbeshi, Gjakovë 50000",
+  "phone": "+38344122460",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 189,
+  "name": "Allorja",
+  "address": "XK, Bardhyl Qaushi, Gjakovë 50000",
+  "phone": "+38344122982",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 190,
+  "name": "Jaffa cake and food",
+  "address": "Rr. Martirët e Kombit, Brekoc, Gjakovë XK, Gjakovë 50000",
+  "phone": "+38343818142",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 191,
+  "name": "Pishat",
+  "address": "XK XK, Skënderbeu, Gjakovë 50000",
+  "phone": "+38344236077",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 192,
+  "name": "Lilo's Burger",
+  "address": "Dedë Gjon Luli Pran kurrizit , Afer Qendres, Gjakovë 50000",
+  "phone": "+37744800435",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 193,
+  "name": "Shitorja Nr.1 \"KONSONI\"",
+  "address": "Rr. Permet Vula XK, 10 000, Gjakovë 50000",
+  "phone": "1000050000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 194,
+  "name": "Pizza CIMI \u0026 More",
+  "address": "Qendra e qytetit,praneKurrizit,Dede Gjon luli, Gjakovë 50000",
+  "phone": "+38649807637",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 195,
+  "name": "Herta",
+  "address": "Rruga e UÇK-së, Gjakovë 50000, 50000 Gjakova, Gjakova 50000",
+  "phone": "500005000050000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 196,
+  "name": "ARRBI Center",
+  "address": "Rruga Beselidhja e Malesise, Bajram Curri, Albania",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 197,
+  "name": "Xhamia e Emin Pashës",
+  "address": "XK, 111 Luan Haradinaj, Prishtina 10000",
+  "phone": "11110000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 198,
+  "name": "Hotel Lybeten",
+  "address": "Brezovice, 4, Vërbeshticë",
+  "phone": "+38348488901",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 199,
+  "name": "Mountain House Brezovicë",
+  "address": "M2, Talinoc i Jerlive, Ferizaj 70000",
+  "phone": "+37744428394",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 200,
+  "name": "Andoena",
+  "address": "XK, Ismail Qemaili, Ferizaj 70000",
+  "phone": "+38345539839",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 201,
+  "name": "Motel Eleon",
+  "address": "Jezerc XK, Rrafshi i pllugut, Ferizaj 70000",
+  "phone": "+38344215479",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 202,
+  "name": "Villa Alpina Brezovicë",
+  "address": "Cen Dugolli, 42, Ferizaj 70000",
+  "phone": "+38344126276",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 203,
+  "name": "Restaurant Apollonia 1991 Ferizaj",
+  "address": "Gezim Sahiti 1, Astrit Bytyqi, Ferizaj 70000",
+  "phone": "+38344949495",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 204,
+  "name": "Grand House Restaurnt",
+  "address": "Rruga XK, R206, Ferizaj 70000",
+  "phone": "20670000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 205,
+  "name": "Restaurant Toscana",
+  "address": "XK, Rruga Dëshmorët e Kombit, Ferizaj 70000",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 206,
+  "name": "Pizzeria SYRI",
+  "address": "perball sheshit Kemajl Hetemi, te kryqzimi i rruges per ne Ambolanten rajonale, Remzi Hoxha, Ferizaj 70000",
+  "phone": "+37744693755",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 207,
+  "name": "Mono Bistro",
+  "address": "VPA University, Ahmet Kaçiku, Ferizaj",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 208,
+  "name": "Caffe \u0026 Pizzeria Peppino",
+  "address": "Rruga, 70000 Ahmet Kaçiku, Ferizaj",
+  "phone": "+38338711711",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 209,
+  "name": "Restaurant GATA",
+  "address": "Rr ,Rexhep Beslimi, Rr e Gjilanit, Ferizaj 70000",
+  "phone": "+38349375355",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 210,
+  "name": "Manuka Restaurant",
+  "address": "Rr 70000, R206, Ferizaj",
+  "phone": "70000206",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 211,
+  "name": "Pizza Center",
+  "address": "122, Gursel \u0026 Bajram Sylejmani, Ferizaj 70000",
+  "phone": "12270000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 212,
+  "name": "The British Pub",
+  "address": "XK, Driton Islami, Ferizaj 70000",
+  "phone": "+38345640907",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 213,
+  "name": "PlusBurger",
+  "address": "G.B. Sylejmani , Ferizaj 193, Ferizaj 70000",
+  "phone": "19370000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 214,
+  "name": "Domino's Pizza Kosovo",
+  "address": "XK, William Walker, Ferizaj 70000",
+  "phone": "+38344121096",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 215,
+  "name": "Restaurant KULLA",
+  "address": "Dimitri Tuqeviq, Ferizaj 70000, Dimitri Tuqeviq, Ferizaj, Ferizaj 70000",
+  "phone": "7000070000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 216,
+  "name": "Urban Burger 2",
+  "address": "Rizah Matoshi, 34, Ferizaj 70000",
+  "phone": "+38349470137",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 217,
+  "name": "Prishtina Mall",
+  "address": "Rr. Marie Shllaku nr. 8, 60000, Gjilan",
+  "phone": "+38338726940",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 218,
+  "name": "DONA CENTER",
+  "address": "XK, Adem Jashari, Prishtina 10010",
+  "phone": "578+56610010",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 219,
+  "name": "Tre-kom shoes",
+  "address": "XK, 25.3, Ferizaj 70000",
+  "phone": "25370000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 220,
+  "name": "Fokus Ferizaj",
+  "address": "Musa Tolaj, Prishtinë, Pristina 10000 Prishtine XK, 10000",
+  "phone": "1000010000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 221,
+  "name": "Intercoop Trade Center",
+  "address": "Rruga: Ahmet Kaqiku, No: 1, Ferizaj 70000",
+  "phone": "+38338777035",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 222,
+  "name": "Plisi Center",
+  "address": "XK, 72 Rruga Marie Shllaku, Gjilan 60000",
+  "phone": "+38343777747",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 223,
+  "name": "Jupa Center",
+  "address": "Elez Berisha, nr. 56, përballë Kolegjit AAB në Prishtinë Prishtina, 10000",
+  "phone": "+38649168800",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 224,
+  "name": "Genti Shoes Store",
+  "address": "XK, Rr Ismail Raka, Kaçanik 71000",
+  "phone": "+37744225007",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 225,
+  "name": "Në Zbritje",
+  "address": "The Village, 1 Ahmet Kaçiku, Ferizaj 70000",
+  "phone": "+38349522662",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 226,
+  "name": "Herta Kids",
+  "address": "Joseph R. “Beau” Biden, III, Bibaj, Ferizaj 70000",
+  "phone": "+38349121191",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 227,
+  "name": "Ballkani Qeramike",
+  "address": "95F5+269 Ferizaj Zenun Beqa, Objekti Fitorja I Ferizaj XK, 70000",
+  "phone": "955+26970000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 228,
+  "name": "Besi",
+  "address": "Zona Industriale Prishtinë-Fushë Kosovë 10000 Prishtinë, Republic of Kosova, Prishtina",
+  "phone": "+38139431991",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 229,
+  "name": "Minimax",
+  "address": "Rr, 25-3, Kllokot",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 230,
+  "name": "BIBAJ CENTER TEPIHA PERDE",
+  "address": "Zona e Re Industriale, Veternik 10000 Prishtine Prishtina XK, 10000",
+  "phone": "1000010000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 231,
+  "name": "Pizza Center",
+  "address": "Ring Mall, Magjistrale Ferizaj, Talinoc i Muhaxherëve, Ferizaj 70000",
+  "phone": "+38349614476",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 232,
+  "name": "Melodia Px",
+  "address": "XK, Hajredin Bajrami, Lipjan 14000",
+  "phone": "+38344435984",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 233,
+  "name": "NEWBORN",
+  "address": "203, Sebečevo, Serbia",
+  "phone": "",
+  "country-code": "XK",
+  "country": "Kosovo"
+ },
+ {
+  "id": 234,
+  "name": "Arabati Baba Tekke",
+  "address": "XK, 111 Luan Haradinaj, Prishtina 10000",
+  "phone": "11110000",
+  "country-code": "XK",
+  "country": "Kosovo"
+ }
+]

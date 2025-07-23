@@ -1,0 +1,4058 @@
+[
+ {
+  "id": 1,
+  "name": "Seyscapes Luxury Accommodation",
+  "address": "Upper Caryole Estate, Mahe, Seychelles",
+  "phone": "+2482530522",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 2,
+  "name": "Villa Kayola",
+  "address": "Anse Aux Pins, Victoria, Seychelles",
+  "phone": "+2484383500",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 3,
+  "name": "Albizia Lodge Reef Estate",
+  "address": "Anse Aux Pins, Mahe, Seychelles",
+  "phone": "+2484420335",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 4,
+  "name": "The Reef Palm Villa",
+  "address": "8G38+R93 loversnest selfcatering, Baie Ste Anne, Seychelles",
+  "phone": "+2482509234",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 5,
+  "name": "Green House Bar, Cafe, Restaurant",
+  "address": "Victoria, Seychelles",
+  "phone": "+2482599070",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 6,
+  "name": "Auberge Chez Plume",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 7,
+  "name": "Kafe Kreol Cafe \u0026 Restaurant",
+  "address": "Au cap, Victoria, Seychelles",
+  "phone": "+2484371550",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 8,
+  "name": "Jules Take Away",
+  "address": "East Coast Road Talbot, Mahe, Seychelles",
+  "phone": "+2484373067",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 9,
+  "name": "The Tasty Shack",
+  "address": "Market St, Victoria, Seychelles",
+  "phone": "+2482601219",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 10,
+  "name": "Marchinos",
+  "address": "Trinity House, Victoria, Seychelles",
+  "phone": "+2484322999",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 11,
+  "name": "Pti Lakaz",
+  "address": "Victoria, Seychelles",
+  "phone": "+2482781232",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 12,
+  "name": "Jardin du Roi Spice Garden",
+  "address": "S.E Coast Rd, Takamaka, Seychelles",
+  "phone": "+2484374767",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 13,
+  "name": "Ole Take Away \u0026 Pizzeria",
+  "address": "Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 14,
+  "name": "Izup bar Liverpool fan club seychelles",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "+2484620220",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 15,
+  "name": "L'Escale Lounge \u0026 Restaurant",
+  "address": "Coral Strand Rd, Beau Vallon, Seychelles",
+  "phone": "+2482804805",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 16,
+  "name": "Ole Take Away \u0026 Pizzeria",
+  "address": "Bel Ombre, Seychelles",
+  "phone": "+2484247535",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 17,
+  "name": "Koi",
+  "address": "Plaisance Ste Therese Complex, Opposite PlaisanceCommunity Centre Victoria Mahe, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 18,
+  "name": "Windsong Beach Restaurant",
+  "address": "Остров Муаен,, Providence, Seychelles",
+  "phone": "+2482511125",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 19,
+  "name": "Bacco's Food",
+  "address": "Mount Fleuri Road, Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 20,
+  "name": "Meet Me Healthway",
+  "address": "Sans Soucis Rd, Victoria, Seychelles",
+  "phone": "+2484225709",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 21,
+  "name": "ZEZ",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 22,
+  "name": "Perry's Grillz",
+  "address": "9FF2+GXG exile club, Francis Rachel St, Victoria, Seychelles",
+  "phone": "+2484284280",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 23,
+  "name": "Jules Take Away",
+  "address": "Gran Kaz House Belombre Belombre Mahe, Beau Vallon, Seychelles",
+  "phone": "+2484303476",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 24,
+  "name": "Island Cafe",
+  "address": "Shopping Complex, Bois de Rose Ave, Mahé, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 25,
+  "name": "Seybar Cafe \u0026 Bar",
+  "address": "Anse Boileau, Seychelles",
+  "phone": "+2482802620",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 26,
+  "name": "BAO",
+  "address": "Eden Island Marina House, Eden Island, Seychelles",
+  "phone": "+2484346622",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 27,
+  "name": "Adam \u0026 Eve",
+  "address": "rd india, AN, Seychelles",
+  "phone": "+2484373887",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 28,
+  "name": "L'INDOCHINE ( European cuisine infused with traditional Indian Ocean flavors)",
+  "address": "Bois de Rose Ave, Victoria, Seychelles",
+  "phone": "+2484389211",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 29,
+  "name": "Marchinos",
+  "address": "5th June Ave, Anse Royale, Seychelles",
+  "phone": "+2482606464",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 30,
+  "name": "The Salty Mug",
+  "address": "Eden Bleu Hotel, Marlin Bleu Restaurant, Eden Island, Seychelles",
+  "phone": "+2484399008",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 31,
+  "name": "Julianas Villas Café",
+  "address": "Market St, Victoria, Seychelles",
+  "phone": "+2484325545",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 32,
+  "name": "The LUNCH BOX",
+  "address": "Au cap ,D'offay Road, Victoria, Seychelles",
+  "phone": "+2482588891",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 33,
+  "name": "La Romana Gastronomie Libanaise",
+  "address": "Eden Island, Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 34,
+  "name": "Sea Drift Take Away",
+  "address": "Eden, 4 346 930, Eden, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 35,
+  "name": "Helios",
+  "address": "Mont Plasir Rd, Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 36,
+  "name": "Sey Sushi - Sushi Bar",
+  "address": "9F5G+GJG Eden Island, Providence, Seychelles",
+  "phone": "+2484346880",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 37,
+  "name": "Street Grill Takeaway",
+  "address": "Anse Royale, Seychelles",
+  "phone": "+2482805565",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 38,
+  "name": "Island Opa Restaurant",
+  "address": "Eden Island, Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 39,
+  "name": "Tamassa Lounge and Bar",
+  "address": "Mont Plasir Rd, Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 40,
+  "name": "PALMIER on EDEN",
+  "address": "9F5G+GJG Eden Island, Providence, Seychelles",
+  "phone": "+2484346880",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 41,
+  "name": "Cafe Lazare",
+  "address": "Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 42,
+  "name": "La Gaulette Restaurant",
+  "address": "Victoria, Seychelles",
+  "phone": "+2482575615",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 43,
+  "name": "Tamassa Lounge and Bar",
+  "address": "Eden Island Victoria Mahe, Providence, Seychelles",
+  "phone": "+2484346020",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 44,
+  "name": "Fine Hotel",
+  "address": "Coral Strand Rd, Beau Vallon, Seychelles",
+  "phone": "+2482529412",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 45,
+  "name": "PALMIER on EDEN",
+  "address": "W Coast Rd, Mahè, Seychelles",
+  "phone": "+2482609079",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 46,
+  "name": "Leo’s Food Bus",
+  "address": "Francis Rachel St, Seychelles",
+  "phone": "+2484322499",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 47,
+  "name": "Wok \u0026 Grill Food Catering",
+  "address": "E Coast Rd, Pointe Au Sel, Seychelles",
+  "phone": "+2482567111",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 48,
+  "name": "Chellam Umbrella Mart",
+  "address": "Kempinski Resort, Seychelles, Seychelles",
+  "phone": "+2484386666",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 49,
+  "name": "Le Bistro",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 50,
+  "name": "Zepis Takeaway",
+  "address": "Global Gateway 8, Rue de la Perle, Providence, Seychelles",
+  "phone": "+2482560753",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 51,
+  "name": "Crispy Chicks",
+  "address": "W Coast Rd, Grand Anse Village, Seychelles",
+  "phone": "+2482792930",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 52,
+  "name": "Wambo Food Truck",
+  "address": "East Coast Road Talbot, Mahe, Seychelles",
+  "phone": "+2484373067",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 53,
+  "name": "Marie Antoinette",
+  "address": "Kempinski Resort, Seychelles, Seychelles",
+  "phone": "+2484386666",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 54,
+  "name": "Praise N Faith Takeaway",
+  "address": "Kempinski Resort, Seychelles, Seychelles",
+  "phone": "+2484386666",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 55,
+  "name": "MOLOKO",
+  "address": "N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 56,
+  "name": "",
+  "address": "N.Y.S. Village, Seychelles",
+  "phone": "+2484395000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 57,
+  "name": "",
+  "address": "N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 58,
+  "name": "",
+  "address": "E Coast Rd, Anse Royale, Seychelles",
+  "phone": "+2482811462",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 59,
+  "name": "",
+  "address": "Victoria, Seychelles",
+  "phone": "+2482599070",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 60,
+  "name": "",
+  "address": "Anse Royale, Seychelles",
+  "phone": "+2482559160",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 61,
+  "name": "",
+  "address": "Eden House, Eden Island, Mahé, Seychelles, Providence, Seychelles",
+  "phone": "+2484346020",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 62,
+  "name": "",
+  "address": "Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 63,
+  "name": "",
+  "address": "Anse aux pins, Victoria, Seychelles",
+  "phone": "+2482781627",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 64,
+  "name": "",
+  "address": "Roche Caiman, Victoria, Seychelles",
+  "phone": "+2484425555",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 65,
+  "name": "",
+  "address": "Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 66,
+  "name": "",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 67,
+  "name": "",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 68,
+  "name": "",
+  "address": "W Coast Rd, Seychelles",
+  "phone": "+2484371289",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 69,
+  "name": "RM Valli Shop",
+  "address": "Anse Aux Pins Central Mahe, Pointe Au Sel, Seychelles",
+  "phone": "+2482820617",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 70,
+  "name": "Ramesh shopping centre",
+  "address": "Anse aux pins Seychelles Victoria,Mahe island, Seychelles",
+  "phone": "+2482773444",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 71,
+  "name": "SNM SUPER MARKET",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 72,
+  "name": "Eden Plaza",
+  "address": "Providence, Seychelles",
+  "phone": "+2484346814",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 73,
+  "name": "Mohan Shopping Centre",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 74,
+  "name": "Oj Mall",
+  "address": "Srinivas Complex, Market St, Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 75,
+  "name": "UNI Shopping Centre",
+  "address": "Unnamed Road, Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 76,
+  "name": "Lilac Trading",
+  "address": "N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 77,
+  "name": "Bass Shopping Mart",
+  "address": "Bus Stop, Pointe Larue, Route, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 78,
+  "name": "Kot Kani Shop கோத் கனி சாப்",
+  "address": "Bois de Rose Ave, Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 79,
+  "name": "Lilac Trading",
+  "address": "Coast Guard, Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 80,
+  "name": "Eva's",
+  "address": "Shreeji Group KB Emporium Providence Industrial Estate, Victoria, Seychelles",
+  "phone": "+2484374290",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 81,
+  "name": "RF (Seychelles) Ltd c/o WiFi Plus",
+  "address": "La Gogue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 82,
+  "name": "St Claire building",
+  "address": "Providence, rue de Mary Jane, Victoria, Seychelles",
+  "phone": "+2482634998",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 83,
+  "name": "Kalai Mini Market",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 84,
+  "name": "LG Brandshop Goodluck-Kannus",
+  "address": "Pointe Au Sel, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 85,
+  "name": "SeaHarvest Ice Plant",
+  "address": "3rd Floor,Orion Mall, Palm St, Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 86,
+  "name": "Galaxy House",
+  "address": "Revolution Ave, Victoria, Seychelles",
+  "phone": "+2482781163",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 87,
+  "name": "Maria's Enterprise Mini Shop",
+  "address": "Mont Buxton Rd, Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 88,
+  "name": "Abarna Shopping Centre",
+  "address": "Quincy St, Victoria, Seychelles",
+  "phone": "+2482725500",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 89,
+  "name": "Beau Vallon Street Shopping",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 90,
+  "name": "Abel",
+  "address": "Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 91,
+  "name": "Veni shopping center",
+  "address": "Anse aux pins Seychelles Victoria,Mahe island, Seychelles",
+  "phone": "+2482773444",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 92,
+  "name": "HSL",
+  "address": "Victoria, Seychelles",
+  "phone": "+2482723614",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 93,
+  "name": "Bois De Rose Shopping Complex",
+  "address": "Victoria, Seychelles",
+  "phone": "+2484344920",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 94,
+  "name": "St Michel Complex",
+  "address": "Victoria, Seychelles",
+  "phone": "+2482819678",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 95,
+  "name": "Le Chantier Mall",
+  "address": "Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 96,
+  "name": "Seenu Shop",
+  "address": "Unnamed Road, Anse Boileau, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 97,
+  "name": "Huteau Lane Complex",
+  "address": "Palm St, Victoria, Seychelles",
+  "phone": "+2484324488",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 98,
+  "name": "Srinivas Complex",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 99,
+  "name": "Nigel Henry's Studio",
+  "address": "La, Plaisance, Seychelles",
+  "phone": "+2484344585",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 100,
+  "name": "Alvto stasion от рыка",
+  "address": "Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 101,
+  "name": "Parking Maison Ste. Claire",
+  "address": "Near Del place Restaurant, Port Launay Rd, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 102,
+  "name": "Premiere Building",
+  "address": "Palm St, Victoria, Seychelles",
+  "phone": "+2484294699",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 103,
+  "name": "Saint-Anne Marine National Park",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 104,
+  "name": "Copolia Trail",
+  "address": "N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 105,
+  "name": "Domaine de Val des Prés - Craft Village",
+  "address": "Pointe Au Sel, Seychelles",
+  "phone": "+2484376100",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 106,
+  "name": "Vallée de Mai, Praslin, Seychelles",
+  "address": "Aride, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 107,
+  "name": "Victoria Botanical Gardens",
+  "address": "Cote D'Or Esplanade, Anse volbert, Seychelles",
+  "phone": "+2482618568",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 108,
+  "name": "Bicentenary Monument Seychelles",
+  "address": "La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 109,
+  "name": "Pointe Millers - Anse Georgette",
+  "address": "Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 110,
+  "name": "Kot Man-Ya Exotic Flower Garden",
+  "address": "Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 111,
+  "name": "",
+  "address": "Unnamed Road, Providence, Seychelles",
+  "phone": "+2484346000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 112,
+  "name": "",
+  "address": "La Digue, Seychelles",
+  "phone": "+2482604415",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 113,
+  "name": "",
+  "address": "Beau Vallon, Victoria, Seychelles",
+  "phone": "+2482570232",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 114,
+  "name": "Trois Fréres Nature Trail",
+  "address": "La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 115,
+  "name": "Anse Source d'Argent",
+  "address": "La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 116,
+  "name": "Grand Anse Cascade (waterfall)",
+  "address": "Bel Ombre, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 117,
+  "name": "Island cruise taxi and Tour seychelles",
+  "address": "Port Launay Rd, N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 118,
+  "name": "Abandoned Mahe Beach hotel",
+  "address": "Unnamed Road, Victoria, Seychelles",
+  "phone": "+2484225114",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 119,
+  "name": "Anse Royale Beach",
+  "address": "Seychelles National Park, Victoria, Seychelles",
+  "phone": "+2482500423",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 120,
+  "name": "Cousin Island Special Reserve of Nature Seychelles",
+  "address": "La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 121,
+  "name": "Anse Source d'Argent",
+  "address": "E Coast Rd, Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 122,
+  "name": "Grand Anse Cascade (waterfall)",
+  "address": "W Coast Rd, Grand Anse Village, Seychelles",
+  "phone": "+2484673000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 123,
+  "name": "Island cruise taxi and Tour seychelles",
+  "address": "Grand Anse Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 124,
+  "name": "Barbarons Coastal Wetlands",
+  "address": "N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 125,
+  "name": "Abandoned Mahe Beach hotel",
+  "address": "N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 126,
+  "name": "Anse Royale Beach",
+  "address": "La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 127,
+  "name": "Свята Анна",
+  "address": "La Digue Island Lodge, L'Union Estate, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 128,
+  "name": "Guang Zhou Garden",
+  "address": "Seychelles National Park, Victoria, Seychelles",
+  "phone": "+2482500423",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 129,
+  "name": "سيشيل",
+  "address": "La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 130,
+  "name": "Anse Source d'Argent",
+  "address": "La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 131,
+  "name": "Anse Major Trail",
+  "address": "Grand Anse Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 132,
+  "name": "Anse Source d'Argent",
+  "address": "E Coast Rd, Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 133,
+  "name": "Salazie Trail",
+  "address": "W Coast Rd, Grand Anse Village, Seychelles",
+  "phone": "+2484673000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 134,
+  "name": "Grand Anse Cascade (waterfall)",
+  "address": "N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 135,
+  "name": "Barbarons Coastal Wetlands",
+  "address": "La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 136,
+  "name": "Abandoned Mahe Beach hotel",
+  "address": "N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 137,
+  "name": "Anse Royale Beach",
+  "address": "La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 138,
+  "name": "Pointe Grand Anse",
+  "address": "E Coast Rd, Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 139,
+  "name": "Guang Zhou Garden",
+  "address": "Cousin Island, Nature Seychelles, Roche Caiman, Mahe Mahe, Seychelles",
+  "phone": "+2482519090",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 140,
+  "name": "سيشيل",
+  "address": "Grand Anse Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 141,
+  "name": "Seychelles Explorer97",
+  "address": "Cap Ternay, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 142,
+  "name": "Tortoise Sanctuary",
+  "address": "W Coast Rd, Grand Anse Village, Seychelles",
+  "phone": "+2484673000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 143,
+  "name": "View point Anse Major",
+  "address": "N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 144,
+  "name": "Rivière l'Isletta",
+  "address": "La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 145,
+  "name": "Anse Aux Pins",
+  "address": "La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 146,
+  "name": "Bout de la baie",
+  "address": "Cousin Island, Nature Seychelles, Roche Caiman, Mahe Mahe, Seychelles",
+  "phone": "+2482519090",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 147,
+  "name": "Tortoise Sanctuary",
+  "address": "Cap Samy, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 148,
+  "name": "Nid D’Aigles (Eagle’s Nest)",
+  "address": "Baie Ste Anne, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 149,
+  "name": "Cocotier Tours",
+  "address": "Silhouette, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 150,
+  "name": "Curieuse Marine National Park",
+  "address": "Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 151,
+  "name": "Veuve Nature Reserve",
+  "address": "Grand Anse, Seychelles",
+  "phone": "+2484237316",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 152,
+  "name": "Anse Lazio",
+  "address": "Grand Anse, Seychelles",
+  "phone": "+79166036944",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 153,
+  "name": "Anantara Maia Seychelles Villas",
+  "address": "Sailfish Estate, Anse a la Mouche, Seychelles",
+  "phone": "+2482544221",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 154,
+  "name": "Le Nautique Luxury Beachfront Apartments",
+  "address": "West Coast Road, Anse Louis, Seychelles",
+  "phone": "+2484677700",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 155,
+  "name": "Sailfish Beach Villas",
+  "address": "Anse Louis Rd, Mahe, Seychelles",
+  "phone": "+2482513875",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 156,
+  "name": "Four Seasons Resort Seychelles",
+  "address": "E Coast Rd, Anse Royale, Seychelles",
+  "phone": "+2484397800",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 157,
+  "name": "BayView Seychelles",
+  "address": "Anse Boileau, Seychelles",
+  "phone": "+2484355050",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 158,
+  "name": "Kempinski Seychelles Resort",
+  "address": "E Coast Rd, Anse Royale, Seychelles",
+  "phone": "+2484376003",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 159,
+  "name": "Laïla, Seychelles, a Tribute Portfolio Resort",
+  "address": "Petite Barbarons, Anse Boileau Mahe Island, Seychelles",
+  "phone": "+2482718191",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 160,
+  "name": "Sunbird Bungalow",
+  "address": "W Coast Rd, Anse Boileau, Seychelles",
+  "phone": "+2484355050",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 161,
+  "name": "Shanaz Beachside Retreat",
+  "address": "Ma Joie, Victoria, Seychelles",
+  "phone": "+2482566199",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 162,
+  "name": "La residence Anse la mouche",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 163,
+  "name": "DoubleTree by Hilton Seychelles - Allamanda Resort and Spa",
+  "address": "Bel Ombre Rd, Beau Vallon, Seychelles",
+  "phone": "+2482536812",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 164,
+  "name": "Ocean Terrace",
+  "address": "Seychelles, Victoria, Glacis, Mahe",
+  "phone": "+2484261280",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 165,
+  "name": "Le Relax Hotel \u0026 Restaurant",
+  "address": "5th June Rd, Victoria, Seychelles",
+  "phone": "+2482515330",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 166,
+  "name": "laïla, Seychelles, a Tribute Portfolio Resort",
+  "address": "Seychelles, Beau Vallon, Panorama Road",
+  "phone": "+2482523882",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 167,
+  "name": "Constance Ephelia Mahe Seychelles",
+  "address": "La Misere Rd, Fairview, Seychelles",
+  "phone": "+447846731100",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 168,
+  "name": "Le Relax Hotel \u0026 Restaurant",
+  "address": "Anse Royale, Seychelles",
+  "phone": "+2482791371",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 169,
+  "name": "The Seaboards Apartments Seychelles",
+  "address": "Mount Simpson, Bel Ombre, Seychelles",
+  "phone": "+2484247239",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 170,
+  "name": "L'Escale Resort Marina \u0026 Spa",
+  "address": "W Coast Rd, Grand Anse Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 171,
+  "name": "Hotel La Roussette - Mahe island guest house accommodation",
+  "address": "Anse Boileau, Seychelles",
+  "phone": "+2484355663",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 172,
+  "name": "Jane's Serenity Guesthouse",
+  "address": "Anse Boileau, Seychelles",
+  "phone": "+2482810005",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 173,
+  "name": "Blue Lagoon Chalets",
+  "address": "Anse Boileau, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 174,
+  "name": "Club Med Seychelles",
+  "address": "Beau Vallon Bay Victoria Mahe, Beau Vallon, Seychelles",
+  "phone": "+2484287287",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 175,
+  "name": "A Peace In Paradise",
+  "address": "Mare Anglaise, Seychelles",
+  "phone": "+2482772305",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 176,
+  "name": "Hilton Seychelles Northolme Resort \u0026 Spa",
+  "address": "Takamaka, Quatre Bornes, Seychelles",
+  "phone": "+2482510007",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 177,
+  "name": "Demeure de Cap Macon",
+  "address": "Anse La Mouche Anse Boileau Mahe, Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 178,
+  "name": "Moulin Kann Villas",
+  "address": "E Coast Rd, Victoria, Seychelles",
+  "phone": "+2482511269",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 179,
+  "name": "Island Cove",
+  "address": "CC6P+46P Sorento, Mahe Island, Seychelles",
+  "phone": "+2482578039",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 180,
+  "name": "Casa de Bella Self Catering",
+  "address": "8G38+R93 loversnest selfcatering, Baie Ste Anne, Seychelles",
+  "phone": "+2482509234",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 181,
+  "name": "Lazare Picault Hotel",
+  "address": "Serret Rd, Victoria, Seychelles",
+  "phone": "+2482526870",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 182,
+  "name": "Le Manglier Guest House",
+  "address": "Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 183,
+  "name": "Eden Bleu Hotel",
+  "address": "Upper Caryole Estate, Mahe, Seychelles",
+  "phone": "+2482530522",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 184,
+  "name": "The Spot Eden Island",
+  "address": "roche caiman, Mahe, Seychelles",
+  "phone": "+2482711801",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 185,
+  "name": "The Runway Lodge",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "+2484247331",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 186,
+  "name": "Mon Dezir",
+  "address": "N Coast Rd, Mare Anglaise, Seychelles",
+  "phone": "+2482528906",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 187,
+  "name": "Chalets des Vacances",
+  "address": "Anse Soleil Road, Mahe, Seychelles",
+  "phone": "+2484361461",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 188,
+  "name": "Seyscapes Luxury Accommodation",
+  "address": "Enchanted Island Resort, Round Island, Seychelles",
+  "phone": "+2484672727",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 189,
+  "name": "Grace Self-Catering",
+  "address": "La Louise Mahe, La Louise, Seychelles",
+  "phone": "+2482718847",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 190,
+  "name": "Coral Strand Smart Choice Hotel",
+  "address": "N Coast Rd, Mare Anglaise, Seychelles",
+  "phone": "+2484247016",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 191,
+  "name": "Fisherman's Cove Resort",
+  "address": "Ex Sawa Sawa Farm, E Coast Rd, Seychelles",
+  "phone": "+2482521470",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 192,
+  "name": "Georgina's Cottage",
+  "address": "Box 400, Beau Vallon, Seychelles",
+  "phone": "+2484291000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 193,
+  "name": "Anse Soleil Beachcomber Hotel",
+  "address": "Enchanted Waterfront, Roche Caiman Highway, Seychelles",
+  "phone": "+2482518496",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 194,
+  "name": "Mountain View Villas",
+  "address": "Eden Island, Mahé, Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 195,
+  "name": "Marl Self Catering",
+  "address": "Takamaka, Victoria, Seychelles",
+  "phone": "+2482777222",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 196,
+  "name": "Eden Hills Residence",
+  "address": "Box 400, Mahe Island, Beau Vallon, Seychelles",
+  "phone": "+2482520200",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 197,
+  "name": "Residence Argine Apartments - Seychelles",
+  "address": "Anse Aux Poules Bleues , Baie Lazare Mahé, Seychelles, Baie Lazare Mahé, Seychelles",
+  "phone": "+2482718847",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 198,
+  "name": "L'Habitation Cerf Island",
+  "address": "Anse Francois, Mahe Island, Seychelles",
+  "phone": "+2482511223",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 199,
+  "name": "Cerf Island Resort",
+  "address": "Anse Gaulette Baie Lazare, Victoria, Seychelles",
+  "phone": "+2482619021",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 200,
+  "name": "Creole Cottage",
+  "address": "Santa Maria Estate, Anse La Mouche Mahe, Seychelles",
+  "phone": "+2482525622",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 201,
+  "name": "Le Manglier Self Catering",
+  "address": "Sans Soucis Road Bel Air (Junction Kan Tobourk, Victoria, Seychelles",
+  "phone": "+2482826888",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 202,
+  "name": "Petit Amour Villa By Niraamaya Retreats",
+  "address": "Grand Anse Village, Seychelles",
+  "phone": "+2482570881",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 203,
+  "name": "Chez Payet",
+  "address": "Quatre Bornes, Seychelles",
+  "phone": "+2484366550",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 204,
+  "name": "Bel Air Hotel",
+  "address": "Anse Aux Pins, Mahe, Seychelles",
+  "phone": "+2484420335",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 205,
+  "name": "Casadani Hotel",
+  "address": "Cap Macon, Anse Forbans, Quatre Bornes, Seychelles",
+  "phone": "+2484363876",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 206,
+  "name": "La Trouvaille",
+  "address": "Anse des Genets, Victoria, Seychelles",
+  "phone": "+2484303261",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 207,
+  "name": "Anse Norwa Self Catering",
+  "address": "Sainte Anne Island Sainte Anne, Victoria, Mahé Sainte Anne, Seychelles",
+  "phone": "+2484399600",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 208,
+  "name": "Chellos Villa",
+  "address": "N Coast Rd, Mahé, Seychelles",
+  "phone": "+2484299000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 209,
+  "name": "STORY Seychelles",
+  "address": "Les Canelles Rd, Anse Royale, Seychelles",
+  "phone": "+2482539753",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 210,
+  "name": "Little Bawa Villa",
+  "address": "Anse Royale, Mahe-Seychelles, Seychelles",
+  "phone": "+2484382900",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 211,
+  "name": "Villa Roscia",
+  "address": "Port Launay Rd, Mahé, Seychelles",
+  "phone": "+2484395000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 212,
+  "name": "Sables d'Or Luxury Apartments, Seychelles",
+  "address": "Anse Royale, Mahe-Seychelles, Seychelles",
+  "phone": "+2484382900",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 213,
+  "name": "Urban Tiffin by Le Relax",
+  "address": "Urban Tiffin by Le Relax, 215, Seychelles",
+  "phone": "+2482641033",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 214,
+  "name": "Kafe Kreol Cafe \u0026 Restaurant",
+  "address": "Anse Boileau, Seychelles",
+  "phone": "+2482802620",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 215,
+  "name": "Maison Marengo",
+  "address": "Pointe Au Sel, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 216,
+  "name": "Restaurant Créole",
+  "address": "5th June Ave, Anse Royale, Seychelles",
+  "phone": "+2482606464",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 217,
+  "name": "Maria's Rock Cafeteria",
+  "address": "Les Canelles Rd, Mahe, Seychelles",
+  "phone": "+2482527260",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 218,
+  "name": "The Deck Restaurant",
+  "address": "Anse Soleil, Mahe, Seychelles",
+  "phone": "+2484361461",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 219,
+  "name": "Perry's Grillz",
+  "address": "W Coast Rd, Anse Boileau, Seychelles",
+  "phone": "+2484355050",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 220,
+  "name": "Curry Nation Multi Cuisine Restaurant \u0026 Bar",
+  "address": "Eden, 4346930, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 221,
+  "name": "Kapatya restaurant",
+  "address": "Petite Anse, Anse Soleil, Seychelles",
+  "phone": "+2482605462",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 222,
+  "name": "Meet Me Healthway",
+  "address": "9FF2+GXG exile club, Francis Rachel St, Victoria, Seychelles",
+  "phone": "+2484284280",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 223,
+  "name": "La Gaulette Restaurant",
+  "address": "Bel Ombre Rd, Beau Vallon, Seychelles",
+  "phone": "+2484387000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 224,
+  "name": "The LUNCH BOX",
+  "address": "Bel Ombre, Seychelles",
+  "phone": "+2484247535",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 225,
+  "name": "Simply Delicious Take Away",
+  "address": "Beau Vallon, Victoria, Seychelles",
+  "phone": "+2482768323",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 226,
+  "name": "Del Place Restaurant",
+  "address": "Anse Intendance, Quatre Bornes, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 227,
+  "name": "Cyann",
+  "address": "Shopping Complex, Bois de Rose Ave, Mahé, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 228,
+  "name": "Simply Delicious Take Away",
+  "address": "Plaisance Ste Therese Complex, Opposite PlaisanceCommunity Centre Victoria Mahe, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 229,
+  "name": "Meet Me Healthway",
+  "address": "Eden, 4 346 930, Eden, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 230,
+  "name": "Steven's BBQ Restaurant",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 231,
+  "name": "Rockwell",
+  "address": "Au cap ,D'offay Road, Victoria, Seychelles",
+  "phone": "+2482588891",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 232,
+  "name": "ZEZ",
+  "address": "Остров Муаен,, Providence, Seychelles",
+  "phone": "+2482511125",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 233,
+  "name": "Kapatya restaurant",
+  "address": "S.E Coast Rd, Takamaka, Seychelles",
+  "phone": "+2484374767",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 234,
+  "name": "Food T.A",
+  "address": "VMA Clubhouse Eden, Eden, Seychelles",
+  "phone": "+2482513970",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 235,
+  "name": "Fine Hotel",
+  "address": "Quatre Bornes, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 236,
+  "name": "Corina Snacks",
+  "address": "rd india, AN, Seychelles",
+  "phone": "+2484373887",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 237,
+  "name": "The LUNCH BOX",
+  "address": "E Coast Rd, Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 238,
+  "name": "Anchor Cafe \u0026 Restaurant",
+  "address": "Gran Kaz House Belombre Belombre Mahe, Beau Vallon, Seychelles",
+  "phone": "+2484303476",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 239,
+  "name": "Helios",
+  "address": "Providence, Seychelles",
+  "phone": "+2484373961",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 240,
+  "name": "Jardin du Roi Spice Garden",
+  "address": "Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 241,
+  "name": "Jules Take Away",
+  "address": "Victoria, Seychelles",
+  "phone": "+2482575615",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 242,
+  "name": "Skychef Shop",
+  "address": "Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 243,
+  "name": "Planters Lounge \u0026 Bar",
+  "address": "9F5G+GJG Eden Island, Providence, Seychelles",
+  "phone": "+2484346880",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 244,
+  "name": "Mango house",
+  "address": "Anse Takamaka Mahé, Quatre Bornes, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 245,
+  "name": "MJ's cafè \u0026 takeaway",
+  "address": "Angelfish Marina A-5, Victoria, Seychelles",
+  "phone": "+2482750996",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 246,
+  "name": "Street food",
+  "address": "Kempinski Resort, Seychelles, Seychelles",
+  "phone": "+2484386666",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 247,
+  "name": "Cap Lazare Nature Reserve \u0026 Restaurant",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 248,
+  "name": "Quality taste take away",
+  "address": "Takamaka, Seychelles",
+  "phone": "+2484366300",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 249,
+  "name": "Tasty Corner Fast Food",
+  "address": "Eden House, Eden Island, Mahé, Seychelles, Providence, Seychelles",
+  "phone": "+2484346020",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 250,
+  "name": "Seybar Cafe \u0026 Bar",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 251,
+  "name": "Koko Zerm",
+  "address": "Anse forbans, S Coast Rd, Victoria, Seychelles",
+  "phone": "+2482817930",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 252,
+  "name": "Sea Drift Take Away",
+  "address": "E Coast Rd, Pointe Au Sel, Seychelles",
+  "phone": "+2482567111",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 253,
+  "name": "Bravo Restaurant",
+  "address": "E Coast Rd, Anse Royale, Seychelles",
+  "phone": "+2482811462",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 254,
+  "name": "Burger King",
+  "address": "Port Launay Rd, N.Y.S. Village, Seychelles",
+  "phone": "+2482556315",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 255,
+  "name": "Spice \u0026 Bake Take Away",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 256,
+  "name": "La Romana Gastronomie Libanaise",
+  "address": "Anse Royale, Seychelles",
+  "phone": "+2482805565",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 257,
+  "name": "Chez Batista restaurant",
+  "address": "W Coast Rd, Mahè, Seychelles",
+  "phone": "+2482609079",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 258,
+  "name": "Takamaka Beach Restaurant",
+  "address": "Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 259,
+  "name": "Le Gotha",
+  "address": "Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 260,
+  "name": "Street Grill Takeaway",
+  "address": "East Coast Road Talbot, Mahe, Seychelles",
+  "phone": "+2484373067",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 261,
+  "name": "Island Fried Chicken",
+  "address": "W Coast Rd, Seychelles",
+  "phone": "+2484371289",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 262,
+  "name": "Gran Kaz Belombre",
+  "address": "Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 263,
+  "name": "Sega",
+  "address": "Victoria, Seychelles",
+  "phone": "+2482599070",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 264,
+  "name": "Zepis Takeaway",
+  "address": "Mont Plasir Rd, Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 265,
+  "name": "Les Palms Restaurant",
+  "address": "N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 266,
+  "name": "mrlhospitalityandtourism",
+  "address": "W Coast Rd, Grand Anse Village, Seychelles",
+  "phone": "+2482792930",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 267,
+  "name": "Praise N Faith Takeaway",
+  "address": "Petite Anse, Four Seasons, Mahe, Seychelles",
+  "phone": "+2484393000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 268,
+  "name": "Jolly Roger Bar And Restaurant",
+  "address": "Mahe Island, W Coast Rd, Victoria, Seychelles",
+  "phone": "+2482829090",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 269,
+  "name": "Marie Antoinette",
+  "address": "Petite Anse, Four Seasons Resort, Mahe, Seychelles",
+  "phone": "+2484393000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 270,
+  "name": "Mougal Take Away",
+  "address": "Au cap, Victoria, Seychelles",
+  "phone": "+2484371550",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 271,
+  "name": "Fareman",
+  "address": "Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 272,
+  "name": "Jackie's Takeaway",
+  "address": "Anse Royale, Seychelles",
+  "phone": "+2482559160",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 273,
+  "name": "Crispy Chicks",
+  "address": "N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 274,
+  "name": "Waacha bar and grill Anse Major",
+  "address": "Pointe Au Sel, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 275,
+  "name": "Wambo Food Truck",
+  "address": "W Coast Rd, Seychelles",
+  "phone": "+2484371289",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 276,
+  "name": "The Copper Pot",
+  "address": "Pointe Au Sel, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 277,
+  "name": "La Scala",
+  "address": "N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 278,
+  "name": "MOLOKO",
+  "address": "Anse Royale, Seychelles",
+  "phone": "+2482559160",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 279,
+  "name": "5 Spices Restaurant @ Club Liberte",
+  "address": "8F84+9M9 barbaron seychelles, Grand Anse Village, Seychelles",
+  "phone": "+2484378802",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 280,
+  "name": "Saffron",
+  "address": "Mahe Island, W Coast Rd, Victoria, Seychelles",
+  "phone": "+2482829090",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 281,
+  "name": "M.D.Pillai Shopping Center",
+  "address": "La, Plaisance, Seychelles",
+  "phone": "+2484344585",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 282,
+  "name": "RM Valli Shop",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 283,
+  "name": "Mohan Shopping Centre",
+  "address": "Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 284,
+  "name": "Oj Mall",
+  "address": "Victoria, Seychelles",
+  "phone": "+78123896679",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 285,
+  "name": "CHEZ AMI SHOP",
+  "address": "Providence, Seychelles",
+  "phone": "+2482772073",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 286,
+  "name": "Eden Plaza",
+  "address": "E Coast Rd, Anse Royale, Seychelles",
+  "phone": "+2482716885",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 287,
+  "name": "Orion Mall",
+  "address": "Providence, Seychelles",
+  "phone": "+2484346814",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 288,
+  "name": "Kamatchi Shopping Centre",
+  "address": "Palm St, Victoria, Seychelles",
+  "phone": "+2484324488",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 289,
+  "name": "Sham Peng Tong Plaza",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 290,
+  "name": "KV Shopping Center",
+  "address": "4.6784948,55.4543427, Grand Anse Village, Seychelles",
+  "phone": "46784948554543427",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 291,
+  "name": "E V N Shopping Center",
+  "address": "Les Canelles Rd, Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 292,
+  "name": "The Quadrant",
+  "address": "Bois de Rose Ave, Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 293,
+  "name": "Srimuga Shopping Center",
+  "address": "Pointe Au Sel, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 294,
+  "name": "Bois De Rose Shopping Complex",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 295,
+  "name": "Sekaar Les Canelles",
+  "address": "Eden Island, Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 296,
+  "name": "Anseboileau Super Market",
+  "address": "Bus Stop, Pointe Larue, Route, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 297,
+  "name": "SRISHA - Eden Plaza - Seychelles",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 298,
+  "name": "Premiere Building",
+  "address": "Anse Aux Pins, Central, Seychelles",
+  "phone": "+2482833388",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 299,
+  "name": "Coral Strand Smart Choice Hotel",
+  "address": "Box 400, Beau Vallon, Seychelles",
+  "phone": "+2484291000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 300,
+  "name": "STORY Seychelles",
+  "address": "N Coast Rd, Mahé, Seychelles",
+  "phone": "+2484299000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 301,
+  "name": "Hilton Seychelles Northolme Resort \u0026 Spa",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "+2484247331",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 302,
+  "name": "Chateau Elysium",
+  "address": "Port Launay Rd, Mahé, Seychelles",
+  "phone": "+2484395000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 303,
+  "name": "Coco D'or Hotel",
+  "address": "Beau Vallon Bay Victoria Mahe, Beau Vallon, Seychelles",
+  "phone": "+2484287287",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 304,
+  "name": "Sables d'Or Luxury Apartments, Seychelles",
+  "address": "Box 400, Mahe Island, Beau Vallon, Seychelles",
+  "phone": "+2482520200",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 305,
+  "name": "Le Nautique Luxury Beachfront Apartments",
+  "address": "La Misere Rd, Fairview, Seychelles",
+  "phone": "+447846731100",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 306,
+  "name": "Four Seasons Resort Seychelles",
+  "address": "8G38+R93 loversnest selfcatering, Baie Ste Anne, Seychelles",
+  "phone": "+2482509234",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 307,
+  "name": "Villa Roscia",
+  "address": "E Coast Rd, Victoria, Seychelles",
+  "phone": "+2482511269",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 308,
+  "name": "Georgina's Cottage",
+  "address": "Beau Vallon, Victoria, Seychelles",
+  "phone": "+2482547638",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 309,
+  "name": "Villa Roscia",
+  "address": "Santa Maria Estate, Anse La Mouche Mahe, Seychelles",
+  "phone": "+2482525622",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 310,
+  "name": "BLISS Hotel Seychelles",
+  "address": "Grand Anse Village, Seychelles",
+  "phone": "+2482570881",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 311,
+  "name": "Carana Beach Hotel",
+  "address": "Upper Caryole Estate, Mahe, Seychelles",
+  "phone": "+2482530522",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 312,
+  "name": "Blue Hill Guest House",
+  "address": "Les Canelles Rd, Anse Royale, Seychelles",
+  "phone": "+2482539753",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 313,
+  "name": "Forest Lodge Guest House",
+  "address": "Anse Aux Poules Bleues , Baie Lazare Mahé, Seychelles, Baie Lazare Mahé, Seychelles",
+  "phone": "+2482718847",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 314,
+  "name": "JA Enchanted Island Resort",
+  "address": "Ex Sawa Sawa Farm, E Coast Rd, Seychelles",
+  "phone": "+2482521470",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 315,
+  "name": "JA Enchanted Waterfront",
+  "address": "Eden Island, Mahé, Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 316,
+  "name": "Beau Vallon Studios",
+  "address": "Bel Ombre Rd, Beau Vallon, Seychelles",
+  "phone": "+2482536812",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 317,
+  "name": "la maison hibiscus",
+  "address": "Takamaka, Victoria, Seychelles",
+  "phone": "+2482777222",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 318,
+  "name": "Glacis Heights Villa",
+  "address": "5th June Rd, Victoria, Seychelles",
+  "phone": "+2482515330",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 319,
+  "name": "Oceanic View Apartments",
+  "address": "roche caiman, Mahe, Seychelles",
+  "phone": "+2482711801",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 320,
+  "name": "Daniella's Bungalows",
+  "address": "Ma Joie, Victoria, Seychelles",
+  "phone": "+2482566199",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 321,
+  "name": "Villa Des Roses APT",
+  "address": "Anse Louis Rd, Mahe, Seychelles",
+  "phone": "+2482513875",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 322,
+  "name": "Bel Air Hotel",
+  "address": "Anse Gaulette Baie Lazare, Victoria, Seychelles",
+  "phone": "+2482619021",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 323,
+  "name": "Laïla, Seychelles, a Tribute Portfolio Resort",
+  "address": "Anse Royale, Mahe-Seychelles, Seychelles",
+  "phone": "+2484382900",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 324,
+  "name": "laïla, Seychelles, a Tribute Portfolio Resort",
+  "address": "Anse La Mouche, W Coast Rd, Seychelles",
+  "phone": "+2484371733",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 325,
+  "name": "Cerf Island Resort",
+  "address": "Anse Francois, Mahe Island, Seychelles",
+  "phone": "+2482511223",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 326,
+  "name": "Seyscapes Luxury Accommodation",
+  "address": "Anse Aux Pins, Mahe, Seychelles",
+  "phone": "+2484420335",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 327,
+  "name": "E \u0026 E Self Catering",
+  "address": "Mare Anglaise, Seychelles",
+  "phone": "+2482772305",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 328,
+  "name": "Villa Kolibri",
+  "address": "Anse des Genets, Victoria, Seychelles",
+  "phone": "+2484303261",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 329,
+  "name": "Auberge Anse Boileau",
+  "address": "Anse Boileau, Seychelles",
+  "phone": "+2484355050",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 330,
+  "name": "Shanaz Beachside Retreat",
+  "address": "Anse Royale, Seychelles",
+  "phone": "+2482525349",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 331,
+  "name": "Green Blue Beach House",
+  "address": "Petite Barbarons, Anse Boileau Mahe Island, Seychelles",
+  "phone": "+2482718191",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 332,
+  "name": "Anse Norwa Self Catering",
+  "address": "Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 333,
+  "name": "The Seaboards Apartments Seychelles",
+  "address": "La Louise Mahe, La Louise, Seychelles",
+  "phone": "+2482718847",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 334,
+  "name": "Le Manglier Guest House",
+  "address": "Mare Anglaise, Mahé, Seychelles",
+  "phone": "+2482716665",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 335,
+  "name": "La residence Anse la mouche",
+  "address": "FAIRYLAND ANSE ROYALE, MAHE, Seychelles",
+  "phone": "+2482520808",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 336,
+  "name": "A Peace In Paradise",
+  "address": "W Coast Rd, Anse Boileau, Seychelles",
+  "phone": "+2484355050",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 337,
+  "name": "Le Relax Hotel \u0026 Restaurant",
+  "address": "E Coast Rd, Anse Royale, Seychelles",
+  "phone": "+2484397800",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 338,
+  "name": "Chez Odet Self Catering",
+  "address": "Beau Belle Apartment 2, Bel Ombre, Seychelles",
+  "phone": "+2482787161",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 339,
+  "name": "Lazare Picault Hotel",
+  "address": "Bel Ombre Rd, Bel Ombre, Seychelles",
+  "phone": "+2484247212",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 340,
+  "name": "Mountain View Villas",
+  "address": "Бо Валон, Beau Vallon, Seychelles",
+  "phone": "+2482511216",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 341,
+  "name": "Fairytern Chalets, Cerf Island",
+  "address": "Seychelles, Victoria, Glacis, Mahe",
+  "phone": "+2484261280",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 342,
+  "name": "Chalets des Vacances",
+  "address": "Sailfish Estate, Anse a la Mouche, Seychelles",
+  "phone": "+2482544221",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 343,
+  "name": "Mon Dezir",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 344,
+  "name": "Grace Self-Catering",
+  "address": "Pascal Village Road, Beau Vallon, Seychelles",
+  "phone": "+2484249100",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 345,
+  "name": "The Spot Eden Island",
+  "address": "Beauvallon Studios, La Batie, Beau Vallon, Seychelles",
+  "phone": "+2482718191",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 346,
+  "name": "VallonEnd Beachfront Villa",
+  "address": "Enchanted Waterfront, Roche Caiman Highway, Seychelles",
+  "phone": "+2482518496",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 347,
+  "name": "Kanasuk Self Catering Apartments",
+  "address": "Enchanted Island Resort, Round Island, Seychelles",
+  "phone": "+2484672727",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 348,
+  "name": "East Horizon Self-Catering",
+  "address": "Mount Simpson, Bel Ombre, Seychelles",
+  "phone": "+2484247239",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 349,
+  "name": "Orchid Sunset Guest House",
+  "address": "Serret Rd, Victoria, Seychelles",
+  "phone": "+2482526870",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 350,
+  "name": "Zeph Self Catering",
+  "address": "CC6P+46P Sorento, Mahe Island, Seychelles",
+  "phone": "+2482578039",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 351,
+  "name": "Precious Residence C",
+  "address": "Sans Soucis Road Bel Air (Junction Kan Tobourk, Victoria, Seychelles",
+  "phone": "+2482826888",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 352,
+  "name": "Jane's Serenity Guesthouse",
+  "address": "Carana, Macabee, Mahe Island, Seychelles",
+  "phone": "+2482539147",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 353,
+  "name": "Treasure Cove",
+  "address": "Mount Simpson, Bel Ombre, Seychelles",
+  "phone": "+2482525506",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 354,
+  "name": "Villa Kayola Self Catering Apartments",
+  "address": "Vista do Mar, Glacis, Seychelles",
+  "phone": "+2484261369",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 355,
+  "name": "Residence Argine Apartments - Seychelles",
+  "address": "Seychelles, Beau Vallon, Panorama Road",
+  "phone": "+2482523882",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 356,
+  "name": "Cap Sud Self-Catering",
+  "address": "N Coast Rd, Mare Anglaise, Seychelles",
+  "phone": "+2484247016",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 357,
+  "name": "HCS Bungalows",
+  "address": "Takamaka, Mahé, Seychelles",
+  "phone": "+2484366300",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 358,
+  "name": "Marl Self Catering",
+  "address": "N Coast Rd, Mare Anglaise, Seychelles",
+  "phone": "+2484247016",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 359,
+  "name": "Sun Resort",
+  "address": "Bel Ombre Rd, Beau Vallon, Seychelles",
+  "phone": "+2482536812",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 360,
+  "name": "Chez Payet",
+  "address": "Sainte Anne Island Sainte Anne, Victoria, Mahé Sainte Anne, Seychelles",
+  "phone": "+2484399600",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 361,
+  "name": "La Perle Noire Restaurant",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "+2484620220",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 362,
+  "name": "The Boat House Restaurant",
+  "address": "coastal road, Beau Vallon, Seychelles",
+  "phone": "+2484247898",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 363,
+  "name": "La Plage restaurant",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "+2484392200",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 364,
+  "name": "Ocean Beach Restaurant",
+  "address": "Coral Strand Rd, Beau Vallon, Seychelles",
+  "phone": "+2484392400",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 365,
+  "name": "Pescado",
+  "address": "Beau Vallon Beach, N Coast Rd, Beau Vallon, Seychelles",
+  "phone": "+2484620240",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 366,
+  "name": "Coral Asia",
+  "address": "STORY Seychelles Resort, Bel Ombre Rd, Beau Vallon, Seychelles",
+  "phone": "+2484387000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 367,
+  "name": "Traders Vic's Seychelles",
+  "address": "Beau Vallon Beach, Bel Ombre Rd, Beau Vallon, Seychelles",
+  "phone": "+2484387000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 368,
+  "name": "EDEN",
+  "address": "Coral Strand Rd, Beau Vallon, Seychelles",
+  "phone": "+2484392000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 369,
+  "name": "Gecko Bar",
+  "address": "Coral Strand Rd, Beau Vallon, Seychelles",
+  "phone": "+2482804805",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 370,
+  "name": "The Copper Pot",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 371,
+  "name": "Gran Kaz Belombre",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 372,
+  "name": "Ocean Deck Bar",
+  "address": "Market St, Victoria, Seychelles",
+  "phone": "+2484325545",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 373,
+  "name": "Bites for Health Snack Shop",
+  "address": "Bel Ombre, Seychelles",
+  "phone": "+2484247535",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 374,
+  "name": "Indian Restaurant",
+  "address": "Mare Anglaise, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 375,
+  "name": "Parrot",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "+2484247331",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 376,
+  "name": "Seyshima",
+  "address": "Mare Anglaise, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 377,
+  "name": "Green Coconut",
+  "address": "beau vallon beach, Beau Vallon, Seychelles",
+  "phone": "+2482815302",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 378,
+  "name": "Leo's restaurant",
+  "address": "St Louis Rd, Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 379,
+  "name": "Baobab Pizzeria",
+  "address": "Mare Anglaise, Mahe, Seychelles",
+  "phone": "+2482638161",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 380,
+  "name": "Ripples Pool Bar",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "+2482770433",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 381,
+  "name": "Chinese restaurant counter",
+  "address": "Bel Ombre Rd, Bel Ombre, Seychelles",
+  "phone": "+2484677000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 382,
+  "name": "Latino Tropical",
+  "address": "Bel Ombre Rd, Bel Ombre, Seychelles",
+  "phone": "+2484677000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 383,
+  "name": "Sisters Takeaway",
+  "address": "Beau Vallon Bay Victoria Mahe, Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 384,
+  "name": "Uncle Willi's Pizzeria",
+  "address": "Beach Road Beau Vallon, Beach, Seychelles",
+  "phone": "+27730473249",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 385,
+  "name": "Out of Africa Restaurant",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "+261327838132",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 386,
+  "name": "The Wok",
+  "address": "Coral Strand Rd, Beau Vallon, Seychelles",
+  "phone": "+2484247331",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 387,
+  "name": "Pizzeria",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 388,
+  "name": "Indian Tandoori counter",
+  "address": "Beau Vallon Bay Victoria Mahe, Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 389,
+  "name": "Beau Vallon Halal Bites (Oyaa Take Away)",
+  "address": "N Coast Rd, Mare Anglaise, Seychelles",
+  "phone": "+2484247167",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 390,
+  "name": "Joyful take away",
+  "address": "Bel Ombre Road, Beau Vallon, Bel Ombre Rd, Bel Ombre, Seychelles",
+  "phone": "+2484387000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 391,
+  "name": "La Scala",
+  "address": "Coral Strand Rd, Beau Vallon, Seychelles",
+  "phone": "+2482529412",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 392,
+  "name": "1502 Bar",
+  "address": "Gran Kaz House Belombre Belombre Mahe, Beau Vallon, Seychelles",
+  "phone": "+2484303476",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 393,
+  "name": "Marie Antoinette",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 394,
+  "name": "Sand Station Beach Bar",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 395,
+  "name": "Silhouette Bar",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "+2484285555",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 396,
+  "name": "A Taste of Italy",
+  "address": "Bel Ombre Rd, Beau Vallon, Seychelles",
+  "phone": "+2484387000",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 397,
+  "name": "Mama Rosa",
+  "address": "Beau Vallon, Victoria, Seychelles",
+  "phone": "+2482768323",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 398,
+  "name": "Beau Vallon Street Shopping",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 399,
+  "name": "Oj Mall",
+  "address": "La, Plaisance, Seychelles",
+  "phone": "+2484344585",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 400,
+  "name": "Orion Mall",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 401,
+  "name": "Mohan Shopping Centre",
+  "address": "Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 402,
+  "name": "Veni Shopping Centre",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 403,
+  "name": "Kamatchi Shopping Centre",
+  "address": "Palm St, Victoria, Seychelles",
+  "phone": "+2484324488",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 404,
+  "name": "RM Valli Shop",
+  "address": "Providence, Seychelles",
+  "phone": "+2482772073",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 405,
+  "name": "CHEZ AMI SHOP",
+  "address": "E Coast Rd, Anse Royale, Seychelles",
+  "phone": "+2482716885",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 406,
+  "name": "M.D.Pillai Shopping Center",
+  "address": "Victoria, Seychelles",
+  "phone": "+78123896679",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 407,
+  "name": "Eden Plaza",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 408,
+  "name": "The Quadrant",
+  "address": "Eden Plaza, Eden island, Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 409,
+  "name": "Bois De Rose Shopping Complex",
+  "address": "Harrison St, Victoria, Seychelles",
+  "phone": "+2482501056",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 410,
+  "name": "Koral Souvenir Boutique",
+  "address": "Srinivas Complex, Market St, Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 411,
+  "name": "Beau vallon super market",
+  "address": "9FH3+J7H Huteau Lane Complex, Victoria, Seychelles",
+  "phone": "+2482533051",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 412,
+  "name": "Bazar Labrin Markt",
+  "address": "9F5G+QGQ Eden Island, Providence, Seychelles",
+  "phone": "+2482514068",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 413,
+  "name": "Veni shopping center",
+  "address": "Beau Vallon, Victoria, Seychelles",
+  "phone": "+2482588421",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 414,
+  "name": "KV Shopping Center",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "+2484247331",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 415,
+  "name": "Leniol SuperMarket",
+  "address": "Independence Ave, Victoria, Seychelles",
+  "phone": "+2484225826",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 416,
+  "name": "Leniol SuperMarket",
+  "address": "Palm St, Victoria, Seychelles",
+  "phone": "+2482530103",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 417,
+  "name": "SMS Shopping Centre",
+  "address": "Bel Ombre Rd, Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 418,
+  "name": "SRISHA - Eden Plaza - Seychelles",
+  "address": "Unit K5, FSA, Bois de Rose Ave, Mahe, Seychelles",
+  "phone": "+2484387926",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 419,
+  "name": "Kavi Shopping Center",
+  "address": "N Coast Rd, Beau Vallon, Seychelles",
+  "phone": "+2482526051",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 420,
+  "name": "BEAU VALLON MINI STORE",
+  "address": "Berjaya Hotel, Beau Vallon, Seychelles",
+  "phone": "+2484247165",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 421,
+  "name": "Big Blue Divers",
+  "address": "Plaisance, Victoria, Seychelles",
+  "phone": "+2482524626",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 422,
+  "name": "Sekaar Les Canelles",
+  "address": "Eden Plaza Mahe Eden Island, Providence, Seychelles",
+  "phone": "+2484346600",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 423,
+  "name": "Taluha garden center",
+  "address": "Chem. Le Niol, Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 424,
+  "name": "Victoria Sports Centre (Pty) Ltd",
+  "address": "9F5G+MFP Eden Island, Providence, Seychelles",
+  "phone": "+2484346838",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 425,
+  "name": "Amazon Betting - Top Up Center",
+  "address": "N Coast Rd, Beau Vallon, Seychelles",
+  "phone": "+2484324999",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 426,
+  "name": "Saluha Garden Centre",
+  "address": "9F5G+PF5 Eden Plaza, Providence, Seychelles",
+  "phone": "+2482526524",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 427,
+  "name": "La Perle Noire Restaurant",
+  "address": "Coral Strand Rd, Beau Vallon, Seychelles",
+  "phone": "+2482557409",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 428,
+  "name": "Visioncare",
+  "address": "9F5G+RFX Eden Plaza, Providence, Seychelles",
+  "phone": "+2484346838",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 429,
+  "name": "SPAR Foodmart",
+  "address": "Providence Industrial Estate, POBOX 1683, Victoria, Seychelles",
+  "phone": "+2482787414",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 430,
+  "name": "La Palme D'Or",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "+2484620220",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 431,
+  "name": "Atoll Divers",
+  "address": "Providence Hwy, Providence, Seychelles",
+  "phone": "+2482638839",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 432,
+  "name": "Billabong",
+  "address": "Riverside PointVictoria Box 209, Victoria, Seychelles",
+  "phone": "+2484322792",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 433,
+  "name": "SPAR Super Market - Eden Plaza Mall",
+  "address": "Albert St, Victoria, Seychelles",
+  "phone": "+2484322569",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 434,
+  "name": "EDEN PHARMACY",
+  "address": "Les Canelles Rd, Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 435,
+  "name": "Kreolor Eden Plaza",
+  "address": "Les Canelles Rd, Anse Royale, Seychelles",
+  "phone": "+2482512655",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 436,
+  "name": "Just4u",
+  "address": "5 Eden Plaza, Eden Island, Seychelles",
+  "phone": "+2484303705",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 437,
+  "name": "GSC ONLINE STORE",
+  "address": "Eden Island, Providence, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 438,
+  "name": "Dans Gallas Trail",
+  "address": "North Coast Rd Mare Anglaise, Beau Vallon, Seychelles",
+  "phone": "+2482511103",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 439,
+  "name": "Vallon Beach",
+  "address": "Beau Vallon, MAHE, Seychelles",
+  "phone": "+2482515473",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 440,
+  "name": "Dive Seychelles Underwater Centre",
+  "address": "N Coast Rd, Beau Vallon, Seychelles",
+  "phone": "+2484247575",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 441,
+  "name": "Mega Sound Centre",
+  "address": "La Batie Road, Mare Anglaise, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 442,
+  "name": "GLOBAL SUPPLY CENTRE",
+  "address": "LE-NIOLE, Beau Vallon, Seychelles",
+  "phone": "+2484266986",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 443,
+  "name": "coorperative des artisans Seychelles",
+  "address": "Coral Strand Rd, Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 444,
+  "name": "Freediving Seychelles",
+  "address": "LE-NIOLE, Beau Vallon, Seychelles",
+  "phone": "+2484266986",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 445,
+  "name": "Quiksilver",
+  "address": "Anse Aux Pins, Central, Seychelles",
+  "phone": "+2482833388",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 446,
+  "name": "Home Electronics Service Center",
+  "address": "Pointe Au Sel, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 447,
+  "name": "Coco D'or Hotel",
+  "address": "Coral Strand Rd, Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 448,
+  "name": "Bo'Valon Mall",
+  "address": "Mahe, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 449,
+  "name": "Srinivas Complex",
+  "address": "Bois de Rose Ave, Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 450,
+  "name": "Premiere Building",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 451,
+  "name": "Michael Kors",
+  "address": "Providence, Seychelles",
+  "phone": "+2484346814",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 452,
+  "name": "Morne Blanc Trail",
+  "address": "Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 453,
+  "name": "Venn's Town - Mission Lodge",
+  "address": "Cap Ternay, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 454,
+  "name": "Saint-Anne Marine National Park",
+  "address": "Chem. Le Niol, Beau Vallon, Seychelles",
+  "phone": "3135751485",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 455,
+  "name": "Baie Ternay Marine National Park",
+  "address": "Chem. Le Niol, Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 456,
+  "name": "Victoria Botanical Gardens",
+  "address": "Sans Soucis Rd, Victoria, Seychelles",
+  "phone": "+2484670537",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 457,
+  "name": "Semi-Submarine Seychelles",
+  "address": "Petite Anse, Anse Soleil, Seychelles",
+  "phone": "+2482605462",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 458,
+  "name": "Morne Seychelles National Park",
+  "address": "St Louis Rd, Beau Vallon, Seychelles",
+  "phone": "+2482530779",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 459,
+  "name": "Jardin du Roi Spice Garden",
+  "address": "La Misere Rd, Seychelles",
+  "phone": "+2482564259",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 460,
+  "name": "Beau Vallon",
+  "address": "Flamboyant Ave, Victoria, Seychelles",
+  "phone": "+2484225878",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 461,
+  "name": "Arul Mihu Navasakthi Vinayagar Temple அருள்மிகு நவசக்தி விநாயகர் ஆலயம்",
+  "address": "coastal road, Beau Vallon, Seychelles",
+  "phone": "+2484247898",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 462,
+  "name": "Vallée de Mai, Praslin, Seychelles",
+  "address": "La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 463,
+  "name": "Anse St. Jose",
+  "address": "Port Launay Rd, Mahe, Seychelles",
+  "phone": "+2482518864",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 464,
+  "name": "Anse Marron",
+  "address": "Flamboyant Ave, Victoria, Seychelles",
+  "phone": "+2484297165",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 465,
+  "name": "Anse Bonnet Carre",
+  "address": "Beau Vallon, Seychelles",
+  "phone": "+2484247331",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 466,
+  "name": "Tea Factory",
+  "address": "Bel Ombre, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 467,
+  "name": "Flying fox. you can give food to this fox.",
+  "address": "Flamboyant Ave, Victoria, Seychelles",
+  "phone": "+2482525250",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 468,
+  "name": "Sir Selwyn Selwyn-Clarke Market",
+  "address": "Anse La-Mouche, Mahe, Seychelles",
+  "phone": "+2484372057",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 469,
+  "name": "Casse Dent Trail",
+  "address": "Beau Vallon, Victoria, Seychelles",
+  "phone": "+2482588421",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 470,
+  "name": "Dive Seychelles Underwater Centre",
+  "address": "Mare Anglaise, Mahe, Seychelles",
+  "phone": "+2482638161",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 471,
+  "name": "Anse Caiman",
+  "address": "Mare Anglaise, Mahe, Seychelles",
+  "phone": "+2482535626",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 472,
+  "name": "Anse Source d'Argent",
+  "address": "Coral Strand Rd, Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 473,
+  "name": "Anse Patates",
+  "address": "Coral Strand Rd, Beau Vallon, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 474,
+  "name": "National Museum of History",
+  "address": "North Coast Rd Mare Anglaise, Beau Vallon, Seychelles",
+  "phone": "+2482511103",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 475,
+  "name": "Immaculate Conception",
+  "address": "E Coast Rd, Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 476,
+  "name": "Blue Sea Divers Seychelles",
+  "address": "E Coast Rd, Anse Royale, Seychelles",
+  "phone": "+2484283737",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 477,
+  "name": "Baie Beau Vallon",
+  "address": "Coral Strand Rd, Beau Vallon, Seychelles",
+  "phone": "+2482557409",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 478,
+  "name": "Vasco Tours , Seychellen",
+  "address": "Petit Pari, Mahe, Seychelles",
+  "phone": "+2482537930",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 479,
+  "name": "Anse Royale Beach",
+  "address": "N Coast Rd, Beau Vallon, Seychelles",
+  "phone": "+2482526051",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 480,
+  "name": "La Plaine St. Andre",
+  "address": "Silhouette, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 481,
+  "name": "Bazar Labrin Markt",
+  "address": "La Digue Island Lodge, L'Union Estate, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 482,
+  "name": "Beau Vallon",
+  "address": "Olivier Maradan St, Victoria, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 483,
+  "name": "Anse Major",
+  "address": "Cap Samy, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 484,
+  "name": "Beau Vallon Boat Excursions",
+  "address": "La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 485,
+  "name": "Geoli Charters, Glass Bottom Boat \u0026 Private Charters",
+  "address": "Baie Ste Anne, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 486,
+  "name": "Roots Seychelles",
+  "address": "La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 487,
+  "name": "Pier Ward",
+  "address": "Berjaya Hotel, Beau Vallon, Seychelles",
+  "phone": "+2484247165",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 488,
+  "name": "Freediving Seychelles",
+  "address": "Mercury House, Francis Rachel Street, Francis Rachel St, Victoria, Seychelles",
+  "phone": "+2484224424",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 489,
+  "name": "Beach Shak Seychelles",
+  "address": "N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 490,
+  "name": "Dive Resort Seychelles",
+  "address": "Market St, Victoria, Seychelles",
+  "phone": "+2484225970",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 491,
+  "name": "Ocean dream divers",
+  "address": "Beau Vallon, Victoria, Seychelles",
+  "phone": "+2482570232",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 492,
+  "name": "Seyferry",
+  "address": "Bel Ombre, Seychelles",
+  "phone": "+2482592381",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 493,
+  "name": "Police Bay",
+  "address": "Anse Royale, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 494,
+  "name": "Pointe Au Sel",
+  "address": "Rivière L'Isletta,, N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 495,
+  "name": "Plaisance Ward",
+  "address": "Unnamed Road,, La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 496,
+  "name": "Surfari Seychelles",
+  "address": "Анс Боне Кар, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 497,
+  "name": "Le Vasseur La Buse Eco Resort",
+  "address": "La Digue, Seychelles",
+  "phone": "+2482525357",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 498,
+  "name": "Coco D'or Hotel",
+  "address": "Grand Anse, Seychelles",
+  "phone": "+2484237316",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 499,
+  "name": "Cat Cocos Berth",
+  "address": "All. Kersley, La Digue, Seychelles",
+  "phone": "+2484234240",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 500,
+  "name": "Hilton Labriz Jetty",
+  "address": "La Digue, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 501,
+  "name": "Smac Adventures",
+  "address": "Victoria, Seychelles",
+  "phone": "+2484324701",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 502,
+  "name": "Mason’s Travel",
+  "address": "Grand Anse, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 503,
+  "name": "L'Union Estate",
+  "address": "Pointe Au Sel, Seychelles",
+  "phone": "+2484376100",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 504,
+  "name": "Anse Aux Pins",
+  "address": "Beau Vallon, Victoria, Seychelles",
+  "phone": "+2482570232",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 505,
+  "name": "The Boat House Restaurant",
+  "address": "Victoria, Seychelles",
+  "phone": "+2484324701",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 506,
+  "name": "Amusement Centre",
+  "address": "Baie Ste Anne, Seychelles",
+  "phone": "+2484236220",
+  "country-code": "SC",
+  "country": "Seychelles"
+ },
+ {
+  "id": 507,
+  "name": "Peppermint Spa",
+  "address": "N.Y.S. Village, Seychelles",
+  "phone": "",
+  "country-code": "SC",
+  "country": "Seychelles"
+ }
+]

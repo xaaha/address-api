@@ -1,0 +1,6602 @@
+[
+ {
+  "id": 1,
+  "name": "Hotel Onyx",
+  "address": "124/1 Turusbekov St, Bishkek 720054, Kyrgyzstan",
+  "phone": "1241720054",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 2,
+  "name": "My Hotel Bishkek",
+  "address": "148B Kievskaya Str, 720001, Kyrgyzstan",
+  "phone": "148720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 3,
+  "name": "Hyatt Regency Bishkek",
+  "address": "Chui 121 Чуй 121 Бишкек, 121 Chuy Ave, Bishkek 720033, Kyrgyzstan",
+  "phone": "121121121720033",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 4,
+  "name": "Sheraton Bishkek",
+  "address": "60 Mukay Elebaev St, Bishkek 720005, Kyrgyzstan",
+  "phone": "60720005",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 5,
+  "name": "Novotel Bishkek City Center",
+  "address": "52 Togolok Moldo St, Bishkek 720044, Kyrgyzstan",
+  "phone": "52720044",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 6,
+  "name": "\"ololoFreelander Work and Travel Hostel\"",
+  "address": "210 Kiev St, Bishkek, Kyrgyzstan",
+  "phone": "+996556962000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 7,
+  "name": "Golden Dragon Hotel",
+  "address": "10 Kalyk Akiev St, Bishkek, Kyrgyzstan",
+  "phone": "+996312454023",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 8,
+  "name": "Inter Hotel Bishkek",
+  "address": "16 Manas Ave, Bishkek 720010, Kyrgyzstan",
+  "phone": "16720010",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 9,
+  "name": "Plaza Hotel Bishkek",
+  "address": "191 Yusup Abdrahmanov St, Bishkek 720011, Kyrgyzstan",
+  "phone": "191720011",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 10,
+  "name": "Bridges Hotel",
+  "address": "Чуйкова, 185 Бишкек, 720010, Kyrgyzstan",
+  "phone": "185720010",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 11,
+  "name": "Park Hotel",
+  "address": "15а Krivonosov Street, Bishkek, Kyrgyzstan",
+  "phone": "+996995906909",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 12,
+  "name": "Grand Hotel",
+  "address": "351 Pobedy Ave, Lebedinovka, Kyrgyzstan",
+  "phone": "+996312617148",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 13,
+  "name": "\"Strelets\" Hotel",
+  "address": "99А Ulitsa Belorusskaya, Bishkek, Kyrgyzstan",
+  "phone": "+996553310390",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 14,
+  "name": "Ramada by Wyndham Bishkek Centre",
+  "address": "128 улица Феликса Дзержинского Бишкек, 720040, Kyrgyzstan",
+  "phone": "128720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 15,
+  "name": "Hotel Soluxe Bishkek",
+  "address": "Janylyk 70 Bishkek, 720072, Kyrgyzstan",
+  "phone": "70720072",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 16,
+  "name": "Rich Hotel",
+  "address": "82 улица Пишпекская, Bishkek, Kyrgyzstan",
+  "phone": "+996703048774",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 17,
+  "name": "Golden Hotel",
+  "address": "1 Sel'sovetskaya, Bishkek, Kyrgyzstan",
+  "phone": "+996554631212",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 18,
+  "name": "Bishkek Centrum Hotel",
+  "address": "Orienburgsky Pereulok 31, Bishkek 720000, Kyrgyzstan",
+  "phone": "31720000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 19,
+  "name": "City Hotel Bishkek",
+  "address": "9 Pereulok Olega Koshevogo, Bishkek 720005, Kyrgyzstan",
+  "phone": "+996707204402",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 20,
+  "name": "Ambassador Hotel",
+  "address": "123 Abdykerim Sydykov St, Bishkek 720040, Kyrgyzstan",
+  "phone": "123720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 21,
+  "name": "Orion Hotel Bishkek",
+  "address": "Kubanskyi 46, Bishkek 720000, Kyrgyzstan",
+  "phone": "46720000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 22,
+  "name": "Apple Hostel Bishkek",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996703771693",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 23,
+  "name": "Orion Hotel Bishkek",
+  "address": "st. Gorky 156, 720052, Kyrgyzstan",
+  "phone": "156720052",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 24,
+  "name": "Hotel \"Evropa\"",
+  "address": "1/4 Baitik Baatyr St, Bishkek, Kyrgyzstan",
+  "phone": "+996995178797",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 25,
+  "name": "Apple Hostel Bishkek",
+  "address": "141, Sagynbai Manaschy, 720040, Kyrgyzstan",
+  "phone": "141720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 26,
+  "name": "Terrasse Hotel",
+  "address": "35 Baitik Baatyr St, Bishkek, Kyrgyzstan",
+  "phone": "+996509442002",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 27,
+  "name": "Rich Hotel",
+  "address": "109 Mederova St, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 28,
+  "name": "Sara Boutique Hotel",
+  "address": "41 Ulitsa A. Radishcheva, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 29,
+  "name": "DAMAS Hotel",
+  "address": "108 көчөсү Ибраимова, Bishkek 720011, Kyrgyzstan",
+  "phone": "108720011",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 30,
+  "name": "Hotel Soluxe Bishkek",
+  "address": "улица Радищева 22, г.Бишкек 720005, Kyrgyzstan",
+  "phone": "22720005",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 31,
+  "name": "B Hotel Bishkek",
+  "address": "Ул. Малдыбаева 69 Бишкек, 720020, Kyrgyzstan",
+  "phone": "69720020",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 32,
+  "name": "Madison ave Hotel Bishkek",
+  "address": "21/2 Aaly Tokombayev St, Bishkek 720060, Kyrgyzstan",
+  "phone": "212720060",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 33,
+  "name": "Salut",
+  "address": "1 Lineynaya St, Bishkek, Kyrgyzstan",
+  "phone": "+996312986148",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 34,
+  "name": "Eva At Home - Bishkek",
+  "address": "Удмуртская 13 Бишкек, 720022, Kyrgyzstan",
+  "phone": "13720022",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 35,
+  "name": "Solutel Hotel",
+  "address": "Kurenkeeva Street 186, Bishkek 720040, Kyrgyzstan",
+  "phone": "186720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 36,
+  "name": "Smart Hotel Bishkek",
+  "address": "Panfilova 60 Bishkek, 720011, Kyrgyzstan",
+  "phone": "60720011",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 37,
+  "name": "Hotel \"Koisha\"",
+  "address": "1A, 720021, Lineinaya Str, Bishkek, Kyrgyzstan",
+  "phone": "+996312986148",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 38,
+  "name": "Urban Hotel",
+  "address": "Радищева 25, Bishkek 720005, Kyrgyzstan",
+  "phone": "25720005",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 39,
+  "name": "281 Hotel \u0026 Hostel",
+  "address": "454 Frunze Street, Bishkek 720010, Kyrgyzstan",
+  "phone": "454720010",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 40,
+  "name": "Garden Hotel Bishkek",
+  "address": "129 Gorky St, Bishkek 720052, Kyrgyzstan",
+  "phone": "129720052",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 41,
+  "name": "ADI Hotel Bishkek",
+  "address": "Emilbek Ailchiev 61 Bishkek, 720044, Kyrgyzstan",
+  "phone": "61720044",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 42,
+  "name": "Club-Hotel Flagman",
+  "address": "166 А Kasymaly Bayalinov St, Bishkek 720014, Kyrgyzstan",
+  "phone": "166720014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 43,
+  "name": "Kaganat Hostel",
+  "address": "162 Manas St, Bishkek 720014, Kyrgyzstan",
+  "phone": "162720014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 44,
+  "name": "WakeUp Bishkek",
+  "address": "ул. Лебедева-Кумача, 35-А, город Бишкек, Кыргызстан дом 35-А, 720035, Bishkek, Kyrgyzstan",
+  "phone": "3535720035",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 45,
+  "name": "TourAsia",
+  "address": "129 Gorky St, Bishkek 720052, Kyrgyzstan",
+  "phone": "129720052",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 46,
+  "name": "Shah Palace Hotel",
+  "address": "141 Gorky St, Bishkek, Kyrgyzstan",
+  "phone": "+996312986986",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 47,
+  "name": "VIVA Hostel",
+  "address": "127 Chuy Ave, apartment 132, entrance # 5, call 132B, Bishkek, Kyrgyzstan",
+  "phone": "1271325132",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 48,
+  "name": "Hotel Alpinist Bishkek",
+  "address": "122 Ulitsa Mikhaila Frunze, Bishkek 720022, Kyrgyzstan",
+  "phone": "122720022",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 49,
+  "name": "Gastello Hotel",
+  "address": "245/1 office 4 Chuy Ave, Bishkek 720001, Kyrgyzstan",
+  "phone": "24514720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 50,
+  "name": "SilkRoad Guesthouse",
+  "address": "21 Abay St, Bishkek, Kyrgyzstan",
+  "phone": "+996772563956",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 51,
+  "name": "Central Park Resident 2022 Opening",
+  "address": "551 Frunze Street, Bishkek, Kyrgyzstan",
+  "phone": "+996500042245",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 52,
+  "name": "Central Park Resident Hotel 2023",
+  "address": "Chui 121 Чуй 121 Бишкек, 121 Chuy Ave, Bishkek 720033, Kyrgyzstan",
+  "phone": "121121121720033",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 53,
+  "name": "DE'MAR Hotel",
+  "address": "матросова 94 Бишкек, 720031, Kyrgyzstan",
+  "phone": "94720031",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 54,
+  "name": "Silk road Lodge",
+  "address": "70 Baitik Baatyr St, Bishkek, Kyrgyzstan",
+  "phone": "+996312545327",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 55,
+  "name": "White Hotel \u0026 Hostel",
+  "address": "40 Abay St, Bishkek 720005, Kyrgyzstan",
+  "phone": "40720005",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 56,
+  "name": "Hotel Kausar",
+  "address": "120 Bokonbayev St, Bishkek 720040, Kyrgyzstan",
+  "phone": "120720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 57,
+  "name": "SK Hotel",
+  "address": "60 Tyumenskaya, Bishkek, Kyrgyzstan",
+  "phone": "+996508882088",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 58,
+  "name": "Отель Salut",
+  "address": "131 Turusbekov St, Bishkek 720014, Kyrgyzstan",
+  "phone": "131720014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 59,
+  "name": "Camelot Hotel.",
+  "address": "1-a Lineinaya Str, Bishkek, Kyrgyzstan",
+  "phone": "+996312690235",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 60,
+  "name": "Aurum hotel",
+  "address": "51 Kurganskaya Street Бишкек, 720033, Kyrgyzstan",
+  "phone": "51720033",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 61,
+  "name": "Astoria Garden",
+  "address": "88/2 Turusbekov St, Bishkek, Kyrgyzstan",
+  "phone": "+996500605065",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 62,
+  "name": "Sweet Home Hostel",
+  "address": "105 улица Чокморова, Bishkek 720040, Kyrgyzstan",
+  "phone": "105720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 63,
+  "name": "Lulu",
+  "address": "41 Ulitsa K. Shoorukova, Bishkek, Kyrgyzstan",
+  "phone": "+996999535300",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 64,
+  "name": "Hotel Apartment Al-Salam",
+  "address": "3/1 Sverdlovskiy Pereulok, Bishkek 720054, Kyrgyzstan",
+  "phone": "31720054",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 65,
+  "name": "Olive Hotel Bishkek",
+  "address": "47 Ak-Muz, Bishkek 720030, Kyrgyzstan",
+  "phone": "47720030",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 66,
+  "name": "Lumarc Hotel",
+  "address": "203 Pushkin St, Bishkek 720054, Kyrgyzstan",
+  "phone": "203720054",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 67,
+  "name": "Ocean Hotel",
+  "address": "105 9 улица Чокморова, Bishkek 720040, Kyrgyzstan",
+  "phone": "1059720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 68,
+  "name": "USSR Hostel",
+  "address": "113 Panfilov St, Bishkek, Kyrgyzstan",
+  "phone": "+996312595647",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 69,
+  "name": "Отель \"AlbatrosHotel\"",
+  "address": "6 Koyonkozov St, Bishkek 720017, Kyrgyzstan",
+  "phone": "+996312315315",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 70,
+  "name": "Lavitor hotel",
+  "address": "Kyrgyzstan, Bishkek, Ulitsa Koenkozova 110",
+  "phone": "+996709986822",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 71,
+  "name": "Hotel Onyx",
+  "address": "184 Abdykerim Sydykov St, Bishkek 720010, Kyrgyzstan",
+  "phone": "184720010",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 72,
+  "name": "Ayar Hostel Bishkek",
+  "address": "139 Logvinenko St, Bishkek 720000, Kyrgyzstan",
+  "phone": "139720000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 73,
+  "name": "Deluxe Hotel",
+  "address": "улица Пушкина 207 Бишкек, 720054, Kyrgyzstan",
+  "phone": "207720054",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 74,
+  "name": "Small Hotel",
+  "address": "Абдрахманова 281 Бишкек, 720001, Kyrgyzstan",
+  "phone": "281720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 75,
+  "name": "Center Hotel",
+  "address": "115 улица Медерова, Bishkek 720052, Kyrgyzstan",
+  "phone": "115720052",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 76,
+  "name": "Lotos Guest House",
+  "address": "Проспект Манаса пересекается Токтогула , Манаса 41 а , бизнес центр Адмирал Бишкек, 720001, Kyrgyzstan",
+  "phone": "41720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 77,
+  "name": "Garden Hotel \u0026 SPA",
+  "address": "204 Yusup Abdrahmanov St, Bishkek 720040, Kyrgyzstan",
+  "phone": "204720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 78,
+  "name": "Asia Mountains",
+  "address": "Kiev St, Bishkek, Kyrgyzstan",
+  "phone": "+996550300047",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 79,
+  "name": "Astor Hotel",
+  "address": "210 Kiev St, Bishkek, Kyrgyzstan",
+  "phone": "+996556962000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 80,
+  "name": "Futuro Hotel Bishkek",
+  "address": "720040, 15 Orozbekov St, Bishkek 720040, Kyrgyzstan",
+  "phone": "72004015720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 81,
+  "name": "InCity HOTEL",
+  "address": "3 Etazh, 262 Moskovskaya Street, Bishkek 720010, Kyrgyzstan",
+  "phone": "3262720010",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 82,
+  "name": "Centre Hostel",
+  "address": "79 Yakov Logvinenko St, Bishkek 720033, Kyrgyzstan",
+  "phone": "79720033",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 83,
+  "name": "Jannat Regency Hotel",
+  "address": "1 Gogol St, Bishkek 720021, Kyrgyzstan",
+  "phone": "+996553807172",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 84,
+  "name": "Oasis Residence",
+  "address": "101 Musy Baetova, Bishkek, Kyrgyzstan",
+  "phone": "+996770775590",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 85,
+  "name": "A Hotel Bishkek",
+  "address": "107 Zhumabek, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 86,
+  "name": "Downtown Hostel",
+  "address": "117, 720010 Kalyk Akiev St, Bishkek, Kyrgyzstan",
+  "phone": "117720010",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 87,
+  "name": "Asia Mountains",
+  "address": "Кулиева 51 Бишкек Бишкек, 720010, Kyrgyzstan",
+  "phone": "51720010",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 88,
+  "name": "Tiny Hotel Bishkek",
+  "address": "17 fl, 17 fl 165 улица Токтогула Бишкек, 165 Toktogul Street, Bishkek 720001, Kyrgyzstan",
+  "phone": "1717165165720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 89,
+  "name": "Bodo Hostel",
+  "address": "Chymkentskaya 1B, Bishkek 720030, Kyrgyzstan",
+  "phone": "+996553280881",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 90,
+  "name": "Hostel Edem Bishkek",
+  "address": "Timiryazeva Street 111, Bishkek 720001, Kyrgyzstan",
+  "phone": "111720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 91,
+  "name": "Nomad Inn",
+  "address": "190, Abdrakhmanov Street, 720040, Kyrgyzstan",
+  "phone": "190720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 92,
+  "name": "People Hostel",
+  "address": "Chymkentskaya 1B, Bishkek 720030, Kyrgyzstan",
+  "phone": "+996553280881",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 93,
+  "name": "iO Hotel",
+  "address": "34/1 Baytik Baatir st, Bishkek, Kyrgyzstan",
+  "phone": "+996777991555",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 94,
+  "name": "Roshcha 7",
+  "address": "70 Ibraimova str. /Toktogula, Bishkek 720021, Kyrgyzstan",
+  "phone": "70720021",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 95,
+  "name": "Asia Hotel Kyrgyzstan",
+  "address": "21 Erkindik Ave, Bishkek 720040, Kyrgyzstan",
+  "phone": "21720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 96,
+  "name": "Compass Hostel Sydykova",
+  "address": "21 Erkindik Ave, Bishkek 720040, Kyrgyzstan",
+  "phone": "21720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 97,
+  "name": "Tunduk Hostel",
+  "address": "32 Orozbekov St, Bishkek 720040, Kyrgyzstan",
+  "phone": "32720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 98,
+  "name": "Adilet",
+  "address": "117, 720010 Kalyk Akiev St, Bishkek, Kyrgyzstan",
+  "phone": "117720010",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 99,
+  "name": "Discovery Hotel",
+  "address": "Timiryazeva Street 111, Bishkek 720001, Kyrgyzstan",
+  "phone": "111720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 100,
+  "name": "Arzu Restaurant",
+  "address": "140 Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996707330105",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 101,
+  "name": "Baan Baan Thai Cafe",
+  "address": "193a Tynystanov St, Bishkek, Kyrgyzstan",
+  "phone": "+996778886644",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 102,
+  "name": "Cyclone",
+  "address": "136 Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996700533633",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 103,
+  "name": "Frunze restaurant",
+  "address": "103 Moskovskaya Street, Bishkek, Kyrgyzstan",
+  "phone": "+996312665151",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 104,
+  "name": "Meat Point",
+  "address": "Борбордук Азиядагы Америка Университети 205 Абдымомунов көчөсү Бишкек, 720040, Kyrgyzstan",
+  "phone": "205720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 105,
+  "name": "Red Cow",
+  "address": "158 Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996999000055",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 106,
+  "name": "Vinoteka",
+  "address": "17/1 Togolok Moldo St, Bishkek 720001, Kyrgyzstan",
+  "phone": "171720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 107,
+  "name": "Pishpek",
+  "address": "93 Shopokov St, Bishkek 720000, Kyrgyzstan",
+  "phone": "93720000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 108,
+  "name": "Torro Grill \u0026 Bar",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996700624902",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 109,
+  "name": "Chef. Tenishev's Restaurant",
+  "address": "1 Moskovskaya Street, Bishkek 720000, Kyrgyzstan",
+  "phone": "+996500632786",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 110,
+  "name": "Pardes Cafe \u0026 Resturant",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 111,
+  "name": "Nar Restaurant",
+  "address": "100 Turusbekov St, Bishkek, Kyrgyzstan",
+  "phone": "+996551831111",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 112,
+  "name": "Etiler Steakhouse",
+  "address": "24 Panfilova, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 113,
+  "name": "Omar Ne Hayam",
+  "address": "Алматинский 150а, Бишкек, Bishkek, Kyrgyzstan",
+  "phone": "+996700555246",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 114,
+  "name": "SANJYRA Restaurant And Chaikhana",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996312620449",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 115,
+  "name": "Casa Italia",
+  "address": "Abdrakhmanov 137 Bishkek, 720000, Kyrgyzstan",
+  "phone": "137720000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 116,
+  "name": "Furusato",
+  "address": "1а Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996700969755",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 117,
+  "name": "Pur:Pur",
+  "address": "137 Yusup Abdrahmanov St, Bishkek, Kyrgyzstan",
+  "phone": "+996770543985",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 118,
+  "name": "Barashek",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996702001005",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 119,
+  "name": "Yusa",
+  "address": "116a Akhunbayev St, Bishkek, Kyrgyzstan",
+  "phone": "+996312543984",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 120,
+  "name": "Oblako53",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996706552000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 121,
+  "name": "DASMIA restaurant",
+  "address": "107 Kiev St, Bishkek 720001, Kyrgyzstan",
+  "phone": "107720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 122,
+  "name": "Dolce Vita - Bishkek Park",
+  "address": "204 Usup Abdrahmanov St, Bishkek, Kyrgyzstan",
+  "phone": "+996555255543",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 123,
+  "name": "Niko",
+  "address": "101 Bokonbayev St, Bishkek, Kyrgyzstan",
+  "phone": "+996501910900",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 124,
+  "name": "Time Out Restaurant",
+  "address": "Abdumomunov St, Bishkek, Kyrgyzstan",
+  "phone": "+996770114343",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 125,
+  "name": "Saltanat Restaurant",
+  "address": "31 Turusbekov St, Bishkek, Kyrgyzstan",
+  "phone": "+996709317879",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 126,
+  "name": "Cafe De Paris",
+  "address": "98/2 Yunusaliev Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996553300200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 127,
+  "name": "Gandhi Indian Restaurant \u0026 Lounge",
+  "address": "11 Тоголок молдо28, Bishkek, Kyrgyzstan",
+  "phone": "+996312882603",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 128,
+  "name": "Чайхана NAVAT",
+  "address": "125 Toktogul Street, Bishkek, Kyrgyzstan",
+  "phone": "+996704804444",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 129,
+  "name": "Silla",
+  "address": "1 Gorky St, Bishkek, Kyrgyzstan",
+  "phone": "+996777585857",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 130,
+  "name": "Sushi Room",
+  "address": "60 Ulitsa Elebayeva, Bishkek, Kyrgyzstan",
+  "phone": "+996777922002",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 131,
+  "name": "Zaandukki",
+  "address": "51 Orozbekov St, Bishkek 720042, Kyrgyzstan",
+  "phone": "51720042",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 132,
+  "name": "Crostini Restaurant",
+  "address": "Kiyevskaya Umiteleva street, Bishkek, Kyrgyzstan",
+  "phone": "+996555234057",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 133,
+  "name": "CHICKEN STAR",
+  "address": "153 Kiev St, Bishkek, Kyrgyzstan",
+  "phone": "+996500447733",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 134,
+  "name": "Welcome Cafe",
+  "address": "23, 5/1A, Bishkek, Kyrgyzstan",
+  "phone": "+996700244844",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 135,
+  "name": "Sushi and Pasta",
+  "address": "333 Pobedy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996550555999",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 136,
+  "name": "Morya Oyster Bar",
+  "address": "Турусбекова/Жибек Жолу, Bishkek 720000, Kyrgyzstan",
+  "phone": "+996558707033",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 137,
+  "name": "KONAK",
+  "address": "Kyrgyzstan, Bishkek, 쇼포코바 126번지",
+  "phone": "+996312623623",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 138,
+  "name": "Usta Restaurant",
+  "address": "25 Aaly Tokombaev St, Bishkek, Kyrgyzstan",
+  "phone": "+996755531212",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 139,
+  "name": "Imperator -2",
+  "address": "42 Sultan Ibraimov St, Bishkek, Kyrgyzstan",
+  "phone": "+996551571111",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 140,
+  "name": "Koreana",
+  "address": "163 Isanov St, Bishkek, Kyrgyzstan",
+  "phone": "+996709738093",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 141,
+  "name": "Bukhara Restaurant",
+  "address": "32/4 Aaly Tokombaev St, Bishkek, Kyrgyzstan",
+  "phone": "+996551621111",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 142,
+  "name": "Beta Gourmet",
+  "address": "96 Turusbekov St, Bishkek 720000, Kyrgyzstan",
+  "phone": "96720000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 143,
+  "name": "New York (NY) Pizza",
+  "address": "Pobedy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996558581876",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 144,
+  "name": "SIERRA Coffee \u0026 Ristorante - Dushanbinka",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996312424588",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 145,
+  "name": "Restaurant Bukhara",
+  "address": "32a Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996312437541",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 146,
+  "name": "Testo Mesto",
+  "address": "15, Bishkek, Kyrgyzstan",
+  "phone": "+996770227227",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 147,
+  "name": "Avrora",
+  "address": "477 Frunze Street, Bishkek 720000, Kyrgyzstan",
+  "phone": "477720000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 148,
+  "name": "Oasis Azian Doner and Kabab",
+  "address": "50 Mederova St, Bishkek, Kyrgyzstan",
+  "phone": "+996509905050",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 149,
+  "name": "Kyon Bog Kun",
+  "address": "101/1 Shopokov St, Bishkek 720011, Kyrgyzstan",
+  "phone": "1011720011",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 150,
+  "name": "Texas Brisket by Kekeev",
+  "address": "Метр пива, б, 204/2 Akhunbayev St, Bishkek, Kyrgyzstan",
+  "phone": "+996312510999",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 151,
+  "name": "Villa V Club",
+  "address": "117 Gorky St, Bishkek, Kyrgyzstan",
+  "phone": "+996553196988",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 152,
+  "name": "Niko",
+  "address": "161 улица Кийизбаевой, Bishkek, Kyrgyzstan",
+  "phone": "+996707100400",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 153,
+  "name": "IWA Roof Bar \u0026 Restaurant",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996700048115",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 154,
+  "name": "Divine Restaurant \u0026 Bar",
+  "address": "148B Kievskaya Street Бишкек, 720001, Kyrgyzstan",
+  "phone": "148720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 155,
+  "name": "Spice up cafe",
+  "address": "51 Orozbekov St, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 156,
+  "name": "Kafe Huzur",
+  "address": "67/1 Baitik Baatyr St, Bishkek, Kyrgyzstan",
+  "phone": "+996507356185",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 157,
+  "name": "Steak and Burger bar",
+  "address": "30 Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996312433944",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 158,
+  "name": "MIRA",
+  "address": "городок Ордо , Ордо 1а Бишкек, Bishkek 720000, Kyrgyzstan",
+  "phone": "54+71720000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 159,
+  "name": "Consul Restaurant",
+  "address": "122 Isanov St, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 160,
+  "name": "Dodo Pizza",
+  "address": "111 Mederova St, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 161,
+  "name": "The Most",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996703444400",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 162,
+  "name": "Bruno Bishkek",
+  "address": "62 Toktonaliyev St, Bishkek, Kyrgyzstan",
+  "phone": "+996770969690",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 163,
+  "name": "Lanzhou noodles 1919",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996701667708",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 164,
+  "name": "Arzu Grand Restaurant",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 165,
+  "name": "Continental Gold",
+  "address": "21а Aaly Tokombaev St, Bishkek, Kyrgyzstan",
+  "phone": "+996555314444",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 166,
+  "name": "Taj mahal",
+  "address": "51 Yakov Logvinenko St, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 167,
+  "name": "Marash Kebab",
+  "address": "115а Dzhumabeka, Bishkek, Kyrgyzstan",
+  "phone": "+996555194444",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 168,
+  "name": "Chaikhana Navat",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996550300200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 169,
+  "name": "Daamduu Fast Food",
+  "address": "89 Kiev St, Bishkek, Kyrgyzstan",
+  "phone": "+996312662544",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 170,
+  "name": "Чайхана NAVAT",
+  "address": "85/1 Ulitsa Zhukeyeva-Pudovkina, Bishkek, Kyrgyzstan",
+  "phone": "+996778888330",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 171,
+  "name": "Usta",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996555531212",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 172,
+  "name": "Chon Gi Va",
+  "address": "Abdylas Maldybaev St, Bishkek, Kyrgyzstan",
+  "phone": "+996705755788",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 173,
+  "name": "Vavilon Restaurant",
+  "address": "93 Toktogul Street, Bishkek, Kyrgyzstan",
+  "phone": "+996312623053",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 174,
+  "name": "Hanoi Vietnamese Cafe",
+  "address": "Abaya 6/1 Bishkek, 720001, Kyrgyzstan",
+  "phone": "61720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 175,
+  "name": "Diyar",
+  "address": "194 Kiev St, Bishkek, Kyrgyzstan",
+  "phone": "+996709999999",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 176,
+  "name": "City Cafe \u0026 Restaurant",
+  "address": "1 Yakov Logvinenko St, Bishkek, Kyrgyzstan",
+  "phone": "+996500888826",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 177,
+  "name": "강남 한식당",
+  "address": "35 T. Umetaliev St, Bishkek, Kyrgyzstan",
+  "phone": "+996772515105",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 178,
+  "name": "Cafe-bar \"Ugolek\"",
+  "address": "191 Yusup Abdrahmanov St, Bishkek 720011, Kyrgyzstan",
+  "phone": "191720011",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 179,
+  "name": "Saudi Cuisine",
+  "address": "Erkindik 36 Between Toktogula \u0026 Kievskaya, Bishkek, Kyrgyzstan",
+  "phone": "+996558041111",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 180,
+  "name": "Salaam Namaste Indian Restaurant",
+  "address": "77/1 Gogol St, Bishkek, Kyrgyzstan",
+  "phone": "+996312975097",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 181,
+  "name": "DuЭт",
+  "address": "114/1 Togolok Moldo St, Bishkek, Kyrgyzstan",
+  "phone": "+996551531111",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 182,
+  "name": "PARK KAFE",
+  "address": "67/1 Ulitsa Begmatova, Bishkek, Kyrgyzstan",
+  "phone": "+996703505650",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 183,
+  "name": "Friends Coffee",
+  "address": "30 Erkindik Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996312623224",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 184,
+  "name": "NambaFood",
+  "address": "147 Yunusaliev Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996773575317",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 185,
+  "name": "Bingsoo",
+  "address": "41 isanov street Crossing of, Toktogul Street, Bishkek 720001, Kyrgyzstan Bishkek, 720000, Kyrgyzstan",
+  "phone": "41720001720000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 186,
+  "name": "ZERNO",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996312979500",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 187,
+  "name": "Host",
+  "address": "80 Isanov St, Bishkek, Kyrgyzstan",
+  "phone": "+996312312022",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 188,
+  "name": "Кореана ресторан",
+  "address": "Анкара 2 Бишкек, 720082, Kyrgyzstan",
+  "phone": "+996777884472",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 189,
+  "name": "Restaurant \"Syy-Ordo\"",
+  "address": "ул. Тоголок Молдо 17 (перес. ул. Рыскулова), ниже кинотеатра Россия, перед стадионом Спартак, Bishkek, Kyrgyzstan",
+  "phone": "+996551325103",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 190,
+  "name": "Khuzur",
+  "address": "259 Abdumomunov St, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 191,
+  "name": "Dolce Vita",
+  "address": "78б Aaly Tokombaev St, Bishkek, Kyrgyzstan",
+  "phone": "+996556521111",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 192,
+  "name": "BFC (Bishkek Fried Chicken)",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996559692222",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 193,
+  "name": "Al Jadid - Restaurant Fast Food Bishkek",
+  "address": "91 Shopokov St, Bishkek, Kyrgyzstan",
+  "phone": "+996508777888",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 194,
+  "name": "Mac Burger \u0026 pizza",
+  "address": "132 Bokonbayev St, Bishkek, Kyrgyzstan",
+  "phone": "+996554400633",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 195,
+  "name": "Restaurant Meridian",
+  "address": "Parking lot, Bishkek, Kyrgyzstan",
+  "phone": "+996556990707",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 196,
+  "name": "Pegas Restaurant",
+  "address": "Bishkek city, 4 Barpy Alykulov St, Bishkek, Kyrgyzstan",
+  "phone": "+996508580058",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 197,
+  "name": "GUM Chynar",
+  "address": "227 Salieva St, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 198,
+  "name": "I-Mall shopping mall",
+  "address": "92 Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996555875500",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 199,
+  "name": "Bishkek Park",
+  "address": "27, 1 Gorky St, Bishkek, Kyrgyzstan",
+  "phone": "+996772554090",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 200,
+  "name": "Asia Mall",
+  "address": "64/1 көчөсү Ибраимова, Bishkek, Kyrgyzstan",
+  "phone": "+996706775776",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 201,
+  "name": "Vefa Center",
+  "address": "VEFA CENTER, Gorky St, Bishkek, Kyrgyzstan",
+  "phone": "+996701452507",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 202,
+  "name": "Red Centre",
+  "address": "97 Chuy Ave, Bishkek 720044, Kyrgyzstan",
+  "phone": "97720044",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 203,
+  "name": "Bishkek City",
+  "address": "152 Yusup Abdrahmanov Street, Bishkek, Kyrgyzstan",
+  "phone": "+996771697204",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 204,
+  "name": "ZUM Aichurok",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996312521296",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 205,
+  "name": "ТРЦ Dordoi Plaza 2",
+  "address": "Suyumbayev Street, Bishkek, Kyrgyzstan",
+  "phone": "+996312986814",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 206,
+  "name": "Bishkek center",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996312306073",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 207,
+  "name": "Tashrabat",
+  "address": "148 Киевская Бишкек, 720001, Kyrgyzstan",
+  "phone": "148720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 208,
+  "name": "The Tabylga Shopping Center",
+  "address": "80 Шевченко тар көчөсү, Bishkek, Kyrgyzstan",
+  "phone": "+996772900900",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 209,
+  "name": "Star",
+  "address": "155 Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996312909279",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 210,
+  "name": "RIADI originals shopping center ADIDAS/REEBOK",
+  "address": "ул.Ибраимова 115 Бишкек, 720021, Kyrgyzstan",
+  "phone": "115720021",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 211,
+  "name": "Taatan",
+  "address": "3 Mir Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996551890040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 212,
+  "name": "Tommi Mall",
+  "address": "Matrosova St, Bishkek, Kyrgyzstan",
+  "phone": "+996550428155",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 213,
+  "name": "Trade and administrative center \"Vesna\"",
+  "address": "Osh Bazaar, Bishkek, Kyrgyzstan",
+  "phone": "+996707206944",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 214,
+  "name": "Besh Sary Shopping Mall",
+  "address": "24 Akhunbayev St, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 215,
+  "name": "Trbts Eurasia",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 216,
+  "name": "Torgovyy Tsentr \"Bereket Grand\".",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 217,
+  "name": "Beta Stores",
+  "address": "204 Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996509180177",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 218,
+  "name": "Babakan Torgovyy Tsentr",
+  "address": "ул. Чокана Валиханова, 2, Bishkek, Kyrgyzstan",
+  "phone": "+996555222225",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 219,
+  "name": "Суеркулова 18 ТЦ ЖАРАЛ mall",
+  "address": "128 Kiev St, Bishkek, Kyrgyzstan",
+  "phone": "+996312888896",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 220,
+  "name": "Ayu Grand",
+  "address": "150a Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996312611083",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 221,
+  "name": "Dr. Honey (Honey products shop)",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996773226774",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 222,
+  "name": "Caravan",
+  "address": "Ибраимова, 115/2Б ТЦ Дордой Плаза 2 Бишкек, улица Ибраимова, Bishkek 720000, Kyrgyzstan",
+  "phone": "11522720000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 223,
+  "name": "Детский торговый центр \"Ташрабат\"",
+  "address": "Gorky St, Bishkek, Kyrgyzstan",
+  "phone": "+996772022293",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 224,
+  "name": "Dordoi Plaza",
+  "address": "ул. Киевская, 62 Бишкек, 720040, Kyrgyzstan",
+  "phone": "62720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 225,
+  "name": "Seul Plaza",
+  "address": "42 Бейшеналиевой, Bishkek, Kyrgyzstan",
+  "phone": "+996706979710",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 226,
+  "name": "Besh Sary Siti",
+  "address": "17/2 Aaly Tokombaev St, Bishkek, Kyrgyzstan",
+  "phone": "+996999222444",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 227,
+  "name": "DK",
+  "address": "128 Gorky St, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 228,
+  "name": "Grand Stone",
+  "address": "54a Abdylas Maldybaev St, Bishkek, Kyrgyzstan",
+  "phone": "+996705897077",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 229,
+  "name": "Dom Torgovli",
+  "address": "66 Kalyk Akiev St, Bishkek 720001, Kyrgyzstan",
+  "phone": "66720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 230,
+  "name": "Asia Lyuks Center",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996550997337",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 231,
+  "name": "Химчистка \"BP cleaning\"",
+  "address": "1 Г, Gorky St, Bishkek, Kyrgyzstan",
+  "phone": "+996312442160",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 232,
+  "name": "Mega Komfort Shopping Center",
+  "address": "Jibek Jolu Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996505888880",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 233,
+  "name": "Panfilov Park",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 234,
+  "name": "State History Museum",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996705840979",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 235,
+  "name": "Manas Statue",
+  "address": "Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996312626090",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 236,
+  "name": "Osh Bazaar",
+  "address": "Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 237,
+  "name": "Flamingo Amusement Park",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996771513599",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 238,
+  "name": "M.V.Frunze Museum",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 239,
+  "name": "Vladimir Lenin Statue",
+  "address": "364 Frunze Street, Bishkek, Kyrgyzstan",
+  "phone": "+996312625031",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 240,
+  "name": "Ataturk Park",
+  "address": "303 Mir Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996312551186",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 241,
+  "name": "Victory Square",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 242,
+  "name": "Ala Archa National Park",
+  "address": "ул.Горького, 1/2 тар көчөсү Алматинский, Bishkek, Kyrgyzstan",
+  "phone": "+996312986100",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 243,
+  "name": "Burana Tower",
+  "address": "262, 264 Kurmanjan-Datka St, Osh, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 244,
+  "name": "Kashka Suu Ski Resort",
+  "address": "с. Аламедин, ул. Чернышевского 65 (Жибек-Жолу / Алматинская район ГЭС-2, Возле Аламединского рынка Kyrgyzstan, Bishkek, district of GES2, Chernyshevskogo st. 65 Бишкек, 720055, Kyrgyzstan",
+  "phone": "652265720055",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 245,
+  "name": "Bishkek Park",
+  "address": "29 Prospekt Mira, Bishkek, Kyrgyzstan",
+  "phone": "+996701535765",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 246,
+  "name": "Bishkek",
+  "address": "148B Kievskaya Str, 720001, Kyrgyzstan",
+  "phone": "148720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 247,
+  "name": "Erkindik",
+  "address": "17 Angarskiy St Bishkek, 720031, Kyrgyzstan",
+  "phone": "17720031",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 248,
+  "name": "Kaba Uulu Kozhomkul",
+  "address": "24 Lev Tolstoy St, Bishkek, Kyrgyzstan",
+  "phone": "+996312986100",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 249,
+  "name": "Barskoon Waterfall",
+  "address": "Unnamed Road, Dzhetyoguz, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 250,
+  "name": "Imam Sarahsi Bishkek Central Mosque",
+  "address": "Бишкек, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 251,
+  "name": "Stone Rabat",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 252,
+  "name": "Show Me Bishkek",
+  "address": "Kochkor, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 253,
+  "name": "Opera and Ballet Theater",
+  "address": "103 Bokonbayev St, Bishkek, Kyrgyzstan",
+  "phone": "+996500788788",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 254,
+  "name": "Gallery M",
+  "address": "58 Gorkii street, Bishkek, Kyrgyzstan",
+  "phone": "+93312443331",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 255,
+  "name": "Issykata",
+  "address": "Erkindik 36 Between Toktogula \u0026 Kievskaya, Bishkek, Kyrgyzstan",
+  "phone": "+996558041111",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 256,
+  "name": "Guide Kyrgyzstan",
+  "address": "3d flor, 32 , Pervomajskij district, Razzakov St, Bishkek 720000, Kyrgyzstan",
+  "phone": "332720000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 257,
+  "name": "Altyn-Arashan",
+  "address": "Bektenova str, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 258,
+  "name": "Historical Museum",
+  "address": "Arslanbob, Kyrgyzstan",
+  "phone": "+996773342476",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 259,
+  "name": "Dordoi Bazaar",
+  "address": "193 Tynystanov St, Bishkek, Kyrgyzstan",
+  "phone": "+996555241811",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 260,
+  "name": "Karting Club \"Start\"",
+  "address": "Maldybaeva 40 Bishkek, 720020, Kyrgyzstan",
+  "phone": "40720020",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 261,
+  "name": "Arslanbob CBT (Kyrgyz Community Based Tourism Association)",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996705278464",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 262,
+  "name": "Dungan Mosque",
+  "address": "Altynarasan, Kyrgyzstan",
+  "phone": "+996394860034",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 263,
+  "name": "Madina Market",
+  "address": "42.87181264624222, 74.63813416087255, Bishkek, Kyrgyzstan",
+  "phone": "42871812646242227463813416087255",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 264,
+  "name": "Save The Ales",
+  "address": "A363, Cholpon Ata, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 265,
+  "name": "Bishkek Tours",
+  "address": "112 Koyenkozova, Bishkek, Kyrgyzstan",
+  "phone": "+996556101933",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 266,
+  "name": "CHICKEN STAR",
+  "address": "2nd floor, 40 Manas Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996551293",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 267,
+  "name": "Bublik",
+  "address": "167 Usup Abdrahmanov St, Bishkek, Kyrgyzstan",
+  "phone": "+996312621619",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 268,
+  "name": "Alp-Lager Ala Archa",
+  "address": "Togolok Moldo St, Bishkek, Kyrgyzstan",
+  "phone": "+996706407583",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 269,
+  "name": "Western Bus Station",
+  "address": "Chunkurchak, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 270,
+  "name": "Bishkek-1",
+  "address": "Togolok Moldo St, Bishkek, Kyrgyzstan",
+  "phone": "+996706407583",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 271,
+  "name": "Frunze 1 Hypermarket",
+  "address": "Jety Oguz Alley, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 272,
+  "name": "Kol'tor",
+  "address": "148 Киевская Бишкек, 720001, Kyrgyzstan",
+  "phone": "148720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 273,
+  "name": "Sheraton Bishkek",
+  "address": "Горнолыжный комплекс Чункурчак, Bishkek 720000, Kyrgyzstan",
+  "phone": "+996558586898",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 274,
+  "name": "Русская Тройка прокат авто. Rent a car in Kyrgyzstan Bishkek",
+  "address": "6 ул. Чкалова, Бишкек, Kyrgyzstan",
+  "phone": "+996550404068",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 275,
+  "name": "Monument to Alymbek Datka",
+  "address": "Tash-Dobo, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 276,
+  "name": "Boom Gorge",
+  "address": "Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 277,
+  "name": "Gipermarket Frunze 2",
+  "address": "54 Борончиева, Tokmok, Kyrgyzstan",
+  "phone": "+996554224697",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 278,
+  "name": "Embassy Suites by Hilton Denver Tech Center",
+  "address": "6780 S Galena St, Centennial, CO 80112",
+  "phone": "678080112",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 279,
+  "name": "Hilton Garden Inn Broomfield Boulder",
+  "address": "7900 E Peakview Ave, Greenwood Village, CO 80111",
+  "phone": "790080111",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 280,
+  "name": "Quality Inn Denver Tech Center",
+  "address": "9719 E Geddes Ave, Centennial, CO 80112",
+  "phone": "971980112",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 281,
+  "name": "Hilton Denver Inverness",
+  "address": "7820 Park Meadows Dr, Lone Tree, CO 80124",
+  "phone": "782080124",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 282,
+  "name": "Hotel",
+  "address": "7801 E Orchard Rd, Greenwood Village, CO 80111",
+  "phone": "780180111",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 283,
+  "name": "Extended Stay America - Denver - Tech Center South",
+  "address": "9604 E Easter Ave, Englewood, CO 80112",
+  "phone": "960480112",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 284,
+  "name": "Best Western Plus Denver Tech Center Hotel",
+  "address": "3155 S Vaughn Way, Aurora, CO 80014",
+  "phone": "315580014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 285,
+  "name": "Radisson Hotel Denver - Aurora",
+  "address": "9231 E Arapahoe Rd, Greenwood Village, CO 80112",
+  "phone": "923180112",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 286,
+  "name": "Holiday Inn \u0026 Suites Denver Tech Center-Centennial, an IHG Hotel",
+  "address": "200 Inverness Dr W, Englewood, CO 80112",
+  "phone": "20080112",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 287,
+  "name": "Sonesta ES Suites Denver South - Park Meadows",
+  "address": "6638 S Nome St, Centennial, CO 80111",
+  "phone": "663880111",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 288,
+  "name": "SpringHill Suites by Marriott Denver Tech Center",
+  "address": "8415 E Colfax Ave, Denver, CO 80220",
+  "phone": "841580220",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 289,
+  "name": "DoubleTree by Hilton Hotel Denver Tech Center",
+  "address": "1449 Lincoln St #1449, Denver, CO 80203",
+  "phone": "1449144980203",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 290,
+  "name": "The Benson Hotel \u0026 Faculty Club",
+  "address": "1881 Curtis Street, Denver, CO 80202",
+  "phone": "188180202",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 291,
+  "name": "RIDTC",
+  "address": "18600 E 63rd Ave, Denver, CO 80249",
+  "phone": "186006380249",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 292,
+  "name": "Hampton Inn \u0026 Suites Denver Aurora South",
+  "address": "4900 S Syracuse St, Denver, CO 80237",
+  "phone": "490080237",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 293,
+  "name": "DoubleTree by Hilton Hotel Denver - Aurora",
+  "address": "2820 Vallejo St, Denver, CO 80211",
+  "phone": "282080211",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 294,
+  "name": "Courtyard by Marriott Denver Tech Center",
+  "address": "10030 Trainstation Cir, Lone Tree, CO 80124",
+  "phone": "1003080124",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 295,
+  "name": "Best Western Plus Gateway Inn \u0026 Suites",
+  "address": "4900 S Syracuse St, Denver, CO 80237",
+  "phone": "490080237",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 296,
+  "name": "InTown Suites Extended Stay Denver CO - Aurora Havana St.",
+  "address": "3699 S Monaco St Pkwy, Denver, CO 80237",
+  "phone": "369980237",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 297,
+  "name": "Hilton Garden Inn Denver/Highlands Ranch",
+  "address": "Parking lot, 3975 Peoria Way, Denver, CO 80239",
+  "phone": "397580239",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 298,
+  "name": "Hyatt Place Denver-South/Park Meadows",
+  "address": "19010 Cottonwood Dr, Parker, CO 80138",
+  "phone": "1901080138",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 299,
+  "name": "Comfort Inn Denver Southeast Area",
+  "address": "10345 Park Meadows Dr, Lone Tree, CO 80124",
+  "phone": "1034580124",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 300,
+  "name": "DoubleTree by Hilton Hotel Denver Tech Center",
+  "address": "3333 Quebec St, Denver, CO 80207",
+  "phone": "333380207",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 301,
+  "name": "Hotel",
+  "address": "2000 S Colorado Blvd Tower 1 Suite 2000, Denver, CO 80222",
+  "phone": "20001200080222",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 302,
+  "name": "Extended Stay America - Denver - Aurora North",
+  "address": "1190 Auraria Pkwy b, Denver, CO 80204",
+  "phone": "119080204",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 303,
+  "name": "Woolley's Classic Suites",
+  "address": "9741 Park Meadows Dr, Lone Tree, CO 80124",
+  "phone": "974180124",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 304,
+  "name": "Sylo Ramada Inn \u0026 Suites Denver Airport",
+  "address": "1873 S Bellaire St #1020, Denver, CO 80222",
+  "phone": "1873102080222",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 305,
+  "name": "Hotel Clio, a Luxury Collection Hotel, Denver Cherry Creek",
+  "address": "1475 S Colorado Blvd, Denver, CO 80222",
+  "phone": "147580222",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 306,
+  "name": "Mon Chalet",
+  "address": "9030 Westview Rd, Lone Tree, CO 80124",
+  "phone": "903080124",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 307,
+  "name": "Quality Inn \u0026 Suites Denver Airport - Gateway Park",
+  "address": "3705 Chambers Rd, Aurora, CO 80011",
+  "phone": "370580011",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 308,
+  "name": "Halcyon, a hotel in Cherry Creek",
+  "address": "818 17th St, Denver, CO 80202",
+  "phone": "8181780202",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 309,
+  "name": "Hotel Residential",
+  "address": "8405 E Colfax Ave, Denver, CO 80220",
+  "phone": "840580220",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 310,
+  "name": "La Quinta Inn \u0026 Suites by Wyndham Denver Aurora Medical",
+  "address": "14200 E Colfax Ave, Aurora, CO 80011",
+  "phone": "1420080011",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 311,
+  "name": "Hilton Denver City Center",
+  "address": "321 17th St, Denver, CO 80202",
+  "phone": "3211780202",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 312,
+  "name": "The Brown Palace Hotel and Spa, Autograph Collection",
+  "address": "12033 E Colfax Ave, Aurora, CO 80010",
+  "phone": "1203380010",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 313,
+  "name": "Hotel Nuevo",
+  "address": "3300 Ouray St, Aurora, CO 80011",
+  "phone": "330080011",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 314,
+  "name": "Holiday Inn Express \u0026 Suites Denver - Aurora Medical Campus, an IHG Hotel",
+  "address": "2109 Larimer St, Denver, CO 80205",
+  "phone": "210980205",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 315,
+  "name": "Magnolia Hotel Denver, a Tribute Portfolio Hotel",
+  "address": "150 Clayton Ln, Denver, CO 80206",
+  "phone": "15080206",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 316,
+  "name": "Courtyard by Marriott Denver Cherry Creek",
+  "address": "1500 S Abilene St, Aurora, CO 80012",
+  "phone": "150080012",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 317,
+  "name": "AMTRAK Accommodations…",
+  "address": "16921 E 32nd Ave, Aurora, CO 80011",
+  "phone": "169213280011",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 318,
+  "name": "Hotel marriot",
+  "address": "1701 California St, Denver, CO 80202",
+  "phone": "170180202",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 319,
+  "name": "Tru by Hilton Denver South Park Meadows",
+  "address": "245 Columbine St, Denver, CO 80206",
+  "phone": "24580206",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 320,
+  "name": "HomeTowne Studios Denver - Airport/ Aurora",
+  "address": "16450 E 40th Cir, Aurora, CO 80011",
+  "phone": "164504080011",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 321,
+  "name": "Associated Luxury Hotels",
+  "address": "6780 S Galena St, Centennial, CO 80112",
+  "phone": "678080112",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 322,
+  "name": "TownPlace Suites Denver South/Lone Tree CO",
+  "address": "1612 Wazee St, Denver, CO 80202",
+  "phone": "161280202",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 323,
+  "name": "Hyatt Place Denver-South/Park Meadows",
+  "address": "7801 E Orchard Rd, Greenwood Village, CO 80111",
+  "phone": "780180111",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 324,
+  "name": "Lone tree hotel",
+  "address": "14095 E Evans Ave, Aurora, CO 80014",
+  "phone": "1409580014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 325,
+  "name": "Holiday Inn Denver East, an IHG Hotel",
+  "address": "9030 Westview Rd, Lone Tree, CO 80124",
+  "phone": "903080124",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 326,
+  "name": "Hampton Inn \u0026 Suites Parker",
+  "address": "14071 E Iliff Ave, Aurora, CO 80014",
+  "phone": "1407180014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 327,
+  "name": "OYO Hotel Denver I-70 Northeast",
+  "address": "1050 Plaza Dr, Highlands Ranch, CO 80126",
+  "phone": "105080126",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 328,
+  "name": "Marriott",
+  "address": "2221 S Havana St #138, Aurora, CO 80014",
+  "phone": "222113880014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 329,
+  "name": "Microtel Inn \u0026 Suites by Wyndham Denver",
+  "address": "800 S Abilene St, Aurora, CO 80012",
+  "phone": "80080012",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 330,
+  "name": "CJS Hotel Operator LLC",
+  "address": "6565 S Boston St, Greenwood Village, CO 80111",
+  "phone": "656580111",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 331,
+  "name": "TownePlace Suites by Marriott Denver Southeast",
+  "address": "6565 S Yosemite St, Greenwood Village, CO 80112",
+  "phone": "656580112",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 332,
+  "name": "holiday day inn Denver East, an IHG hotel",
+  "address": "13696 E Iliff Pl, Aurora, CO 80014",
+  "phone": "1369680014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 333,
+  "name": "Beautiful Historic 1912 Master Craftsman Bungalow is Located in the Heart of LoH",
+  "address": "2525 S Anaheim St, Aurora, CO 80014",
+  "phone": "252580014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 334,
+  "name": "Hampton Inn \u0026 Suites Denver/South-RidgeGate",
+  "address": "13025 E Montview Blvd, Aurora, CO 80045",
+  "phone": "1302580045",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 335,
+  "name": "Sahara Mediterranean Restaurant",
+  "address": "10253 E Iliff Ave, Aurora, CO 80247",
+  "phone": "1025380247",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 336,
+  "name": "Red Robin Gourmet Burgers and Brews",
+  "address": "9625 E County Line Rd, Centennial, CO 80112",
+  "phone": "962580112",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 337,
+  "name": "Metropolitan Bar \u0026 Grill",
+  "address": "8325 Park Meadows Center Dr, Lone Tree, CO 80124",
+  "phone": "832580124",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 338,
+  "name": "Seasons 52",
+  "address": "13160 E Mississippi Ave, Aurora, CO 80012",
+  "phone": "1316080012",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 339,
+  "name": "Olive Garden Italian Restaurant",
+  "address": "10111 Inverness Main St, Englewood, CO 80112",
+  "phone": "1011180112",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 340,
+  "name": "Cafe Paprika",
+  "address": "9636 E Arapahoe Rd, Greenwood Village, CO 80112",
+  "phone": "963680112",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 341,
+  "name": "La Cocina de la Abuela",
+  "address": "7505 E Parkway Dr D, Lone Tree, CO 80124",
+  "phone": "750580124",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 342,
+  "name": "Bettola Bistro",
+  "address": "13696 E Iliff Pl, Aurora, CO 80014",
+  "phone": "1369680014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 343,
+  "name": "LongHorn Steakhouse",
+  "address": "2390 S Havana St, Aurora, CO 80014",
+  "phone": "239080014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 344,
+  "name": "Jackdaw",
+  "address": "3244 S Wadsworth Blvd, Lakewood, CO 80227",
+  "phone": "324480227",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 345,
+  "name": "Yard House",
+  "address": "12028 E Mississippi Ave, Aurora, CO 80012",
+  "phone": "1202880012",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 346,
+  "name": "Albasha Grill",
+  "address": "11855 E Cornell Cir, Aurora, CO 80014",
+  "phone": "1185580014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 347,
+  "name": "Mariachi Loco Mexican Grill \u0026 Taqueria",
+  "address": "12 ул. Алымбекова, Osh, Kyrgyzstan",
+  "phone": "+996552781516",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 348,
+  "name": "Cafe MJ 'What O Eat'",
+  "address": "1050 S Havana St, Aurora, CO 80012",
+  "phone": "105080012",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 349,
+  "name": "El Costeñito Mexican Grill",
+  "address": "45 Shohruh Mirzo Street, Samarkand, Uzbekistan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 350,
+  "name": "Taco's tlan",
+  "address": "Ленина, 324Б/1 ОШ, 723500, Kyrgyzstan",
+  "phone": "3241723500",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 351,
+  "name": "Zane's Italian Bistro",
+  "address": "Afrosiyob St, Samarkand, Uzbekistan",
+  "phone": "+998979300002",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 352,
+  "name": "Borealis",
+  "address": "2710 S Havana St, Aurora, CO 80014",
+  "phone": "271080014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 353,
+  "name": "Cody's Cafe and Bar",
+  "address": "130 Kurmanjan-Datka St, Osh, Kyrgyzstan",
+  "phone": "+996557950450",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 354,
+  "name": "The Pork.Let",
+  "address": "Ленина, 119 Ош, 723500, Kyrgyzstan",
+  "phone": "119723500",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 355,
+  "name": "Samarkand Restaurant",
+  "address": "Tarakkiy, Uzbekistan",
+  "phone": "+998998667171",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 356,
+  "name": "Portico Eritrean and Ethiopian Restaurant, Bar and Patio Hookah",
+  "address": "Urikzor St, Tashkent, Uzbekistan",
+  "phone": "+998951770330",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 357,
+  "name": "Restaurant National",
+  "address": "Kichik Halqa Yo'li, 8a, Uzbekistan",
+  "phone": "+998990801234",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 358,
+  "name": "Cody's Cafe and Bar",
+  "address": "1930 Rath Lane, Oshkosh, WI 54902",
+  "phone": "193054902",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 359,
+  "name": "Zane's Italian Bistro",
+  "address": "40 Masalieva St, Osh, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 360,
+  "name": "ChowSun",
+  "address": "Samarkand, Uzbekistan",
+  "phone": "+998973933303",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 361,
+  "name": "Ash'Kara",
+  "address": "Karasaray Street, Tashkent, Uzbekistan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 362,
+  "name": "Metropolitan Bar \u0026 Grill",
+  "address": "Osh, Kyrgyzstan",
+  "phone": "+996772166226",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 363,
+  "name": "AllerDining",
+  "address": "144 Aliev, Osh 723510, Kyrgyzstan",
+  "phone": "144723510",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 364,
+  "name": "Cafe Ambrosia",
+  "address": "362 Kurmanjan-Datka St, Osh, Kyrgyzstan",
+  "phone": "+996322274121",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 365,
+  "name": "Flaming Joe's Seafood",
+  "address": "Park Im. T.satylganova, Osh, Kyrgyzstan",
+  "phone": "+996554448977",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 366,
+  "name": "Casa Vallarta",
+  "address": "216 Thompson Ln, Nashville, TN 37211",
+  "phone": "21637211",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 367,
+  "name": "The Z! | Family Kitchen \u0026 Dining Hall at CVA",
+  "address": "108a A Shakirova St, Osh, Kyrgyzstan",
+  "phone": "+996771111111",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 368,
+  "name": "Woolley's Grill \u0026 Lounge",
+  "address": "Osh, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 369,
+  "name": "Tin Cup Bar \u0026 Grill - Meadow Hills",
+  "address": "243/1 Kurmanjan-Datka St, Osh 723500, Kyrgyzstan",
+  "phone": "2431723500",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 370,
+  "name": "Cafe MJ 'What O Eat'",
+  "address": "119 Kurmanjan-Datka St, Osh, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 371,
+  "name": "Giri Inc",
+  "address": "11 ул. Алымбекова, Osh, Kyrgyzstan",
+  "phone": "+996557821784",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 372,
+  "name": "Mariachi Loco Mexican Grill \u0026 Taqueria",
+  "address": "2041 S Koeller St, Oshkosh, WI 54902",
+  "phone": "204154902",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 373,
+  "name": "LongHorn Steakhouse",
+  "address": "Osh, Kyrgyzstan",
+  "phone": "+996772906232",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 374,
+  "name": "Old School Heros",
+  "address": "Osh, Kyrgyzstan",
+  "phone": "+996557500100",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 375,
+  "name": "Mika sushi 5",
+  "address": "Osh, Kyrgyzstan",
+  "phone": "+996557500100",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 376,
+  "name": "The Douglas | Kitchen and Cocktails",
+  "address": "Osh, Kyrgyzstan",
+  "phone": "+996771957793",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 377,
+  "name": "Bubba's 33",
+  "address": "12 Kyrgyzstan, Osh, Kyrgyzstan",
+  "phone": "+996551030588",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 378,
+  "name": "Bangkok-Tokyo",
+  "address": "Osh, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 379,
+  "name": "Benihana",
+  "address": "133 A Shakirova St, Osh, Kyrgyzstan",
+  "phone": "+996999710100",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 380,
+  "name": "Las Delicias Uptown",
+  "address": "Бакыт Таалайбекович, A Shakirova St, Osh, Kyrgyzstan",
+  "phone": "+996555717041",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 381,
+  "name": "Nami Ramen \u0026 Poke",
+  "address": "Osh, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 382,
+  "name": "Sbarro",
+  "address": "Kurmanjan-Datka St, Osh, Kyrgyzstan",
+  "phone": "+996322227511",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 383,
+  "name": "\"BorsoK\" Restaurant",
+  "address": "Osmonova St, Osh, Kyrgyzstan",
+  "phone": "+996322263784",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 384,
+  "name": "Tooman resto Bar",
+  "address": "9364 Jordan Rd, Parker, CO 80134",
+  "phone": "936480134",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 385,
+  "name": "Nirvana Cafe",
+  "address": "102 Masalieva St, Osh, Kyrgyzstan",
+  "phone": "+996552443197",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 386,
+  "name": "Borsok RESTAURANT",
+  "address": "3295 S Tamarac Dr, Denver, CO 80231",
+  "phone": "329580231",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 387,
+  "name": "Paris Restaurant",
+  "address": "439 E 19th Ave, Denver, CO 80203",
+  "phone": "4391980203",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 388,
+  "name": "Cafe Aztek",
+  "address": "11804 Oswego St C, Englewood, CO 80112",
+  "phone": "1180480112",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 389,
+  "name": "Manas Ata Restorany",
+  "address": "2270 S Parker Rd, Denver, CO 80231",
+  "phone": "227080231",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 390,
+  "name": "Panorama Restaurant",
+  "address": "18595 Mainstreet, Parker, CO 80134",
+  "phone": "1859580134",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 391,
+  "name": "Monarch Restaurant",
+  "address": "6020 S Gun Club Rd Unit E5, Aurora, CO 80016",
+  "phone": "6020580016",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 392,
+  "name": "Lavash Center 1",
+  "address": "7400 E Hampden Ave C6, Denver, CO 80231",
+  "phone": "7400680231",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 393,
+  "name": "Oligarkh Restorany",
+  "address": "1468 S Cherokee St, Denver, CO 80223",
+  "phone": "146880223",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 394,
+  "name": "Chick Kings",
+  "address": "Main Level, 10855 E Bethany Dr 1st Floor, Aurora, CO 80014",
+  "phone": "10855180014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 395,
+  "name": "Uluk-Ata",
+  "address": "2779 S Parker Rd, Aurora, CO 80014",
+  "phone": "277980014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 396,
+  "name": "Mineshaft Oshkosh",
+  "address": "16450 E 40th Cir, Aurora, CO 80011",
+  "phone": "164504080011",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 397,
+  "name": "Malen'kaya Yaponiya",
+  "address": "3609 S Dawson St, Aurora, CO 80014",
+  "phone": "360980014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 398,
+  "name": "Cafe caribbean",
+  "address": "9625 E County Line Rd, Centennial, CO 80112",
+  "phone": "962580112",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 399,
+  "name": "Lazzat",
+  "address": "7824 Park Meadows Dr #300, Lone Tree, CO 80124",
+  "phone": "782430080124",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 400,
+  "name": "Osh fried chicken",
+  "address": "5975 S Quebec St, Centennial, CO 80111",
+  "phone": "597580111",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 401,
+  "name": "OSH Restaurant \u0026 Grill",
+  "address": "19702 E Dorado Ave, Aurora, CO 80015",
+  "phone": "1970280015",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 402,
+  "name": "Ethno Osh cafe",
+  "address": "4002 S Parker Rd, Aurora, CO 80014",
+  "phone": "400280014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 403,
+  "name": "Mantykana Aibek",
+  "address": "18648 E Hampden Ave, Aurora, CO 80013",
+  "phone": "1864880013",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 404,
+  "name": "Dolce Vita",
+  "address": "20981 E Smoky Hill Rd, Centennial, CO 80015",
+  "phone": "2098180015",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 405,
+  "name": "Oazis",
+  "address": "14442 E Cedar Ave, Aurora, CO 80012",
+  "phone": "1444280012",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 406,
+  "name": "Dinat Restorany",
+  "address": "10111 Inverness Main St, Englewood, CO 80112",
+  "phone": "1011180112",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 407,
+  "name": "Osh",
+  "address": "830 S Buckley Rd, Aurora, CO 80017",
+  "phone": "83080017",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 408,
+  "name": "Asman Ordo",
+  "address": "3535 S Yosemite St, Denver, CO 80237",
+  "phone": "353580237",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 409,
+  "name": "Restoran \"Klassik\"",
+  "address": "2005 W 33rd Ave, Denver, CO 80211",
+  "phone": "20053380211",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 410,
+  "name": "Two Brothers Family Restaurant",
+  "address": "909 S Oneida St Ste 1b, Denver, CO 80224",
+  "phone": "909180224",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 411,
+  "name": "Samarqand Osh",
+  "address": "10203 E Iliff Ave, Denver, CO 80247",
+  "phone": "1020380247",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 412,
+  "name": "Rakat Osh",
+  "address": "1050 S Havana St, Aurora, CO 80012",
+  "phone": "105080012",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 413,
+  "name": "Osh Osh",
+  "address": "78 A Masalieva St, Osh 714004, Kyrgyzstan",
+  "phone": "78714004",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 414,
+  "name": "N1 Аччик ош - Ботир",
+  "address": "1842 S Parker Rd, Denver, CO 80231",
+  "phone": "184280231",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 415,
+  "name": "Tangem restaurant",
+  "address": "10203 E Iliff Ave, Denver, CO 80247",
+  "phone": "1020380247",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 416,
+  "name": "Cafe Kut Ordo",
+  "address": "12201 E Mississippi Ave #123B, Aurora, CO 80012",
+  "phone": "1220112380012",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 417,
+  "name": "Gumbaz Osh",
+  "address": "13200 E 14th Pl, Aurora, CO 80011",
+  "phone": "132001480011",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 418,
+  "name": "Rayana",
+  "address": "3535 S Yosemite St, Denver, CO 80237",
+  "phone": "353580237",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 419,
+  "name": "Sky-bar Osh",
+  "address": "5975 S Quebec St, Centennial, CO 80111",
+  "phone": "597580111",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 420,
+  "name": "Joni Osh",
+  "address": "10890 E Dartmouth Ave, Denver, CO 80014",
+  "phone": "1089080014",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 421,
+  "name": "Portico Eritrean and Ethiopian Restaurant, Bar and Patio Hookah",
+  "address": "7824 Park Meadows Dr #300, Lone Tree, CO 80124",
+  "phone": "782430080124",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 422,
+  "name": "La Pily #2 Mexican Restaurant",
+  "address": "2260 S Quebec St, Denver, CO 80231",
+  "phone": "226080231",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 423,
+  "name": "Comida",
+  "address": "6720 S Dawson Cir, Centennial, CO 80112",
+  "phone": "672080112",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 424,
+  "name": "EH Bistro",
+  "address": "8437 Park Meadows Center Dr, Lone Tree, CO 80124",
+  "phone": "843780124",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 425,
+  "name": "Denver Premium Outlets",
+  "address": "13801 Grant St, Thornton, CO 80023",
+  "phone": "1380180023",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 426,
+  "name": "Oshkosh Center",
+  "address": "14200 E Alameda Ave Unit 2008B, Aurora, CO 80012",
+  "phone": "14200200880012",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 427,
+  "name": "The Outlet Shoppes at Oshkosh",
+  "address": "1941 S Koeller St, Oshkosh, WI 54902",
+  "phone": "194154902",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 428,
+  "name": "OshKosh B'Gosh",
+  "address": "8505 Park Meadows Center Dr Suite 2533, Lone Tree, CO 80124",
+  "phone": "8505253380124",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 429,
+  "name": "OshKosh B'Gosh",
+  "address": "3001 S Washburn St, Oshkosh, WI 54904",
+  "phone": "300154904",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 430,
+  "name": "Ak Buura Tsentr Otdykha",
+  "address": "262, 264 Kurmanjan-Datka St, Osh, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 431,
+  "name": "Park Lyubvi",
+  "address": "81 Masalieva St, Osh, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 432,
+  "name": "Oshskiy Oblastnoy Muzey Izobrazitel'nykh Iskusstv",
+  "address": "Osh, Kyrgyzstan",
+  "phone": "+996559020202",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 433,
+  "name": "Monument to Alymbek Datka",
+  "address": "б/н, Kurmanjan Datka, Osh, Kyrgyzstan",
+  "phone": "+996322222968",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 434,
+  "name": "National Historical and Archaeological Museum Complex Sulayman",
+  "address": "Osh, Kyrgyzstan",
+  "phone": "+996322245510",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 435,
+  "name": "Asian Patagonia",
+  "address": "8th Avenue Ош, 723500, Kyrgyzstan",
+  "phone": "+996557190190",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 436,
+  "name": "Visit Alay - Tajikistan Tours",
+  "address": "244 Kurmanjan-Datka St, Osh 723500, Kyrgyzstan",
+  "phone": "244723500",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 437,
+  "name": "Destination Osh / Дестинация Ош",
+  "address": "Osh, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 438,
+  "name": "Russian Orthodox Church",
+  "address": "Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 439,
+  "name": "Osh",
+  "address": "Osh, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 440,
+  "name": "Abshir Ata falls",
+  "address": "Karautok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 441,
+  "name": "Сулайман Тоо",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996705840979",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 442,
+  "name": "Ala Too Square",
+  "address": "54 Борончиева, Tokmok, Kyrgyzstan",
+  "phone": "+996554224697",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 443,
+  "name": "Ak-Buura River",
+  "address": "Kyrgyzstan, Osh, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 444,
+  "name": "Jannat Regency Jalal Abad",
+  "address": "Lenina Street Kvartal 10 Jalal-Abad Джалал-Абад, 720900, Kyrgyzstan",
+  "phone": "10720900",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 445,
+  "name": "Jannat Regency Jalal Abad",
+  "address": "Ulitsa Lenina 10 Jalal-Abad Джалал-Абад, 720905, Kyrgyzstan",
+  "phone": "10720905",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 446,
+  "name": "Sultan Jalal-Abad",
+  "address": "ул Nurbek Asanov, Jalal-Abad 720906, Kyrgyzstan",
+  "phone": "+996554101525",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 447,
+  "name": "Gostevoy Dom \"Etno Dom\"",
+  "address": "25 ул Фрунзе, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996552384000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 448,
+  "name": "Otel' \"Zhyldyz\"",
+  "address": "Lenina Street Kvartal 10 Jalal-Abad Джалал-Абад, 720900, Kyrgyzstan",
+  "phone": "10720900",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 449,
+  "name": "Hotel Dostuk",
+  "address": "village Kumush Aziz, 2, Jalal-Abad 721301, Kyrgyzstan",
+  "phone": "+996554103677",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 450,
+  "name": "Sputnik",
+  "address": "Unnamed Road, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 451,
+  "name": "ASEMA",
+  "address": "Lenin Street, Jalal-Abad 715600, Kyrgyzstan",
+  "phone": "+32715600",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 452,
+  "name": "Gostinitsa Ala-Archa",
+  "address": "ул Айып-булак 22а Жалал-Абад, 720900, Kyrgyzstan",
+  "phone": "22720900",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 453,
+  "name": "\"Azimut\" Gostevoy Dom",
+  "address": "Kafe Asan Uson, Улица Бекмамат Осмонова 1 2/3 этажи, Osmonova St, Jalal-Abad 720900, Kyrgyzstan",
+  "phone": "123720900",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 454,
+  "name": "Hotel \"Orto-Asia\" (Орто-Азия)",
+  "address": "7 ул. Токтогула, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996773189999",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 455,
+  "name": "BEREKE HOSTEL",
+  "address": "ул Ленина 159А, Jalal-Abad 720900, Kyrgyzstan",
+  "phone": "159720900",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 456,
+  "name": "Nurzhamal Otel'",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996372250910",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 457,
+  "name": "BEREKE HOSTEL",
+  "address": "37 Lenina Street, Jalal-Abad 720900, Kyrgyzstan",
+  "phone": "37720900",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 458,
+  "name": "Хан-Сарай",
+  "address": "Ulitsa Industrial'naya, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 459,
+  "name": "صالة بيرجبي",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996700555786",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 460,
+  "name": "Restoran Zulayka",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996771379379",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 461,
+  "name": "Milan Restaurant",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 462,
+  "name": "Salam Namaste Cafe",
+  "address": "Ulitsa Industrial'naya, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 463,
+  "name": "Restoran \"Kyrgyzstan\"",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996773441987",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 464,
+  "name": "\"Altyn Saray\" restaurant",
+  "address": "《Жалал -Абад》 рестораны, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996777645858",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 465,
+  "name": "Saltanat",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996777232233",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 466,
+  "name": "Chaykhana \"Oomat\"",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 467,
+  "name": "Kypchak Ordo",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996222145145",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 468,
+  "name": "Tadzh Makhal",
+  "address": "Bazar-Korgon, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 469,
+  "name": "Mehfil Cafteria",
+  "address": "41 Lenin St, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 470,
+  "name": "Sabyr-Ata Chaykhana",
+  "address": "Suzak, Kyrgyzstan",
+  "phone": "+996550780500",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 471,
+  "name": "Granat",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 472,
+  "name": "Welcome cafe",
+  "address": "Suzak, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 473,
+  "name": "Береке",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 474,
+  "name": "Paris foods",
+  "address": "21 Moskovskaya St, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 475,
+  "name": "ANDALUS (АНДАЛУС)",
+  "address": "Lenin St, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996778200304",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 476,
+  "name": "Kumush-Aziz",
+  "address": "Karavan launge bar, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996222145145",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 477,
+  "name": "Sushi Time Джалал-Абад",
+  "address": "41 Lenin St, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996702526360",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 478,
+  "name": "Chicken house",
+  "address": "Arka, Трасса Бишкек-Ош, Kumush-Aziz, Kyrgyzstan",
+  "phone": "+996557010110",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 479,
+  "name": "Zal Torzhestv \"Kristall Grand Kholl\"",
+  "address": "Lenina Street Kvartal 10 Jalal-Abad Джалал-Абад, 720900, Kyrgyzstan",
+  "phone": "10720900",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 480,
+  "name": "Doner 28, Kyrgyzstan",
+  "address": "34 Токтогул, Dzhalal-Abad 720900, Kyrgyzstan",
+  "phone": "34720900",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 481,
+  "name": "Azamat Kafesi",
+  "address": "ул.Дакан Палан 108, Suzak, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 482,
+  "name": "Royal Spa",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996225118888",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 483,
+  "name": "Khurma",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 484,
+  "name": "Food master",
+  "address": "Suzak, Kyrgyzstan",
+  "phone": "+996755124202",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 485,
+  "name": "Чайхана Шамал",
+  "address": "Shopokova, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996771999508",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 486,
+  "name": "Steyk",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 487,
+  "name": "Rich House",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 488,
+  "name": "Sky Hall",
+  "address": "Lenin St, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 489,
+  "name": "AURUM Ресторан кафеси",
+  "address": "Shopokova, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 490,
+  "name": "Doner 28",
+  "address": "Shopokova, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996500280988",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 491,
+  "name": "Чайхана №1 кафе",
+  "address": "Tash-Bulak, Kyrgyzstan",
+  "phone": "+996990100228",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 492,
+  "name": "Zhalal Abad",
+  "address": "Kumush-Aziz, Kyrgyzstan",
+  "phone": "+996557266060",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 493,
+  "name": "Kok-Zhangak Krylyshki",
+  "address": "Suzak, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 494,
+  "name": "Restoran Ala-Too",
+  "address": "21 Lenin St, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 495,
+  "name": "BURGER CAFE",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 496,
+  "name": "Salkyn 2",
+  "address": "18 Lenin St, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 497,
+  "name": "Burger club",
+  "address": "41 Lenin St, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 498,
+  "name": "I love burger",
+  "address": "30а Jeni Jok St, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 499,
+  "name": "MamaMia Тандыр хаус",
+  "address": "Ulitsa Lenina 10 Jalal-Abad Джалал-Абад, 720905, Kyrgyzstan",
+  "phone": "10720905",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 500,
+  "name": "Kafe Azim Ata",
+  "address": "47а ул. Токтогула, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996559211821",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 501,
+  "name": "Monte-Carlo Resort",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996702721126",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 502,
+  "name": "Hojafood",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996552448181",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 503,
+  "name": "SAKANA Sushi bar",
+  "address": "78A Manas St, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996779030599",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 504,
+  "name": "Beker-Burger",
+  "address": "Suzak, Kyrgyzstan",
+  "phone": "+996777550742",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 505,
+  "name": "MCDONALD'S",
+  "address": "улица Курманбека, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996995047999",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 506,
+  "name": "F'yuzhn",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 507,
+  "name": "#FARШ бургерная",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996557607009",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 508,
+  "name": "Restoran \"Chyngyzkhan\"",
+  "address": "2в Osmonova St, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996770855269",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 509,
+  "name": "Ziyadinov E 14",
+  "address": "47 улица Токтогула, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996777047911",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 510,
+  "name": "STAR BURGER",
+  "address": "21 Lenin St, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 511,
+  "name": "Fresh донер",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996703171711",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 512,
+  "name": "Gurman Burger",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 513,
+  "name": "Кафе \"Rich Fish\"",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 514,
+  "name": "Mukhammed-Azhy Kafesi",
+  "address": "Osmonova St, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996755011112",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 515,
+  "name": "Cafe Elainur",
+  "address": "Ulitsa Lechebnaya, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996995378707",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 516,
+  "name": "Chaykhana Bogi Shamol",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 517,
+  "name": "Doner",
+  "address": "Shopokova, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996772444000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 518,
+  "name": "Sultan Jalal-Abad",
+  "address": "Altybayev Aldos, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 519,
+  "name": "Kafe Sultan",
+  "address": "ул.Московское, Dzhalal-Abad 720900, Kyrgyzstan",
+  "phone": "+996999145145",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 520,
+  "name": "Daam Duynosu",
+  "address": "Ulitsa Pushkina, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 521,
+  "name": "Vo Vok",
+  "address": "Yntymak, Kyrgyzstan",
+  "phone": "+996771882824",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 522,
+  "name": "Chaykhana Nomer 1",
+  "address": "40 Сыдыков Кадырбек, Suzak, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 523,
+  "name": "Kafe Derevyanyy Zamok",
+  "address": "63 Lenin St, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996700119611",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 524,
+  "name": "Islam Chaykanasy",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 525,
+  "name": "XAN BurgeR",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 526,
+  "name": "Cafe Keremet",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 527,
+  "name": "Sushi Taym",
+  "address": "г, 10А, Osmonova St, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996776303031",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 528,
+  "name": "Hayat_resto_bar",
+  "address": "Курортная 2, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996707133103",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 529,
+  "name": "Vkusnyashka",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 530,
+  "name": "Akram saifi",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996557999902",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 531,
+  "name": "Kumush-Aziz",
+  "address": "Unnamed Road, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996554303118",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 532,
+  "name": "Shopokova Ulitsa",
+  "address": "Ул. Ленина Жалалабат, 720902, Kyrgyzstan",
+  "phone": "+996552242480",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 533,
+  "name": "Guzar Ak-Abat",
+  "address": "E010, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 534,
+  "name": "Istanbul",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996775300307",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 535,
+  "name": "Kyoto Sushi",
+  "address": "Erkindik, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 536,
+  "name": "Jannat Regency Jalal Abad",
+  "address": "17 Lenin St, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 537,
+  "name": "Eko Khalyal'",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996222000028",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 538,
+  "name": "Burger city \"Azamat\"",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996500998889",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 539,
+  "name": "Baychechekey",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 540,
+  "name": "Абдыкаар-Ата",
+  "address": "Lenin St, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 541,
+  "name": "karavan.lounge bar",
+  "address": "мкр, Спутник ул, Тарсус Жала-Абад, 720900, Kyrgyzstan",
+  "phone": "+996772511413",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 542,
+  "name": "Aura Kafe",
+  "address": "Ленина 10 Lenina Street Kvartal 10 Jalal-Abad Джалал-Абад, 720900 Джалал-Абад, 720900, Kyrgyzstan",
+  "phone": "1010720900720900",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 543,
+  "name": "Jalaobod Dilmurod aka iwxona",
+  "address": "141 Lenin St, Jalal-Abad, Kyrgyzstan",
+  "phone": "+996774422000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 544,
+  "name": "Gurman Burger",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 545,
+  "name": "Oazis",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996221145145",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 546,
+  "name": "Sultan Saray",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 547,
+  "name": "Atush",
+  "address": "Sputnik, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 548,
+  "name": "Plaza",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 549,
+  "name": "Aigul Shopping Center",
+  "address": "Jalalabad 2601, Afghanistan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 550,
+  "name": "Med-Sara",
+  "address": "Suzak, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 551,
+  "name": "Central Bazaar",
+  "address": "40 Lenin St, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 552,
+  "name": "Rahimullah shoping center",
+  "address": "Jalalabad Bypass Rd, Jalalabad, Afghanistan",
+  "phone": "+93799222746",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 553,
+  "name": "Spinghar plaza",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 554,
+  "name": "Sultanzai Business Center",
+  "address": "Talashi chowk Jalalabad, Jalalabad, Afghanistan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 555,
+  "name": "تجارت خانه محمد خان شینواری",
+  "address": "Ул. Токтогула д. 40, Jalal-Abad, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 556,
+  "name": "Suzak Torgovyy Tsentr",
+  "address": "Jalalabad, Afghanistan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 557,
+  "name": "Khan Online Shopping Center",
+  "address": "Jalalabad, Afghanistan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 558,
+  "name": "المدينة پلازه Al Madena Plaza",
+  "address": "CFJ6+5G3 Sultanzai Plaza، Zone 4 jalalabad جلال آباد, Bihsud Rd, Jalalabad 2603, Afghanistan",
+  "phone": "+93798577588",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 559,
+  "name": "یار کتابپلورنځی",
+  "address": "Jalalabad Bypass Rd, Jalalabad 2001, Afghanistan",
+  "phone": "+93791694379",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 560,
+  "name": "Mia Aslam Plaza",
+  "address": "Jalal-Abad, Kyrgyzstan",
+  "phone": "+996558986100",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 561,
+  "name": "Khan Business Center",
+  "address": "Andijan, Uzbekistan",
+  "phone": "+998905499723",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 562,
+  "name": "hedayat super shop market",
+  "address": "Jalalabad, Afghanistan",
+  "phone": "+93707428275",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 563,
+  "name": "Hilal Fashion Center",
+  "address": "Behsud, Afghanistan",
+  "phone": "+93777696996",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 564,
+  "name": "Nangharhar Business Center",
+  "address": "Kabul raod chiknawri, Jalalabad, Afghanistan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 565,
+  "name": "Shopping Center \"Mumtoz\"",
+  "address": "Jalalabad, Afghanistan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 566,
+  "name": "Itihad Plaza",
+  "address": "A1, Jalalabad, Afghanistan",
+  "phone": "+93797131617",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 567,
+  "name": "Haji ghulam farooq busniness center",
+  "address": "Jalalabad - Next to, CFJ5+FMH،، جلال آباد،, Afghanistan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 568,
+  "name": "Hotel Hillside Karakol",
+  "address": "Toktogula, Karakol, Kyrgyzstan",
+  "phone": "+996777757757",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 569,
+  "name": "Hotel \"Nomad\"",
+  "address": "135а A363, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 570,
+  "name": "Green Yard",
+  "address": "Koenkozov 44, Karakol 722200, Kyrgyzstan",
+  "phone": "44722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 571,
+  "name": "78 Hotel\u0026Cafe",
+  "address": "277, Toktogula, Karakol 722200, Kyrgyzstan",
+  "phone": "277722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 572,
+  "name": "Matsunoki",
+  "address": "Jamabsarieve 106, Karakol 722200, Kyrgyzstan",
+  "phone": "106722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 573,
+  "name": "Gostinitsa \"Al'tamira\"",
+  "address": "Салиева152, Karakol, Kyrgyzstan",
+  "phone": "+996771201332",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 574,
+  "name": "Otel' Madanur",
+  "address": "Tynystanova, Karakol, Kyrgyzstan",
+  "phone": "+99655045403452162",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 575,
+  "name": "Tagaytay-Karakol Hotel",
+  "address": "722200, 24 Koenkozov St, Karakol, Kyrgyzstan",
+  "phone": "72220024",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 576,
+  "name": "Karakol based Hostel",
+  "address": "14 Novostroika Street, Karakol, Kyrgyzstan",
+  "phone": "+996392243228",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 577,
+  "name": "Gostinitsa Enirest",
+  "address": "Dierbishieva 202, Karakol 722200, Kyrgyzstan",
+  "phone": "202722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 578,
+  "name": "My hotel Karakol",
+  "address": "Kutmanalieva Street 120, Karakol, 722200, Kyrgyzstan",
+  "phone": "120722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 579,
+  "name": "Karakol Yurt Lodge",
+  "address": "Khan-Tienghiri 64, Karakol, Kyrgyzstan",
+  "phone": "+996551230344",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 580,
+  "name": "Evergreen Guesthouse",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "+996552031234",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 581,
+  "name": "Caravan Hotel",
+  "address": "Khan-Tengri 55 (formerly Novorostovskaya Street), Karakol 722207, Kyrgyzstan",
+  "phone": "55722207",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 582,
+  "name": "Guest house Riverside",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 583,
+  "name": "Snow Leopard Hostel",
+  "address": "Ростовская 19 Каракол, 722200, Kyrgyzstan",
+  "phone": "19722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 584,
+  "name": "Memo's Boutique Guest House",
+  "address": "68 улица Абдрахманова, Karakol, Kyrgyzstan",
+  "phone": "+996505450030",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 585,
+  "name": "BAYOTEL",
+  "address": "Karasaeva Street 130, Karakol, 722200, Kyrgyzstan",
+  "phone": "130722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 586,
+  "name": "teskey",
+  "address": "ул.Токтогула 10, Karakol 722200, Kyrgyzstan",
+  "phone": "10722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 587,
+  "name": "Duet hostel",
+  "address": "130 Lenina, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 588,
+  "name": "Tagaytay-Karakol Hotel",
+  "address": "86 Elebaev St, Karakol 722220, Kyrgyzstan",
+  "phone": "86722220",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 589,
+  "name": "Guest House on Derbisheva",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "+996557570721",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 590,
+  "name": "Tash-abat",
+  "address": "Korolkova 83, Karakol 722200, Kyrgyzstan",
+  "phone": "83722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 591,
+  "name": "Gostevoy Dom \"Elita\"",
+  "address": "Imeni Alybakova, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 592,
+  "name": "Aiba Guesthouse",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "+996555878098",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 593,
+  "name": "Pink House",
+  "address": "3 Novostroika str, Karakol, Kyrgyzstan",
+  "phone": "+996779467835",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 594,
+  "name": "Hostel Ilbirs",
+  "address": "ул. Рахманова 150, Karakol, Kyrgyzstan",
+  "phone": "+996700181872",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 595,
+  "name": "4 season's Guest House \u0026 Hostel",
+  "address": "Abdrahmanov, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 596,
+  "name": "Happy Nomads Yurt Camp",
+  "address": "Shopokova 34A, 722200, Karakol, Kyrgyzstan",
+  "phone": "34722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 597,
+  "name": "Guest House 3922",
+  "address": "Lenina str. 130/1, Karakol 722200, Kyrgyzstan",
+  "phone": "1301722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 598,
+  "name": "Gostevoy Dom \"Voyazh\"",
+  "address": "Lenkom 114 (Oktyabryskaya Каракол, 722206, Kyrgyzstan",
+  "phone": "114722206",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 599,
+  "name": "Gostevoy Dom Altay",
+  "address": "Turusbekova Karakol, 722200, Kyrgyzstan",
+  "phone": "+996508888555",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 600,
+  "name": "Dinar Sky",
+  "address": "обл. г. ул. Искакова д 115, Иссык-Кульская, Karakol 722200, Kyrgyzstan",
+  "phone": "115722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 601,
+  "name": "Karakol J.A city Hotel",
+  "address": "101А Орозбекова), Narinskaja St, Karakol, Kyrgyzstan",
+  "phone": "+996558540545",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 602,
+  "name": "Hotel Amir",
+  "address": "Орозбекова 92, Karakol 722200, Kyrgyzstan",
+  "phone": "92722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 603,
+  "name": "Kapriz Karakol Hotel",
+  "address": "55 Korol'kova, Karakol, Kyrgyzstan",
+  "phone": "+996702665562",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 604,
+  "name": "Emir",
+  "address": "159 Masaliev St, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 605,
+  "name": "Gostinitsa I Kafe Tyan'-Shan' Bereke",
+  "address": "Каракольское ущелье в 4х км от горнолыжной базы Каракол, Karakol 722200, Kyrgyzstan",
+  "phone": "+996705115576",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 606,
+  "name": "Ak-Maral",
+  "address": "22/1 Karasaev Street, 722200, Karakol, Kyrgyzstan",
+  "phone": "221722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 607,
+  "name": "Arista Travel Yurt Camp",
+  "address": "Ул. Джусаева 148 Каракол, 722500, Kyrgyzstan",
+  "phone": "148722500",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 608,
+  "name": "Issyk Kul Hotel",
+  "address": "23 проезд Токтогула Каракол, 722200, Kyrgyzstan",
+  "phone": "23722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 609,
+  "name": "Akjol guest house",
+  "address": "84 арычная, Karakol 722200, Kyrgyzstan",
+  "phone": "84722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 610,
+  "name": "my hotel Karakol",
+  "address": "улица Биримдик №17,, Karakol, Kyrgyzstan",
+  "phone": "+996779159357",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 611,
+  "name": "Park Hotel",
+  "address": "A363, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 612,
+  "name": "Apartment Karakol",
+  "address": "76, Gebze St, Karakol 722200, Kyrgyzstan",
+  "phone": "76722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 613,
+  "name": "Muras Hotel",
+  "address": "Abdrahmanov Street Karakol, 720011, Kyrgyzstan",
+  "phone": "+996550840214",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 614,
+  "name": "Dungan house",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "+996550210451",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 615,
+  "name": "Guest House Wiking",
+  "address": "Салиевой, 119, Karakol, Kyrgyzstan",
+  "phone": "+996705123456",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 616,
+  "name": "Mixx Hotel",
+  "address": "Kyrgyzstan, Karakol, Masalievast/38/3 2 этажа, Karakol 722200, Kyrgyzstan",
+  "phone": "3832722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 617,
+  "name": "Hutorok Guesthouse",
+  "address": "Salieva street 17 Karakol city, 722200, Kyrgyzstan",
+  "phone": "17722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 618,
+  "name": "Ordo Hotel Hostel",
+  "address": "121 Dyuisheev Street Karakol, 722200, Kyrgyzstan",
+  "phone": "121722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 619,
+  "name": "Отель \"Khan Hotel\"",
+  "address": "г Каракол ул Кадырова 92 Каракол, 722200, Kyrgyzstan",
+  "phone": "92722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 620,
+  "name": "Guesthouse Hiker's B\u0026B",
+  "address": "Karasaeva Street 201 Karakol, 722360, Kyrgyzstan",
+  "phone": "201722360",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 621,
+  "name": "гостевой дом Holiday",
+  "address": "Lenkom 114 (Oktyabryskaya), Karakol 722206, Kyrgyzstan",
+  "phone": "114722206",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 622,
+  "name": "Barchyn Guesthouse",
+  "address": "199 Masaliev St, Karakol 722201, Kyrgyzstan",
+  "phone": "199722201",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 623,
+  "name": "Zheken Hotel",
+  "address": "Kuchukov Isa, Karakol, Kyrgyzstan",
+  "phone": "+996555100738",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 624,
+  "name": "Guest house Jamilya",
+  "address": "гостевой дом, 100 Masaliev St, Karakol 722200, Kyrgyzstan",
+  "phone": "100722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 625,
+  "name": "Lenkom 114",
+  "address": "34 b Шопоков көчөсү, Karakol, Kyrgyzstan",
+  "phone": "+996555208282",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 626,
+  "name": "Asman-Too",
+  "address": "110 А Gebze, Karakol, Kyrgyzstan",
+  "phone": "+996559804085",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 627,
+  "name": "Gostevoy Dom Uyut Karakol",
+  "address": "128 Lomonosov St, Karakol, Kyrgyzstan",
+  "phone": "+996995128000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 628,
+  "name": "NOMADSTAN Capsule Hostel",
+  "address": "Zhamansariev St, Karakol, Kyrgyzstan",
+  "phone": "+996220260260",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 629,
+  "name": "hotel Tourist",
+  "address": "Рахманова, 152, Karakol 722200, Kyrgyzstan",
+  "phone": "152722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 630,
+  "name": "Homestel Karakol",
+  "address": "б/н Пионерская улица, Karakol, Kyrgyzstan",
+  "phone": "+996555312036",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 631,
+  "name": "Гостевой Дом Neofit",
+  "address": "Тыныстанова6 Каракол, 722200, Kyrgyzstan",
+  "phone": "+996701220077",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 632,
+  "name": "Guest House Nice",
+  "address": "263 Toktogula, Karakol, Kyrgyzstan",
+  "phone": "+996550117194",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 633,
+  "name": "Interhouse Karakol",
+  "address": "1а, Karakol, Kyrgyzstan",
+  "phone": "+996552600840",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 634,
+  "name": "Hostel Nice in Karakol",
+  "address": "Alibakova 63, Karakol, Kyrgyzstan",
+  "phone": "+996772545620",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 635,
+  "name": "Asia Karakol",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "+996392254446",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 636,
+  "name": "Гостевой дом BEREKE",
+  "address": "Ыссык-Кульская область, город Каракол, улица Масалиева, дом 43 Каракол, 722200, Kyrgyzstan",
+  "phone": "43722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 637,
+  "name": "Vavilon Guest House Karakol",
+  "address": "Teploklyuchenka, Kyrgyzstan",
+  "phone": "+996709234974",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 638,
+  "name": "Rose Garden Karakol",
+  "address": "273 Toktogula Каракол, 722360, Kyrgyzstan",
+  "phone": "273722360",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 639,
+  "name": "Guest house TwinhouseKarakol",
+  "address": "Коенкозов көчөсү 70 Каракол, 722200, Kyrgyzstan",
+  "phone": "70722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 640,
+  "name": "Горный отель Жайсан",
+  "address": "207 Masaliev St, Karakol, Kyrgyzstan",
+  "phone": "+996507364480",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 641,
+  "name": "Capsule Hostel",
+  "address": "st.Kyzyl-Jar 86MM+XHP Resort Jety-Oguz, 722200, Kyrgyzstan",
+  "phone": "+996703311573",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 642,
+  "name": "House",
+  "address": "Масалиева 38а, Каракол Гостиница Иссыккуль Каракол 2гис, Karakol, Kyrgyzstan",
+  "phone": "+996559677788",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 643,
+  "name": "Guest House NUR",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "+996392251315",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 644,
+  "name": "Guesthouse Happy Guest",
+  "address": "Kydyr Ake, 1 Street 22b, Karakol 722200, Kyrgyzstan",
+  "phone": "122722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 645,
+  "name": "Gostinitsa Flamingo",
+  "address": "Masaliev St, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 646,
+  "name": "Guest house Ala-Too",
+  "address": "отель Каприз, Горнолыжная база Каракол, Karakol, Kyrgyzstan",
+  "phone": "+996775905175",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 647,
+  "name": "Guest House \"ASK\"",
+  "address": "Grechko Гречко, Moskovskaya, Karakol, Kyrgyzstan",
+  "phone": "+996707624334",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 648,
+  "name": "B\u0026B at Musaevs Yurt Camp",
+  "address": "27 Masaliev St, Karakol 722200, Kyrgyzstan",
+  "phone": "27722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 649,
+  "name": "Guesthouse GreatHome",
+  "address": "Новостройка 9 Каракол, 722200, Kyrgyzstan",
+  "phone": "+996704005180",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 650,
+  "name": "Tulpar",
+  "address": "Иссык-Кулськая область г Каракол Кутманалиев 160 Каракол, 722200, Kyrgyzstan",
+  "phone": "160722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 651,
+  "name": "Guest House \"Compass\"",
+  "address": "Toktogul/Elebaev str intersec, Karakol 722200, Kyrgyzstan",
+  "phone": "+996770521138",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 652,
+  "name": "Guest House ELES - Гостиница - Гостевой Дом ЭЛЕС",
+  "address": "Ущелье Каракол рядом с горнолыжной базой Каракол Каракол, 722200, Kyrgyzstan",
+  "phone": "+996555509883",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 653,
+  "name": "Guest House Europe",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 654,
+  "name": "SunHouse Hostel",
+  "address": "81 Abdrahmanov, Karakol 722200, Kyrgyzstan",
+  "phone": "81722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 655,
+  "name": "Gostinitsa Ysyk-Ata",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "+996772150951",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 656,
+  "name": "Гостиница \" R House \"",
+  "address": "120 A363, Karakol 720000, Kyrgyzstan",
+  "phone": "120363720000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 657,
+  "name": "Guest House Nurel",
+  "address": "Кыргызстан, г. Каракол, ул. Кутманалиева, 56, Karakol, Kyrgyzstan",
+  "phone": "+996551031030",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 658,
+  "name": "Гостевой дом Саякат guest house Sayakat",
+  "address": "Derbisheva Street 131, Karakol, 722200, Kyrgyzstan",
+  "phone": "131722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 659,
+  "name": "Yurts garden (гостевой дом)",
+  "address": "Tynystanova, Karakol, Kyrgyzstan",
+  "phone": "+99655045403452162",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 660,
+  "name": "Gostinitsa Kyrgyzstan",
+  "address": "86 Jusaev St, Karakol 722200, Kyrgyzstan",
+  "phone": "86722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 661,
+  "name": "Guest House on Karasaeva",
+  "address": "182 Karasaeva, Karakol, Kyrgyzstan",
+  "phone": "+996551932681",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 662,
+  "name": "Vstrecha Guest House",
+  "address": "Шапак Баатыр 170 Shapak Baatyr 170 Przhevalsk (Karakol, 722200, Kyrgyzstan",
+  "phone": "170170722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 663,
+  "name": "Asia Plus",
+  "address": "Asanalyeva Street 44 Karakol, 722200, Kyrgyzstan",
+  "phone": "44722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 664,
+  "name": "Jasmin,Accomodation",
+  "address": "142 Duysheyeva, Karakol, Kyrgyzstan",
+  "phone": "+996551021318",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 665,
+  "name": "Ranger's Hostel",
+  "address": "Карасаева 135/5 Каракол, 722200, Karakol, Kyrgyzstan",
+  "phone": "1355722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 666,
+  "name": "Local Karakol Food",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 667,
+  "name": "SIERRA Coffee Karakol",
+  "address": "Karakol, Karasaev, st, Karakol, Kyrgyzstan",
+  "phone": "+996778897748",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 668,
+  "name": "Cafe Zarina",
+  "address": "70 Kyshtobayev, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 669,
+  "name": "Кафе Берекет",
+  "address": "208 Jusaev St, Karakol, Kyrgyzstan",
+  "phone": "+996557345050",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 670,
+  "name": "Laym",
+  "address": "112 ул. Токтогула, Karakol 722200, Kyrgyzstan",
+  "phone": "112722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 671,
+  "name": "Ozhak Kebap Karakol",
+  "address": "105 А переулок Пржевальского, Karakol 722200, Kyrgyzstan",
+  "phone": "105722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 672,
+  "name": "Ала-Тоо Luxe",
+  "address": "Imeni Alybakova, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 673,
+  "name": "\"Altyn Kumara\"",
+  "address": "Улица Тельмана, Karakol, Kyrgyzstan",
+  "phone": "+996702787628",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 674,
+  "name": "Restaurant Ala Too",
+  "address": "201 ул. Токтогула, Karakol 722360, Kyrgyzstan",
+  "phone": "201722360",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 675,
+  "name": "Чайкана Ата-Кенч",
+  "address": "переулок Пржевальского, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 676,
+  "name": "Karakol",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 677,
+  "name": "Lagman center",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 678,
+  "name": "Grizzly Bar",
+  "address": "185 A363, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 679,
+  "name": "Restoran Sono",
+  "address": "Toktogula, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 680,
+  "name": "Мега Бургер",
+  "address": "34 Tynystanova, Karakol, Kyrgyzstan",
+  "phone": "+996700181872",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 681,
+  "name": "Kafe Bapa",
+  "address": "улица Жусаева, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 682,
+  "name": "Skver’s Burgers",
+  "address": "78 Masaliev St, Karakol, Kyrgyzstan",
+  "phone": "+996505999025",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 683,
+  "name": "ЧАЙХАНА но 1",
+  "address": "247 улица Токтогула, Karakol, Kyrgyzstan",
+  "phone": "+996706020207",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 684,
+  "name": "Karakol Lighthouse",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 685,
+  "name": "Altyn-Kol'",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 686,
+  "name": "АЛТЫН КАЗЫНА",
+  "address": "107 Prjevalskogo, Karakol, Kyrgyzstan",
+  "phone": "+996555400270",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 687,
+  "name": "Kavakol",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 688,
+  "name": "Kafe Ikrom",
+  "address": "Гагарина, 20, 224/1 Zhusayeva, Karakol, Kyrgyzstan",
+  "phone": "+996509440450",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 689,
+  "name": "Ресторан \"Дениз\"",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "+996707290022",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 690,
+  "name": "Шашлик",
+  "address": "165, A363, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 691,
+  "name": "Kafe Dunganskoy Kukhni",
+  "address": "177, A363, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 692,
+  "name": "Sushiset",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "+996708011494",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 693,
+  "name": "Faridanyn Ashlyanfusu",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 694,
+  "name": "Ашлян-фу \"У Фариды\" самое вкусное по всему Караколу!!!!",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "+996702055263",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 695,
+  "name": "Point B",
+  "address": "30 улица Асаналиева, Karakol, Kyrgyzstan",
+  "phone": "+996505807000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 696,
+  "name": "Аш-лянфу Кафе",
+  "address": "Prjevalskogo, Karakol, Kyrgyzstan",
+  "phone": "+996700191569",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 697,
+  "name": "Kafe Archa",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 698,
+  "name": "Cafe Dastorkon (Дасторкон)",
+  "address": "57 Imeni Alybakova, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 699,
+  "name": "Halal chyrma",
+  "address": "57 Imeni Alybakova, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 700,
+  "name": "Sushi Vok",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 701,
+  "name": "Guest Home ELES - Апартамент в Караколе - Квартира",
+  "address": "211 Masaliev St, Karakol, Kyrgyzstan",
+  "phone": "+996555032964",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 702,
+  "name": "Imperiya Pitstsy",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 703,
+  "name": "Gaz Voda",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "+996707100857",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 704,
+  "name": "Ashlyanfu U Miry",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "+996708528852",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 705,
+  "name": "TAYPIN Dungan Kafe",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "+996779999908",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 706,
+  "name": "\"Makhonya\"",
+  "address": "63 Amanbaeva, Karakol, Kyrgyzstan",
+  "phone": "+996703842009",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 707,
+  "name": "Ariano Restaurant",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 708,
+  "name": "Mega Shopping Centre",
+  "address": "15 улица Гагарина, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 709,
+  "name": "Karakol Magazin",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "+996558665572",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 710,
+  "name": "ZUM",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 711,
+  "name": "Argo Guest House.",
+  "address": "Bektenova str, Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 712,
+  "name": "Karakol Historical Museum",
+  "address": "Altynarasan, Kyrgyzstan",
+  "phone": "+996394860034",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 713,
+  "name": "Dungan Mosque",
+  "address": "Chelpek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 714,
+  "name": "Holy Trinity Cathedral",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 715,
+  "name": "Altyn-Arashan",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 716,
+  "name": "Baza \"Karakol\"",
+  "address": "Altynarasan, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 717,
+  "name": "Karakol",
+  "address": "104 Moskovskaya, Karakol, Kyrgyzstan",
+  "phone": "+996773013980",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 718,
+  "name": "World War II Memorial - Victory park",
+  "address": "Asanalyeva Street 44 Karakol, 722200, Kyrgyzstan",
+  "phone": "44722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 719,
+  "name": "Ushchel'ye Karakol",
+  "address": "Улица Гагарина 16 Каракол, Gagarin St, Karakol 722200, Kyrgyzstan",
+  "phone": "9+616722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 720,
+  "name": "Visit Karakol",
+  "address": "112а ул. Токтогула, Karakol 722200, Kyrgyzstan",
+  "phone": "112722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 721,
+  "name": "Barskoon Waterfall",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 722,
+  "name": "Livestock Bazaar - Mal Bazaar",
+  "address": "ул. Кабдолова 2, Алматы, Kazakhstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 723,
+  "name": "Pik Karakol",
+  "address": "722200, 24 Koenkozov St, Karakol, Kyrgyzstan",
+  "phone": "72220024",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 724,
+  "name": "Ak-Suu Hot Springs",
+  "address": "76, Gebze St, Karakol 722200, Kyrgyzstan",
+  "phone": "76722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 725,
+  "name": "Destination Karakol",
+  "address": "138 Lenina, Karakol, Kyrgyzstan",
+  "phone": "+996555837225",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 726,
+  "name": "Snow Leopard Hostel",
+  "address": "Toktogul/Elebaev str intersec, Karakol 722200, Kyrgyzstan",
+  "phone": "+996770521138",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 727,
+  "name": "Ala-Kul",
+  "address": "ул. Джусаева 79, ул. Королькова, Karakol 722200, Kyrgyzstan",
+  "phone": "79722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 728,
+  "name": "Seven Bulls Rock",
+  "address": "Derbisheva 6 Karakol, 722200, Kyrgyzstan",
+  "phone": "+996709918183",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 729,
+  "name": "Kurjun",
+  "address": "Unnamed Road, Dzhetyoguz, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 730,
+  "name": "Hostel Nice in Karakol",
+  "address": "Asanalyeva Street 44 Karakol, 722200, Kyrgyzstan",
+  "phone": "44722200",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 731,
+  "name": "Kolsai lakes National Natural Park",
+  "address": "182 Karasaeva, Karakol, Kyrgyzstan",
+  "phone": "+996551932681",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 732,
+  "name": "Karakol Airport",
+  "address": "Derbisheva 6 Karakol, 722200, Kyrgyzstan",
+  "phone": "+996709918183",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 733,
+  "name": "Karakol based Hostel",
+  "address": "с. Теплоключенка, Ак-Суу, Karakol, Kyrgyzstan",
+  "phone": "+996552726556",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 734,
+  "name": "Issyk-Kul kayaking",
+  "address": "150 Lenina, Karakol, Kyrgyzstan",
+  "phone": "+996509996885",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 735,
+  "name": "Karakol Coffee",
+  "address": "Karakol, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 736,
+  "name": "Karakol",
+  "address": "63 Amanbaeva, Karakol, Kyrgyzstan",
+  "phone": "+996703842009",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 737,
+  "name": "Happy Nomads Yurt Camp",
+  "address": "Gagarin st. 28/26, Karakol, Kyrgyzstan, Karakol 722000, Kyrgyzstan",
+  "phone": "2826722000",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 738,
+  "name": "Karakol Yurt Lodge",
+  "address": "Jety Oguz Alley, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 739,
+  "name": "Gostevoy Dom Temirlan",
+  "address": "Bishkek, ul.Gogolya 114, kv 117 urochishche Shamsi, Shamsi 720040, Kyrgyzstan",
+  "phone": "114117720040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 740,
+  "name": "Grand Hotel Burana",
+  "address": "Бишкек, Tokmok, Kyrgyzstan",
+  "phone": "+996701555511",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 741,
+  "name": "Gostinitsa Zhanat",
+  "address": "Кегетинский округ, Kegeti 724906, Kyrgyzstan",
+  "phone": "+996556400988",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 742,
+  "name": "Sun City Kegeti",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "+996550087828",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 743,
+  "name": "Aylu Camping",
+  "address": "Kegeti Chuiskaya oblast, Kegeti 725008, Kyrgyzstan",
+  "phone": "+996770547054",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 744,
+  "name": "مقهى أك تيليك",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 745,
+  "name": "Aalam",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 746,
+  "name": "Khan Ordo",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "+996501777447",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 747,
+  "name": "Bakay Ata",
+  "address": "Комсомольская, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 748,
+  "name": "Mega Polis",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "+996553393136",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 749,
+  "name": "Chef kebab",
+  "address": "Gorkiy str, Tokmok, Kyrgyzstan",
+  "phone": "+996708372365",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 750,
+  "name": "Saltanat Restaurant",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 751,
+  "name": "Tokmok City Fast Food",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "+996555255652",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 752,
+  "name": "Big ХОШАН",
+  "address": "Ulitsa Shosseynaya, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 753,
+  "name": "Kul'dzha Khogo",
+  "address": "11б улица Жантаева, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 754,
+  "name": "Zakhodi Yesli Cho",
+  "address": "350/1 улица Ленина, Tokmok 722220, Kyrgyzstan",
+  "phone": "3501722220",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 755,
+  "name": "Arbat",
+  "address": "новостройка, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 756,
+  "name": "Zolotaya Arka",
+  "address": "74 улица Дубовицкого, Tokmok, Kyrgyzstan",
+  "phone": "+996555189696",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 757,
+  "name": "Kannam Chiken",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 758,
+  "name": "Ochok",
+  "address": "улица Дунларова, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 759,
+  "name": "Kafe\"Khan-Shatyr\"",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 760,
+  "name": "Food mix",
+  "address": "Шамсинская улица43, Tokmok, Kyrgyzstan",
+  "phone": "+996555353035",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 761,
+  "name": "Salman food",
+  "address": "Shamsinskaya str., Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 762,
+  "name": "Bonu",
+  "address": "Lenin str., Tokmok, Kyrgyzstan",
+  "phone": "+996550111077",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 763,
+  "name": "Pekin",
+  "address": "11 Горького улица, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 764,
+  "name": "Bee burger",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "+996550999989",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 765,
+  "name": "ShaurmaKing",
+  "address": "38 Ulitsa Ibraimova, Tokmok 724919, Kyrgyzstan",
+  "phone": "38724919",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 766,
+  "name": "Фаст фуд Big Bro",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 767,
+  "name": "Hawaii",
+  "address": "Don-Aryk, Kyrgyzstan",
+  "phone": "+996550271080",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 768,
+  "name": "Giraffe Coffee",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "+996706423641",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 769,
+  "name": "Bistro",
+  "address": "54 Shamsinskaya Ulitsa, Tokmok 724915, Kyrgyzstan",
+  "phone": "54724915",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 770,
+  "name": "Lunch \"Aizada\"",
+  "address": "11б/3, улица Жантаева, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 771,
+  "name": "Zhashtyk",
+  "address": "111 Ulitsa Imeni Mambetzhana Sansyzbayeva, Tokmok, Kyrgyzstan",
+  "phone": "+996702212061",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 772,
+  "name": "Amir",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 773,
+  "name": "Kochevnik",
+  "address": "Shamsinskaya Ulitsa, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 774,
+  "name": "Umida",
+  "address": "ул Шамсинская 85, Tokmok, Kyrgyzstan",
+  "phone": "+996703071102",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 775,
+  "name": "Shirin",
+  "address": "улица Пушкина, Tokmok, Kyrgyzstan",
+  "phone": "+996550311880",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 776,
+  "name": "Kafe \"Malika\"",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 777,
+  "name": "Kafe Keremet",
+  "address": "49 Shamsinskaya Ulitsa, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 778,
+  "name": "Kafe \"Dostuk\"",
+  "address": "57 Ul.gagarina, Tokmok, Kyrgyzstan",
+  "phone": "+996551111848",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 779,
+  "name": "Smoke House",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "+996778867273",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 780,
+  "name": "Кафе \"Алия\"",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 781,
+  "name": "Centr Лаунжбар",
+  "address": "342 улица Ленина, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 782,
+  "name": "Russkoye Kafe .",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 783,
+  "name": "Mosque",
+  "address": "Lermontova, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 784,
+  "name": "Perekrestok",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 785,
+  "name": "Gril'nya",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "+996555480480",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 786,
+  "name": "ТЦ \"PLAZA\" Tokmok",
+  "address": "ул.Ибраимова 115 Бишкек, 720021, Kyrgyzstan",
+  "phone": "115720021",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 787,
+  "name": "Torgovyy Tsentr.mega Siti",
+  "address": "155 Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996312909279",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 788,
+  "name": "ZUM Aichurok",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996550997337",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 789,
+  "name": "GUM Chynar",
+  "address": "135 улица Султана Ибраимова, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 790,
+  "name": "Tashrabat",
+  "address": "3 Mir Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996551890040",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 791,
+  "name": "Asia Mall",
+  "address": "1 Г, Gorky St, Bishkek, Kyrgyzstan",
+  "phone": "+996312442160",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 792,
+  "name": "Red Centre",
+  "address": "Lenin str., Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 793,
+  "name": "Taatan",
+  "address": "92 Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996555875500",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 794,
+  "name": "ТРЦ Dordoi Plaza 2",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996312306073",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 795,
+  "name": "Bishkek Park",
+  "address": "148 Киевская Бишкек, 720001, Kyrgyzstan",
+  "phone": "148720001",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 796,
+  "name": "Bishkek City",
+  "address": "Луговая улица, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 797,
+  "name": "DK",
+  "address": "Matrosova St, Bishkek, Kyrgyzstan",
+  "phone": "+996550428155",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 798,
+  "name": "Bazar",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 799,
+  "name": "Grand Stone",
+  "address": "Suyumbayev Street, Bishkek, Kyrgyzstan",
+  "phone": "+996312986814",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 800,
+  "name": "Meerim",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996312521296",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 801,
+  "name": "Tokmok",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "+996313862768",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 802,
+  "name": "Burana Tower",
+  "address": "Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "+996312626090",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 803,
+  "name": "State History Museum",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996705840979",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 804,
+  "name": "Ala Archa National Park",
+  "address": "54 Борончиева, Tokmok, Kyrgyzstan",
+  "phone": "+996554224697",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 805,
+  "name": "Ala Too Square",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 806,
+  "name": "Ataturk Park",
+  "address": "Горнолыжный комплекс Чункурчак, Bishkek 720000, Kyrgyzstan",
+  "phone": "+996558586898",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 807,
+  "name": "Osh Bazaar",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "+996771513599",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 808,
+  "name": "Chunkurchak",
+  "address": "364 Frunze Street, Bishkek, Kyrgyzstan",
+  "phone": "+996312625031",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 809,
+  "name": "M.V.Frunze Museum",
+  "address": "Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 810,
+  "name": "Tokmok Mosque",
+  "address": "улица Дубовицкого, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 811,
+  "name": "Tokmok Mosque",
+  "address": "112 Koyenkozova, Bishkek, Kyrgyzstan",
+  "phone": "+996556101933",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 812,
+  "name": "Tokmok Animal Market",
+  "address": "Maldybaeva 40 Bishkek, 720020, Kyrgyzstan",
+  "phone": "40720020",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 813,
+  "name": "Issykata",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 814,
+  "name": "Pegas Adventure",
+  "address": "129 Orozbakov str Kochkor, 722810, Kyrgyzstan",
+  "phone": "129722810",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 815,
+  "name": "Tokmok",
+  "address": "145 улица Пушкина, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 816,
+  "name": "Pegas Adventure",
+  "address": "Луговая улица, Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 817,
+  "name": "Erkindik",
+  "address": "Kochkor, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 818,
+  "name": "Boom Gorge",
+  "address": "Kochkor, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 819,
+  "name": "Kol'ukok",
+  "address": "Chuy Ave, Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 820,
+  "name": "Kyrgyz Wonders Travel",
+  "address": "Chunkurchak, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 821,
+  "name": "Kyrgyz Riders",
+  "address": "6 ул. Чкалова, Бишкек, Kyrgyzstan",
+  "phone": "+996550404068",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 822,
+  "name": "Kegeti",
+  "address": "Bishkek, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 823,
+  "name": "Chunkurchak",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 824,
+  "name": "Trekking Union of Kyrgyzstan",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ },
+ {
+  "id": 825,
+  "name": "Tokmok",
+  "address": "Tokmok, Kyrgyzstan",
+  "phone": "",
+  "country-code": "KG",
+  "country": "Kyrgyzstan"
+ }
+]

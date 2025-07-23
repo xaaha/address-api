@@ -1,0 +1,6738 @@
+[
+ {
+  "id": 1,
+  "name": "Alvalade Hotel",
+  "address": "Avenida Dr. Agostinho Neto, Luanda, Angola, Angola",
+  "phone": "+244226552900",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 2,
+  "name": "InterContinental Luanda Miramar, an IHG Hotel",
+  "address": "R. Dr. Pinto de Azevedo 16,18, Luanda, Angola",
+  "phone": "+244222394384",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 3,
+  "name": "EPIC SANA Luanda",
+  "address": "R. Rainha Ginga 18, Luanda, Angola",
+  "phone": "+244222334241",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 4,
+  "name": "Hotel Presidente Luanda",
+  "address": "Avenida Dr. Agostinho Neto, Luanda, Angola, Angola",
+  "phone": "+244226552900",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 5,
+  "name": "Hotel Continental Luanda",
+  "address": "R. Dr. Pinto de Azevedo 16,18, Luanda, Angola",
+  "phone": "+244222394384",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 6,
+  "name": "Baía",
+  "address": "R. da Missão, Luanda, Angola",
+  "phone": "+244222642600",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 7,
+  "name": "Golden Park Hotel",
+  "address": "R. da Missão 103, Luanda, Angola",
+  "phone": "+244222670100",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 8,
+  "name": "Hotel Trópico",
+  "address": "Nehru 2, Luanda, Angola",
+  "phone": "+244226300000",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 9,
+  "name": "Hotel Victoria Garden",
+  "address": "Largo 17 de Setembro 4, Luanda, Angola",
+  "phone": "+244222311717",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 10,
+  "name": "Ritz Capital",
+  "address": "Av. Pedro Van-Dunem \"Loy\"Vila Espa, Talatona, Angola",
+  "phone": "+244938902892",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 11,
+  "name": "Art House",
+  "address": "Viana, Angola",
+  "phone": "+244916990012",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 12,
+  "name": "Brisotel",
+  "address": "Rua Conselheiro Júlio de Vilhena, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 13,
+  "name": "Hotel Express Alvalade",
+  "address": "quatro ruas depois do bfa, Luanda, Patriora sentido via expressa quatro ruas depois do bfa Luanda Patriota sentido, Via Expresso, Luanda, Angola",
+  "phone": "+244929038088",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 14,
+  "name": "Executive Hotel Samba",
+  "address": "Quifica, Angola",
+  "phone": "+244936196800",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 15,
+  "name": "Skyna Hotel Luanda",
+  "address": "Travessa da Fé, R. D do Morro Bento, Luanda, Angola",
+  "phone": "+244926028733",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 16,
+  "name": "Alvalade Hotel",
+  "address": "R. de António de Lisboa 25, Luanda, Angola",
+  "phone": "+244939803030",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 17,
+  "name": "Hotel Executive Samba",
+  "address": "R. dos Sertanejos, Luanda, Angola",
+  "phone": "+244934143311",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 18,
+  "name": "Casas de Luanda-GH Kinaxixe",
+  "address": "Largo Cesário Verde, Luanda, Angola",
+  "phone": "+244991737624",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 19,
+  "name": "Hotel Florença",
+  "address": "Viana Cazombo, Sul, Rua 3, Luanda, Angola",
+  "phone": "+244927986500",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 20,
+  "name": "Inn Luanda - Boutique Hotel Type",
+  "address": "Av. Murtala Mohammed, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 21,
+  "name": "Fly Hotel",
+  "address": "Luanda, Angola",
+  "phone": "+244936376088",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 22,
+  "name": "Guest House Do Carmo",
+  "address": "R. Sebastião Desta Vez, Luanda, Angola",
+  "phone": "+244927206699",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 23,
+  "name": "Rosa Valls Hotel",
+  "address": "R. Garcia Neto, Luanda, Angola",
+  "phone": "+244931007800",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 24,
+  "name": "Palmeiras Suite Hotel",
+  "address": "Belas, Angola",
+  "phone": "+244925101009",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 25,
+  "name": "Hotel Residencial DB",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 26,
+  "name": "RK Suite Hotel",
+  "address": "Rua, Conselheiro Aires de Orneles, Luanda, Angola",
+  "phone": "+244923596051",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 27,
+  "name": "Mivena Hotelaria",
+  "address": "Rua Dona xepa, Quifica, Angola",
+  "phone": "+244923550304",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 28,
+  "name": "Residencial Marvanuel",
+  "address": "Estrada do Patriota, Luanda, Angola",
+  "phone": "+244927766668",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 29,
+  "name": "Afilux Residencial",
+  "address": "Rua 21 de Janeiro, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 30,
+  "name": "Don Gal Hotel Luanda",
+  "address": "R. das Kipakas, Luanda, Angola",
+  "phone": "+244949902927",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 31,
+  "name": "OASI Residencial",
+  "address": "R. dos Generais, Luanda, Angola",
+  "phone": "+244943354257",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 32,
+  "name": "Faias Residence",
+  "address": "R. Maj. Kanhangulo, Luanda, Angola",
+  "phone": "+244944007891",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 33,
+  "name": "Aparthotel Tropicana Luanda, Luanda, Angola",
+  "address": "Av. Murtala Mohammed, Luanda, Angola",
+  "phone": "+244930038049",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 34,
+  "name": "Hotel Celeste",
+  "address": "Av. Talatona, Luanda, Angola",
+  "phone": "+244937518544",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 35,
+  "name": "Hotel Monalisa",
+  "address": "Sector 4  Morro Bento, Rua Inorados, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 36,
+  "name": "Royal Plaza Hotel",
+  "address": "R. do Imbondeiro 50, Luanda, Angola",
+  "phone": "+244222295163",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 37,
+  "name": "Praia Mar",
+  "address": "Luanda, Angola",
+  "phone": "+244948326381",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 38,
+  "name": "Ibis Styles Iu Luanda Cacuaco",
+  "address": "Sector 4, Rua Inorados, Luanda, Angola",
+  "phone": "+244941722241",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 39,
+  "name": "Hotel Ritz Sumbe",
+  "address": "R. 2 do Cassenda, Luanda, Angola",
+  "phone": "+244996542441",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 40,
+  "name": "Luanda Plaza",
+  "address": "Universidade Independente, Rua da, R. D do Morro Bento, Luanda, Angola",
+  "phone": "+244949807831",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 41,
+  "name": "Aparthotel Colinas do Sol",
+  "address": "Av. Murtala Mohammed 186, Luanda, Angola",
+  "phone": "+244926630366",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 42,
+  "name": "Luna Hotel Zombo",
+  "address": "Morro Bento II, Av. 21 de Janeiro, Luanda, Angola",
+  "phone": "+244946890909",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 43,
+  "name": "Hotel Tivoli",
+  "address": "R. Kwame Nkrumah, Luanda, Angola",
+  "phone": "+244222335941",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 44,
+  "name": "Costa Hotel",
+  "address": "Luanda, Angola",
+  "phone": "+244932103878",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 45,
+  "name": "Hotel Ilhamar",
+  "address": "R. Aníbal de Melo 111, Luanda, Angola",
+  "phone": "+244934530560",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 46,
+  "name": "Grande Hotel Universo",
+  "address": "Belas, Angola",
+  "phone": "+244923401854",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 47,
+  "name": "Hotel Cristania",
+  "address": "Belas, Angola",
+  "phone": "+244925931799",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 48,
+  "name": "Hotel Historico",
+  "address": "Pedro de Castro Van Dúnem \"Loy\", Luanda, Angola",
+  "phone": "+244923575556",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 49,
+  "name": "Solar do Maculusso Residencial",
+  "address": "Via S5, Av. Talatona, Luanda, Angola",
+  "phone": "+244940342500",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 50,
+  "name": "Loanda Hotel",
+  "address": "Talatona CCb4, GU02, Luanda, Angola",
+  "phone": "+244226424300",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 51,
+  "name": "Complexo Chick Chick Morro Bento",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 52,
+  "name": "Rouxinol Boutique Hotel",
+  "address": "Tv. Ho Chi Minh, Luanda, Angola",
+  "phone": "+244940904623",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 53,
+  "name": "Albergaria Corimba Sol",
+  "address": "R. Cerqueira Lukoki 120, Luanda, Angola",
+  "phone": "+244939702187",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 54,
+  "name": "Zana Dream",
+  "address": "KM 25 Libolo Vila Ado Calulo, Calulo, Angola",
+  "phone": "+244948988747",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 55,
+  "name": "Hotel Cascata",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 56,
+  "name": "Thomson Beach House - Nayuka",
+  "address": "Estrada da Samba, N.º 402 A/B, Luanda, Angola",
+  "phone": "+244222402805",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 57,
+  "name": "Hotel 3J Qualidade \u0026 Exceléncia",
+  "address": "Viana, Angola",
+  "phone": "+244941233851",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 58,
+  "name": "Hotel Pirâmide",
+  "address": "Rua Van DunenLoy Nº27, Av. Pedro de C. Vandunem-Loy, Angola",
+  "phone": "+244995589291",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 59,
+  "name": "Hotel Katyavala",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 60,
+  "name": "Station Hotel",
+  "address": "R. D.Francisco de Soveral, Luanda, Angola",
+  "phone": "+244943206650",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 61,
+  "name": "Hotel Kudissanga",
+  "address": "Luanda, Angola",
+  "phone": "+244929510553",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 62,
+  "name": "Hotel Ritz Fazenda Cabuta",
+  "address": "Belas, Angola",
+  "phone": "+244991836102",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 63,
+  "name": "Avenida",
+  "address": "Rua 82, Corimba, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 64,
+  "name": "Pension Cruzeiro",
+  "address": "R. Joaquim Kapango 83, Luanda, Angola",
+  "phone": "+244222325275",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 65,
+  "name": "Hotel de Convenções de Talatona - HCTA",
+  "address": "Luanda, Angola",
+  "phone": "+244916043244",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 66,
+  "name": "Hotel Fórum",
+  "address": "Beco de Moçambique, Luanda, Angola",
+  "phone": "+244940515659",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 67,
+  "name": "iu Hotel Talatona",
+  "address": "Cassequel do Buraco, Rua 55, Luanda, Angola",
+  "phone": "+244222263242",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 68,
+  "name": "Hotel D\u0026D",
+  "address": "Rua Direita do Camama, Luanda, Angola",
+  "phone": "+244940529919",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 69,
+  "name": "Hotel Vila Alice",
+  "address": "R. Cirilo da Conceição Silva, Luanda, Angola",
+  "phone": "+244222333192",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 70,
+  "name": "Roça das Mangueiras",
+  "address": "R. Rainha Ginga 29-31, Luanda, Angola",
+  "phone": "+244222371159",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 71,
+  "name": "Hotel 4 Pétalas",
+  "address": "Av. Murtala Mohammed, Luanda, Angola",
+  "phone": "+244938814026",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 72,
+  "name": "A.L.K Hotel",
+  "address": "Av. Cmte. Che Guevara 138, Luanda, Angola",
+  "phone": "+244922201066",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 73,
+  "name": "Soleme GuestHouse",
+  "address": "R. da Missão 85, Luanda, Angola",
+  "phone": "+244222391593",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 74,
+  "name": "Hotel Sol Nélia",
+  "address": "R. Arsenio Pompilio Pompeu do Carpo, Luanda, Angola",
+  "phone": "+351289588501",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 75,
+  "name": "Hotel Marinha",
+  "address": "Via S7A, Luanda, Angola",
+  "phone": "+244914522800",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 76,
+  "name": "HOTEL FIESTA",
+  "address": "Largo Albano Machado 41, Luanda, Angola",
+  "phone": "+244222734912",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 77,
+  "name": "Hotel Kilimanjaro",
+  "address": "Marginal do Sumbe, 4 de Fevereiro, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 78,
+  "name": "Complexo Turístico Morro Bento",
+  "address": "Estrada Nacional Zona Vidrul, Cacuaco, Angola",
+  "phone": "+244929396106",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 79,
+  "name": "Guest House ABS Fortaleza",
+  "address": "Av. Murtala Mohammed 50, Luanda, Angola",
+  "phone": "+244222309096",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 80,
+  "name": "Horizonte Novo",
+  "address": "Monalisa Hotel Residence, Luanda, Angola",
+  "phone": "+244940787662",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 81,
+  "name": "Abs Guest House",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 82,
+  "name": "DOWNTOWN GUEST HOUSE",
+  "address": "R. Rainha Ginga 60, Luanda, Angola",
+  "phone": "+244222334310",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 83,
+  "name": "Hotel Rainha Njinga",
+  "address": "Av. Talatona, Luanda, Angola",
+  "phone": "+244923725222",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 84,
+  "name": "Diamante Hotel",
+  "address": "Bairro Jacinto Tchipa, Don Gal Hotel, Estrada Camama-Viana, Viana, Angola",
+  "phone": "+244942270084",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 85,
+  "name": "IKA Hotel Luanda",
+  "address": "Av. Cmte. Valódia 182, Luanda, Angola",
+  "phone": "+244930340783",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 86,
+  "name": "Hotel Fleuma",
+  "address": "R. L, Luanda, Angola",
+  "phone": "+244942421979",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 87,
+  "name": "Apart Hotel Gata Gold",
+  "address": "R. Cmte. Dangereux, Luanda, Angola",
+  "phone": "+244926744464",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 88,
+  "name": "Hotel Patriota",
+  "address": "R. 11, Luanda, Angola",
+  "phone": "+244926918475",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 89,
+  "name": "Malépo Pensão",
+  "address": "Bloco A, R. Rei Katyavala, Edifíci, o Rei Katyavala, Luanda, Angola",
+  "phone": "+244918806165",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 90,
+  "name": "SUITE HOTEL LUAR",
+  "address": "DE MIRANDA, Av. Deolinda Rodrigues 33A, Luanda, Angola",
+  "phone": "+244925273737",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 91,
+  "name": "Hotel Prime INN",
+  "address": "Luanda Sul, Luanda, Angola",
+  "phone": "+244923167222",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 92,
+  "name": "Mucinga N'zambi",
+  "address": "Rua Travessa Pedro 113, Luanda, Angola",
+  "phone": "+244922759727",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 93,
+  "name": "Massus Hotel",
+  "address": "Av. Pedro de Castro Van-Dúnem Loy, Luanda, Angola",
+  "phone": "+244934798858",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 94,
+  "name": "Residencial Maculusso",
+  "address": "R. Sebastião Desta Vez 161, Luanda, Angola",
+  "phone": "+244922687350",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 95,
+  "name": "Hotel Ilha do Cabo",
+  "address": "Av. Luanda Sul em frente ao Belas Shopping, Belas, Angola",
+  "phone": "+244918806144",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 96,
+  "name": "Art Residence Angola",
+  "address": "Luanda, Angola",
+  "phone": "+244222320358",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 97,
+  "name": "Residencial Loot Plaza",
+  "address": "Rua 17 Nr. 4, (Junto Ao Aeroporto Voos Domesticos, Angola",
+  "phone": "+244943091068",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 98,
+  "name": "Uala",
+  "address": "Comandante Gika, Luanda, Angola",
+  "phone": "+244222620600",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 99,
+  "name": "Residencial Villa Aurora",
+  "address": "Estr. da Samba, Luanda, Angola",
+  "phone": "+351919450754",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 100,
+  "name": "Hotel Sunsil",
+  "address": "Noº29, Av. de Portugal, Luanda, Angola",
+  "phone": "+244222670900",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 101,
+  "name": "Taverna do Morro",
+  "address": "Ilha de Luanda, Av. Murtala Mohammed, Luanda, Angola",
+  "phone": "+244923581333",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 102,
+  "name": "Vasku's Restaurant",
+  "address": "Luanda's Naval Club, Rua Mortalla, Av. Murtala Mohamed, Luanda, Angola",
+  "phone": "+244935733518",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 103,
+  "name": "Restaurante Veneza",
+  "address": "Belas Business Park, Torre Moxico luanda, Talatona, Angola",
+  "phone": "+244947336684",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 104,
+  "name": "Restaurante la Vigia",
+  "address": "Postal nº 3583, R. Emílio M'Bidi 112 C, Luanda, Angola",
+  "phone": "+244926648028",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 105,
+  "name": "Restaurante o Naval",
+  "address": "Av. 21 de Janeiro 230, Luanda, Angola",
+  "phone": "+244931083296",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 106,
+  "name": "Kook Restaurant",
+  "address": "R. Joaquim Kapango 82, Luanda, Angola",
+  "phone": "+244921565656",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 107,
+  "name": "Restaurante Café Del Mar",
+  "address": "Estádio dos Coqueiros, Luanda, Angola",
+  "phone": "+244924549156",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 108,
+  "name": "Restaurante Andy's Broadway Bar",
+  "address": "R. Nicolau Gomes Spencer, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 109,
+  "name": "Restaurante Pimms",
+  "address": "R. da Liberdade, Luanda, Angola",
+  "phone": "+244933049185",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 110,
+  "name": "Restaurante Bico do Sapato",
+  "address": "Av. Cmte. Che Guevara, Luanda, Angola",
+  "phone": "+244936133131",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 111,
+  "name": "Esplanada Grill - Steakhouse",
+  "address": "Via C3, Talatona, Luanda, Angola",
+  "phone": "+244938030660",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 112,
+  "name": "Restaurante Barbarico",
+  "address": "Centro comercial 3M-Marquito, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 113,
+  "name": "Nikki's House Restaurant",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 114,
+  "name": "Espaço Luanda",
+  "address": "R. Cmte. Kwenha 287, Luanda, Angola",
+  "phone": "+244939172378",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 115,
+  "name": "Lookal Mar - Marisqueira",
+  "address": "Av. Cmte. Gika 116, Luanda, Angola",
+  "phone": "+244945010927",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 116,
+  "name": "Vitrúvio",
+  "address": "Sede: Rua 70, Edifício 176, 1, Angola",
+  "phone": "+244944450934",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 117,
+  "name": "Miami Beach",
+  "address": "Belas, Angola",
+  "phone": "+244940838220",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 118,
+  "name": "O Madeirense Cidade",
+  "address": "Av. Murtala Mohammed, Luanda, Angola",
+  "phone": "+244930337914",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 119,
+  "name": "Seven by Natural Mix",
+  "address": "Belas, Angola",
+  "phone": "+244937956218",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 120,
+  "name": "Vitrúvio",
+  "address": "R. Emílio M'Bidi, Luanda, Angola",
+  "phone": "+244945061243",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 121,
+  "name": "Peixe Do Cabo",
+  "address": "Luanda, Angola",
+  "phone": "+244222370610",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 122,
+  "name": "Restaurante Churrascaria Nandinhos",
+  "address": "Belas, Angola",
+  "phone": "+244923639940",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 123,
+  "name": "Bulls steakhouse",
+  "address": "Business Park Mezanino entre os Edificios Luanda e Malange, Belas, Angola",
+  "phone": "+244928595812",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 124,
+  "name": "Restaurante TEN",
+  "address": "N.9, Rua de Jose Anchieta, Luanda, Angola",
+  "phone": "+244936243464",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 125,
+  "name": "Pizza Il Forno",
+  "address": "Luanda, Angola",
+  "phone": "+244923600304",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 126,
+  "name": "Maris Grill",
+  "address": "Avenida Fidel de Castro, Via Expresso, Luanda, Angola",
+  "phone": "+244928348387",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 127,
+  "name": "Pappa dons",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 128,
+  "name": "A Gruta",
+  "address": "R. Joaquim Kapango 62, Luanda, Angola",
+  "phone": "+244932536433",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 129,
+  "name": "Cafeína",
+  "address": "Av. Luanda Sul 1, Luanda, Angola",
+  "phone": "+244945020007",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 130,
+  "name": "Sizzling",
+  "address": "Predio Di Maria, R. Cmte. Kwenha 86, Luanda, Angola",
+  "phone": "+244930913030",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 131,
+  "name": "Restaurant Le Phenician",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 132,
+  "name": "Restaurante Viva Luanda",
+  "address": "Luanda, Angola",
+  "phone": "+244937134422",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 133,
+  "name": "Restaurante Tendinha",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 134,
+  "name": "REEF CAFE RESTAURANT",
+  "address": "Av. Murtala Mohammed 15, Luanda, Angola",
+  "phone": "+244936000021",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 135,
+  "name": "SUKARA Morro Bento",
+  "address": "Restaurante Doner Kebap İstanbul, Av. 21 De Janeiro Morro Bento, Luanda, Angola",
+  "phone": "+244941126637",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 136,
+  "name": "Restaurante K Luanda Chic",
+  "address": "R. 3 do Cassenda, Luanda, Angola",
+  "phone": "+244923720585",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 137,
+  "name": "Al-Amir Restaurant",
+  "address": "Unnamed Road, Luanda, Angola",
+  "phone": "+244927446435",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 138,
+  "name": "Restaurante Mexicana",
+  "address": "Luanda, Angola",
+  "phone": "+244934556590",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 139,
+  "name": "Restaurante Switch",
+  "address": "R. Rui Sousa, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 140,
+  "name": "Dar El Amir Lebanese Restaurant",
+  "address": "Av. Cmte. Valódia, Luanda, Angola",
+  "phone": "+244922314514",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 141,
+  "name": "Moon Restaurante-Lounge",
+  "address": "Zepirao, Alameda Manuel Van-Dunen 324/326, Luanda, Angola",
+  "phone": "+244939223838",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 142,
+  "name": "SEVEN BURGUER",
+  "address": "R. Francisco das Necessidades Castelo Branco, Luanda, Angola",
+  "phone": "+244927006003",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 143,
+  "name": "Embarcadouro Restaurante",
+  "address": "Luanda, Angola",
+  "phone": "+244947981649",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 144,
+  "name": "Habesha Ethiopian Restaurant New",
+  "address": "a direita após a ponte, R. do Kamorteiro, Luanda, Angola",
+  "phone": "+244917764670",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 145,
+  "name": "Go Green The Restaurant",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 146,
+  "name": "Satiate Bao",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 147,
+  "name": "Á florentina",
+  "address": "R. do Imbondeiro, Luanda, Angola",
+  "phone": "+244937244303",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 148,
+  "name": "Terrakota Restaurant",
+  "address": "R. dos Heróis, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 149,
+  "name": "Newlys restaurant",
+  "address": "Luanda, Angola",
+  "phone": "+244222396884",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 150,
+  "name": "Poke",
+  "address": "Rua Ndunduma, no50 B-C, Bairro Miramar r/c, Angola",
+  "phone": "+244922793397",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 151,
+  "name": "Restaurante La Vigia Maculusso",
+  "address": "R. H, Luanda, Angola",
+  "phone": "+244934273534",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 152,
+  "name": "Restaurante La Bella",
+  "address": "Sector ponta, Av. Murtala Mohammed 13, Luanda, Angola",
+  "phone": "+244944442626",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 153,
+  "name": "Bessangana cervejaria / restaurante",
+  "address": "Rua dos Franceses, Samba, Luanda, Angola",
+  "phone": "+244924410633",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 154,
+  "name": "Origami",
+  "address": "Rua Samuel Bernardo 54, Luanda, Angola",
+  "phone": "+244937008298",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 155,
+  "name": "Vista da Fortaleza",
+  "address": "Em Frente do Pomobel, Av. Massano de Amorim, Luanda, Angola",
+  "phone": "+244938550540",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 156,
+  "name": "Luanda Beach Club",
+  "address": "Rua da Missão Piso 2, Luanda, Angola",
+  "phone": "+244222642712",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 157,
+  "name": "O Toscano Restaurante",
+  "address": "Ilha de Luanda, Luanda, Angola",
+  "phone": "+244939229517",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 158,
+  "name": "Habesha Restaurant inda adonai",
+  "address": "R. Mal. Brós Tito 48, Luanda, Angola",
+  "phone": "+244932845500",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 159,
+  "name": "Restaurante Ipanema Mar",
+  "address": "R. Maj. Marcelino Dias nº47, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 160,
+  "name": "Los Três",
+  "address": "Four click park, Rua Centro Convenções S8, Luanda, Angola",
+  "phone": "+244933276943",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 161,
+  "name": "Venus Vulcano Restaurant",
+  "address": "EPIC SANA Luanda Hotel, R. da Missão, Luanda, Angola",
+  "phone": "+244222642600",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 162,
+  "name": "Buddha Luanda",
+  "address": "R. Nicolau Gomes Spencer n18, Luanda, Angola",
+  "phone": "+244929454589",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 163,
+  "name": "Kimbo dos Irmãos",
+  "address": "Bairro Militar rua, Av. Talatona, Luanda, Angola",
+  "phone": "+244922289187",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 164,
+  "name": "Mariachi Bini’s Chicken",
+  "address": "Av. Pedro de Castro Van-Dúnem Loy, Luanda, Angola",
+  "phone": "+244928576833",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 165,
+  "name": "BRICK Restaurante Bar Lounge",
+  "address": "Casa dos Desportistas, Av. Murtala Mohammed, Luanda, Angola",
+  "phone": "+244931002593",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 166,
+  "name": "Restaurante Tambarino",
+  "address": "Lourenço Mendes da Conceição 147, Luanda, Angola",
+  "phone": "+244924245398",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 167,
+  "name": "NANDO'S Rest. Lounge",
+  "address": "Luanda, Angola",
+  "phone": "+244930547273",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 168,
+  "name": "Champagneria Luanda",
+  "address": "Av. Eng. Pedro de Castro Van Dunem, Condomínio Royal Park, Edf 1, Lj 3, Av. Talatona, Luanda, Angola",
+  "phone": "+244922525825",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 169,
+  "name": "Tia Maria Luboia",
+  "address": "Av. Cmte. Che Guevara, Luanda, Angola",
+  "phone": "+244944593900",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 170,
+  "name": "Marginal Lounge",
+  "address": "R. da Missão, Luanda, Angola",
+  "phone": "+244930687656",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 171,
+  "name": "Spice Restaurant (Zepirao)",
+  "address": "Luanda, Angola",
+  "phone": "+244948414142",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 172,
+  "name": "Restaurante Chez Wou",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 173,
+  "name": "Kurahrestaurant",
+  "address": "Avenida Che Guevara 21-23, Luanda, Angola",
+  "phone": "+244928347666",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 174,
+  "name": "Clube S",
+  "address": "Via C3 Atlantic Business Center, 1° andar, n° 21, Av. Talatona, Luanda, Angola",
+  "phone": "+244938518021",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 175,
+  "name": "Otto Luanda",
+  "address": "Av. 21 de Janeiro, Luanda, Angola",
+  "phone": "+244947717172",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 176,
+  "name": "Angobzeih Halal Mini Mercado \u0026 Restaurant",
+  "address": "R. da Missão, Luanda, Angola",
+  "phone": "+244924715872",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 177,
+  "name": "Helal Restaurante Kebap Döner İstanbul",
+  "address": "R. de São Tomé nº 2, Luanda, Angola",
+  "phone": "+244946302896",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 178,
+  "name": "La-Plaza Restaurante",
+  "address": "Via A2, Luanda, Angola",
+  "phone": "+244946143080",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 179,
+  "name": "Mezza Mediterranean Food",
+  "address": "R. da Missão 16, Luanda, Angola",
+  "phone": "+244923542868",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 180,
+  "name": "Pomodoro Cozinha Italiana",
+  "address": "R. Rainha Ginga 74, Luanda, Angola",
+  "phone": "+244931634441",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 181,
+  "name": "Restaurante Oon Dah Avennida",
+  "address": "KFC, Macullusso, Rua comandante Che-Guevara 17 near, Luanda, Angola",
+  "phone": "+244931792999",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 182,
+  "name": "Lorena resto cafe",
+  "address": "Rua de Alexandre Peres, Luanda, Angola",
+  "phone": "+244931293970",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 183,
+  "name": "Andy's Indian Restaurant",
+  "address": "Luanda, Angola",
+  "phone": "+244923613293",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 184,
+  "name": "Sabores Luandenses",
+  "address": "R. Gen. João de Almeida, Luanda, Angola",
+  "phone": "+244937779777",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 185,
+  "name": "Restaurante Etíope",
+  "address": "Av. Cmte. Gika, Luanda, Angola",
+  "phone": "+244922642935",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 186,
+  "name": "Cafe Gourmet Maculusso",
+  "address": "Av. Cmte. Che Guevara 102, Luanda, Angola",
+  "phone": "+244930340169",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 187,
+  "name": "Rodízio de mirantes",
+  "address": "Rua Comandante Nzaji, Luanda, Angola",
+  "phone": "+244924506589",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 188,
+  "name": "Restaurante D'Matias",
+  "address": "Rua Avenida 4 Fevereiro, Edificio Kilamba Piso, Av. 4 de Fevereiro 10, Luanda, Angola",
+  "phone": "+244933657030",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 189,
+  "name": "Bahia",
+  "address": "Ilha de Luanda, Av. Murtala Mohammed, Luanda, Angola",
+  "phone": "+244930249986",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 190,
+  "name": "Restaurante Panela de Barro",
+  "address": "R. Cmte. Dangereux, Luanda, Angola",
+  "phone": "+244947388700",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 191,
+  "name": "Gardens Restaurante Bar",
+  "address": "Rua da Missão Piso 1, Luanda, Angola",
+  "phone": "+244222642703",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 192,
+  "name": "Terra \u0026 Mar",
+  "address": "Av. Cmte. Valódia 13, Luanda, Angola",
+  "phone": "+244928173737",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 193,
+  "name": "Café Toquessencial",
+  "address": "Luanda, Angola",
+  "phone": "+244926143700",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 194,
+  "name": "Kurah Restaurante Lounge",
+  "address": "Rua de Jose Anchieta 19, Luanda, Angola",
+  "phone": "+244932056860",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 195,
+  "name": "Miralua Restaurante",
+  "address": "Rua da Missão Piso 1, Luanda, Angola",
+  "phone": "+244222642703",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 196,
+  "name": "Belas Shopping",
+  "address": "Estrada do Calemba 2, Bairro Sapú 2 - Talatona, Junto a Agostinho Neto, Angola",
+  "phone": "+244991273617",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 197,
+  "name": "Talatona Shopping",
+  "address": "Alameda Manuel Van-Dunen, Luanda, Angola",
+  "phone": "+244923521111",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 198,
+  "name": "Shopping Avennida",
+  "address": "Av. Pedro de Castro Van-Dúnem Loy, Luanda, Angola",
+  "phone": "+244932699984",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 199,
+  "name": "Shopping Fortaleza",
+  "address": "Rua da Universidade Metropolitano (IMETRO, R. D do Morro Bento, Luanda, Angola",
+  "phone": "+244995383838",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 200,
+  "name": "Ulengo Center",
+  "address": "Dr. António Agostino Neto \u0026 Av., Av. 4 de Fevereiro, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 201,
+  "name": "Shopping ao ar livre",
+  "address": "Marginal de luanda, Luanda, Angola",
+  "phone": "+244947971119",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 202,
+  "name": "Chamavo",
+  "address": "Av. Luanda Sul, Luanda, Angola",
+  "phone": "+244222678470",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 203,
+  "name": "Xyami Shopping",
+  "address": "Av. Via 2, Av. Talatona, Luanda, Angola",
+  "phone": "+244925777770",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 204,
+  "name": "Amana Shopping",
+  "address": "Av. Pedro de Castro Vandunem - Loy, Luanda, Angola",
+  "phone": "+244923165460",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 205,
+  "name": "Xyami Morro Bento",
+  "address": "Av. Luanda Sul, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 206,
+  "name": "ginga shopping",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 207,
+  "name": "Glory Center",
+  "address": "Av. Deolinda Rodrigues, Luanda, Angola",
+  "phone": "+244222260070",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 208,
+  "name": "centro comercial Imperio",
+  "address": "Center Ulengo shopping ulengo Ulengo Luanda, Angola, Belas, Angola",
+  "phone": "+244940087320",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 209,
+  "name": "Mercado do Titanic",
+  "address": "R. Rainha Ginga nº 220, Luanda, Angola",
+  "phone": "+244941144200",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 210,
+  "name": "IVC Comércio Geral",
+  "address": "-Viana, R. 11 de Novembro, Luanda, Angola",
+  "phone": "+244936696669",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 211,
+  "name": "Centro Comercial Paulus Plaza",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 212,
+  "name": "Caminha Comercial",
+  "address": "Estr. Lar Patriota, Luanda, Angola",
+  "phone": "+244927589335",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 213,
+  "name": "SP-comercial",
+  "address": "R. 24 do Cassenda, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 214,
+  "name": "Galerias Patriota",
+  "address": "Rua 27 Nr 80, Zona Verde II, Benfica, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 215,
+  "name": "Farcep Angola",
+  "address": "Via S8, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 216,
+  "name": "ginga shopping",
+  "address": "Rua do 1º Congresso do MPLA 29, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 217,
+  "name": "Centro comercial Acacias",
+  "address": "Casa Samba, R. 41, 356, Luanda, Angola",
+  "phone": "+244222002140",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 218,
+  "name": "Commplexo de Armazéns da Mulemba - Siccal",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 219,
+  "name": "Centro Comercial - Escravo do Lazer",
+  "address": "Mulenvos, Angola",
+  "phone": "+244929117761",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 220,
+  "name": "Glory Center",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 221,
+  "name": "centro comercial Imperio",
+  "address": "LuandaCalemba II Estrada Jacinto Tchipa, junto ao Banco Bic, Angola",
+  "phone": "+244931454647",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 222,
+  "name": "BELLA SEMIJOIAS",
+  "address": "Luanda, Angola",
+  "phone": "+244923302006",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 223,
+  "name": "Mercado do Titanic",
+  "address": "Luanda, Angola",
+  "phone": "+244997332415",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 224,
+  "name": "Mindef",
+  "address": "Luanda, Angola",
+  "phone": "+244923603859",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 225,
+  "name": "Centro Comercial Paulus Plaza",
+  "address": "R. C, Cabolombo, Angola",
+  "phone": "+244917697109",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 226,
+  "name": "Caminha Comercial",
+  "address": "Rua da Samba, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 227,
+  "name": "Complexo Xyami",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 228,
+  "name": "SP-comercial",
+  "address": "Luanda, Angola",
+  "phone": "+244923370688",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 229,
+  "name": "Palace Business Center",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 230,
+  "name": "Galerias Patriota",
+  "address": "Av. Pedro de Castro Van-Dúnem Loy, Luanda, Angola",
+  "phone": "+244923626104",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 231,
+  "name": "Parque MUTU",
+  "address": "Viana Vila Luanda, Viana, Angola",
+  "phone": "+244997290168",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 232,
+  "name": "Central Pas",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 233,
+  "name": "Eu ea Minha Banda",
+  "address": "R. Maj. Marcelino Dias, Luanda, Angola",
+  "phone": "+244924015550",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 234,
+  "name": "Mundo climátic",
+  "address": "Luanda, Angola",
+  "phone": "+244940952192",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 235,
+  "name": "Lueji Comercial Mundo dos Frescos",
+  "address": "Luanda, Angola",
+  "phone": "+244925373467",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 236,
+  "name": "Muito+",
+  "address": "GAMEK, R. E do Bairro Operário, Luanda, Angola",
+  "phone": "+244942216208",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 237,
+  "name": "Loja Da Vila Alice JS Comercial",
+  "address": "Avenida, Belas, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 238,
+  "name": "PEP´S ROCHA PINTO",
+  "address": "Rua do Ifal - Edificio Massimus Bussines Center, Talatona, Angola",
+  "phone": "+244931681689",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 239,
+  "name": "Xyami Shopping - Kilamba",
+  "address": "R. do Centro Cultural Dr António Agostinho Neto, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 240,
+  "name": "Mini-mercado kibabo",
+  "address": "R. Hoji Ya Henda, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 241,
+  "name": "Sokal Comercio Geral",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 242,
+  "name": "Equivalenza Palanca",
+  "address": "R. da Vala, Luanda, Angola",
+  "phone": "+244926452456",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 243,
+  "name": "Shopping Gude Vida",
+  "address": "Via Luanda Sul, Luanda, Angola",
+  "phone": "+244941774571",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 244,
+  "name": "AIGA",
+  "address": "Luanda, Angola",
+  "phone": "+244924432121",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 245,
+  "name": "KILAMBA SHOPPING",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 246,
+  "name": "Luanda Funcenter",
+  "address": "R. Sagrada Esperança, Luanda, Angola",
+  "phone": "+244924454513",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 247,
+  "name": "4JM - Luxy",
+  "address": "Belas, Angola",
+  "phone": "+244923431862",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 248,
+  "name": "Edificio atlantic Business",
+  "address": "Viana, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 249,
+  "name": "Barbearia Santos Boutique",
+  "address": "Luanda, Angola",
+  "phone": "+244937440605",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 250,
+  "name": "Ikea via expresso",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 251,
+  "name": "Condominio Espaços Avenida",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 252,
+  "name": "Mini Mercado Grupo V10",
+  "address": "R. Urbanova, Belas, Angola",
+  "phone": "+244923674018",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 253,
+  "name": "Dr. Aldemiro",
+  "address": "Av. Deolinda Rodrigues, Luanda, Angola",
+  "phone": "+244937997999",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 254,
+  "name": "MP022 - OUTDOOR BIGMEDIA",
+  "address": "Estr. de Catete 6, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 255,
+  "name": "Grupo Quessongo",
+  "address": "Estr. Zango/Calumbo, ZangoIII, Angola",
+  "phone": "+244941019999",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 256,
+  "name": "Farmácia Mixcenter",
+  "address": "Luanda, Angola",
+  "phone": "+244933918960",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 257,
+  "name": "Longrich- Lider Mario",
+  "address": "Loja No 29 - Tuafeni Shopping, Av Cmdt Gika, Kilamba, Angola",
+  "phone": "+244937241622",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 258,
+  "name": "Kingila Óptica",
+  "address": "Luanda, Angola",
+  "phone": "+244923508855",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 259,
+  "name": "QUADRA G ZANGO 2",
+  "address": "Largo do Nzinga, R. da Liga Nacional Africana, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 260,
+  "name": "Supermercado AngoMart",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 261,
+  "name": "Centro de Logística De Talatona",
+  "address": "Belas, Angola",
+  "phone": "+244922743799",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 262,
+  "name": "Massimus Angola - Business \u0026 Health Center",
+  "address": "R. Bula Matadi, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 263,
+  "name": "KING KONG MUSIC",
+  "address": "Luanda, Angola",
+  "phone": "+244921874304",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 264,
+  "name": "El-dourado",
+  "address": "Pedro de Castro Van Dúnem \"Loy\", Luanda, Angola",
+  "phone": "+244932511732",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 265,
+  "name": "Lavandaria Mundo Cristal",
+  "address": "Patriota, Luanda, Angola",
+  "phone": "+244923598772",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 266,
+  "name": "ExpoGarden- Florista, Decoração, Jardinagem em Luanda",
+  "address": "R. Dom Antónia Saldanha, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 267,
+  "name": "K3Digital",
+  "address": "Galeria do Patriota, Luanda, Angola",
+  "phone": "+244939544111",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 268,
+  "name": "Loja Sensor Angola",
+  "address": "11 de Novembro (Ulengo Center Luanda, Talatona, Angola",
+  "phone": "+244994323385",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 269,
+  "name": "SUPER QUALITY PLAY STUDIO",
+  "address": "R. E do Bairro Operário, Luanda, Angola",
+  "phone": "+244993394934",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 270,
+  "name": "Livraria MESTRIA",
+  "address": "Av. 21 de Janeiro, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 271,
+  "name": "Amadeu's Shopping Center",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 272,
+  "name": "American Center Angola",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 273,
+  "name": "Loja do Branco",
+  "address": "R S\\N, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 274,
+  "name": "Kissonde Salao de Eventos",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 275,
+  "name": "Tia zinha e filhos comercial",
+  "address": "MD Flor Spa e Estética, Luanda, Angola",
+  "phone": "+244923832684",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 276,
+  "name": "TJA BEIDA COMERCIAL, LDA",
+  "address": "R. E do Palanca, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 277,
+  "name": "AFP Lda",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 278,
+  "name": "Drugstore São Pedro",
+  "address": "Rua do Gamek à direita, por detrás do Nosso Centro, edifício Glory Center, Luanda, Angola",
+  "phone": "+244929375410",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 279,
+  "name": "Salão de Festa Vila Mateus",
+  "address": "Via Expresso, Belas, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 280,
+  "name": "MMD Bondade Comercial",
+  "address": "Unnamed Road, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 281,
+  "name": "Brindes E Pestisco",
+  "address": "Unnamed Road, Luanda, Angola",
+  "phone": "+244947421124",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 282,
+  "name": "PREVINE Angola",
+  "address": "Av. Luanda Sul, Luanda, Angola",
+  "phone": "+244934888833",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 283,
+  "name": "Shopping Avennida - Talatona",
+  "address": "R. E do Bairro Operário, Luanda, Angola",
+  "phone": "+244993394934",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 284,
+  "name": "K.Link Enterprise Ltda",
+  "address": "Ginga Shopping, Estrada Camama-Viana KM 14,5, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 285,
+  "name": "Virginia Commercial Center",
+  "address": "Galeria do Patriota, Luanda, Angola",
+  "phone": "+244939544111",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 286,
+  "name": "SonaGás",
+  "address": "R S\\N, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 287,
+  "name": "Kussumba Shopping Center Online",
+  "address": "R. E do Palanca, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 288,
+  "name": "Jumbo",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 289,
+  "name": "Fortaleza de São Miguel",
+  "address": "Luanda, Angola",
+  "phone": "+244939779809",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 290,
+  "name": "Museu da Moeda",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 291,
+  "name": "Church of Our Lady of Remedies",
+  "address": "Calçada de São Miguel, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 292,
+  "name": "Museum of Natural History",
+  "address": "Largo Irene Cohen, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 293,
+  "name": "Viewpoint of the Moon",
+  "address": "Nossa Senhora da Muxima, Luanda, Angola",
+  "phone": "+244921360872",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 294,
+  "name": "National Slavery Museum",
+  "address": "R. Friedrich Engels 61, Luanda, Angola",
+  "phone": "+244921214168",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 295,
+  "name": "Church of Carmo",
+  "address": "Av. 4 de Fevereiro 151, Luanda, Angola",
+  "phone": "+244226431231",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 296,
+  "name": "Cemitério Dos Navios",
+  "address": "Belas, Angola",
+  "phone": "+244949972247",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 297,
+  "name": "Parque Nacional do Quicama",
+  "address": "Cacula, Angola",
+  "phone": "+244925314949",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 298,
+  "name": "National Museum of Anthropology",
+  "address": "Belas, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 299,
+  "name": "Calandula Falls",
+  "address": "R. do Partido, Quifica, Angola",
+  "phone": "+244996549676",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 300,
+  "name": "Praia de Sangano",
+  "address": "Caboledo, Angola",
+  "phone": "+244936419333",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 301,
+  "name": "Naquele Lugar",
+  "address": "Luanda, Angola",
+  "phone": "+244226433400",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 302,
+  "name": "Luanda Airport",
+  "address": "Av. Murtala Mohammed, Luanda, Angola",
+  "phone": "+244924541890",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 303,
+  "name": "Peninsula Mussulo",
+  "address": "Via Luanda Sul, Luanda, Angola",
+  "phone": "+244929760999",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 304,
+  "name": "Praça do Hoji Ya Henda",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 305,
+  "name": "CIDADE ALTA",
+  "address": "R. do Imbondeiro 50, Luanda, Angola",
+  "phone": "+244222295163",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 306,
+  "name": "Mercado do 30 - Venda de Animais",
+  "address": "R. do Quicombo 114, Luanda, Angola",
+  "phone": "+244924285646",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 307,
+  "name": "Shopping Avennida",
+  "address": "Av. Murtala Mohammed, Luanda, Angola",
+  "phone": "+244934573228",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 308,
+  "name": "Luanda Province",
+  "address": "Estrada Lar do Patriota, Luanda, Angola",
+  "phone": "+244940410707",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 309,
+  "name": "Parque Nacional da Cameia",
+  "address": "Praia de, Caboledo, Angola",
+  "phone": "+244942585080",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 310,
+  "name": "Pure and Authentic Tourism",
+  "address": "R. Rainha Ginga 60, Luanda, Angola",
+  "phone": "+244222334310",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 311,
+  "name": "Tundavala gap",
+  "address": "R. da Missão nº 95, Luanda, Angola",
+  "phone": "+244222395942",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 312,
+  "name": "Ruacana Falls",
+  "address": "R. Kwame Nkrumah 274 / 276, Luanda, Angola",
+  "phone": "+244923120150",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 313,
+  "name": "Eco Tur Angola",
+  "address": "Av. do 1º Congresso do MPLA 7/9, Luanda, Angola",
+  "phone": "+244222638600",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 314,
+  "name": "Chamavo",
+  "address": "R. 23, Luanda, Angola",
+  "phone": "+244928906589",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 315,
+  "name": "Angomart - Largo De ambiente",
+  "address": "Luanda, Angola",
+  "phone": "+244929099999",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 316,
+  "name": "Mupa National park",
+  "address": "Luanda, Angola",
+  "phone": "+244923445588",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 317,
+  "name": "Mercado do Artesanato",
+  "address": "R. Ramalho Ortigão n13, Luanda, Angola",
+  "phone": "+244921359464",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 318,
+  "name": "Art'Burguer",
+  "address": "Condomínio BNA, Luanda, Angola",
+  "phone": "+244912919184",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 319,
+  "name": "Aparthotel Colinas do Sol",
+  "address": "n.º 8 B/C, Conselheiro Aires de Orneles, Luanda, Angola",
+  "phone": "+244936690380",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 320,
+  "name": "Estação Central de Luanda",
+  "address": "Avenida Murthala Mohamed, Luanda, Angola",
+  "phone": "+244922776319",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 321,
+  "name": "KIBABO SHOPPING",
+  "address": "Rua Centro Convenções S8, Luanda, Angola",
+  "phone": "+244226433460",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 322,
+  "name": "Our Lady Of Senhora De Monte Park",
+  "address": "Nehru 2, Luanda, Angola",
+  "phone": "+244226300000",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 323,
+  "name": "Estação Zootécnica da Humpata",
+  "address": "Largo da Administração Feira do Kilamba, Kilamba, Angola",
+  "phone": "+244947412785",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 324,
+  "name": "Art Market Benfica Artezanato",
+  "address": "Av. Murtala Mohamed, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 325,
+  "name": "THOMSON BEACH - NAYUKA",
+  "address": "Mussulo, Belas, Angola",
+  "phone": "+244918001001",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 326,
+  "name": "Clube S",
+  "address": "R. N'Gola M'Bandi, Luanda, Angola",
+  "phone": "+244222620400",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 327,
+  "name": "Toyota",
+  "address": "Unnamed Road, Luanda, Angola",
+  "phone": "+244927446435",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 328,
+  "name": "Beer Burger \u0026 Beef Cervejaria",
+  "address": "Belas, Angola",
+  "phone": "+244941615450",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 329,
+  "name": "O Café De Paris",
+  "address": "Rua dos Franceses, Samba, Luanda, Angola",
+  "phone": "+244924410633",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 330,
+  "name": "InterContinental Luanda Miramar, an IHG Hotel",
+  "address": "R. da Missão s/n, Luanda, Angola",
+  "phone": "+244222642608",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 331,
+  "name": "Caboledo",
+  "address": "Lubango, Angola",
+  "phone": "+244926016930",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 332,
+  "name": "Pumps Pumangol",
+  "address": "Largo Engenheiro Pedro Folque, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 333,
+  "name": "Mussulo",
+  "address": "Kibabo Shopping, Luanda, Angola",
+  "phone": "+244943858400",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 334,
+  "name": "Condomínio das Flores (BNA)",
+  "address": "Via S7A, Luanda, Angola",
+  "phone": "+244914522800",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 335,
+  "name": "Chabad Lubavitch of Angola",
+  "address": "Chicochiva, Angola",
+  "phone": "+244923598964",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 336,
+  "name": "Clinica Dos Caes Morro Bento",
+  "address": "Lubango, Angola",
+  "phone": "+244922089728",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 337,
+  "name": "MD Flor Spa e Estética",
+  "address": "Luanda, Angola",
+  "phone": "+244936622009",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 338,
+  "name": "Gondoafrica - Kinaxixi",
+  "address": "Ramiros, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 339,
+  "name": "KILAMBA SHOPPING",
+  "address": "Largo do Ambiente, Luanda, Angola",
+  "phone": "+244932825283",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 340,
+  "name": "Shoprite Supermercado (Nova Vida)",
+  "address": "Alameda Manuel Van-Dunen, Luanda, Angola",
+  "phone": "+244923521111",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 341,
+  "name": "Luanda - Angola",
+  "address": "Tchinguari Ranch, Rua 2 s/n, Benfica, Samba, Luanda, 2, NA, Angola",
+  "phone": "+244923601601",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 342,
+  "name": "Kintal da Tia Guida",
+  "address": "Omusati, Namibie, Ruacaná, Angola",
+  "phone": "+26465270290",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 343,
+  "name": "DHL Express",
+  "address": "Lumeje, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 344,
+  "name": "Faias Residence",
+  "address": "Estr. da Tundavala, Lubango, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 345,
+  "name": "Octopus",
+  "address": "município de Belas, Avenida 21 de Janeiro, nº 14, S.E.Q 3, 1º Piso, R. D do Morro Bento, Luanda, Angola",
+  "phone": "+244947253684",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 346,
+  "name": "Queiroz Point Eco Resort",
+  "address": "Av. Pedro de Castro Vandunem - Loy, Luanda, Angola",
+  "phone": "+244923165460",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 347,
+  "name": "Horizonte Novo",
+  "address": "Viana Sede, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 348,
+  "name": "Cissoko \u0026 Aquino",
+  "address": "N´Gola Kiluanje, Luanda, Angola",
+  "phone": "+244942620326",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 349,
+  "name": "Loja dos Sabores",
+  "address": "Ñlio. Dtfralio Sesa, Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 350,
+  "name": "Market Quifica",
+  "address": "Calçada São Miguel, antiga Fortaleza, junto ao Museu das Forças Armadas, R. 17 de Setembro 01, Luanda, Angola",
+  "phone": "+244924905859",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 351,
+  "name": "Kero Supermarket",
+  "address": "R. da Missão, Luanda, Angola",
+  "phone": "+244222642600",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 352,
+  "name": "Complexo Turístico Baía De Cabo Ledo",
+  "address": "Estrada do Calemba 2, Bairro Sapú 2 - Talatona, Junto a Agostinho Neto, Angola",
+  "phone": "+244991273617",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 353,
+  "name": "hotel Beu Mar",
+  "address": "Calandula, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 354,
+  "name": "Shoprite Mini Benfica",
+  "address": "São pedro da barra, Luanda, Angola",
+  "phone": "+244942921726",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 355,
+  "name": "Muxima",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 356,
+  "name": "UGO Angola",
+  "address": "Av. Luanda Sul, Luanda, Angola",
+  "phone": "+244222678470",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 357,
+  "name": "Huambo",
+  "address": "Luanda, Calumbo, Angola",
+  "phone": "+244998203174",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 358,
+  "name": "Kero Viana",
+  "address": "Luanda, Angola",
+  "phone": "+244945746101",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 359,
+  "name": "Hotel Ekuikui I",
+  "address": "Bairro Academico, Rua Dr. Egas Moniz 298, Huambo, Angola",
+  "phone": "+244943246666",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 360,
+  "name": "Hotel Ritz Roma",
+  "address": "Cidade Baixa, Rua da Independencia, Huambo, Angola",
+  "phone": "+244930134463",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 361,
+  "name": "Hotel Roma Ritz Huambo",
+  "address": "Independence Street - Lower City, Huambo, Angola",
+  "phone": "+244241223817",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 362,
+  "name": "Hotel Tchimina",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 363,
+  "name": "Residencial Mãesidencial Mãe Lina",
+  "address": "Av. Torres Garcia, Huambo, Angola",
+  "phone": "+244241225380",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 364,
+  "name": "iu Hotel Huambo",
+  "address": "Bairro São João Canata, Huambo, Angola",
+  "phone": "+244929102276",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 365,
+  "name": "Ali baba",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 366,
+  "name": "Restaurante catedral",
+  "address": "Huambo, Angola",
+  "phone": "+244931254749",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 367,
+  "name": "Restaurante Central",
+  "address": "Unnamed Road, Huambo, Angola",
+  "phone": "+244922251950",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 368,
+  "name": "RESTAURANTE THE GRILL HOUSE",
+  "address": "bairro Kapango, Huambo, Angola",
+  "phone": "+244930123135",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 369,
+  "name": "Hospedaria 3És",
+  "address": "Huambo, Angola",
+  "phone": "+244925005209",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 370,
+  "name": "Casa das Sandes",
+  "address": "ALEXANDRE HERCULANO, Huambo, Angola",
+  "phone": "+244935024042",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 371,
+  "name": "AQUA BAR \u0026 RESTAURANTE",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 372,
+  "name": "Pastel da Fran",
+  "address": "Av. da República, Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 373,
+  "name": "Restaurant Saquita",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 374,
+  "name": "Restaurante Like",
+  "address": "Huambo,avenida, Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 375,
+  "name": "Boca Louca",
+  "address": "Chinguar, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 376,
+  "name": "Terrace Restaurante",
+  "address": "Longonjo, Angola",
+  "phone": "+244938270092",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 377,
+  "name": "Jango Twins",
+  "address": "Independence Street - Lower City, Huambo, Angola",
+  "phone": "+244241223817",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 378,
+  "name": "Restaurante Casa do Porto",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 379,
+  "name": "RESTAURANTE DEOLINDA",
+  "address": "Rua Serpa Pinto, Caála, Angola",
+  "phone": "+244993865176",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 380,
+  "name": "Churrasqueira Gosto Disto",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 381,
+  "name": "Café Novo Imperio",
+  "address": "Cidade Baixa, Rua da Independencia, Huambo, Angola",
+  "phone": "+244930134463",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 382,
+  "name": "Hospedaria E Restaurante Cassueca",
+  "address": "Bairro Academico, Rua Dr. Egas Moniz 298, Huambo, Angola",
+  "phone": "+244943246666",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 383,
+  "name": "Restaurante GIGI",
+  "address": "Bairro São João Canata, Huambo, Angola",
+  "phone": "+244929102276",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 384,
+  "name": "Alibaba",
+  "address": "EN120, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 385,
+  "name": "ProFood",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 386,
+  "name": "Restaurante Huambo RH",
+  "address": "Caála, Angola",
+  "phone": "+244924168595",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 387,
+  "name": "Teraki Hambúrguaria",
+  "address": "Huambo, Angola",
+  "phone": "+244924113611",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 388,
+  "name": "Moda Brasil",
+  "address": "cidade baixa, Av. Craveiro Lopes, Huambo, Angola",
+  "phone": "+244946421700",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 389,
+  "name": "Restaurante Aromas e Sabores",
+  "address": "Rua Norton de Matos, 49, Huambo, Angola",
+  "phone": "+244934412365",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 390,
+  "name": "Wilson \u0026 Hamilton Limitada",
+  "address": "Unnamed Road, Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 391,
+  "name": "MAC DADDY SPORT BAR",
+  "address": "Bailundo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 392,
+  "name": "Snack Bar Videira",
+  "address": "EN120, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 393,
+  "name": "Hamburgueria Paulo",
+  "address": "Huambo, Angola",
+  "phone": "+244924381519",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 394,
+  "name": "O Cooltourall Place",
+  "address": "Unnamed Road, Pinheiro, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 395,
+  "name": "Residencial Twapandula - Casa da Sopa",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 396,
+  "name": "Kolatech-solutions artes \u0026 delícias",
+  "address": "Kapilongo, David, Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 397,
+  "name": "Churrascaria \"Tudo Na Braza\"",
+  "address": "Huambo, Angola",
+  "phone": "+244940447827",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 398,
+  "name": "Hambúrguer HF",
+  "address": "Bairro São João, Huambo, Angola",
+  "phone": "+244946303554",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 399,
+  "name": "Wilson \u0026 Hamilton Limitada",
+  "address": "Cidade alta, Av. da República, Huambo, Angola",
+  "phone": "+244946030608",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 400,
+  "name": "Pastelaria Angel Dior",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 401,
+  "name": "Snack Bar EKUKU",
+  "address": "Popular, Rua 3 - São João, Huambo, Angola",
+  "phone": "+244924037771",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 402,
+  "name": "Restaurante \u0026 Pizzaria Colina",
+  "address": "Unnamed Road, Huambo, Angola",
+  "phone": "+244923276055",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 403,
+  "name": "Restaurante Ashé",
+  "address": "Av. Torres Garcia, Huambo, Angola",
+  "phone": "+244241225380",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 404,
+  "name": "Mil Birras",
+  "address": "Huambo, Angola",
+  "phone": "+244923363052",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 405,
+  "name": "Cananga Empreendimento",
+  "address": "Huambo, Angola",
+  "phone": "+244942675813",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 406,
+  "name": "Restaurante Delícias do Planalto",
+  "address": "Huambo, Nguevinha, Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 407,
+  "name": "Firma Albano Domingos \u0026 Filhos LDA",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 408,
+  "name": "Fahiteiro",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 409,
+  "name": "GELADARIA 3M SÃO JOÃO",
+  "address": "Huambo, Angola",
+  "phone": "+244925447844",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 410,
+  "name": "HOSPEDARIA NOVA LISBOA",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 411,
+  "name": "Hotel Nova Estrela",
+  "address": "Huambo, Cidade Alta, Picapau, Angola",
+  "phone": "+244934007075",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 412,
+  "name": "Lê Petit caffe",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 413,
+  "name": "Huamburguer MN Service",
+  "address": "Unnamed Road, Huambo, Angola",
+  "phone": "+244925774401",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 414,
+  "name": "Fernaz",
+  "address": "Huambo, Angola",
+  "phone": "+244931440437",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 415,
+  "name": "Hamburgaria Nova Lisboa",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 416,
+  "name": "Hungry Lion Huambo",
+  "address": "R. Padre António Viera, Huambo, Angola",
+  "phone": "+244923505515",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 417,
+  "name": "Snack Bar Capadócia",
+  "address": "Rua Teixeira de Sousa, Huambo, Angola",
+  "phone": "+244933897674",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 418,
+  "name": "Restaurante SR",
+  "address": "Cruzeiro, Huambo, Cruzeiro, Angola",
+  "phone": "+244923887103",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 419,
+  "name": "Casa das Bifanas - Tasquinha do Leonel - Huambo",
+  "address": "Huambo, Angola",
+  "phone": "+244923069589",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 420,
+  "name": "Huambo",
+  "address": "Unnamed Road, Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 421,
+  "name": "JaFeliz Bar",
+  "address": "Huambo, Angola",
+  "phone": "+244924432095",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 422,
+  "name": "Snack Bar Brooklyn Café",
+  "address": "Santo António Rua principal da região militar centro, Huambo, Angola",
+  "phone": "+244924185734",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 423,
+  "name": "VLADO",
+  "address": "Sao Luis, Shop L12, Cnr Shoprite Huambo \u0026 Estrada Do Aeroporto Talhoes de 1 a 12, Decimo Sexto, Quarteirao, Bairro De, Huambo, Angola",
+  "phone": "+244929469718",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 424,
+  "name": "Café Da Euclis",
+  "address": "Huambo, Angola",
+  "phone": "+244993495718",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 425,
+  "name": "Restaurante Lele",
+  "address": "Bairro São João, Huambo, Angola",
+  "phone": "+244926085212",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 426,
+  "name": "Canoa do Maya",
+  "address": "Av. Nuno Alvares, Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 427,
+  "name": "Play Boy House",
+  "address": "R. Cap. Sousa Gentil, Huambo, Angola",
+  "phone": "+244935455868",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 428,
+  "name": "Mr Santa Rosa Bar",
+  "address": "R. de Benguela, Huambo, Angola",
+  "phone": "+244923492401",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 429,
+  "name": "Geladaria Tio Zé",
+  "address": "LARGO DO PICA PAU, Huambo, Angola",
+  "phone": "+244924785431",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 430,
+  "name": "Nosso Bar",
+  "address": "Huambo, Angola",
+  "phone": "+244924645512",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 431,
+  "name": "RESIDÊNCIA DO SOBA - PAI DA NGEVINHA - CELAVY",
+  "address": "Unnamed Road, Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 432,
+  "name": "Odel's Café",
+  "address": "Huambo 123, Huambo, Angola",
+  "phone": "+244934461546",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 433,
+  "name": "Estação do Kidra São João",
+  "address": "Cidade Baixa, Huambo, Angola",
+  "phone": "+244948287676",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 434,
+  "name": "SNACK BAR O PONTO",
+  "address": "próximo à ELABOCO-AGENTE, Av. da República, AUTORIZADO, Angola",
+  "phone": "+244943304862",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 435,
+  "name": "Lanchonete Madeirinha",
+  "address": "Cidade Baixa, Huambo, Angola",
+  "phone": "+244932523350",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 436,
+  "name": "TEU BAR",
+  "address": "Mercado do Himalaia Hamburgueria, Huambo, Angola",
+  "phone": "+244927607999",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 437,
+  "name": "Seven Star Bar",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 438,
+  "name": "Geladaria da Hora",
+  "address": "Huambo, Angola",
+  "phone": "+244931111732",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 439,
+  "name": "Bar Giga Mauro",
+  "address": "Huambo, Angola",
+  "phone": "+244940794987",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 440,
+  "name": "Messe Hotel do Huambo",
+  "address": "Avenida da República, Huambo, Angola",
+  "phone": "+244933768226",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 441,
+  "name": "CASA DO ANDA-PARA - CELAVY",
+  "address": "Huambo, Angola",
+  "phone": "+244930121067",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 442,
+  "name": "Hotel Tchimina",
+  "address": "R. de Benguela, Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 443,
+  "name": "GELADARIA 3M DEOLINDA RODRIGUES",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 444,
+  "name": "Cassequelandia",
+  "address": "Huambo, Angola",
+  "phone": "+244927806908",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 445,
+  "name": "Bar Quimbo",
+  "address": "Huambo, Angola",
+  "phone": "+244929967470",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 446,
+  "name": "Bairro de cacilhas norte",
+  "address": "Rua Macau, Huambo, Angola",
+  "phone": "+244927607999",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 447,
+  "name": "Hotel Nino",
+  "address": "Avenida Norton de Matos, Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 448,
+  "name": "Bar do Vavá - Kapango",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 449,
+  "name": "Cafe",
+  "address": "R. Alexandre Herculano, Huambo, Angola",
+  "phone": "+244945107475",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 450,
+  "name": "Kuyuyu Bar Club",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 451,
+  "name": "Restaurante Brilha",
+  "address": "R. Alexandre Herculano, Huambo, Angola",
+  "phone": "+244923631375",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 452,
+  "name": "Hotel GET",
+  "address": "Jardim da Cultura, Rua Doutor Lacerda, Huambo, Angola",
+  "phone": "+244940640005",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 453,
+  "name": "iu Hotel Huambo",
+  "address": "Rua Doutor Lacerda, Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 454,
+  "name": "Residencial Mãesidencial Mãe Lina",
+  "address": "rua do comercio, Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 455,
+  "name": "GELADARIA 3M DEOLINDA RODRIGUES",
+  "address": "Unnamed Road, Huambo, Angola",
+  "phone": "+244940450045",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 456,
+  "name": "SNACK BAR KAPING",
+  "address": "R. Serpa Pinto, Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 457,
+  "name": "Xyami Huambo",
+  "address": "Rua Mariano Machado, Huambo, Angola",
+  "phone": "+244948391238",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 458,
+  "name": "São José",
+  "address": "Huambo, Angola",
+  "phone": "+244992179886",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 459,
+  "name": "FCF, LDA_QUISSALA",
+  "address": "Rua Mariano Machado, Huambo, Angola",
+  "phone": "+244941428556",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 460,
+  "name": "Linto e Marques Angola",
+  "address": "São João,,Bº Canata,, Huambo, Angola",
+  "phone": "+244923631321",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 461,
+  "name": "Risca Risca Shopping Huambo",
+  "address": "1,, Rua Kandimba, Huambo, Angola",
+  "phone": "+244923631321",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 462,
+  "name": "MERCADO COMUNAL DA CANATA",
+  "address": "Caála, Angola",
+  "phone": "+244938278429",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 463,
+  "name": "GALERIAS SPAZZIO - Joel e Filhos Comércio Geral",
+  "address": "São José B, Huambo, Angola",
+  "phone": "+244923631321",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 464,
+  "name": "Loja De Material Eletrônico Joel E Filhos Lda",
+  "address": "Huambo, Angola",
+  "phone": "+244923631321",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 465,
+  "name": "Codume cangote",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 466,
+  "name": "GRANGE Sunset",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 467,
+  "name": "Sé Catedral de Nossa Senhora da Conceição - Huambo",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 468,
+  "name": "Huambo",
+  "address": "Huambo, Angola",
+  "phone": "+244261245101",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 469,
+  "name": "Hospital Regional Do Huambo",
+  "address": "Av. Torres Garcia, Huambo, Angola",
+  "phone": "+244241225380",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 470,
+  "name": "Hotel Ekuikui I",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 471,
+  "name": "Calandula Falls",
+  "address": "Centralidade do Lossambo, Huambo, Angola",
+  "phone": "+244940415755",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 472,
+  "name": "SOS Children's Village Huambo",
+  "address": "Calandula, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 473,
+  "name": "Hotel Tchimina",
+  "address": "Huambo, Angola",
+  "phone": "+244997921878",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 474,
+  "name": "Hotel Ritz Roma",
+  "address": "Sao Luis, Shop L12, Cnr Shoprite Huambo \u0026 Estrada Do Aeroporto Talhoes de 1 a 12, Decimo Sexto, Quarteirao, Bairro De, Huambo, Angola",
+  "phone": "+244929469718",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 475,
+  "name": "Shoprite Huambo",
+  "address": "Cidade Baixa, Rua da Independencia, Huambo, Angola",
+  "phone": "+244930134463",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 476,
+  "name": "Calandula",
+  "address": "Bairro Academico, Rua Dr. Egas Moniz 298, Huambo, Angola",
+  "phone": "+244943246666",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 477,
+  "name": "Hungry Lion Huambo",
+  "address": "Independence Street - Lower City, Huambo, Angola",
+  "phone": "+244241223817",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 478,
+  "name": "Caboledo",
+  "address": "Rua Do Direita Aeroporto, Albano Machado, Luanda, Angola",
+  "phone": "+244923648958",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 479,
+  "name": "Benguela Province",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 480,
+  "name": "Bai­a Farta",
+  "address": "Bairro São João Canata, Huambo, Angola",
+  "phone": "+244929102276",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 481,
+  "name": "Malanje Province",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 482,
+  "name": "Luanda Province",
+  "address": "Huambo, Angola",
+  "phone": "+244934384554",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 483,
+  "name": "Kero Viana",
+  "address": "Jardim da Cultura, Rua Doutor Lacerda, Huambo, Angola",
+  "phone": "+244940640005",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 484,
+  "name": "Terminus Hotel",
+  "address": "Lobito, Angola",
+  "phone": "+244936364136",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 485,
+  "name": "Hotel Restinga",
+  "address": "Lobito, Angola",
+  "phone": "+244930650628",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 486,
+  "name": "H\u0026L Hotel Albergaria",
+  "address": "Av Brazil in 126 | Compão, Lobito, Angola",
+  "phone": "+244942069357",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 487,
+  "name": "Aparthotel Praia Paraíso",
+  "address": "R. José Anchieta, Lobito, Angola",
+  "phone": "+244936968111",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 488,
+  "name": "Hotel Chik Chik Lobito I",
+  "address": "Av. de Lisboa, Lobito, Angola",
+  "phone": "+244994394850",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 489,
+  "name": "Hotel Chik Chik Lobito II",
+  "address": "R. 15 de Agosto 86/88, Lobito, Angola",
+  "phone": "+244942130993",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 490,
+  "name": "Complexo Turistico TGV",
+  "address": "Lobito, Angola",
+  "phone": "+244994394850",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 491,
+  "name": "Casa Rosa Hotel Residence",
+  "address": "Rua Travessa Pereira D'eça, Restinga Lobito, Canata, Angola",
+  "phone": "+244997700701",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 492,
+  "name": "Hotel Riomar",
+  "address": "R. 25 de Abril 178/180, Lobito, Angola",
+  "phone": "25178180",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 493,
+  "name": "Tropicana Hotel",
+  "address": "R. Robert Williams 16, Lobito, Angola",
+  "phone": "+244938973784",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 494,
+  "name": "Turimar Business Hotel",
+  "address": "EN100, Angola",
+  "phone": "+244935751896",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 495,
+  "name": "Hotel o Navegantes",
+  "address": "Avenida da Independência Largo Luís de Camões, 1 andar., Lobito, Angola",
+  "phone": "+244936185092",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 496,
+  "name": "VAG Hotel",
+  "address": "Lobito, Angola",
+  "phone": "+244936608585",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 497,
+  "name": "Residencial O Sol Lobito",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 498,
+  "name": "Hotel Ombaka RITZ",
+  "address": "Avenida da Independência, Lobito, Angola",
+  "phone": "+244945566075",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 499,
+  "name": "Zulu",
+  "address": "Shop E7, Lobito Shopping Mall Largo 1 De Maio, Bairro Da Caponte, Benguela, Lobito, Angola",
+  "phone": "+244948471749",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 500,
+  "name": "Tasquinha do Abrunhosa",
+  "address": "R. José Anchieta, Lobito, Angola",
+  "phone": "+244923562882",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 501,
+  "name": "Bom Demais",
+  "address": "Lobito, Angola",
+  "phone": "+244923514902",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 502,
+  "name": "Embala Típico",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 503,
+  "name": "Restaurante Batuk",
+  "address": "Lobito, Angola",
+  "phone": "+244922064464",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 504,
+  "name": "Jardim das Estrelas",
+  "address": "Largo 28 de Agosto, Lobito, Angola",
+  "phone": "+244923916169",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 505,
+  "name": "Restaurante Bar Ellitis",
+  "address": "Avenida da Independência 155, Lobito, Angola",
+  "phone": "+244936458282",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 506,
+  "name": "Colina",
+  "address": "Praceta Luís de Camões, nº9, Lobito, Angola",
+  "phone": "+244941678866",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 507,
+  "name": "Hungry Lion Lobito",
+  "address": "Estrada Nacional nº 100 - Culango, Lobito, Angola",
+  "phone": "+244945436877",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 508,
+  "name": "Don Pedro",
+  "address": "R. Av. Brasil - Mariana, MG, Brasil, Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 509,
+  "name": "GUNGA",
+  "address": "Lobito, Angola",
+  "phone": "+244925557225",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 510,
+  "name": "Restaurante Angelo's",
+  "address": "R. Robert Williams 16, Lobito, Angola",
+  "phone": "+244938973784",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 511,
+  "name": "Luna Ocean Club",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 512,
+  "name": "Apolo Restaurante",
+  "address": "R. 15 de Agosto 86/88, Lobito, Angola",
+  "phone": "+244942130993",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 513,
+  "name": "A Cubata do Marcão",
+  "address": "R. Ferreira do Amaral, Catumbela, Angola",
+  "phone": "+244937896650",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 514,
+  "name": "Restaurante Bakongo",
+  "address": "Lobito, Angola",
+  "phone": "+244936690850",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 515,
+  "name": "Tasca do Abrunhosa",
+  "address": "Av. de Lisboa, Lobito, Angola",
+  "phone": "+244923701777",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 516,
+  "name": "Bar OAconchego",
+  "address": "Rua Diogo Cão, Porta nº 29, Lobito, Angola",
+  "phone": "+244932777676",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 517,
+  "name": "Alfa Beach Bar",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 518,
+  "name": "Chicala do Lobito",
+  "address": "Lobito, Angola",
+  "phone": "+244998464648",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 519,
+  "name": "Petiskos Kuya",
+  "address": "EN100, Lobito, Angola",
+  "phone": "+244933965581",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 520,
+  "name": "Pub Ponto G",
+  "address": "Catumbela, Angola",
+  "phone": "+244939163535",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 521,
+  "name": "Restaurante Horizonte",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 522,
+  "name": "Restaurante D.Bina",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 523,
+  "name": "Restaurante Kanawa",
+  "address": "R. Diogo Cão, Lobito, Angola",
+  "phone": "+244926943806",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 524,
+  "name": "Tchilamar Restaurante-Bar e Salão de Eventos",
+  "address": "bairro golf, Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 525,
+  "name": "Churrasqueira Sal Grosso",
+  "address": "Avenida da Independência, Lobito, Angola",
+  "phone": "+244931171837",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 526,
+  "name": "EL SAFA",
+  "address": "Lobito, Angola",
+  "phone": "+244928623752",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 527,
+  "name": "Chuva de Sabores",
+  "address": "Largo 28 de Agosto, Lobito, Angola",
+  "phone": "+244922841999",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 528,
+  "name": "Restaurante o caldas",
+  "address": "Lobito, Angola",
+  "phone": "+244930650628",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 529,
+  "name": "Geladaria",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 530,
+  "name": "Restaurant Delta",
+  "address": "Lobito - Restinga, Lobito, Angola",
+  "phone": "+244923446348",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 531,
+  "name": "Flamingo",
+  "address": "EN100, Lobito, Angola",
+  "phone": "+244940510000",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 532,
+  "name": "Don Castelhana",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 533,
+  "name": "Pedra Caponte",
+  "address": "Lobito, Angola",
+  "phone": "+244922131551",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 534,
+  "name": "Cozinha do Pobre",
+  "address": "Zona-Alta, Bairro 4 de Abril, Lobito, Angola",
+  "phone": "+244922808000",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 535,
+  "name": "Sol e Mar",
+  "address": "Av. Gov. Silva Carvalho, Lobito, Angola",
+  "phone": "+244923386202",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 536,
+  "name": "BD-Restaurante",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 537,
+  "name": "CHICALA MAR II",
+  "address": "Rua 17 de Setembro, zona Alta, Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 538,
+  "name": "Al-Kamal",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 539,
+  "name": "RESTAURANTE RESTINGA",
+  "address": "R. Dr. Vieira Machado, Lobito, Angola",
+  "phone": "+244923553968",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 540,
+  "name": "Hamburgaria Foguinho's - Compão",
+  "address": "Lobito, Angola",
+  "phone": "+244916213247",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 541,
+  "name": "Magnífico Grill",
+  "address": "rua Pacheco Pereira, Lobito, Angola",
+  "phone": "+244914219261",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 542,
+  "name": "Snack Bar Pauly",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 543,
+  "name": "PIC NIC Bar",
+  "address": "Av. de Lisboa, Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 544,
+  "name": "Dubairro Lobito",
+  "address": "Av. Craveiro Lopes, Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 545,
+  "name": "Confort F\u0026J Lda",
+  "address": "R. Sousa Coutinho, Lobito, Angola",
+  "phone": "+244990580099",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 546,
+  "name": "Pôr-do-Sol Restinga Snack Bar \u0026 Restaurante",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 547,
+  "name": "Bar Esplanada Palma Real",
+  "address": "Av. de Lisboa, Lobito, Angola",
+  "phone": "+244928623752",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 548,
+  "name": "Pizzaria Spuntino Rápido 2",
+  "address": "R. Sousa Coutinho, Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 549,
+  "name": "Snack Bar La - Traicioneira Lda",
+  "address": "R. Cerveira Pereira, Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 550,
+  "name": "Branca Burguer Catering Lda",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 551,
+  "name": "Mil Delícias",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 552,
+  "name": "Churrasqueira do Triangulo",
+  "address": "Lobito, Angola",
+  "phone": "+244932940402",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 553,
+  "name": "Gamma Beach Restaurant Bar",
+  "address": "Baía do, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 554,
+  "name": "Restaurante do Hotel Restinga",
+  "address": "Zona Comercial,, Lobito, Angola",
+  "phone": "+244930765187",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 555,
+  "name": "Aparthotel Arrabida",
+  "address": "R. Fragoso de Matos, Lobito, Angola",
+  "phone": "+244930355480",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 556,
+  "name": "Yambinho's Catering, Restaurante Off \u0026 Yambinho's Take Away",
+  "address": "Lobito, Angola",
+  "phone": "+244923374119",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 557,
+  "name": "Cantinho do Wassa",
+  "address": "25 de Abril, Lobito, Angola",
+  "phone": "+244945371429",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 558,
+  "name": "Dubairro",
+  "address": "Unnamed Road, Lobito, Angola",
+  "phone": "+244923638766",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 559,
+  "name": "Predio do Sol Bar",
+  "address": "Terminus Hotel, Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 560,
+  "name": "Jango Hotel Restinga",
+  "address": "Praça Luís de Camões, Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 561,
+  "name": "Restaurante O FADO",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 562,
+  "name": "BD-RESTAURANTE",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 563,
+  "name": "RESTAURANTE E TALHO ALI BABA",
+  "address": "R. Oliveira Cardonega, Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 564,
+  "name": "Majestic Bar Café",
+  "address": "R. Vasco da Gama, Lobito, Angola",
+  "phone": "+244935618222",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 565,
+  "name": "Restaurante bar pizzaria e Churrasqueira Apollos",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 566,
+  "name": "Bar do Sporting",
+  "address": "Zona Comercial,, Lobito, Angola",
+  "phone": "+244943050605",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 567,
+  "name": "Mel \u0026 Canela",
+  "address": "R. Romeiro Macedo, Lobito, Angola",
+  "phone": "+244934229505",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 568,
+  "name": "Restaurante Pão Doce",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 569,
+  "name": "mado bar",
+  "address": "Avenida do Brasil casa 101, Lobito, Angola",
+  "phone": "+244934471672",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 570,
+  "name": "Café Regina",
+  "address": "Avenida da Independência, Lobito, Angola",
+  "phone": "+244942012305",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 571,
+  "name": "Emerciana Roulote BelaVista",
+  "address": "Bairro do Liro, R. Carreira de Tiro, Lobito, Angola",
+  "phone": "+244945470300",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 572,
+  "name": "Casuarina's",
+  "address": "Largo 28 de Agosto, Lobito, Angola",
+  "phone": "+244926408967",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 573,
+  "name": "Ponto G Pub",
+  "address": "Benguela, do 28, Lobito, Angola",
+  "phone": "+244923709895",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 574,
+  "name": "Bar Combinado",
+  "address": "R. 1 de Dezembro, Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 575,
+  "name": "Restaurante 7 Grill",
+  "address": "EN100, Lobito, Angola",
+  "phone": "+244923209012",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 576,
+  "name": "Hotel Chik Chik Lobito II",
+  "address": "R. 15 de Agosto, Lobito, Angola",
+  "phone": "+244945518627",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 577,
+  "name": "Petisqueira",
+  "address": "Avenida de Lisboa, Lobito, Angola",
+  "phone": "+244923350351",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 578,
+  "name": "Restaurante O’Macqui",
+  "address": "Av. de Lisboa, Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 579,
+  "name": "Snack Bar Ana Wimbo",
+  "address": "Praceta Luís de Camões nº9, Lobito, Angola",
+  "phone": "+244949875007",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 580,
+  "name": "Terminus Hotel",
+  "address": "Lobito, Angola",
+  "phone": "+244931171837",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 581,
+  "name": "Bar do Vá",
+  "address": "Av. de Lisboa, Lobito, Angola",
+  "phone": "+244926963939",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 582,
+  "name": "Bar Da Veroquinha",
+  "address": "Lobito, Angola",
+  "phone": "+244946303866",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 583,
+  "name": "Chico's Inn - Resort",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 584,
+  "name": "MiLuis Sabores",
+  "address": "R. Fragoso de Matos, Lobito, Angola",
+  "phone": "+244935731717",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 585,
+  "name": "Lobitus Trade Center",
+  "address": "R. Pacheco Ferreira, Lobito, Angola",
+  "phone": "+244272226426",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 586,
+  "name": "Rent-a-car A\u0026L LDA",
+  "address": "Benguela, Angola",
+  "phone": "+244935555775",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 587,
+  "name": "Costa e Bumba",
+  "address": "Lixeira, Casa, Mix, Benguela, Angola",
+  "phone": "+244946020085",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 588,
+  "name": "KERO Shopping - Retail Benguela",
+  "address": "Benguela, Angola",
+  "phone": "+244927272371",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 589,
+  "name": "Kaprilux",
+  "address": "Lobito, Angola",
+  "phone": "+244922608888",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 590,
+  "name": "Casa Mix",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 591,
+  "name": "Confecções Casa Branca",
+  "address": "Av. Cmte. Kassanji 196, Benguela, Angola",
+  "phone": "+244272232771",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 592,
+  "name": "Loja ZAP",
+  "address": "Lobito, Angola",
+  "phone": "+244940325471",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 593,
+  "name": "GTS, Comercial, Lda",
+  "address": "Benguela, Angola",
+  "phone": "+244944708283",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 594,
+  "name": "Xyami Shopping - Kilamba",
+  "address": "Av. Paulo Dias de Novais, Lobito, Angola",
+  "phone": "+244922784828",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 595,
+  "name": "Xyami Shopping",
+  "address": "ZONA INDUSTRIA II UCHI, Benguela, Angola",
+  "phone": "+244934706146",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 596,
+  "name": "Gondoáfrica - Lobito",
+  "address": "Rua Tomás Vieira da Cruz, N.º 8 cx.postal 179 Benguela, Benguela, Angola",
+  "phone": "+244934935255",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 597,
+  "name": "Angopri, Lda",
+  "address": "EN100, Belas, Angola",
+  "phone": "+244926452456",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 598,
+  "name": "Cappado Mall",
+  "address": "Belas, Angola",
+  "phone": "+244922743799",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 599,
+  "name": "Lobito",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 600,
+  "name": "Lobito Port",
+  "address": "Shop E7, Lobito Shopping Mall Largo 1 De Maio, Bairro Da Caponte, Benguela, Lobito, Angola",
+  "phone": "+244948471749",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 601,
+  "name": "Viewpoint of the Moon",
+  "address": "R. Robert Williams 16, Lobito, Angola",
+  "phone": "+244938973784",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 602,
+  "name": "Terminus Hotel",
+  "address": "Lobito, Angola",
+  "phone": "+244921213449",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 603,
+  "name": "Zulu",
+  "address": "Largo 28 de Agosto, Lobito, Angola",
+  "phone": "+244922841999",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 604,
+  "name": "Restaurante Batuk",
+  "address": "Av Brazil in 126 | Compão, Lobito, Angola",
+  "phone": "+244942069357",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 605,
+  "name": "Hungry Lion Lobito",
+  "address": "R. 15 de Agosto 86/88, Lobito, Angola",
+  "phone": "+244942130993",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 606,
+  "name": "Hotel Chik Chik Lobito II",
+  "address": "Praceta Luís de Camões, nº9, Lobito, Angola",
+  "phone": "+244941678866",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 607,
+  "name": "Complexo Turistico TGV",
+  "address": "Belas, Angola",
+  "phone": "+244949972247",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 608,
+  "name": "MiLuis Sabores",
+  "address": "Dala, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 609,
+  "name": "Bai­a Farta",
+  "address": "Lobito, Angola",
+  "phone": "+244936690850",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 610,
+  "name": "Lubango",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 611,
+  "name": "Calandula",
+  "address": "Lobito, Angola",
+  "phone": "+244946303866",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 612,
+  "name": "Lobitos",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 613,
+  "name": "Peko's Multiparque",
+  "address": "Avenida da Independência, Lobito, Angola",
+  "phone": "+244272222303",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 614,
+  "name": "Lady in Red - Galeria de Arte",
+  "address": "Av. de Lisboa, Lobito, Angola",
+  "phone": "+244994394850",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 615,
+  "name": "Reserva de lobos marinos del puerto de Mar del Plata",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 616,
+  "name": "B Z Corner",
+  "address": "Lobito, Angola",
+  "phone": "+244936364136",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 617,
+  "name": "Playa Zoni",
+  "address": "Lobito, Angola",
+  "phone": "+244930650628",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 618,
+  "name": "Cabeco da Ponta",
+  "address": "Lobito, Angola",
+  "phone": "+244936896862",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 619,
+  "name": "Aparthotel Mil Cidades, llc",
+  "address": "Benguela, Angola",
+  "phone": "+244272231476",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 620,
+  "name": "Hotel Residencial RAMIRE-TOUR",
+  "address": "Praia do Santo Antonio, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 621,
+  "name": "Hotel Praia Morena",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 622,
+  "name": "Ramire Tour Guest Hotel",
+  "address": "R. 31 de Janeiro, Benguela, Angola",
+  "phone": "+244272238463",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 623,
+  "name": "HOTEL DUAS FACES",
+  "address": "Baía de Santo Antonio Praia de Santo António, Benguela, Angola",
+  "phone": "+244916348299",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 624,
+  "name": "Hotel Misinga",
+  "address": "Benguela,baia farta, Benguela-Baia Azul, Benguela, Angola",
+  "phone": "+244922508508",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 625,
+  "name": "Hotel Luso",
+  "address": "R. Aires de Almeida Santos, Benguela, Angola",
+  "phone": "+244272230029",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 626,
+  "name": "iu Hotel Benguela",
+  "address": "Av. Dr. António Agostinho Neto, Benguela, Angola",
+  "phone": "+244929102277",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 627,
+  "name": "Hotel Residencial Benguela",
+  "address": "R. Aires de Almeida Santos, Benguela, Angola",
+  "phone": "+244272236680",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 628,
+  "name": "HOTEL LIMOB",
+  "address": "R. José Estevan 25, Benguela, Angola",
+  "phone": "+244949437464",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 629,
+  "name": "Hotel Riomar",
+  "address": "EN100, Angola",
+  "phone": "+244935751896",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 630,
+  "name": "Hotel Mombaka",
+  "address": "Av Brazil in 126 | Compão, Lobito, Angola",
+  "phone": "+244942069357",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 631,
+  "name": "Residencial Weza",
+  "address": "R. Heróis de Angola, Benguela, Angola",
+  "phone": "+244940276277",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 632,
+  "name": "Residencial ChiLeo",
+  "address": "Benguela, Angola",
+  "phone": "+244942094757",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 633,
+  "name": "Hotel Ombaka RITZ",
+  "address": "Lobito, Angola",
+  "phone": "+244994394850",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 634,
+  "name": "Complexo Turistico TGV",
+  "address": "Benguela, Angola",
+  "phone": "+244926418334",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 635,
+  "name": "Tudo na Brasa",
+  "address": "R. Dr. João Omelas, Benguela, Angola",
+  "phone": "+244925579494",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 636,
+  "name": "bella amore",
+  "address": "Benguela, Angola",
+  "phone": "+244222738736",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 637,
+  "name": "Restaurante Cassanga",
+  "address": "Rua Do Macao 12, Benguela, Angola",
+  "phone": "+244933489686",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 638,
+  "name": "Restaurante California",
+  "address": "R. Domingos do Ó, Benguela, Angola",
+  "phone": "+244947303634",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 639,
+  "name": "Benguela",
+  "address": "Benguela, Angola",
+  "phone": "+244222744814",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 640,
+  "name": "Jango - Bar \u0026 Grill",
+  "address": "Av. 10 de Fevereiro, Benguela, Angola",
+  "phone": "+244272230342",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 641,
+  "name": "Espaço Gourmet",
+  "address": "R. Domingos do Ó 14, Benguela, Angola",
+  "phone": "+244947420658",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 642,
+  "name": "Casa das Bifanas",
+  "address": "R. Ilha da Madeira, Benguela, Angola",
+  "phone": "+244934146770",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 643,
+  "name": "Café da Cidade",
+  "address": "R. Diogo Cão, Benguela, Angola",
+  "phone": "+244922232929",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 644,
+  "name": "Cervejaria Fininho",
+  "address": "R. António José de Almeida, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 645,
+  "name": "Benguela Take Away",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 646,
+  "name": "Tasca da se henguela",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 647,
+  "name": "Restaurante Al - Kamal",
+  "address": "Zona C, Largo da Peça, Benguela, Angola",
+  "phone": "+244936953410",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 648,
+  "name": "Restaurante Joanas",
+  "address": "Unnamed Road, Benguela, Angola",
+  "phone": "+244939448376",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 649,
+  "name": "A fazenda",
+  "address": "Av. 10 de Fevereiro 47, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 650,
+  "name": "Restaurante O BECO",
+  "address": "Av. Fausto de Almeida Frazão, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 651,
+  "name": "Diner Clube S - Benguela",
+  "address": "Benguela, Angola",
+  "phone": "+244942129926",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 652,
+  "name": "Diner Clube S - Benguela",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 653,
+  "name": "Wasabi Sushi E Fit Bar",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 654,
+  "name": "restaurante o barco",
+  "address": "R. de Moçamedes, Benguela, Angola",
+  "phone": "+244924768656",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 655,
+  "name": "Restaurante Porta Aviões",
+  "address": "Av. Gov. Sousa Coutinho, Benguela, Angola",
+  "phone": "+244921783054",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 656,
+  "name": "Restaurante 1 de Dezembro",
+  "address": "Benguela, Angola",
+  "phone": "+244937584086",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 657,
+  "name": "Chakula Caseira",
+  "address": "Bairro Agostinho Neto, Benguela, Angola",
+  "phone": "6187661123",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 658,
+  "name": "O'Macqui",
+  "address": "Benguela, Angola",
+  "phone": "+244924572875",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 659,
+  "name": "O Vagao",
+  "address": "Benguela, Angola",
+  "phone": "+244923637462",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 660,
+  "name": "A Chicala",
+  "address": "R. Cidade do Lobito, Benguela, Angola",
+  "phone": "+244923113642",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 661,
+  "name": "Restaurante Fredmerk",
+  "address": "R. Machado dos Santos, Benguela, Angola",
+  "phone": "+244929403424",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 662,
+  "name": "Top Burguer Benguela",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 663,
+  "name": "Tudo na Braza",
+  "address": "Benguela, Angola",
+  "phone": "+244925857575",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 664,
+  "name": "Kinda foods",
+  "address": "R. José Falcão, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 665,
+  "name": "Restaurant Manguerinha",
+  "address": "Prédio Ama, Bairro Miramar, Benguela, Angola",
+  "phone": "+244949911025",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 666,
+  "name": "Bar Jango N-1",
+  "address": "R. Dr. Francisco Simões do Amaral, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 667,
+  "name": "Deline Grill",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 668,
+  "name": "Vicius Na Brasa",
+  "address": "R. Ilha da Madeira 2, R. Ilha da Madeira, Benguela, Angola",
+  "phone": "+244923524160",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 669,
+  "name": "Mundo às Fatias - Pizzaria e Cantina Italiana",
+  "address": "Rua guerra Junqueiro Benguela BGA, Benguela, Angola",
+  "phone": "+244923511125",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 670,
+  "name": "brilho do Gulungo",
+  "address": "Benguela, Angola",
+  "phone": "+244925541679",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 671,
+  "name": "Gil Carlos",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 672,
+  "name": "KFC",
+  "address": "97, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 673,
+  "name": "Restaurante Paladar",
+  "address": "Av. Cmte. Kassanji 172, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 674,
+  "name": "Uspot Pub \u0026 Lounge",
+  "address": "Benguela, Angola",
+  "phone": "+244944585324",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 675,
+  "name": "Só Burguer",
+  "address": "R. António José de Almeida, Benguela, Angola",
+  "phone": "+244940271210",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 676,
+  "name": "Snack Bar Gregorio",
+  "address": "Unnamed Road, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 677,
+  "name": "Restaurante Moreninha",
+  "address": "Hotel Misinga, Rua 31 de janeiro, junto, Benguela, Angola",
+  "phone": "+244940903695",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 678,
+  "name": "PRECIOSA Art Mix",
+  "address": "Junto a Sonangalp, Benguela, Angola",
+  "phone": "+244923334803",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 679,
+  "name": "O Sitio da Voinha",
+  "address": "R. Pedro Nolasco Pereira de Andrade, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 680,
+  "name": "Marisqueira Sani",
+  "address": "R. Xavier Barreto, Benguela, Angola",
+  "phone": "+244923005505",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 681,
+  "name": "Snack Bar Fortnite",
+  "address": "Av. 10 de Fevereiro, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 682,
+  "name": "Bom Apetite",
+  "address": "R. de Cabo Verde, Benguela, Angola",
+  "phone": "+244928391269",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 683,
+  "name": "Kato's Take-Away e Katering",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 684,
+  "name": "Hamburgaria So Begas",
+  "address": "R. Domingos do Ó 14, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 685,
+  "name": "Churra, Churrasqueira Take Away",
+  "address": "no 12, R. Sacadura Cabral, Benguela, Angola",
+  "phone": "+244929275747",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 686,
+  "name": "Intenso Grelhado",
+  "address": "R. Machado dos Santos, Benguela, Angola",
+  "phone": "+244913262191",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 687,
+  "name": "Kato's Construções",
+  "address": "Rua Dr, R. António José de Almeida, Benguela, Angola",
+  "phone": "+244940844909",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 688,
+  "name": "Piteus da Banda",
+  "address": "Largo de África, Benguela, Angola",
+  "phone": "+244927256468",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 689,
+  "name": "Umbundo Burguer",
+  "address": "Benguela, Angola",
+  "phone": "+244924509025",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 690,
+  "name": "Costa's Burguers",
+  "address": "R. Dr. Francisco Simões do Amaral, Benguela, Angola",
+  "phone": "+244932789000",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 691,
+  "name": "Pizzaria Nossa",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 692,
+  "name": "Ki Good",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 693,
+  "name": "Pizzaria Nossa",
+  "address": "R. Alexandre Herculano, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 694,
+  "name": "越南米线店",
+  "address": "Benguela, Angola",
+  "phone": "+244924509025",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 695,
+  "name": "X Delicious",
+  "address": "R. Gen. João de Almeida, Benguela, Angola",
+  "phone": "+244930101214",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 696,
+  "name": "Sabores_Fastfood",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 697,
+  "name": "本格拉老周",
+  "address": "Benguela, Angola",
+  "phone": "+244936531531",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 698,
+  "name": "Cervejaria Rebelo",
+  "address": "Unnamed Road, Benguela, Angola",
+  "phone": "+244925963030",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 699,
+  "name": "Salão Fátima Comercial",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 700,
+  "name": "Churras Do Aladdin",
+  "address": "Próximo a Sé Cátedral, Tv. Guerra Junqueiro, Benguela, Angola",
+  "phone": "+244947368479",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 701,
+  "name": "alberto comercial",
+  "address": "Edifício Acácias Escritório, R. Aires de Almeida Santos 10, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 702,
+  "name": "Churrascaria Ana Camoto",
+  "address": "R. Monsenhor Keiling, Benguela, Angola",
+  "phone": "+244943398535",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 703,
+  "name": "MUPEI’S KITCHEN",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 704,
+  "name": "Salão Festas Mangueirinha",
+  "address": "Rua do CRM, segunda a direita, Angola",
+  "phone": "+244933970265",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 705,
+  "name": "Debonairs Pizza",
+  "address": "R. Machado dos Santos, Benguela, Angola",
+  "phone": "+244932031686",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 706,
+  "name": "Art Doce",
+  "address": "Benguela, Angola",
+  "phone": "+244946104810",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 707,
+  "name": "Estação de Serviço Loirinha e Bar",
+  "address": "R. Gen. Pereira D'Eça, Benguela, Angola",
+  "phone": "+244946998672",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 708,
+  "name": "Tasca da Sé Benguela",
+  "address": "R. Domingos do Ó, Benguela, Angola",
+  "phone": "+244946199688",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 709,
+  "name": "Solar dos Leitões",
+  "address": "Benguela, Angola",
+  "phone": "+244926103007",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 710,
+  "name": "A Sombra Lda",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 711,
+  "name": "B.Benfica",
+  "address": "Av. Dr. António Agostinho Neto, Benguela, Angola",
+  "phone": "+244929774171",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 712,
+  "name": "Templo do Chá",
+  "address": "Benguela, Angola",
+  "phone": "+244929382216",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 713,
+  "name": "PANNIBOM",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 714,
+  "name": "Chiquitos Café -Boutique",
+  "address": "R. Domingos do Ó, Benguela, Angola",
+  "phone": "+244921801234",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 715,
+  "name": "Kalu Beach",
+  "address": "Rua: infante Don Henriques Benguela - Angola, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 716,
+  "name": "Luna Louge",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 717,
+  "name": "Frirrevenda Angola Lda",
+  "address": "Benguela, Angola",
+  "phone": "+244933388185",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 718,
+  "name": "Taberna República",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 719,
+  "name": "Ligeiros Loung Bar",
+  "address": "Av. Sociedade de Geografia, Benguela, Angola",
+  "phone": "+244222793396",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 720,
+  "name": "SoulB Cocktail Bar",
+  "address": "R. António José de Almeida nº 232/4, Benguela, Angola",
+  "phone": "+244925214438",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 721,
+  "name": "Largo General Alves Roçadas n 4",
+  "address": "R. 31 de Janeiro, Benguela, Angola",
+  "phone": "+244939531484",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 722,
+  "name": "Lanche Snack Bar",
+  "address": "Avª Manuel Cerveira Pereira, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 723,
+  "name": "Doce Requinte",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 724,
+  "name": "Lanchonete \"Canto Dos Amigos\"",
+  "address": "Unnamed Road, Benguela, Angola",
+  "phone": "+244929784996",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 725,
+  "name": "Pedro Ngumbe-Comercial",
+  "address": "R. Domingos do Ó Nº32, Benguela, Angola",
+  "phone": "+244932042822",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 726,
+  "name": "Bar Família Chivinda",
+  "address": "R. Heróis de Angola, Benguela, Angola",
+  "phone": "+244921589762",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 727,
+  "name": "Boteco de benguela",
+  "address": "R. António José de Almeida 232/4, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 728,
+  "name": "Geladaria Sweet Sin",
+  "address": "R. Heróis de Angola, Benguela, Angola",
+  "phone": "+244921589762",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 729,
+  "name": "Pastelaria Nova",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 730,
+  "name": "Viana Café",
+  "address": "R. Alexandre Herculano 58, Benguela, Angola",
+  "phone": "+244921363115",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 731,
+  "name": "KERO Shopping - Retail Benguela",
+  "address": "Lobito, Angola",
+  "phone": "+244940325471",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 732,
+  "name": "Kaprilux",
+  "address": "Benguela, Angola",
+  "phone": "+244927272371",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 733,
+  "name": "Casa Mix",
+  "address": "Benguela, Angola",
+  "phone": "+244935555775",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 734,
+  "name": "Confecções Casa Branca",
+  "address": "Av. Cmte. Kassanji 196, Benguela, Angola",
+  "phone": "+244272232771",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 735,
+  "name": "BENGUELA NOSSA CASA NOBLE",
+  "address": "Lixeira, Casa, Mix, Benguela, Angola",
+  "phone": "+244946020085",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 736,
+  "name": "Loja ZAP",
+  "address": "Rua Tomás Vieira da Cruz, N.º 8 cx.postal 179 Benguela, Benguela, Angola",
+  "phone": "+244934935255",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 737,
+  "name": "ASC-COMÉRCIO PISCINA",
+  "address": "ZONA INDUSTRIA II UCHI, Benguela, Angola",
+  "phone": "+244934706146",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 738,
+  "name": "Maxitel Angola",
+  "address": "Maxitel Angola, Av. Cmte. Kassanji, Benguela, Angola",
+  "phone": "+244948876303",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 739,
+  "name": "Angopri, Lda",
+  "address": "Benguela, Angola",
+  "phone": "+244944708283",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 740,
+  "name": "PET CENTER",
+  "address": "Praia do Santo Antonio, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 741,
+  "name": "Lobitus Trade Center",
+  "address": "R. José Estevan 25, Benguela, Angola",
+  "phone": "+244949437464",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 742,
+  "name": "Era Uma Vez",
+  "address": "Igreja Nossa Sra. do Pópulo, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 743,
+  "name": "Nosso Super",
+  "address": "R. Aires de Almeida Santos, Benguela, Angola",
+  "phone": "+244272230029",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 744,
+  "name": "Cantina A.C.E.",
+  "address": "Benguela, Angola",
+  "phone": "+244272231476",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 745,
+  "name": "Xyami Shopping - Kilamba",
+  "address": "Av. Dr. António Agostinho Neto, Benguela, Angola",
+  "phone": "+244929102277",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 746,
+  "name": "Loja Dstv",
+  "address": "Bairro 11 de Novembro, rotunda do Txizainga, Saurimo, Angola",
+  "phone": "+244913953275",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 747,
+  "name": "Belas Shopping",
+  "address": "Via Luanda Sul, Luanda, Angola",
+  "phone": "+244941774571",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 748,
+  "name": "Vineza Sapessa Limitada",
+  "address": "R. da Guiné, Benguela, Angola",
+  "phone": "+244939095906",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 749,
+  "name": "Linto e Marques Angola",
+  "address": "Huambo, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 750,
+  "name": "Centro Católico",
+  "address": "Marginal de luanda, Luanda, Angola",
+  "phone": "+244947971119",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 751,
+  "name": "Xyami Morro Bento",
+  "address": "Av. 21 de Janeiro, Luanda, Angola",
+  "phone": "+244944708283",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 752,
+  "name": "Shopping Fortaleza",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 753,
+  "name": "Xyami Shopping",
+  "address": "R. João Belo, Benguela, Angola",
+  "phone": "+244923168000",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 754,
+  "name": "Nossosuper",
+  "address": "siac, Angola ,Benguela Rua, Dokota Olá ão siac Benguela bairro dokota Três mentro ao, Benguela, Angola",
+  "phone": "+244931480000",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 755,
+  "name": "Farmácia Mixcenter",
+  "address": "Rua Alvaro de Carvalho, Benguela, Angola",
+  "phone": "+244923120000",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 756,
+  "name": "Xyami Huambo",
+  "address": "Rua Mariano Machado, Huambo, Angola",
+  "phone": "+244948391238",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 757,
+  "name": "Join Angola",
+  "address": "Belas, Angola",
+  "phone": "+244922743799",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 758,
+  "name": "iu Hotel Benguela",
+  "address": "Av. Luanda Sul, Luanda, Angola",
+  "phone": "+244222678470",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 759,
+  "name": "Igreja da Pópulo, Benguela",
+  "address": "Benguela, Angola",
+  "phone": "+244943672334",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 760,
+  "name": "Aparthotel Mil Cidades, llc",
+  "address": "Lobito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 761,
+  "name": "Hotel Praia Morena",
+  "address": "XYAMI Shopping Benguela, Benguela, Angola",
+  "phone": "+244923557940",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 762,
+  "name": "Ramire Tour Guest Hotel",
+  "address": "Namibe, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 763,
+  "name": "Hotel Residencial Benguela",
+  "address": "Rua Monsenhor Kelling N74, Benguela, Angola",
+  "phone": "+244927622532",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 764,
+  "name": "Sé Catedral",
+  "address": "Igreja Nossa Sra. do Pópulo, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 765,
+  "name": "Benguela",
+  "address": "Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 766,
+  "name": "Caota",
+  "address": "Av. Cmte. Kassanji 172, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 767,
+  "name": "Igreja da Pópulo, Benguela",
+  "address": "Benguela, Angola",
+  "phone": "+244991701286",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 768,
+  "name": "bella amore",
+  "address": "Av. 10 de Fevereiro 66, Benguela, Angola",
+  "phone": "+244929369770",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 769,
+  "name": "Lodge Kapembawe",
+  "address": "R. Domingos do Ó, Benguela, Angola",
+  "phone": "+244947303634",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 770,
+  "name": "Praia da Caotinha",
+  "address": "Av. 10 de Fevereiro, Benguela, Angola",
+  "phone": "+244272230342",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 771,
+  "name": "Hotel Residencial Benguela",
+  "address": "Rua Centro Convenções S8, Luanda, Angola",
+  "phone": "+244226433460",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 772,
+  "name": "Museum of Natural History",
+  "address": "R. 23, Luanda, Angola",
+  "phone": "+244928906589",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 773,
+  "name": "Caboledo",
+  "address": "Rua Comadante Kassage, Sumbe, Angola",
+  "phone": "+244914368439",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 774,
+  "name": "Bouchard Finlayson Winery",
+  "address": "R. Friedrich Engels 61, Luanda, Angola",
+  "phone": "+244921214168",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 775,
+  "name": "Hermanuspietersfontein Wines",
+  "address": "R. José Estevan 25, Benguela, Angola",
+  "phone": "+244949437464",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 776,
+  "name": "Shoprite Supermercado (Nova Vida)",
+  "address": "Nossa Senhora da Muxima, Luanda, Angola",
+  "phone": "+244921360872",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 777,
+  "name": "MD Flor Spa e Estética",
+  "address": "Benguela, Angola",
+  "phone": "+244272231476",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 778,
+  "name": "Benguela Cove Waterfront Villas",
+  "address": "Av. 4 de Fevereiro 151, Luanda, Angola",
+  "phone": "+244226431231",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 779,
+  "name": "Leonardslee",
+  "address": "Largo do Pioneiro #14-#16, Benguela, Angola",
+  "phone": "+244921179353",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 780,
+  "name": "Hermanus Tourism Bureau",
+  "address": "Benguela,baia farta, Benguela-Baia Azul, Benguela, Angola",
+  "phone": "+244922508508",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 781,
+  "name": "Burel Factory",
+  "address": "Largo do Pioneiro #14-#16, Benguela, Angola",
+  "phone": "+244921179353",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 782,
+  "name": "Swakopmund",
+  "address": "R. 31 de Janeiro, Benguela, Angola",
+  "phone": "+244272238463",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 783,
+  "name": "De Kelders",
+  "address": "Praia do Santo Antonio, Benguela, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 784,
+  "name": "Mondesa",
+  "address": "R. Aires de Almeida Santos, Benguela, Angola",
+  "phone": "+244272236680",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 785,
+  "name": "Bot River",
+  "address": "R. Dr. João Omelas, Benguela, Angola",
+  "phone": "+244925579494",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 786,
+  "name": "Overberg District Municipality",
+  "address": "R. Aires de Almeida Santos, Benguela, Angola",
+  "phone": "+244272230029",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 787,
+  "name": "Golden Mile",
+  "address": "Benguela, Angola",
+  "phone": "+244261245101",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 788,
+  "name": "HYBRID TOURS AND TRAVEL",
+  "address": "Benguela, Angola",
+  "phone": "+244272223287",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 789,
+  "name": "Randpark Ridge",
+  "address": "Baía Farta, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 790,
+  "name": "iu Hotel Kuíto",
+  "address": "Kuito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 791,
+  "name": "Hotel Cassoma",
+  "address": "Avenida Joaquim Kapango, Kuito, Angola",
+  "phone": "+244939685597",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 792,
+  "name": "Pensão Executiva",
+  "address": "Kuito, Angola",
+  "phone": "+244923249538",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 793,
+  "name": "Hospedaria e Restaurante Nguevela",
+  "address": "Unnamed Road, Kuito, Angola",
+  "phone": "+244926112424",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 794,
+  "name": "Tradicional Lda",
+  "address": "Rua teófilo, braga, Kuito, Angola",
+  "phone": "+244921529719",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 795,
+  "name": "Letrip Hospedaria e Hambúrgueres",
+  "address": "EN250, Kuito, Angola",
+  "phone": "+244925171373",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 796,
+  "name": "Pensão Central",
+  "address": "Kuito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 797,
+  "name": "Amaral Haagensen",
+  "address": "EN140, Kuito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 798,
+  "name": "Hotel Girão",
+  "address": "Kuito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 799,
+  "name": "HOSPEDARIA DANY E FILHOS",
+  "address": "Ilha, Kuito, Angola",
+  "phone": "+244938314436",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 800,
+  "name": "AGP Palace View",
+  "address": "Unnamed Road, Kuito, Angola",
+  "phone": "+244933465255",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 801,
+  "name": "Domingos cangololo",
+  "address": "Kuito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 802,
+  "name": "Aimeliz",
+  "address": "Rua Gago Coutinho, Kuito, Angola",
+  "phone": "+244924824328",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 803,
+  "name": "Espaço Quitutes",
+  "address": "Kuito, Angola",
+  "phone": "+244924426838",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 804,
+  "name": "Calembequeta",
+  "address": "Rua silva porto, Kuito, Angola",
+  "phone": "+244942556343",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 805,
+  "name": "Habesha Ethiopian Restaurant New",
+  "address": "1801 N Wayne St #104, Angola, IN 46703",
+  "phone": "180110446703",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 806,
+  "name": "Solar do Kuito Residencial",
+  "address": "30 N Public Square, Angola, IN 46703",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 807,
+  "name": "Rodízio de mirantes",
+  "address": "Kilamba, P/21, Angola",
+  "phone": "+244916956184",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 808,
+  "name": "Rodízio Supremo",
+  "address": "Belas, Angola",
+  "phone": "+244923639940",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 809,
+  "name": "Kilam-bar",
+  "address": "Luanda, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 810,
+  "name": "Angola 76",
+  "address": "Belas, Angola",
+  "phone": "+244938518021",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 811,
+  "name": "The Rooted Vegan",
+  "address": "R. H, Luanda, Angola",
+  "phone": "+244934273534",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 812,
+  "name": "Casa Azteca",
+  "address": "R. Sagrada Esperança, Kuito, Angola",
+  "phone": "+244943544052",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 813,
+  "name": "Kuitos",
+  "address": "rua Serpa Pinto, Kuito, Angola",
+  "phone": "+244923383152",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 814,
+  "name": "Restaurante Recanto Da Picanha",
+  "address": "Benfica, Belas, Angola",
+  "phone": "+244923400455",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 815,
+  "name": "KultO",
+  "address": "Rua teófilo, braga, Kuito, Angola",
+  "phone": "+244921529719",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 816,
+  "name": "Outback Steakhouse",
+  "address": "Kuito, Angola",
+  "phone": "+244921529719",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 817,
+  "name": "Kulto",
+  "address": "EN250, Kuito, Angola",
+  "phone": "+31615151515",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 818,
+  "name": "Chez Anne",
+  "address": "Rua Nacional Kuito / Huambo Bairro Tchissindo Municipio De Kuito, Huambo, Angola",
+  "phone": "+244923849199",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 819,
+  "name": "Central 1123",
+  "address": "Lourenço Mendes da Conceição 147, Luanda, Angola",
+  "phone": "+244924245398",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 820,
+  "name": "PetChopp",
+  "address": "Centralidade, Kuito, Angola",
+  "phone": "+244935236808",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 821,
+  "name": "HEALTH BAR \"YALKUITO\"",
+  "address": "Avenida Joaquim Kapango, Kuito, Angola",
+  "phone": "+244939685597",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 822,
+  "name": "HOTEL ESTRELA NHANDEARA",
+  "address": "Ilha, Kuito, Angola",
+  "phone": "+244938314436",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 823,
+  "name": "THAKERS",
+  "address": "Kuito, Angola",
+  "phone": "+244923510037",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 824,
+  "name": "McDonald's",
+  "address": "R. Joaquim Kapango, Kuito, Angola",
+  "phone": "+244941473345",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 825,
+  "name": "Lanchonete Ponto Certo",
+  "address": "Unnamed Road, Kuito, Angola",
+  "phone": "+244947251246",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 826,
+  "name": "Seu Juca",
+  "address": "Kuito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 827,
+  "name": "DON RAFAELLO PIZZARIA (PIRITUBA)",
+  "address": "Kuito, Angola",
+  "phone": "+244923553415",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 828,
+  "name": "Mania de Japa",
+  "address": "Rua Gago Coutinho, Kuito, Angola",
+  "phone": "+244931382325",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 829,
+  "name": "Heladeria Artesanal \"Kuito\"",
+  "address": "EN250, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 830,
+  "name": "Rei Do Salgado SBO CIDADE NOVA",
+  "address": "Kuito, Angola",
+  "phone": "+244941393376",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 831,
+  "name": "ANGOLI",
+  "address": "Kuito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 832,
+  "name": "Bakery Timóteo Penteado",
+  "address": "Raimundo Serão, Kuito, Angola",
+  "phone": "+244927325766",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 833,
+  "name": "Kuito Helados",
+  "address": "Rua Joaquim Kapango, Kuito, Angola",
+  "phone": "+244931382325",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 834,
+  "name": "K-BOB'S Steakhouse Lamesa",
+  "address": "Av. Gago Coutinho, Kuito, Angola",
+  "phone": "+244947480455",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 835,
+  "name": "Shoprite Supermercado (Kuito)",
+  "address": "Rua Nacional Kuito / Huambo Bairro Tchissindo Municipio De Kuito, Huambo, Angola",
+  "phone": "+244923849199",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 836,
+  "name": "Vany wick",
+  "address": "Kuito, Angola",
+  "phone": "+244948479770",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 837,
+  "name": "Field of Eucalyptus",
+  "address": "Kuito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 838,
+  "name": "Calandula Falls",
+  "address": "EN250, Kuito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 839,
+  "name": "iu Hotel Kuíto",
+  "address": "Avenida Joaquim Kapango, Kuito, Angola",
+  "phone": "+244939685597",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 840,
+  "name": "Joaquim Kapango Airport",
+  "address": "Kuito, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 841,
+  "name": "Stadium",
+  "address": "299 S John St, Angola, IN 46703",
+  "phone": "29946703",
+  "country-code": "AO",
+  "country": "Angola"
+ },
+ {
+  "id": 842,
+  "name": "Quito",
+  "address": "Calandula, Angola",
+  "phone": "",
+  "country-code": "AO",
+  "country": "Angola"
+ }
+]

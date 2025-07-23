@@ -1,0 +1,7794 @@
+[
+ {
+  "id": 1,
+  "name": "Metropole Hotel Kampala",
+  "address": "Kiruddu Rd. Plot 571,Buziga, Kampala, Uganda",
+  "phone": "+256759327511",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 2,
+  "name": "Hilton Garden Inn Kampala",
+  "address": "72 Kira Rd, Kampala, Uganda",
+  "phone": "+256313800800",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 3,
+  "name": "Sheraton Kampala Hotel",
+  "address": "Ternan Ave, Kampala, Uganda",
+  "phone": "+256312322499",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 4,
+  "name": "Protea Hotel by Marriott Kampala Skyz",
+  "address": "Plot 15 Impala Ave, Kampala, Uganda",
+  "phone": "+256701581188",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 5,
+  "name": "Acacia Villa",
+  "address": "18A Akii Bua Rd, Kampala, Uganda",
+  "phone": "+256740910561",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 6,
+  "name": "African Tribe Hotel",
+  "address": "Plot 567 Upper Mawanda Rd, Kampala, Uganda",
+  "phone": "+256778815686",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 7,
+  "name": "Nanjing Hotel (Kololo Branch)",
+  "address": "Ssenyonga Rd, Kampala, Uganda",
+  "phone": "+256701081081",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 8,
+  "name": "ONOMO Hotel Kampala",
+  "address": "Plot 51, 53 Windsor Cres, Kampala, Uganda",
+  "phone": "+256312391000",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 9,
+  "name": "Meley Impala Hotel - Munyonyo",
+  "address": "Nabunya Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 10,
+  "name": "Arcadia Suites Hotel",
+  "address": "1 Water Lane, Kampala, Uganda",
+  "phone": "+256312554000",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 11,
+  "name": "Millennium Terrace Hotel",
+  "address": "11 Nakivubo Mews Rd, Kampala, Uganda",
+  "phone": "+256709719140",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 12,
+  "name": "Bougainviller Hotel",
+  "address": "Nabunya Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 13,
+  "name": "Nanjing Hotel ( Lugogo Branch )",
+  "address": "Plot 1277 Namugongo Road, Kireka- Kiira Municipalty Kireka, Kampala, Uganda",
+  "phone": "+256772463242",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 14,
+  "name": "Hotel Africana Ltd \u0026 Convention center",
+  "address": "Plot 17 Musajja Alumbwa Rd, Kampala, Uganda",
+  "phone": "+256708860568",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 15,
+  "name": "Hotel Acacia City",
+  "address": "Plot 4010 Namasuba, Kampala - Entebbe Rd, Kampala, Uganda",
+  "phone": "+256704023485",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 16,
+  "name": "Nyumbani Hotel Kampala",
+  "address": "Along Rubaga - Kabusu Road/P.O. Box 71377, Kampala, Kampala, Uganda",
+  "phone": "+256414273330",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 17,
+  "name": "The Seventeen Apartment - Hotel",
+  "address": "40 Kyaddondo Rd, Kampala, Uganda",
+  "phone": "+256772448442",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 18,
+  "name": "The Humura Hotel",
+  "address": "Nakivubo Rd, Kampala, Uganda",
+  "phone": "+256414696862",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 19,
+  "name": "Protea Hotel by Marriott Kampala",
+  "address": "Plot 16/18/20 Luwum Street, Dastur St, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 20,
+  "name": "Precise Motel",
+  "address": "Ntinda II Road, Off Kira Rd, Kampala, Uganda",
+  "phone": "+256702608415",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 21,
+  "name": "Boulevard Suites",
+  "address": "Silver, Spring Rd, Kampala, Uganda",
+  "phone": "+256758508421",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 22,
+  "name": "HERA HOTEL KAMPALA",
+  "address": "Old Kira Road Moyo Close, Kampala, Uganda",
+  "phone": "+256774161700",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 23,
+  "name": "Latitude 0 Degrees",
+  "address": "Kiwatule Rd, Kampala, Uganda",
+  "phone": "+256759698998",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 24,
+  "name": "The Five Horsemen",
+  "address": "Sir, Sir Apollo Kaggwa Rd, Kampala, Uganda",
+  "phone": "+256392002218",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 25,
+  "name": "Bushpig Backpackers Hostel",
+  "address": "Sir Apollo Kaggwa Rd, Kampala, Uganda",
+  "phone": "+256312516144",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 26,
+  "name": "SS HOTEL KAMPALA",
+  "address": "Bugolobi, Plot 18-20 Binayomba Road, Luthuli Ave, Kampala, Uganda",
+  "phone": "+256312263816",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 27,
+  "name": "Royal Lake View Gardens, Rubaga",
+  "address": "Plot 7141 block 244 house 28 Muyenga tank hill road, Kampala, Uganda",
+  "phone": "714124428",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 28,
+  "name": "Kololo Courts Hotel and Apartments",
+  "address": "Bombo Rd, Kampala, Uganda",
+  "phone": "+256707165156",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 29,
+  "name": "Nyumba 591",
+  "address": "Plot 962/659 Off, P.O.Box 11801 Sir Apollo Kaggwa Rd, Kampala, Uganda",
+  "phone": "96265911801",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 30,
+  "name": "Emerald Hotel Kampala - Green gardens",
+  "address": "Plot 1273 Ggaba Road, Kampala, Uganda",
+  "phone": "+256761819483",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 31,
+  "name": "Jarin Hotel",
+  "address": "towards Zana Round About,, Entebbe - Kampala Road, Kampala, Uganda",
+  "phone": "+256704023485",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 32,
+  "name": "Namayiba Park Hotel",
+  "address": "Upper Hill Lubowa Rd, Kampala, Uganda",
+  "phone": "+256771252612",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 33,
+  "name": "Speke Hotel",
+  "address": "Mutundwe Rd, Kampala, Uganda",
+  "phone": "+256392176699",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 34,
+  "name": "Yushili Hotel \u0026 Restaurant",
+  "address": "Mutebi Rd, Kampala, Uganda",
+  "phone": "+256752184447",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 35,
+  "name": "Bougainviller Hotel",
+  "address": "BUKANDULA TOWER, Plot 15 Rubaga Rd, Kampala, Uganda",
+  "phone": "+256393193699",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 36,
+  "name": "Russel Hotel kampala",
+  "address": "Rashid Khamis Rd, Kampala, Uganda",
+  "phone": "+256751070550",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 37,
+  "name": "Jarin Hotel",
+  "address": "Fort Rd, Kampala, Uganda",
+  "phone": "+256783884524",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 38,
+  "name": "Namayiba Park Hotel",
+  "address": "Buziga Road, Kampala, Uganda",
+  "phone": "+256788923416",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 39,
+  "name": "Speke Hotel",
+  "address": "Wankulukuku Rd, Kampala, Uganda",
+  "phone": "+256789261339",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 40,
+  "name": "CARAN Hotel",
+  "address": "220, Ssebowa Rd, Ntinda, Uganda",
+  "phone": "+256392175496",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 41,
+  "name": "Meilin International Hotel - Kampala",
+  "address": "Bukenya Ln, Kampala, Uganda",
+  "phone": "+256755789195",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 42,
+  "name": "Bougainviller Hotel",
+  "address": "Mutundwe Rd, Kampala, Uganda",
+  "phone": "+256200903528",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 43,
+  "name": "Russel Hotel kampala",
+  "address": "Plot 854, 856 Rubaga Rd, Kampala, Uganda",
+  "phone": "+256751003294",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 44,
+  "name": "Hotel Ruch Kampala",
+  "address": "Plot 15A Kyadondo Rd, Kampala, Uganda",
+  "phone": "+256414346777",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 45,
+  "name": "Casa Sean - Boutique Hotel",
+  "address": "Mutundwe Rd, Kampala, Uganda",
+  "phone": "+256704365115",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 46,
+  "name": "Hotel Triangle",
+  "address": "Ghats Complex, Jinja Road, Kampala, Uganda",
+  "phone": "+256705911888",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 47,
+  "name": "Méstil Hotel \u0026 Residences, Kampala.",
+  "address": "Plot 16, 18 Vubyabirenge Cl, Kampala, Uganda",
+  "phone": "+256414287036",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 48,
+  "name": "Fairway Hotel \u0026 Spa",
+  "address": "Plot 3, Kitante Close, Yusuf Lule Road, Kampala, Uganda",
+  "phone": "+256708723883",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 49,
+  "name": "Hotel Acacia",
+  "address": "1100, Ggaba Rd, Kabalagala, Uganda",
+  "phone": "+256779632307",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 50,
+  "name": "Nexus Resorts Hotel, Nansana, Kampala, Uganda",
+  "address": "Plot 404/405, George Sserwadda Road, Kampala, Uganda",
+  "phone": "+256414698128",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 51,
+  "name": "Hotel La Grande",
+  "address": "Plot 16 Buganda Rd, Kampala, Uganda",
+  "phone": "+256414231747",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 52,
+  "name": "The Humura Hotel",
+  "address": "Plot 3 Kafu Rd, Kampala, Uganda",
+  "phone": "+256414259571",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 53,
+  "name": "Eureka Place Hotel",
+  "address": "Plot 9 Lumumba Avenue, Nakasero, Kampala 6219, Uganda",
+  "phone": "+256312210110",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 54,
+  "name": "Elite Suites Hotel",
+  "address": "20 Barracks Dr, Kampala, Uganda",
+  "phone": "+256313243000",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 55,
+  "name": "Hotel Lemonade Mutundwe Kampala",
+  "address": "6219, 3 Kintu Rd, Kampala, Uganda",
+  "phone": "+256312210110",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 56,
+  "name": "A'lure Hotel \u0026 Suites",
+  "address": "Mandela Close, Kampala, Uganda",
+  "phone": "+256775431080",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 57,
+  "name": "Arirang Hotel",
+  "address": "Russel Ln, Kampala, Uganda",
+  "phone": "+256780255581",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 58,
+  "name": "Jicca Hotel Ntinda",
+  "address": "Plot 1, 7 Katazamiti Rd, Kampala, Uganda",
+  "phone": "+256393220966",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 59,
+  "name": "Arch Apartments Limited",
+  "address": "Plot 15 Mackinnon Rd, Kampala, Uganda",
+  "phone": "+256762720677",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 60,
+  "name": "HOTEL SOJOVALO",
+  "address": "Plot 1000 Sir Apollo Kaggwa Rd, Kampala, Uganda",
+  "phone": "+256393239752",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 61,
+  "name": "Nican Resort Hotel",
+  "address": "31 John Babiha (Acacia) Ave, Kampala, Uganda",
+  "phone": "+256200904958",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 62,
+  "name": "Fancy Hotel Munyonyo",
+  "address": "Zzimwe Rd, Kampala, Uganda",
+  "phone": "+256785599359",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 63,
+  "name": "Hotel Jfrigh Makerere",
+  "address": "6219, 3 Kintu Rd, Kampala, Uganda",
+  "phone": "+256312210110",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 64,
+  "name": "G.n.s Hotel Kampala",
+  "address": "Nile Avenue Kimathi Ave, Kampala, Uganda",
+  "phone": "+256412592214",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 65,
+  "name": "KAZINGA CHANNEL VIEW RESORT",
+  "address": "4c Zzimwe Rd, Kampala, Uganda",
+  "phone": "+256707254040",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 66,
+  "name": "Casa Solada Hotel",
+  "address": "Russel Ln, Kampala, Uganda",
+  "phone": "+256780255581",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 67,
+  "name": "Bukandula Hotel",
+  "address": "31 John Babiha (Acacia) Ave, Kampala, Uganda",
+  "phone": "+256200904958",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 68,
+  "name": "Florida Hotel",
+  "address": "Plot 1, 7 Katazamiti Rd, Kampala, Uganda",
+  "phone": "+256393220966",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 69,
+  "name": "Precious Villas Lubowa",
+  "address": "Namayiba Bus Terminal, Rashid Khamis Rd, Kampala, Uganda",
+  "phone": "+256751070550",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 70,
+  "name": "Le Petit Village Hotel",
+  "address": "Nile Avenue Kimathi Ave, Kampala, Uganda",
+  "phone": "+256412592214",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 71,
+  "name": "Sunrise Hotel",
+  "address": "Plot 1000 Sir Apollo Kaggwa Rd, Kampala, Uganda",
+  "phone": "+256393239752",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 72,
+  "name": "Makutano Hotel",
+  "address": "Namayiba Bus Terminal, Rashid Khamis Rd, Kampala, Uganda",
+  "phone": "+256751070550",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 73,
+  "name": "HOTEL HENSEK",
+  "address": "New Mulago Gate Rd, Kampala, Uganda",
+  "phone": "+256708171717",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 74,
+  "name": "The college inn",
+  "address": "3 Dundas Road, Lower Kololo, Kampala, Uganda",
+  "phone": "+256414235376",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 75,
+  "name": "Sheron Hotel Makerere",
+  "address": "Sir Apollo Kaggwa Rd, Kampala, Uganda",
+  "phone": "+256751666066",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 76,
+  "name": "OK Hotel",
+  "address": "31 John Babiha (Acacia) Ave, Kampala, Uganda",
+  "phone": "+256772285234",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 77,
+  "name": "Royal Suites",
+  "address": "Nsambya House, Ggaba Road, across St Peter's Primary School, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 78,
+  "name": "Sheron Hotel",
+  "address": "31 John Babiha (Acacia) Ave, Kampala, Uganda",
+  "phone": "+256414500533",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 79,
+  "name": "Serene Hotel",
+  "address": "Valley, Cresent, Plot 3 Semiliki Walk, Off Bombo Rd, Kampala, Uganda",
+  "phone": "+256752747529",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 80,
+  "name": "Arch Apartments and Hotel",
+  "address": "64 \u0026 66 Kyodondo, Mobutu Road, Kampala, Uganda",
+  "phone": "+256312418300",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 81,
+  "name": "The Forest Resort - Lweza",
+  "address": "Ggaba Road, Kampala, Uganda",
+  "phone": "+256781094649",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 82,
+  "name": "Africa Treasures Home",
+  "address": "Rubaga Rd, Kampala, Uganda",
+  "phone": "+256778691462",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 83,
+  "name": "Hillside Plaza Hotel",
+  "address": "7th Floor Plot 17, 5th / 6th, 19 Kampala Road, Kampala, Uganda",
+  "phone": "+256702711197",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 84,
+  "name": "Crown Jakiba Hotel",
+  "address": "Katwe Road After Muganzirwaza, Kampala, Uganda",
+  "phone": "+256758688352",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 85,
+  "name": "Silver Springs Hotel, Bugolobi",
+  "address": "Plot 3, Kitante Close, Yusuf Lule Road, Kampala, Uganda",
+  "phone": "+256708723883",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 86,
+  "name": "Fontis Residences Hotel Ltd",
+  "address": "17 Kololo Hill Ln, Kampala, Uganda",
+  "phone": "+256708171717",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 87,
+  "name": "Tal Cottages Hotel",
+  "address": "12B Kafu Rd, Kampala, Uganda",
+  "phone": "+256312180800",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 88,
+  "name": "Safdal Hotel",
+  "address": "Plot 404/405, George Sserwadda Road, Kampala, Uganda",
+  "phone": "+256414698128",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 89,
+  "name": "Kilimanjaro Inn",
+  "address": "Elgon Terrace, Kampala, Uganda",
+  "phone": "+256312550000",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 90,
+  "name": "Freedom City Hotel",
+  "address": "Plot 1, 7 Katazamiti Rd, Kampala, Uganda",
+  "phone": "+256393220966",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 91,
+  "name": "KADZ HOTEL",
+  "address": "Plot 62B1, Lugogo, By-Pass, Road, Kampala, Uganda",
+  "phone": "+256706266666",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 92,
+  "name": "Haandi Restaurant",
+  "address": "Plot No. 32 Hunter Avenue, Bandali Rise, Kampala, Uganda",
+  "phone": "+256752222848",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 93,
+  "name": "Cantine Divino",
+  "address": "1st Floor, Hotel Millennium Terrace, Opposite Alliance Francaise, plot 39 Bukoto St, Kampala, Uganda",
+  "phone": "+256753786500",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 94,
+  "name": "Il Patio Italian Restaurant",
+  "address": "Kisozi Close, Kyagwe Rd, Kampala, Uganda",
+  "phone": "+256414258448",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 95,
+  "name": "The Spice Junction (China bowl)",
+  "address": "Speke apartments, Wampewo Ave, Kampala, Uganda",
+  "phone": "+256702711152",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 96,
+  "name": "La Cabana Restaurant",
+  "address": "plot 1 Kafu Rd, Kampala, Uganda",
+  "phone": "+256707000480",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 97,
+  "name": "Asian Fusion Restaurant",
+  "address": "Mabua Rd, Kampala, Uganda",
+  "phone": "+256700805000",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 98,
+  "name": "7 Hills Revolving Restaurant",
+  "address": "Windsor Loop Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 99,
+  "name": "Piato Restaurant",
+  "address": "77 Yusuf Lule Road, Kampala, Uganda",
+  "phone": "+256414563500",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 100,
+  "name": "Ashiana Restaurant",
+  "address": "Plot 7, Commercial Plaza, 1st Floor Kampala Road, Kampala, Uganda",
+  "phone": "+256701411221",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 101,
+  "name": "Platia",
+  "address": "Plot 47b Upper Kololo Terrace, Kampala, Uganda",
+  "phone": "+256779251548",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 102,
+  "name": "Pardis",
+  "address": "3 De winton Street, Kampala, Uganda",
+  "phone": "+256752510145",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 103,
+  "name": "Izumi Restaurant \u0026 Lounge",
+  "address": "Plot 20 Lumumba Ave, Kampala, Uganda",
+  "phone": "+256312516388",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 104,
+  "name": "Tamarai",
+  "address": "Market St, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 105,
+  "name": "Mythos",
+  "address": "4 Kampala Road, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 106,
+  "name": "The Lawns",
+  "address": "William St, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 107,
+  "name": "Bistro",
+  "address": "Jumbo Plaza, Kampala, Uganda",
+  "phone": "+256758600004",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 108,
+  "name": "The Lakes Restaurant.",
+  "address": "96b Bukoto St, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 109,
+  "name": "El Pecado",
+  "address": "Off Kabojja, Plot 08 Somero Rd, Kampala, Uganda",
+  "phone": "+256393247416",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 110,
+  "name": "The Great Indian Dhaba",
+  "address": "Ternan Ave, Kampala, Uganda",
+  "phone": "+256414420000",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 111,
+  "name": "Seven Seas",
+  "address": "Kira Rd, Kampala, Uganda",
+  "phone": "+256782446202",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 112,
+  "name": "Khyber Pass Restaurant",
+  "address": "Kampala Road, Kampala, Uganda",
+  "phone": "+256752797005",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 113,
+  "name": "The Hickory",
+  "address": "Plot 16 - 20 Kintu Road/P.O. Box 7814 Mackinnon Rd, Kampala, Uganda",
+  "phone": "16207814",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 114,
+  "name": "Smokey's Restaurant And Lounge",
+  "address": "3 Johnstone St, Kampala, Uganda",
+  "phone": "+256772536514",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 115,
+  "name": "Quepasa",
+  "address": "Plot 13B, Amadinda House, Parliamentary Av., Kampala, Uganda",
+  "phone": "+256759430720",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 116,
+  "name": "Nawab Asian Bistro",
+  "address": "Platinum House, 10, Plot 3 Colville St, Kampala, Uganda",
+  "phone": "+256414259543",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 117,
+  "name": "Kayali restaurant \u0026 lounge",
+  "address": "8 Malcolm X Ave, Kampala, Uganda",
+  "phone": "+256709342064",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 118,
+  "name": "Miso Garden",
+  "address": "plot 12B Lower Kololo Terrace Rd, Kampala, Uganda",
+  "phone": "+256709633338",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 119,
+  "name": "Bight of Benin",
+  "address": "15c Naguru Dr, Kampala, Uganda",
+  "phone": "+256709150855",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 120,
+  "name": "Caravan Restaurant",
+  "address": "London Chambers, Johnston Street, Kampala, Uganda",
+  "phone": "+256756832786",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 121,
+  "name": "G's Restaurant",
+  "address": "2 Bandali Rise, Kampala, Uganda",
+  "phone": "+256750424344",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 122,
+  "name": "The Orchard Restaurant",
+  "address": "Cooper Road, off John Babiha (Acacia) Ave, Kampala, Uganda",
+  "phone": "+256787968080",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 123,
+  "name": "Silver Spoon Cafe \u0026 Restaurant",
+  "address": "8, 8263 Kintu Rd, Kampala, Uganda",
+  "phone": "+256759806446",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 124,
+  "name": "Red Basket Restaurant",
+  "address": "04 Lower Kololo Terrace Rd, Kampala, Uganda",
+  "phone": "+256750431689",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 125,
+  "name": "Kyoto Turkish Restaurant",
+  "address": "Russel Road, Kampala, Uganda",
+  "phone": "+256704260960",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 126,
+  "name": "Paradise Restaurant",
+  "address": "Kampala Road, Kampala, Uganda",
+  "phone": "+256717202000",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 127,
+  "name": "Salamia Restaurant",
+  "address": "Kamwokya Market, Kampala, Uganda",
+  "phone": "+256708254035",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 128,
+  "name": "Taj Asian Bistro Restaurant",
+  "address": "Food Court, Acacia Mall, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 129,
+  "name": "Fresh Corner Restaurant",
+  "address": "62 Luthuli Ave, Kampala, Uganda",
+  "phone": "+256787537508",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 130,
+  "name": "Noor's Restaurant",
+  "address": "10 Wampewo Ave, Kampala, Uganda",
+  "phone": "+256706000333",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 131,
+  "name": "The Red Rose Restaurant",
+  "address": "P.O Box 30153 Wilson Rd, Kampala, Uganda",
+  "phone": "+256414234472",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 132,
+  "name": "Kabalaza Bar and Restaurant",
+  "address": "27 Kanjokya St, Kampala, Uganda",
+  "phone": "+256392179198",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 133,
+  "name": "BeSerene Restaurant and Cafe مطعم مندي",
+  "address": "Clement Hill Rd, Kampala, Uganda",
+  "phone": "+256757270332",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 134,
+  "name": "MAMAMIA RESTAURANT",
+  "address": "42 Windsor Cres, Kampala, Uganda",
+  "phone": "+256414500533",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 135,
+  "name": "Drew \u0026Jacs",
+  "address": "Plot 53A Naguru Dr, Kampala, Uganda",
+  "phone": "+256785033070",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 136,
+  "name": "Reverie lounge \u0026 Bar",
+  "address": "Plot 16, 18 Lugogo By-Pass, Kampala, Uganda",
+  "phone": "+256757800410",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 137,
+  "name": "Amagara Cafe Bistro",
+  "address": "Plot 16, 20 Kintu Rd, Kampala, Uganda",
+  "phone": "+256414309000",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 138,
+  "name": "Faze 2",
+  "address": "Level 3, Thobani Centre, 11 Kampala Road, Kampala, Uganda",
+  "phone": "+256702766965",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 139,
+  "name": "Govindas Restaurant",
+  "address": "/P.O. Box 20197 Nakasero Central Kampala Kampala Central Region, Plot 10 Nakasero Rd, Kampala, Uganda",
+  "phone": "+256772345808",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 140,
+  "name": "Canton Chinese Food Restaurant",
+  "address": "plot 13 Kololo Hill Dr, Kampala, Uganda",
+  "phone": "+256709918888",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 141,
+  "name": "Wombo Restuarant",
+  "address": "George St, Kampala, Uganda",
+  "phone": "+256760166446",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 142,
+  "name": "Capital Kitchen /. RESTO 1984 AND TAVERN",
+  "address": "De winton Street, Kampala, Uganda",
+  "phone": "+256757418590",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 143,
+  "name": "The Pearl Restaurant and Champagne Bar",
+  "address": "Colville St, Kampala, Uganda",
+  "phone": "+256777022905",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 144,
+  "name": "Kati Kati Africa Ltd",
+  "address": "Reverie lounge \u0026bar, Plot 99 Bukoto St, Kampala, Uganda",
+  "phone": "+256785028123",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 145,
+  "name": "Mediterraneo Restaurant",
+  "address": "Plot 17 Bukoto St, Kampala, Uganda",
+  "phone": "+256779795985",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 146,
+  "name": "Jikoni Restaurant",
+  "address": "Buxton Rd, Kampala, Uganda",
+  "phone": "+256705332796",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 147,
+  "name": "Fuji Restaurant",
+  "address": "Katonga Rd, Kampala, Uganda",
+  "phone": "+256754700208",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 148,
+  "name": "Baguma NP \u0026 Family Restaurant",
+  "address": "Kira Rd, Kampala, Uganda",
+  "phone": "+256750400000",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 149,
+  "name": "Paliv Spices Restaurant",
+  "address": "Yusuf Lule Road, Kampala, Uganda",
+  "phone": "+256740627777",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 150,
+  "name": "Ponnus Restaurant",
+  "address": "Hill View, Clement Hill Rd, Kampala, Uganda",
+  "phone": "+256792066666",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 151,
+  "name": "The Roots Restaurant",
+  "address": "Ben Kiwanuka St, Kampala, Uganda",
+  "phone": "+256772656199",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 152,
+  "name": "Kezia Restaurant",
+  "address": "Wilson Rd, Kampala, Uganda",
+  "phone": "+256788788887",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 153,
+  "name": "Nawab Indian Restaurant, Food Court Acacia Mall",
+  "address": "8H7H+962 Calvary Chapel, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 154,
+  "name": "BLIXEN GRILL AND RESTAURANT",
+  "address": "Plot 2, 4 Wampewo Ave, Kampala, Uganda",
+  "phone": "+256753508492",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 155,
+  "name": "Revive by Ark Organics",
+  "address": "8 Kintu Rd, Kampala, Uganda",
+  "phone": "+256755800091",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 156,
+  "name": "Mantra",
+  "address": "13 De winton Street, Kampala, Uganda",
+  "phone": "+256752812456",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 157,
+  "name": "GATTO MATTO",
+  "address": "Plot No : 6A, Lumumba Ave, Kampala, Uganda",
+  "phone": "+256759902889",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 158,
+  "name": "Antonio's Restaurant \u0026 Takeaway",
+  "address": "Burton St, Kampala, Uganda",
+  "phone": "+256752251972",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 159,
+  "name": "Yaya Bar and Restaurant",
+  "address": "Plot 20 Kyadondo Rd, Kampala, Uganda",
+  "phone": "+256788530177",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 160,
+  "name": "Urban Eatery U LTD.",
+  "address": "7a Yusuf Lule Road, Kampala, Uganda",
+  "phone": "+256787205949",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 161,
+  "name": "Stonehaven Restaurant \u0026 Winery",
+  "address": "1st Floor, Church House, Plot 34 Kampala Road, Kampala, Uganda",
+  "phone": "+256392002264",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 162,
+  "name": "Luve.Eat Drink",
+  "address": "De winton Street, Kampala, Uganda",
+  "phone": "+256773072809",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 163,
+  "name": "Cafe Pap",
+  "address": "Plot 14 Mabua Rd, Kampala, Uganda",
+  "phone": "+256774573501",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 164,
+  "name": "Chillies Restaurant",
+  "address": "Kisementi Gardens, Kampala, Uganda",
+  "phone": "+256783874469",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 165,
+  "name": "Spectrum at LaBonita",
+  "address": "South African High Commission, Kampala, Uganda",
+  "phone": "+256777212000",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 166,
+  "name": "Mackies Restaurant",
+  "address": "Plot 11 Ngabo Rd, Kampala, Uganda",
+  "phone": "+256758809187",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 167,
+  "name": "Explorer Restaurant",
+  "address": "Nile Ave, Kampala, Uganda",
+  "phone": "+256414259221",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 168,
+  "name": "The Papyrus Terrace",
+  "address": "6 Bukoto St, Kampala, Uganda",
+  "phone": "+256789340731",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 169,
+  "name": "Favitas",
+  "address": "Ternan Ave, Kampala, Uganda",
+  "phone": "+256312322499",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 170,
+  "name": "CHAPTER One Restaurant, Protea Hotel",
+  "address": "Hesketh Bell Rd, Kampala, Uganda",
+  "phone": "+256774228077",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 171,
+  "name": "Paradise Grill Restaurant Sheraton",
+  "address": "3 Wampewo Ave, Kampala, Uganda",
+  "phone": "+256751903647",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 172,
+  "name": "The city bar restaurant and lounge",
+  "address": "Plot 16, 20 Kintu Rd, Kampala, Uganda",
+  "phone": "+256414259130",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 173,
+  "name": "Faith Restaurant",
+  "address": "36 Kyadondo Rd, Kampala, Uganda",
+  "phone": "+256708109856",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 174,
+  "name": "Egg Station Kampala",
+  "address": "Kololo Hill Dr, Kampala, Uganda",
+  "phone": "+256757247876",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 175,
+  "name": "Millz Restaurant",
+  "address": "Plot 20 Acacia Avenue/21528, John Babiha (Acacia) Ave, Kampala, Uganda",
+  "phone": "+256752224002",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 176,
+  "name": "The Orchids herbal tea and reastaurant",
+  "address": "3A Lower Kololo Terrace Rd, Kampala, Uganda",
+  "phone": "+256705091278",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 177,
+  "name": "Ivanos Restaurant",
+  "address": "Kololo, Kampala, Uganda",
+  "phone": "+256704203499",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 178,
+  "name": "Garden City Shopping Mall",
+  "address": "14-18 Copper Rd, Kampala, Uganda",
+  "phone": "+256706712668",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 179,
+  "name": "Forest Mall",
+  "address": "5 Commercial Rd, Kampala, Uganda",
+  "phone": "+256777178458",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 180,
+  "name": "Metroplex Shopping Centre",
+  "address": "Lugogo By-Pass, Kampala, Uganda",
+  "phone": "+256200905005",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 181,
+  "name": "The Oasis Mall",
+  "address": "Kampala - Northern Bypass Hwy, Kampala, Uganda",
+  "phone": "+256414240091",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 182,
+  "name": "Nakasule shopping center",
+  "address": "Yusuf Lule Road, Kampala, Uganda",
+  "phone": "+256751078808",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 183,
+  "name": "Ham Shopping Mall",
+  "address": "Yusuf Lule Road, Kampala, Uganda",
+  "phone": "+256701114006",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 184,
+  "name": "Ntinda Shopping Center",
+  "address": "Makerere Hill Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 185,
+  "name": "Freedom City Mall",
+  "address": "Entebbe Road, Kampala, Uganda",
+  "phone": "+256414342782",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 186,
+  "name": "Village Mall",
+  "address": "Bugolobi, 7-9 Luthuli Avenue \u0026, Spring Rd, Kampala, Uganda",
+  "phone": "+256393236726",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 187,
+  "name": "Magoba Shopping Mall",
+  "address": "High Way, Kampala, Uganda",
+  "phone": "+256787025159",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 188,
+  "name": "Park View Shopping Centre",
+  "address": "Berkeley Rd, Kampala, Uganda",
+  "phone": "+256414286285",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 189,
+  "name": "Kikubo Shopping Center",
+  "address": "Bombo Rd, Kampala, Uganda",
+  "phone": "+256704767074",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 190,
+  "name": "Premier Center",
+  "address": "120 William St, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 191,
+  "name": "Kampala Boulevard",
+  "address": "Kikuubo Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 192,
+  "name": "Lion Shopping Center",
+  "address": "Kampala Road, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 193,
+  "name": "Nana Centre",
+  "address": "Bombo Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 194,
+  "name": "Capital Centre Shop Number RA-12",
+  "address": "46 Kampala Road, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 195,
+  "name": "Aponye City Mall",
+  "address": "Kiyembe Lane, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 196,
+  "name": "Nateete Shopping Centre",
+  "address": "Nakivubo Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 197,
+  "name": "Haruna Shopping Mall LV.5 Suite 073",
+  "address": "12a Luwum St, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 198,
+  "name": "The Cube",
+  "address": "Kampala Road, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 199,
+  "name": "Thobani Center",
+  "address": "Plot 2 Kimera Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 200,
+  "name": "Prism plaza",
+  "address": "Johnston Street, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 201,
+  "name": "Namanda Plaza",
+  "address": "Ben Kiwanuka Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 202,
+  "name": "The Village - Shopping Mall",
+  "address": "French plaza, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 203,
+  "name": "Mukwano Centre Shopping Arcade",
+  "address": "446b Hoima Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 204,
+  "name": "Skylight Shopping Arcade",
+  "address": "Kafumbe Mukasa Rd, Kampala, Uganda",
+  "phone": "+256758843110",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 205,
+  "name": "Lungujja shopping center",
+  "address": "Kiyembe Lane, Kampala, Uganda",
+  "phone": "+256704140052",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 206,
+  "name": "City Mall/Kampala",
+  "address": "Buziga Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 207,
+  "name": "Kingsgate Mall",
+  "address": "Entebbe Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 208,
+  "name": "Royal Plaza",
+  "address": "Forest Mall, Lugogo By-Pass, Kampala, Uganda",
+  "phone": "+256779406486",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 209,
+  "name": "Kamwokya 2 Shopping Mall",
+  "address": "Mukwano Road, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 210,
+  "name": "Kingdom Kampala",
+  "address": "Nakivubo Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 211,
+  "name": "Numak Mall",
+  "address": "Kampala Road, Kampala, Uganda",
+  "phone": "+256789204239",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 212,
+  "name": "Cornerstone Plaza",
+  "address": "Nakivubo Rd, Kampala, Uganda",
+  "phone": "+256782443681",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 213,
+  "name": "Senana Shopping Centre",
+  "address": "Nakivubo Rd, Kampala, Uganda",
+  "phone": "+256786250661",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 214,
+  "name": "Arua Park Mall",
+  "address": "Spring Rd, Kampala, Uganda",
+  "phone": "+256785867258",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 215,
+  "name": "Metroplex Shopping Mall",
+  "address": "Mukwano Mall, Kyagwe Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 216,
+  "name": "Lloyds Mall",
+  "address": "Johnston Street, Kampala, Uganda",
+  "phone": "+256759011292",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 217,
+  "name": "Kireka Shopping Centre",
+  "address": "Rubaga Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 218,
+  "name": "Equatoria Shopping Mall",
+  "address": "6 Nakivubo Mews Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 219,
+  "name": "Down Town Plaza",
+  "address": "Namugongo Road, Kampala, Uganda",
+  "phone": "+256783581211",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 220,
+  "name": "Akamwesi Shopping Mall",
+  "address": "Buganda Rd \u0026, Kyagwe Rd, Kampala, Uganda",
+  "phone": "+256751103144",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 221,
+  "name": "Capital Shopper's Plaza",
+  "address": "Plot No.7, Sikh Road, Plot No.1/A, Buxtonstreet, Sikh Rd, Kampala, Uganda",
+  "phone": "+256772221148",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 222,
+  "name": "Pentagon City Plaza",
+  "address": "Wakaliga Road, Kampala, Uganda",
+  "phone": "+256789210067",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 223,
+  "name": "Classic Supper Market Shopping Mall",
+  "address": "Ben Kiwanuka St, Kampala, Uganda",
+  "phone": "+256755110562",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 224,
+  "name": "Jesco Plaza",
+  "address": "road, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 225,
+  "name": "The Plaza",
+  "address": "William St, Kampala, Uganda",
+  "phone": "+256701315362",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 226,
+  "name": "Kasumba Square Mall",
+  "address": "22 Luwum St, Kampala, Uganda",
+  "phone": "+256704154850",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 227,
+  "name": "Discount Mall",
+  "address": "Kibuli Secondary Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 228,
+  "name": "Twese Plaza",
+  "address": "Wilson Rd, Kampala, Uganda",
+  "phone": "+256772547511",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 229,
+  "name": "4matic Mall",
+  "address": "Kafumbe Mukasa Rd, Kampala, Uganda",
+  "phone": "+256705263887",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 230,
+  "name": "Kibuli shopping center",
+  "address": "Old Mubende Road, Kampala, Uganda",
+  "phone": "+256772633115",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 231,
+  "name": "South Point Mall, Kabalagala",
+  "address": "next to kooki towers, buganda road ttowa mall shop number c111 right, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 232,
+  "name": "Ivory Plaza",
+  "address": "Kampala Road, Kampala, Uganda",
+  "phone": "+256702711142",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 233,
+  "name": "Zai Plaza",
+  "address": "Mbogo Road 1, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 234,
+  "name": "Grand Corner House",
+  "address": "Wilson Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 235,
+  "name": "Pacify Shopping Center",
+  "address": "Nakivubo Rd, Kampala, Uganda",
+  "phone": "+256758152718",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 236,
+  "name": "Park Royal",
+  "address": "Market Street Capital shoppers plaza, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 237,
+  "name": "Zibula Atudde shopping mall",
+  "address": "Equatoria Mall, Kampala, Uganda",
+  "phone": "+256784849757",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 238,
+  "name": "Numak Shopping Centre",
+  "address": "Kampala - Northern Bypass Hwy, Kampala, Uganda",
+  "phone": "+256414240091",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 239,
+  "name": "Life Shopping Center",
+  "address": "Entebbe Road, Kampala, Uganda",
+  "phone": "+256751731662",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 240,
+  "name": "Martyr's Mall",
+  "address": "Kireka shopping centre, Kampala, Uganda",
+  "phone": "+256755543764",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 241,
+  "name": "Mukwano Mall",
+  "address": "Wilson Road, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 242,
+  "name": "Village Mall Bugolobi",
+  "address": "Buganda Rd, Kampala, Uganda",
+  "phone": "+256200906625",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 243,
+  "name": "Premier Arcade Inside",
+  "address": "Gayaza -Kampala Rd, Kampala, Uganda",
+  "phone": "+256759953041",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 244,
+  "name": "Zebra Plaza",
+  "address": "Mengo Hill Rd, Kampala, Uganda",
+  "phone": "+256754962068",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 245,
+  "name": "Jumbo Arcade",
+  "address": "William St, Kampala, Uganda",
+  "phone": "+256753502641",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 246,
+  "name": "Titanic Plaza",
+  "address": "Kisenyi 2 Zone, Mawanda Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 247,
+  "name": "Totala business centre",
+  "address": "Luwum St, Kampala, Uganda",
+  "phone": "+256782343932",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 248,
+  "name": "Najja shopping centre",
+  "address": "Nile Avenue, Kampala, Uganda",
+  "phone": "+256702711146",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 249,
+  "name": "Arena Mall",
+  "address": "Ggaba Road, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 250,
+  "name": "SB City Plaza",
+  "address": "Kikuubo Rd, Kampala, Uganda",
+  "phone": "+256703922706",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 251,
+  "name": "Sky View Shopping Center",
+  "address": "Ben Kiwanuka St, Kampala, Uganda",
+  "phone": "+256700929210",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 252,
+  "name": "The gardens",
+  "address": "namanda plaza, kampala road, Russel Ln, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 253,
+  "name": "Ovino Shopping Mall",
+  "address": "Nakivubo Rd, Kampala, Uganda",
+  "phone": "+256702780268",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 254,
+  "name": "French plaza",
+  "address": "Ssebaana Kizito Rd, Kampala, Uganda",
+  "phone": "+256754331417",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 255,
+  "name": "Bukenya Plaza",
+  "address": "Kisaasi - Kyanja Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 256,
+  "name": "E-M Plaza",
+  "address": "Colville St, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 257,
+  "name": "Master Plaza",
+  "address": "Copper Rd, Kampala, Uganda",
+  "phone": "+256800222888",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 258,
+  "name": "Kalungi Commercial Plaza",
+  "address": "Casino, Kampala Road, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 259,
+  "name": "Victor’s Plaza",
+  "address": "Burton St, Kampala, Uganda",
+  "phone": "+256700520053",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 260,
+  "name": "Zaid Complex",
+  "address": "Nabukera Plaza, Nakivubo Rd, Kampala, Uganda",
+  "phone": "+256755622980",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 261,
+  "name": "California plaza",
+  "address": "285a Masaka Rd, Kampala, Uganda",
+  "phone": "+256700285575",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 262,
+  "name": "Eagle Plaza",
+  "address": "Shoprite Rd, Kampala, Uganda",
+  "phone": "+256705021908",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 263,
+  "name": "Wesigwe Mukama Shopping Center",
+  "address": "8b Nakivubo Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 264,
+  "name": "Kawempe Shopping Arcade",
+  "address": "Spring Rd, Kampala, Uganda",
+  "phone": "+256706238397",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 265,
+  "name": "City plaza",
+  "address": "Nakivubo Rd, Kampala, Uganda",
+  "phone": "+256758463984",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 266,
+  "name": "Commercial Plaza",
+  "address": "Gayaza -Kampala Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 267,
+  "name": "Busuurwa Shopping Mall",
+  "address": "Namirembe Rd, Kampala, Uganda",
+  "phone": "+256778925053",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 268,
+  "name": "Kabaka's Palace",
+  "address": "Mutesa Rd, Kampala, Uganda",
+  "phone": "+256414270183",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 269,
+  "name": "Uganda National Mosque",
+  "address": "The Twekobe, Lubiri Ring Road Lubiri Ring Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 270,
+  "name": "Independence Monument",
+  "address": "Kisozi Cl, Kampala, Uganda",
+  "phone": "+256414234983",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 271,
+  "name": "Wonder World Amusement Park",
+  "address": "Speke Road, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 272,
+  "name": "St Mary's Cathedral Rubaga",
+  "address": "Masiro Rd, Kampala, Uganda",
+  "phone": "+256776997377",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 273,
+  "name": "Centenary Park Kampala",
+  "address": "Jinja Road, Kampala, Uganda",
+  "phone": "+256786088880",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 274,
+  "name": "Fort Lugard",
+  "address": "Old Kampala Rd, Kampala, Uganda",
+  "phone": "+256703643499",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 275,
+  "name": "Mayfair Casino",
+  "address": "64 \u0026 66 Kyodondo, Mobutu Road, Kampala, Uganda",
+  "phone": "+256312418300",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 276,
+  "name": "Namirembe Cathedral",
+  "address": "Padre Pio House Plot 32, Lumumba Ave, Kampala, Uganda",
+  "phone": "+256755007582",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 277,
+  "name": "Munyonyo Martyrs' Shrine - Uganda Martyrs Basilica",
+  "address": "CMK MEDIA SOLUTIONS Publishers of Uganda Today newspaper and Uganda Leero, Plot 2/4/6 Dewinton Road, National Thearter, De Winton Road, Kampala, Uganda",
+  "phone": "+256414500640",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 278,
+  "name": "Baha'i House of Worship",
+  "address": "Ben Kiwanuka St, Kampala, Uganda",
+  "phone": "+256755110562",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 279,
+  "name": "Casino Simba",
+  "address": "Plot 47b Upper Kololo Terrace, Kampala, Uganda",
+  "phone": "+256779251548",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 280,
+  "name": "Afriart Gallery",
+  "address": "Luwafu Rd, Kampala, Uganda",
+  "phone": "+256758563577",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 281,
+  "name": "City Square Kampala",
+  "address": "14 Lower Kololo Terrace Rd, Kampala, Uganda",
+  "phone": "+256755794958",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 282,
+  "name": "Bunga Leisure Gardens",
+  "address": "Luti Mukasa Road, off Ggaba road, Kansanga Disctrict, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 283,
+  "name": "Kimpanze tour and travel",
+  "address": "Plot 4 King's African Rifles Dr, Kampala, Uganda",
+  "phone": "+256755840889",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 284,
+  "name": "Ssemagulu Museum",
+  "address": "Plot 80 Kampala - Entebbe Rd, Kampala, Uganda",
+  "phone": "+256759750288",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 285,
+  "name": "scb tours and travel",
+  "address": "Burton St, Kampala, Uganda",
+  "phone": "+256700520053",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 286,
+  "name": "Kavumba Recreation Center - kids park",
+  "address": "Shoprite Rd, Kampala, Uganda",
+  "phone": "+256705021908",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 287,
+  "name": "Triple Tee Adventures Ltd",
+  "address": "Plot 23 Old Kampala Rd, Kampala, Uganda",
+  "phone": "+256789968572",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 288,
+  "name": "Nommo Gallery",
+  "address": "Plot 85 Kira road, P.O.BOX 73537 Kampala, Near Hunters Pub, Bukoto - Kampala, Uganda",
+  "phone": "+256392177904",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 289,
+  "name": "Kabaka's Lake",
+  "address": "Plot 14 Mabua Rd, Kampala, Uganda",
+  "phone": "+256774573501",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 290,
+  "name": "Lakeside Adventure Park",
+  "address": "Nanjala Rd, Kampala, Uganda",
+  "phone": "+256785253046",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 291,
+  "name": "Tembea Kampala Walking Tours",
+  "address": "Wavamunno Rd, Kampala, Uganda",
+  "phone": "+256414227111",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 292,
+  "name": "Free walking Tours Kampala",
+  "address": "Plot 1-3 Apollo Kaggwa Road Kampala Capital City Headquarters City Hall, Kampala, Uganda",
+  "phone": "+256204660909",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 293,
+  "name": "السياحة في أوغندا",
+  "address": "Entebbe Road, Kampala, Uganda",
+  "phone": "+256414342782",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 294,
+  "name": "Kampala",
+  "address": "Plot 51 Bombo Rd, Kampala, Uganda",
+  "phone": "+256781590995",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 295,
+  "name": "Katanga Slum",
+  "address": "Mirage Plaza, Plot 756 Port Bell Rd, Kampala, Uganda",
+  "phone": "+256392159428",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 296,
+  "name": "Destreet Art Gallery",
+  "address": "Mutungo, Kunya, Kampala, Uganda",
+  "phone": "+256772975550",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 297,
+  "name": "Laba Africa Expeditions",
+  "address": "Hotel Opposite Kololo Courts, Dundas Rd, Kampala, Uganda",
+  "phone": "+256393260975",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 298,
+  "name": "Kampala National Theatre",
+  "address": "Old Kira Rd, Kampala, Uganda",
+  "phone": "+256770514883",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 299,
+  "name": "MUAFRIKA ADVENTURES LTD.",
+  "address": "Yusuf Lule Road, Kampala, Uganda",
+  "phone": "+256751078808",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 300,
+  "name": "Dark Hills Uganda",
+  "address": "Burton St, Kampala, Uganda",
+  "phone": "+256704705535",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 301,
+  "name": "Littlerock Safaris",
+  "address": "Market St, Kampala, Uganda",
+  "phone": "+256751051993",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 302,
+  "name": "City and slum walk tours kampala",
+  "address": "Kampala Road, Kampala, Uganda",
+  "phone": "+256775428723",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 303,
+  "name": "The Harp Hamilton Park",
+  "address": "Gayaza -Kampala Rd, Kampala, Uganda",
+  "phone": "+256759953041",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 304,
+  "name": "GUSA TRAVELS",
+  "address": "Ggaba Road, Kampala, Uganda",
+  "phone": "+256414666954",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 305,
+  "name": "Lifetime Experience Safaris Ltd.",
+  "address": "Beta House, Plot 1447 Old Kira Rd, Kampala, Uganda",
+  "phone": "+256703501464",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 306,
+  "name": "Kasubi",
+  "address": "Room B09, Lico Holdings Building, Kampala, Uganda",
+  "phone": "+256783332332",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 307,
+  "name": "Lugogo",
+  "address": "Yusuf Lule Road, Kampala, Uganda",
+  "phone": "+256701114006",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 308,
+  "name": "African Rock Safaris",
+  "address": "Plot 2101 BUKOTO-KISAASI ROAD, Kampala, Uganda",
+  "phone": "+256758671801",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 309,
+  "name": "Bagala Craft",
+  "address": "Nsambya-Ggaba Road Junction, Millenium House - Suite 19-2nd Floor, Kampala, Uganda",
+  "phone": "+256772978292",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 310,
+  "name": "Katona Tours and Travel",
+  "address": "Spring Rd, Kampala, Uganda",
+  "phone": "+256755236795",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 311,
+  "name": "African Finfoot Safaris - Uganda \u0026 Tanzania Tours, Gorilla Trekking / Primate Tours / Wildebeest Migration Tours.",
+  "address": "Nkurumah Road Behind Charm Towers, Light Building Room k 10, Kampala, Uganda",
+  "phone": "+256774711658",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 312,
+  "name": "Forest Mall",
+  "address": "Lugogo By-Pass, Kampala, Uganda",
+  "phone": "+256200905005",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 313,
+  "name": "Rubaga Division",
+  "address": "Kulambiro Ring Rd, Kampala, Uganda",
+  "phone": "+256782143797",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 314,
+  "name": "Kampala Central Division",
+  "address": "Old Kira Road, 1 Moyo Cl, Kampala, Uganda",
+  "phone": "+256774161700",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 315,
+  "name": "Hail Tours Uganda Safaris",
+  "address": "Talenta House, Entebbe Road, Kampala, Uganda",
+  "phone": "+256741220199",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 316,
+  "name": "St. Balikuddembe Market",
+  "address": "freedom city shopping mall, Kampala, Uganda",
+  "phone": "+256701412430",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 317,
+  "name": "Garden City Shopping Mall",
+  "address": "Buganda Rd, Kampala, Uganda",
+  "phone": "+256780247449",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 318,
+  "name": "Africa Tours Adventure Ltd",
+  "address": "Plot 472, Millennium House, Nsambya Estate Rd, Kampala, Uganda",
+  "phone": "+256777201697",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 319,
+  "name": "Wild Route Trips",
+  "address": "after Mulago Referral Hospital, Plot 5 Old Kira Road, Kitante Cl, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 320,
+  "name": "Akamwesi Shopping Mall",
+  "address": "Kimathi Ave, Kampala, Uganda",
+  "phone": "+256706368411",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 321,
+  "name": "NGONI Safaris Uganda",
+  "address": "4th floor, LUWUMU STREET , CITY CENTRE COMPLEX ROOM NO J 29, Kampala, Uganda",
+  "phone": "+256752344552",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 322,
+  "name": "Yala Safaris Uganda",
+  "address": "Ggaba Road, Kampala, Uganda",
+  "phone": "+256779767372",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 323,
+  "name": "Kampala",
+  "address": "Unnamed Road, Kampala, Uganda",
+  "phone": "+256705408406",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 324,
+  "name": "Vegan foods Uganda",
+  "address": "Jinja Road Police Station, UMA Show Ground, Kampala, Uganda",
+  "phone": "+256774313798",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 325,
+  "name": "Kisenyi",
+  "address": "23/25 Old Kampala Road, Kampala, Uganda",
+  "phone": "+256782837536",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 326,
+  "name": "African Pearl Safaris",
+  "address": "Buziga, Lukuli Rd, Kampala, Uganda",
+  "phone": "+256771650208",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 327,
+  "name": "Kaara Adventures",
+  "address": "De winton Street, Kampala, Uganda",
+  "phone": "+256414254567",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 328,
+  "name": "StarMount Safaris",
+  "address": "Plot 2/4 Naguru, Suwara Close, Kampala, Uganda",
+  "phone": "+256754849895",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 329,
+  "name": "Standard Safaris",
+  "address": "John Babiha (Acacia) Ave, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 330,
+  "name": "Kikaya",
+  "address": "35 Kampala Road, Kampala, Uganda",
+  "phone": "+256774596222",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 331,
+  "name": "KCCA Library (Kampala Library \u0026 Information Centre)",
+  "address": "14-18 Copper Rd, Kampala, Uganda",
+  "phone": "+256706712668",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 332,
+  "name": "Namirembe",
+  "address": "De winton Street, Kampala, Uganda",
+  "phone": "+256789245315",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 333,
+  "name": "Speke Resort and Conference Centre",
+  "address": "Speke Rd, Kampala, Uganda",
+  "phone": "+256772345450",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 334,
+  "name": "Miso Garden",
+  "address": "Plot 4 Victoria Ave, Kampala, Uganda",
+  "phone": "+256779362762",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 335,
+  "name": "All Seasons Adventure Safaris",
+  "address": "Plot 35 Martin Rd, Kampala, Uganda",
+  "phone": "+256772212865",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 336,
+  "name": "Achieve Global Safaris",
+  "address": "+256789871401, Wakiso, Uganda",
+  "phone": "+256789871401",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 337,
+  "name": "Asante Tour Safaris \u0026 Travel",
+  "address": "Plot 4505 Kira Rd, Ntinda - Kisaasi Rd, Kampala, Uganda",
+  "phone": "+256414597704",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 338,
+  "name": "Kagera Safaris Ltd",
+  "address": "Sir, Albert Cook Rd, Kampala, Uganda",
+  "phone": "+256758681448",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 339,
+  "name": "Kardamom \u0026 Koffee",
+  "address": "Sentema Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 340,
+  "name": "Tamarai",
+  "address": "110 Seventh St, Kampala, Uganda",
+  "phone": "+256414375455",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 341,
+  "name": "Roadtrip Africa",
+  "address": "The Square \u0026, Kampala Road, Kampala, Uganda",
+  "phone": "+256708573796",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 342,
+  "name": "Gorilla Mist Safaris",
+  "address": "P.O.Box 5700, Kampala, Uganda",
+  "phone": "+256312287897",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 343,
+  "name": "Nakasero Hospital",
+  "address": "Behind the block 31 of Bugolobi flats., Plot 6B/7B, Luthuli Avenue, Fifth Close, Bugolobi/P.O. Box 21387, Kampala, Uganda",
+  "phone": "316721387",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 344,
+  "name": "Kampala Independent Hospital",
+  "address": "Off Prince Badru Kakungulu Road/P.O.Box 24548 Prince Badru Kakungulu Rd, Kampala, Uganda",
+  "phone": "+256414236476",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 345,
+  "name": "Kampala Hospital",
+  "address": "2Km Ggaba Road, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 346,
+  "name": "St. Catherine's Hospital",
+  "address": "Plot 13 Bombo Rd, Kampala, Uganda",
+  "phone": "+256200907766",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 347,
+  "name": "Mukwaya General hospital",
+  "address": "Plot 6c, Makindu Close, Off Windsor Cres, Kampala, Uganda",
+  "phone": "+256312563400",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 348,
+  "name": "C-Care IHK",
+  "address": "Buganda Road, Lumumba Ave, Kampala, Uganda",
+  "phone": "+256414231534",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 349,
+  "name": "Ruby Hospital Kampala",
+  "address": "Plot 14 Akii Bua Rd, Kampala, Uganda",
+  "phone": "+256800200035",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 350,
+  "name": "Kibuli Hospital",
+  "address": "40 Lugogo By-Pass, Kampala, Uganda",
+  "phone": "+256800388111",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 351,
+  "name": "Norvik Hospital",
+  "address": "Plot 4686 Barnabas Rd, Kampala, Uganda",
+  "phone": "+256312200400",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 352,
+  "name": "Kololo Hospital",
+  "address": "Plot 1 Kitante Close, Yusuf Lule Road, Kampala, Uganda",
+  "phone": "+256393404404",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 353,
+  "name": "Najjera Hospital",
+  "address": "41, 2042 Tank Hill Rd, Kampala, Uganda",
+  "phone": "+256393236585",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 354,
+  "name": "UMC VICTORIA HOSPITAL",
+  "address": "Namuwongo Rd, Kampala, Uganda",
+  "phone": "+256704396103",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 355,
+  "name": "Paramount Hospital",
+  "address": "Old Port Bell Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 356,
+  "name": "Aga Khan University Hospital - Bugolobi Medical Centre",
+  "address": "Road, Kampala, Uganda",
+  "phone": "+256752024330",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 357,
+  "name": "Medipal International Hospital",
+  "address": "Opposite Wahid school, Kampala, Uganda",
+  "phone": "+256772501154",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 358,
+  "name": "St. Francis Hospital - Nsambya",
+  "address": "7 Wampewo Ave, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 359,
+  "name": "Rainbow City Hospital",
+  "address": "Ginnery Rd, Kampala, Uganda",
+  "phone": "+256702213568",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 360,
+  "name": "Lubaga Hospital",
+  "address": "Gadafi Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 361,
+  "name": "Old Kampala Hospital",
+  "address": "P. B Box 6541 Uganda, Kampala, Uganda",
+  "phone": "+256758709161",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 362,
+  "name": "Bethany Women's and Family Hospital",
+  "address": "opposite Teresa house and Jumbo guest house, Najjanankumbi Stella zone, Gabunga Rd 2, Kampala, Uganda",
+  "phone": "+256784956855",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 363,
+  "name": "ELIZABETH BLACKWELL HOSPITAL",
+  "address": "Ntinda - Kisaasi Rd, Kampala, Uganda",
+  "phone": "+256392200444",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 364,
+  "name": "Aga Khan University Hospital - Acacia Medical Centre",
+  "address": "Wattuba 15KM from, Kampala, Uganda",
+  "phone": "+256414272812",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 365,
+  "name": "Dear Mother Hospital",
+  "address": "Plot 86 Old Kira Rd, Kampala, Uganda",
+  "phone": "+256392913885",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 366,
+  "name": "Community Hospital Lugoba",
+  "address": "Gwatiro Road, Bweyogerere, off Jinja Road, Kampala 2983, KAMPALA, Uganda",
+  "phone": "+256414285967",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 367,
+  "name": "Ntinda Hospital LTD",
+  "address": "Kira Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 368,
+  "name": "Bethesda Medical Centre",
+  "address": "Muvule Ave, Kampala, Uganda",
+  "phone": "+256788672410",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 369,
+  "name": "Holy Cross Orthodox Mission Hospital",
+  "address": "Plot 641, Mawanda Road, Kamwokya, Kampala P.O.BOX 16586, KAMPALA, Uganda",
+  "phone": "64116586",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 370,
+  "name": "Case Medical Centre",
+  "address": "Babirye Nalugesera road Lungujja,Zone 8, Kampala, Uganda",
+  "phone": "+256702929292",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 371,
+  "name": "Pearl Medical Centre",
+  "address": "Port Bell Rd, Kampala, Uganda",
+  "phone": "+256782286001",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 372,
+  "name": "The Medical Hub Kampala",
+  "address": "Lukuli Rd, Kampala, Uganda",
+  "phone": "+256200955310",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 373,
+  "name": "Bai Health Medical International Centre",
+  "address": "plot 2 Kirombe-Butabika road, Kampala, Uganda",
+  "phone": "+256414504376",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 374,
+  "name": "Maternity Hospital",
+  "address": "Masaka Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 375,
+  "name": "Life Link Hospital Namugongo",
+  "address": "Road, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 376,
+  "name": "Mulago Specialised Women and Neonatal Hospital",
+  "address": "does it have an incinerator?, Uganda, Northern Bypass, Kampala, Uganda",
+  "phone": "+256414240146",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 377,
+  "name": "Winston hospital",
+  "address": "15/16 Bahai Road, Kampala, Uganda",
+  "phone": "+256755738145",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 378,
+  "name": "China-Uganda Friendship hospital",
+  "address": "Kira Ln, Kampala, Uganda",
+  "phone": "+256775205774",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 379,
+  "name": "Saint Ann Marie Hospital",
+  "address": "City Council Hospital, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 380,
+  "name": "IRAN-UGANDA HOSPITAL (IUH)",
+  "address": "Suna Rd, Kampala, Uganda",
+  "phone": "+256393228453",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 381,
+  "name": "Kibuli hospital",
+  "address": "Haji Musa Kasule Road, Kampala, Uganda",
+  "phone": "+256414554008",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 382,
+  "name": "AAR",
+  "address": "19 Kampala Road, Kampala, Uganda",
+  "phone": "+256414259186",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 383,
+  "name": "Kawempe City Council Hospital",
+  "address": "G. Musoke Rd, Kampala, Uganda",
+  "phone": "+256414343565",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 384,
+  "name": "KAWEMPE NATIONAL REFERRAL HOSPITAL",
+  "address": "Bbuto Bweyogerere Bbuto Trading Centre, Kampala, Uganda",
+  "phone": "+256700384502",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 385,
+  "name": "Wandegeya Refferal Hospital",
+  "address": "Unnamed Road, Kampala, Uganda",
+  "phone": "+256703537201",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 386,
+  "name": "Wellington Hospital",
+  "address": "2b Katonga Rd, Kampala, Uganda",
+  "phone": "+256786222457",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 387,
+  "name": "Medik Hospital Kawempe",
+  "address": "Bombo Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 388,
+  "name": "Tumaini Hospital",
+  "address": "Uganda, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 389,
+  "name": "Lifeline International Hospital Ltd Zana",
+  "address": "299a Bombo Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 390,
+  "name": "Mulago National Referral Hospital",
+  "address": "Kisosonkole Rd, Kampala, Uganda",
+  "phone": "+256393217645",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 391,
+  "name": "Tmr International Hospital",
+  "address": "Entebbe Road, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 392,
+  "name": "Marie Stopes Hospital \u0026 Maternity",
+  "address": "85/87 Namuwongo Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 393,
+  "name": "Addy Memorial Hospital",
+  "address": "Road, Kampala, Uganda",
+  "phone": "+256788731342",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 394,
+  "name": "Catholic Hospital",
+  "address": "Padre Pio House Plot 32, Lumumba Ave, Kampala, Uganda",
+  "phone": "+256755007582",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 395,
+  "name": "St Joseph's General Clinic",
+  "address": "Owen Rd, Kampala, Uganda",
+  "phone": "+256712871081",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 396,
+  "name": "Mayanja Memorial Hospital",
+  "address": "Opposite Trading Centre, Vienna College School, Namugongo, Road, Kampala, Uganda",
+  "phone": "+256393292998",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 397,
+  "name": "Kitintale Hospital",
+  "address": "A.F. Lutuuma Road, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 398,
+  "name": "KAWEMPE MUSLIM HOSPITAL",
+  "address": "Masanafu, Kampala, Uganda",
+  "phone": "+256414580870",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 399,
+  "name": "Macheke Hospital",
+  "address": "Plot 35 Yusuf Lule Rd, Kampala, Uganda",
+  "phone": "+256750939905",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 400,
+  "name": "Butabika Hospital",
+  "address": "69, 8HFG+R24, 71 Buganda Rd, Kampala, Uganda",
+  "phone": "+256800211005",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 401,
+  "name": "Medsafe Hospital",
+  "address": "Road, Kampala, Uganda",
+  "phone": "+256414533025",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 402,
+  "name": "Kitante Medical Center.",
+  "address": "Makerere Hill Rd, Kampala, Uganda",
+  "phone": "+256393274584",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 403,
+  "name": "Kamwokya Medical Center",
+  "address": "Ntinda Kigowa Rd, Kampala, Uganda",
+  "phone": "+256702900166",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 404,
+  "name": "Ray Of Hope Medical Centre",
+  "address": "3b Queen's Ln, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 405,
+  "name": "Gwatiro Hospital",
+  "address": "Kawempe Luggoba Rd, Kampala, Uganda",
+  "phone": "+256757777714",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 406,
+  "name": "AIA Health Centre",
+  "address": "113 Buganda Rd, Kampala, Uganda",
+  "phone": "+256392176915",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 407,
+  "name": "Malcom Health Care",
+  "address": "44a Nakasero Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 408,
+  "name": "Kibuli hospital",
+  "address": "3479 Buganda Rd, Kampala, Uganda",
+  "phone": "+256414348846",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 409,
+  "name": "Olympus Medical Centre Kampala Uganda",
+  "address": "Old Kampala Police Station, Near, Kampala, Uganda",
+  "phone": "+256752024333",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 410,
+  "name": "C-Care IMC Ntinda",
+  "address": "16 Kabalega Close, Kampala, Uganda",
+  "phone": "+256200903746",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 411,
+  "name": "Good Samaritan Domicilliary and Maternity",
+  "address": "P.o.Box 7665 Namuwongo Rd, Kampala, Uganda",
+  "phone": "+256414346389",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 412,
+  "name": "AIA MEDICAL SPECIALISTS CENTRE",
+  "address": "Kira Ln, Kampala, Uganda",
+  "phone": "+256200777850",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 413,
+  "name": "friendship hospital",
+  "address": "Mutesa Rd, Kampala, Uganda",
+  "phone": "+256204234800",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 414,
+  "name": "Saint Nicholas Parish Orthodox hospital",
+  "address": "John Babiha (Acacia) Ave, Kampala, Uganda",
+  "phone": "+256417799900",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 415,
+  "name": "Kawempe Referral hospital staff Accomodation",
+  "address": "Namirembe Rd, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 416,
+  "name": "IHK Kololo",
+  "address": "Nsambya Road Nsambya Hill/ Box 7146 Nsambya Estate Rd, Kampala, Uganda",
+  "phone": "+256414267012",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 417,
+  "name": "Pead childrens Hospital",
+  "address": "Spring Rd, Kampala, Uganda",
+  "phone": "+256414581280",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 418,
+  "name": "Churchill Courts Hotel Limited",
+  "address": "Plot 23, Andrea Olal Street, Gulu, Uganda",
+  "phone": "+256393225753",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 419,
+  "name": "Continental Hotel Gulu",
+  "address": "Plot 4 Gordon Lane, Mican, Kanyagoga C subward, Bardege-Layibi Division, Gulu, Uganda",
+  "phone": "+256393194735",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 420,
+  "name": "Bethel Resort \u0026 Hotels",
+  "address": "Plot 16B Upper Churchill Dr, Gulu, Uganda",
+  "phone": "+256777764409",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 421,
+  "name": "ACHOLI INN",
+  "address": "Lira - Gulu Rd, Gulu, Uganda",
+  "phone": "+256702016001",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 422,
+  "name": "Heldan Inn",
+  "address": "goans quarter, Gulu, Uganda",
+  "phone": "+256779962588",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 423,
+  "name": "Global Friendship Hotel",
+  "address": "Gulu - Kitgum Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 424,
+  "name": "Gulu Crystal Hotel",
+  "address": "senior quarters, 17 Churchhill Drive, Gulu, Uganda",
+  "phone": "+256788413020",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 425,
+  "name": "Palema Crown Hotel",
+  "address": "Plot 44 Acholi Rd, Gulu, Uganda",
+  "phone": "+256790912182",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 426,
+  "name": "Baker's Fort Hotel",
+  "address": "Cemetery Rd, Gulu, Uganda",
+  "phone": "+256414672482",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 427,
+  "name": "Airfield View Motel",
+  "address": "Kitgum Road, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 428,
+  "name": "Jojo's Palace",
+  "address": "Plot 297, Block 2, Koch Village, Gulu, Uganda",
+  "phone": "+256782702116",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 429,
+  "name": "The Pagoda",
+  "address": "Aled Road, Plot 8 Eden Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 430,
+  "name": "Hope Apartments and Hotel",
+  "address": "PLOT 40 B CHURCHHILL ROAD Gulu, NAI, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 431,
+  "name": "Dich Comfort Hotel",
+  "address": "Lasto Okech Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 432,
+  "name": "Northern Pearl Indian Restaurant, Cottages \u0026 Suites",
+  "address": "Acholi Road, Plot 8 Eden Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 433,
+  "name": "NEW SUNSET HOTEL",
+  "address": "PLOT 18 Olya, Gulu, Uganda",
+  "phone": "+256759972757",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 434,
+  "name": "Wellsprings Hotel - Gulu",
+  "address": "Plot 24 Coronation Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 435,
+  "name": "Hotel Nok Continental",
+  "address": "Nimule - Gulu Road, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 436,
+  "name": "Northern Pearl Indian Restaurant, Cottages \u0026 Suites",
+  "address": "Olya Road Clouse 14, Plot 8 Eden Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 437,
+  "name": "Gulu Vision Hotel",
+  "address": "25 Market Road, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 438,
+  "name": "Dich Comfort Hotel, the Branch after Gulu University",
+  "address": "Eden Road, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 439,
+  "name": "Bomah Hotel",
+  "address": "plot 18,Obadiah Lalobo Road, Uganda",
+  "phone": "+256783498337",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 440,
+  "name": "Palm Garden Gulu - Restaurant \u0026 GuestHouse",
+  "address": "Plot 48/50 Ring Road, Plot 8 Eden Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 441,
+  "name": "KSP Hotel",
+  "address": "Chichi, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 442,
+  "name": "Virgin World Suites",
+  "address": "plot 6 jivan abdji, Gulu, Uganda",
+  "phone": "+256393238124",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 443,
+  "name": "Golden Peace Hotel, Gulu",
+  "address": "Paul Odongo Road 8, 4, 6, 4, 2, Gulu, Uganda",
+  "phone": "+256757675831",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 444,
+  "name": "Lexus Vintage and Guesthouse",
+  "address": "Pece Ring Road, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 445,
+  "name": "Hotel Roma",
+  "address": "Upper Church, Hill drive, Gulu, Uganda",
+  "phone": "+256775937793",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 446,
+  "name": "Kakanyero Hotel - Deluxe",
+  "address": "Queens, Gulu, Uganda",
+  "phone": "+256776836637",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 447,
+  "name": "Brown Palace Hotel",
+  "address": "Odong'a Road, Plot 8 Eden Rd, Gulu, Uganda",
+  "phone": "+256792553542",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 448,
+  "name": "Diamond Hotel Complex",
+  "address": "Acholi Rd, Gulu, Uganda",
+  "phone": "+256784350331",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 449,
+  "name": "Transa Rock Hotel",
+  "address": "Plot 12/14, Lagara Road, Gulu 940, GULU, Uganda",
+  "phone": "+256752510363",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 450,
+  "name": "Hotel Judith Gulu",
+  "address": "Plot 8, 6, 4 \u00262Paul Odongo Rd, Gulu, Uganda",
+  "phone": "+256774072277",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 451,
+  "name": "HAPPY NEST HOTEL",
+  "address": "Olya, Gulu, Uganda",
+  "phone": "+256772423339",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 452,
+  "name": "New Sunrise Hotel",
+  "address": "Peter Paul Apok Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 453,
+  "name": "Royal Inn",
+  "address": "Plot 17 Acholi Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 454,
+  "name": "New Cosmo Guest House",
+  "address": "Plot 3D, Elizabeth Road, Gulu, Uganda",
+  "phone": "+256777302119",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 455,
+  "name": "Binen Inn",
+  "address": "Coronation Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 456,
+  "name": "Mwoka Hotel",
+  "address": "Acholi Road KAMPALA, Gulu, Uganda",
+  "phone": "+256782291358",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 457,
+  "name": "Gulu Sun Set Hotel",
+  "address": "Plot 56/57 / P.O Box 387, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 458,
+  "name": "LIVIN GULU HOTEL",
+  "address": "3 Olango Rd, Gulu, Uganda",
+  "phone": "+256772184291",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 459,
+  "name": "Olam Quality Inn",
+  "address": "Gulu City, Labwor road Plot 7, Gulu, Uganda",
+  "phone": "+256393228505",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 460,
+  "name": "Nimaro Guesthouse",
+  "address": "Olya, Gulu, Uganda",
+  "phone": "+256783402070",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 461,
+  "name": "Sportsview Garden Inn",
+  "address": "1 Lakana Odonkara Road, Gulu, Uganda",
+  "phone": "+256787488998",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 462,
+  "name": "Iron donkey cafe and guest house",
+  "address": "Quees Lane, Gulu, Uganda",
+  "phone": "+256772658632",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 463,
+  "name": "Mimosa Hotel",
+  "address": "Plot 90 Laroo Road, Gulu, Uganda",
+  "phone": "+256786841187",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 464,
+  "name": "Acholi Ber Country Hotel",
+  "address": "Plot 4 Peter Paul Opok road, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 465,
+  "name": "Hotel Pearl Afrique",
+  "address": "Plot 8 A, Lasto Oketch Road, Gulu, Uganda",
+  "phone": "+256393241303",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 466,
+  "name": "Gulu University Guest House",
+  "address": "Plot 8 Eden Rd, Gulu, Uganda",
+  "phone": "+256779945063",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 467,
+  "name": "Hotel Davitine",
+  "address": "senior quarters, Plot 10 Lasto Okech Rd, Gulu, Uganda",
+  "phone": "+256709080808",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 468,
+  "name": "Free Zone Restaurant",
+  "address": "Goma, Road, Gulu, Uganda",
+  "phone": "+256774523585",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 469,
+  "name": "Montana Hotel",
+  "address": "Plot 5, Bishop Wami Road, Gulu, Uganda, Kampala, Uganda",
+  "phone": "+254789300000",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 470,
+  "name": "Global Frienship Hotel",
+  "address": "senior quarters, Plot 10 Lasto Okech Rd, Gulu, Uganda",
+  "phone": "+256709080808",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 471,
+  "name": "Paramount Elgon Hotel Gulu",
+  "address": "P. O.Box 115, Magdelena Alum Lane, Gulu, Uganda",
+  "phone": "+256779541226",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 472,
+  "name": "Seasons Airport",
+  "address": "senior quarters, Plot 22, Kitgum Road, Along the Gulu-Kitgum-Kidepo National park Highway, Plot 14 Onono Rd, Gulu, Uganda",
+  "phone": "+256770347367",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 473,
+  "name": "The BIG FIX Guesthouse",
+  "address": "Market Road, Gulu, Uganda",
+  "phone": "+256784767079",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 474,
+  "name": "Orchid Café Restaurant \u0026 Mocktails Gulu",
+  "address": "Labwor Road, Gulu, Uganda",
+  "phone": "+256777111666",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 475,
+  "name": "O Café",
+  "address": "Gulu College, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 476,
+  "name": "Classic Pork Joint",
+  "address": "Lira - Gulu Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 477,
+  "name": "Public Café",
+  "address": "Gulu Plaza Plot 3, Jinnah Road, Uganda",
+  "phone": "+256789088555",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 478,
+  "name": "Binen Restaurant",
+  "address": "Coronation Rd, Gulu, Uganda",
+  "phone": "+256772380938",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 479,
+  "name": "Abyssinia Restaurant",
+  "address": "16b Upper Churchill Dr, Gulu, Uganda",
+  "phone": "+256774382888",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 480,
+  "name": "Montana",
+  "address": "Gulu City, Labwor road Plot 7, Gulu, Uganda",
+  "phone": "+256393228505",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 481,
+  "name": "Smile Gardens",
+  "address": "Lira - Gulu Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 482,
+  "name": "Imperial meat/ sam's",
+  "address": "Plot 75 Jomo Kenyatta Rd, Gulu, Uganda",
+  "phone": "+256771044555",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 483,
+  "name": "New Life Restaurant GULU",
+  "address": "senior quarters, 17 Churchhill Drive, Gulu, Uganda",
+  "phone": "+256788413020",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 484,
+  "name": "The DOT Restaurant",
+  "address": "Alokolum Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 485,
+  "name": "Agwee Village",
+  "address": "Largo Road, Gulu, Uganda",
+  "phone": "+256777852256",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 486,
+  "name": "Zodongo Bar \u0026 Restaurant",
+  "address": "Upper Churchill Dr, Gulu, Uganda",
+  "phone": "+256774698862",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 487,
+  "name": "Skylight restaurant \u0026 take away gulu",
+  "address": "Moroto Road, Gulu, Uganda",
+  "phone": "+256782166933",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 488,
+  "name": "The Spot gulu",
+  "address": "Gulu - Arua Rd, Kampala, Uganda",
+  "phone": "+256700212576",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 489,
+  "name": "julia resturant",
+  "address": "Kitgum, Lira - Gulu Rd, Gulu, Uganda",
+  "phone": "+256775644918",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 490,
+  "name": "Alulululu Pork Joint",
+  "address": "Jomo Kenyatta Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 491,
+  "name": "Danube Waves Restaurant \u0026 Bar \u0026 Accommodation",
+  "address": "Plot 8/10, 12 Aliker, Gulu, Uganda",
+  "phone": "+256200905018",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 492,
+  "name": "Café Pato",
+  "address": "Gulu - Kitgum Rd, Gulu, Uganda",
+  "phone": "+256774386119",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 493,
+  "name": "The Kitchen",
+  "address": "Gulu-Kitgum Rd, Kitgum, Uganda",
+  "phone": "+256705152575",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 494,
+  "name": "Sanyu Bar",
+  "address": "gasco patrol station, Opposite ocwer memorial hostile at, Gulu, Uganda",
+  "phone": "+256783971952",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 495,
+  "name": "Charlton Hotel Gulu",
+  "address": "Aliker, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 496,
+  "name": "New Comrade II Restaurant",
+  "address": "Aliker, Gulu, Uganda",
+  "phone": "+256777111428",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 497,
+  "name": "Arabic Shawarma restaurant",
+  "address": "Unnamed Road, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 498,
+  "name": "Royal Snacks Gulu",
+  "address": "Plot 5 Jinnah Road, Gulu, Uganda",
+  "phone": "+256393238016",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 499,
+  "name": "Tangu Restaurant",
+  "address": "Plot 13B Airport Rd, Gulu, Uganda",
+  "phone": "+256772409442",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 500,
+  "name": "Sky View Restaurant",
+  "address": "Acholi Rd, Gulu, Uganda",
+  "phone": "+256779921433",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 501,
+  "name": "Village inn",
+  "address": "Awere Rd, Gulu, Uganda",
+  "phone": "+256784518783",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 502,
+  "name": "Pimar Fast Food And Resturant Gulu",
+  "address": "Lasto Okech Rd, Gulu, Uganda",
+  "phone": "+256783971952",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 503,
+  "name": "The Bar And Lounge",
+  "address": "senior quarters, Plot 10 Lasto Okech Rd, Gulu, Uganda",
+  "phone": "+256709080808",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 504,
+  "name": "VIBRANT RESTAURANT",
+  "address": "33 Eden Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 505,
+  "name": "Da Covenant Gulu",
+  "address": "Plot 6 Jivan Abji Rd, Gulu, Uganda",
+  "phone": "+256393238124",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 506,
+  "name": "Star Belly Pork joint",
+  "address": "King's Way Rd, Gulu, Uganda",
+  "phone": "+256778854782",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 507,
+  "name": "Elephante Commons",
+  "address": "Plot 17 Labwor Road, Gulu, Uganda",
+  "phone": "+256772714976",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 508,
+  "name": "Anna Food Point Ltd",
+  "address": "University close, Gulu, Uganda",
+  "phone": "+256777083882",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 509,
+  "name": "The Night Captain Lounge Gulu",
+  "address": "Pece Road, Gulu, Uganda",
+  "phone": "+256782565353",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 510,
+  "name": "Stadium View Bar",
+  "address": "Bank Ln, Gulu, Uganda",
+  "phone": "+256392003611",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 511,
+  "name": "Delish Foods",
+  "address": "Upper Church, Hill drive, Gulu, Uganda",
+  "phone": "+256775937793",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 512,
+  "name": "Oasis Kitchen",
+  "address": "Jomo Kenyatta Rd, Gulu, Uganda",
+  "phone": "+256786277071",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 513,
+  "name": "GEN RESTAURANT-LAYIBI",
+  "address": "Opp. Pece stadium Venue, Gulu, Uganda",
+  "phone": "+256776256516",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 514,
+  "name": "Cafe punda",
+  "address": "Muroni Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 515,
+  "name": "Robi Tee Restaurant",
+  "address": "Awich, Gulu, Uganda",
+  "phone": "+256771611159",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 516,
+  "name": "The Lookout Café",
+  "address": "Cemetery Rd, Gulu, Uganda",
+  "phone": "+256702773150",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 517,
+  "name": "Best Friend Hotel",
+  "address": "Jomo Kenyatta Rd, Gulu, Uganda",
+  "phone": "+256783115811",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 518,
+  "name": "Northern Pearl Indian Restaurant, Cottages \u0026 Suites",
+  "address": "Commercial Rd, Gulu, Uganda",
+  "phone": "+256775593992",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 519,
+  "name": "Oasis Restaurant, cafe , Bar and VIP Lounge",
+  "address": "Pece Division, Philip Tarner Road, Gulu, Uganda",
+  "phone": "+256752010648",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 520,
+  "name": "The Unit Chillout Gulu",
+  "address": "plot 6 jivan abdji, Gulu, Uganda",
+  "phone": "+256393238124",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 521,
+  "name": "Murphy's Lounge",
+  "address": "10 Queens, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 522,
+  "name": "Uphill Gardens Layibi",
+  "address": "Awere Rd, Gulu, Uganda",
+  "phone": "+256784140034",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 523,
+  "name": "The Cultural Hub - Gulu",
+  "address": "PLOT 1/3, Gulu Avenue, next to Inspire Africa Coffee Gulu, Opp Gulu CPS, Uganda",
+  "phone": "+256762093239",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 524,
+  "name": "Dory Restaurant",
+  "address": "Lira - Gulu Rd, Gulu, Uganda",
+  "phone": "+256777484005",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 525,
+  "name": "New Florida Indian Restaurant",
+  "address": "24 Queens, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 526,
+  "name": "Palm Garden Gulu - Restaurant \u0026 GuestHouse",
+  "address": "Coronation Rd, Gulu, Uganda",
+  "phone": "+256393228711",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 527,
+  "name": "Aykroyd Buildings",
+  "address": "Kampala - Gulu Hwy, Gulu, Uganda",
+  "phone": "+256771602954",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 528,
+  "name": "Anna Point",
+  "address": "Market Road, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 529,
+  "name": "Son of Abic BBQ Company",
+  "address": "Kirombe Pentacostle Assembly of God, Gulu Municipality, Uganda",
+  "phone": "+256775172413",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 530,
+  "name": "Front View Restaurant",
+  "address": "Lira - Gulu Rd, Gulu, Uganda",
+  "phone": "+256772313329",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 531,
+  "name": "Katzville Lounge \u0026 Grill",
+  "address": "10 Olya, Gulu, Uganda",
+  "phone": "+256771957143",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 532,
+  "name": "Spotlight Bar \u0026 Grill",
+  "address": "Okello Rd, Gulu, Uganda",
+  "phone": "+256772613179",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 533,
+  "name": "Hippo Famiy Restaurant",
+  "address": "Awich, Gulu, Uganda",
+  "phone": "+256771611159",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 534,
+  "name": "Garage Bar",
+  "address": "Plot 51A Eden Rd, Gulu, Uganda",
+  "phone": "+256789733638",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 535,
+  "name": "TAKS Art Centre",
+  "address": "85 Lower Churchill Dr, Gulu, Uganda",
+  "phone": "+256772351256",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 536,
+  "name": "Reggae Bar",
+  "address": "Unnamed Road, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 537,
+  "name": "African Roots Guesthouse Gulu",
+  "address": "Obiya Rd, Gulu, Uganda",
+  "phone": "+256782875616",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 538,
+  "name": "SADOLIN COLOUR CENTRE GULU",
+  "address": "Pukola Road, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 539,
+  "name": "Highland trading center",
+  "address": "Q7CX+2JJ Gulu Bus Station, Awich, Gulu, Uganda",
+  "phone": "+256773726783",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 540,
+  "name": "Lagwiny Trading Center",
+  "address": "Corner Pearl Afrique Hotel, Plot 43 Acholi Rd, Gulu, Uganda",
+  "phone": "+256772860333",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 541,
+  "name": "Cuda trading center",
+  "address": "Lira - Gulu Rd, Gulu, Uganda",
+  "phone": "+256755999944",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 542,
+  "name": "One love phone service center Gulu",
+  "address": "Plot 22 Lagara, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 543,
+  "name": "Diire Trading Center",
+  "address": "Plot 29 Gulu Avenue, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 544,
+  "name": "Faith phone center Layibi",
+  "address": "Plot 5 Jinnah Road, Gulu, Uganda",
+  "phone": "+256393238016",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 545,
+  "name": "Hotel Nok Continental",
+  "address": "next to Jinglong Supermarket, Lagara, Gulu, Uganda",
+  "phone": "+256772367972",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 546,
+  "name": "Palema Crown Hotel",
+  "address": "Upper Churchill Dr, Gulu, Uganda",
+  "phone": "+256774698862",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 547,
+  "name": "Grime Depths Safaris",
+  "address": "3 Princess Rd, Gulu, Uganda",
+  "phone": "+256774368857",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 548,
+  "name": "Gulu Tours",
+  "address": "A104, Gulu, Uganda",
+  "phone": "+256790851217",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 549,
+  "name": "Kasubi Royal Tombs",
+  "address": "Upper Church, Hill drive, Gulu, Uganda",
+  "phone": "+256775937793",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 550,
+  "name": "Elephante Commons",
+  "address": "Queens, Gulu, Uganda",
+  "phone": "+256775012527",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 551,
+  "name": "Golden Peace Hotel, Gulu",
+  "address": "Unnamed Road, Gulu, Uganda",
+  "phone": "+256780515379",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 552,
+  "name": "Bjz",
+  "address": "Fort Portal-Mpondwe Rd, Rubirizi, Uganda",
+  "phone": "+256791217764",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 553,
+  "name": "Queen Elizabeth National Park",
+  "address": "Jomo Kenyatta Rd, Gulu, Uganda",
+  "phone": "+256705383785",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 554,
+  "name": "Gulu Airport",
+  "address": "Plot 5, Bishop Wami Road, Gulu, Uganda, Kampala, Uganda",
+  "phone": "+254789300000",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 555,
+  "name": "African Roots Guesthouse Gulu",
+  "address": "Gulu - Kitgum Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 556,
+  "name": "Bomah Hotel",
+  "address": "senior quarters, 17 Churchhill Drive, Gulu, Uganda",
+  "phone": "+256788413020",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 557,
+  "name": "Anna Food Point Ltd",
+  "address": "Plot 8 Eden Rd, Gulu, Uganda",
+  "phone": "+256779945063",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 558,
+  "name": "Hotel Nok Continental",
+  "address": "Jomo Kenyatta Rd, Gulu, Uganda",
+  "phone": "+256783115811",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 559,
+  "name": "BODALIVERY SERVICES",
+  "address": "Masiro Rd, Kampala, Uganda",
+  "phone": "+256776997377",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 560,
+  "name": "Owino Market/Kampala",
+  "address": "1 Lakana Odonkara Road, Gulu, Uganda",
+  "phone": "+256787488998",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 561,
+  "name": "Gulu Regional Referral Hospital",
+  "address": "Plot 6 Jinnah Road, Gulu, Uganda",
+  "phone": "+256772557775",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 562,
+  "name": "Gulu University Clinic",
+  "address": "Gulu Municpality, Air Field Road, Gulu 23, GULU, Uganda",
+  "phone": "+256471432279",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 563,
+  "name": "St. Marys Lacor Hospital",
+  "address": "laro division,, Gulu, Uganda",
+  "phone": "+256783727041",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 564,
+  "name": "Victory Medical Centre",
+  "address": "Queens, Gulu, Uganda",
+  "phone": "+256716247352",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 565,
+  "name": "International Medical Centre",
+  "address": "Plot 4, off Jinnah Road, Near O'Cafe, Gulu, Uganda",
+  "phone": "+256775320339",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 566,
+  "name": "Reproductive Health Uganda, Gulu Branch",
+  "address": "Gulu/P.O. Box, 180, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 567,
+  "name": "Gulu Medical And Imaging Consultants Healthcare services",
+  "address": "Jomo Kenyatta Rd, Gulu, Uganda",
+  "phone": "+256782636159",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 568,
+  "name": "Habitat Laliya Hospital",
+  "address": "Gulu East, Gulu, Uganda",
+  "phone": "+256758592568",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 569,
+  "name": "Gulu Health Centre IV",
+  "address": "Jubo Road, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 570,
+  "name": "ALPHA MEDICAL SPECIALISTS",
+  "address": "Lira - Gulu Rd, Gulu, Uganda",
+  "phone": "+256775978058",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 571,
+  "name": "Community Healthcare",
+  "address": "Gulu Hospital, 12 Awere Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 572,
+  "name": "Bardege Health Centre III",
+  "address": "plot no 2 Coronation road Next to dfcu bank Opposite water offices, Gulu, Uganda",
+  "phone": "+256772671148",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 573,
+  "name": "Mola Medical Centre and dental clinic",
+  "address": "Plot 12, Awere Road, Opposite Bank of Africa/P.O. Box 454 Awere Rd, Gulu, Uganda",
+  "phone": "+256772313612",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 574,
+  "name": "CHCC Urology",
+  "address": "Plot 11 Awich, Gulu, Uganda",
+  "phone": "+256771134656",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 575,
+  "name": "Gulu Hospital",
+  "address": "Plot 14 Airfield Road near BOU opposite UNIFAT Nursery and Primary school, Kampala, Uganda",
+  "phone": "+256393274218",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 576,
+  "name": "Unyama HCIi",
+  "address": "Gulu Primary, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 577,
+  "name": "Layibi Medical Center",
+  "address": "along, Kampala - Gulu Hwy, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 578,
+  "name": "Jesus Is The Truth Medical Centre",
+  "address": "Olya, Gulu, Uganda",
+  "phone": "+256774904155",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 579,
+  "name": "Dental Department Gulu Government Hospital",
+  "address": "Bus Station, Awich, Gulu, Uganda",
+  "phone": "+256771229853",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 580,
+  "name": "Healthy Africa Health Care",
+  "address": "Acholi Rd, Gulu, Uganda",
+  "phone": "+256782043428",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 581,
+  "name": "St Mary' S Hospital Lacor",
+  "address": "Plot 9, Peter Paul Opok Road, Gulu, Uganda",
+  "phone": "+256776815348",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 582,
+  "name": "El-Elohi Residences",
+  "address": "Patiko Road, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 583,
+  "name": "Layibi Techo Health Centre III",
+  "address": "Gulu Hospital, Harley Rd, Gulu, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 584,
+  "name": "Charity Medical Center and Maternity Home",
+  "address": "Zamzam Hotel, Plot 3 School Road Near, Gulu, Uganda",
+  "phone": "+256772359734",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 585,
+  "name": "Lillian Towers Hotel",
+  "address": "Father Oryang Memorial Primary School, Kamdini - Lira, Lira, Uganda",
+  "phone": "+256392000353",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 586,
+  "name": "Margarita Palace Hotel Lira",
+  "address": "Oyite Ojok Lane, Lira, Uganda",
+  "phone": "+256392158002",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 587,
+  "name": "Pauline Hotel",
+  "address": "Inomo Rd, Lira, Uganda",
+  "phone": "+256774192310",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 588,
+  "name": "Westcliff Hotel",
+  "address": "Plot 8/10 Erute Road Dokolo Rd, Lira P.O.BOX 350, LIRA, Uganda",
+  "phone": "+256414251680",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 589,
+  "name": "Pacific Grand Hotel",
+  "address": "Obote Avenue, Lira, Uganda",
+  "phone": "+256392101221",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 590,
+  "name": "Gracious Palace Hotel",
+  "address": "Inomo Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 591,
+  "name": "Hotel Good News",
+  "address": "Ekwang Rd Lira, 566, Lira, Uganda",
+  "phone": "+256392870514",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 592,
+  "name": "291 Suites Hotel LTD Lira",
+  "address": "Juba Road, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 593,
+  "name": "Brownstone Country Home",
+  "address": "FamkoWorld, Obote Avenue, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 594,
+  "name": "Days Inn",
+  "address": "Juba Road, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 595,
+  "name": "Famko Hotel",
+  "address": "Mariuzi Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 596,
+  "name": "Zegans Hotel Lira",
+  "address": "Inomo Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 597,
+  "name": "Silver Peak Hotel",
+  "address": "Lumumba Obote Avenue, Lira, Uganda",
+  "phone": "+256760723655",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 598,
+  "name": "Lira Valley Resort",
+  "address": "Ekwang Road, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 599,
+  "name": "Salient Guesthouse",
+  "address": "Lira Cathedral, Church Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 600,
+  "name": "Lightforce Safari Lodge",
+  "address": "Road, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 601,
+  "name": "Brownstone Country Home",
+  "address": "6VVP+79H Salient Lane, Juba Road, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 602,
+  "name": "Pearls Hotel",
+  "address": "Juba Road, Lira, Uganda",
+  "phone": "+256393217624",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 603,
+  "name": "Palm Paradise Resort",
+  "address": "Cathedral Side Lira Catheral, Kampala, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 604,
+  "name": "Pauline Hotel 1",
+  "address": "Plot 4, Akuti Road, Lira, Uganda",
+  "phone": "+256779939130",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 605,
+  "name": "Rehema Hotel",
+  "address": "Plot 4 Omodo Anyuru Road, Lira, Uganda",
+  "phone": "+256772662383",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 606,
+  "name": "Salient Guesthouse",
+  "address": "Plot 730, Block 7, Erute County, Uganda",
+  "phone": "+256772480055",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 607,
+  "name": "Hotel Florena",
+  "address": "Obote Avenue, Lira, Uganda",
+  "phone": "+256393194973",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 608,
+  "name": "Safeway Hotel",
+  "address": "6VVP+79H Salient Lane, Juba Road, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 609,
+  "name": "Famko Hotel \u0026 Annex Lira",
+  "address": "Cilsel Ogwal Road, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 610,
+  "name": "Acanadiro Transporters Hotel",
+  "address": "Obote Avenue, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 611,
+  "name": "Caravan Guest house",
+  "address": "Aloi Rd, Lira, Uganda",
+  "phone": "+256774523585",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 612,
+  "name": "Daysinn Hotel Limited Lira",
+  "address": "Juba Road, Lira, Uganda",
+  "phone": "+256782699629",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 613,
+  "name": "Marel Christian Guest House",
+  "address": "Plot 730, Block 7, Erute County, Lira City Anai Wigweng, Lira, Uganda",
+  "phone": "+256772333741",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 614,
+  "name": "Santasolo Hotel Limited",
+  "address": "Odokomit Police Station, Lira, Uganda",
+  "phone": "+256784843819",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 615,
+  "name": "Garden Inn",
+  "address": "Obote Avenue, Lira, Uganda",
+  "phone": "+256392130797",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 616,
+  "name": "Sunset Restaurant",
+  "address": "Church Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 617,
+  "name": "Robinaah's Cafeteria",
+  "address": "Mariuzi Rd, Lira, Uganda",
+  "phone": "+256761485067",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 618,
+  "name": "EVER MORE RESTAURANT",
+  "address": "Inomo Rd, Lira, Uganda",
+  "phone": "+256777794033",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 619,
+  "name": "Timeless Restaurant",
+  "address": "Juba Road, Lira, Uganda",
+  "phone": "+256772888599",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 620,
+  "name": "Apostolic Resturant",
+  "address": "Oyite Ojok Lane, Lira, Uganda",
+  "phone": "+256774683600",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 621,
+  "name": "Helena Restaurant",
+  "address": "Mariuzi Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 622,
+  "name": "Golden Restaurant",
+  "address": "Lira - Gulu Rd, Lira, Uganda",
+  "phone": "+256779302571",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 623,
+  "name": "911 restaurant..lira branch",
+  "address": "Obote Avenue, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 624,
+  "name": "zillahsrestaurant",
+  "address": "Mayor's Garden, Kampala Rd, opposite, Lira, Uganda",
+  "phone": "+256772712198",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 625,
+  "name": "Riders Pub",
+  "address": "Oyite Ojok Lane, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 626,
+  "name": "Royal Take Away",
+  "address": "Juba Road, Lira, Uganda",
+  "phone": "+256752365674",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 627,
+  "name": "HC Restaurant",
+  "address": "Oboteavenure Line 1 Barogole, Lira, Uganda",
+  "phone": "+256775668503",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 628,
+  "name": "Lira city gardens",
+  "address": "Opp Coke Cola Depot, Kwania Rd, Lira, Uganda",
+  "phone": "+256772929561",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 629,
+  "name": "Taufiq restaurant",
+  "address": "Imat Katorina Road, Lira, Uganda",
+  "phone": "+256700578802",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 630,
+  "name": "Venus Restaurant",
+  "address": "Inomo Rd, Lira, Uganda",
+  "phone": "+256774683600",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 631,
+  "name": "Mr Breakfast",
+  "address": "Juba Road, Lira, Uganda",
+  "phone": "+256772225581",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 632,
+  "name": "Cafe Miliana",
+  "address": "Kampala - Gulu Hwy, Lira, Uganda",
+  "phone": "+256772586193",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 633,
+  "name": "The Grill",
+  "address": "Mariuzi Rd, Lira, Uganda",
+  "phone": "+256773128889",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 634,
+  "name": "3\u00261 Investments Ltd",
+  "address": "Maruzi Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 635,
+  "name": "LIRA GLOBAL ICE CREAM",
+  "address": "Centenary Bank, Lira Main Street, Opp, Lira, Uganda",
+  "phone": "+256782386469",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 636,
+  "name": "Chillerz Bar \u0026 Grill",
+  "address": "Police Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 637,
+  "name": "Mabrook Restaurant",
+  "address": "Gulu Road, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 638,
+  "name": "Night's Restaurant",
+  "address": "Juba Road, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 639,
+  "name": "Forest Gate Resort-Lira",
+  "address": "Noteber Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 640,
+  "name": "Steak And Wine Restaurant And Take Away",
+  "address": "Oyite Ojok Lane, Lira, Uganda",
+  "phone": "+256778119420",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 641,
+  "name": "Cafe Canal",
+  "address": "Off Kampala road, Adyel division Lira City West, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 642,
+  "name": "Good Life Restaurant",
+  "address": "Mariuzi Rd, Lira, Uganda",
+  "phone": "+256779510637",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 643,
+  "name": "@Milton's Bar \u0026 Roast",
+  "address": "Olwol Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 644,
+  "name": "Zengebe Restaurant",
+  "address": "Teso Bar Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 645,
+  "name": "Amazing Grace Restualant",
+  "address": "Kitgum Stage, Plot 71 Oyam Rd, Lira, Uganda",
+  "phone": "+256782266985",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 646,
+  "name": "Chogm Garden",
+  "address": "City West, Azore Boulevard, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 647,
+  "name": "Tender Pot Restaurant",
+  "address": "Juba Road, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 648,
+  "name": "Achayo Hellen House",
+  "address": "Lira - Gulu Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 649,
+  "name": "The Sitting Room Restaurant",
+  "address": "Vicavin House, Oyite Ojok Lane, Lira, Uganda",
+  "phone": "+256751183568",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 650,
+  "name": "Forks \u0026 Knives Fast Food and Restaurant",
+  "address": "Adoko Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 651,
+  "name": "Marathon Pub",
+  "address": "Kitgum stage, Oyam Rd, Lira, Uganda",
+  "phone": "+256772511090",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 652,
+  "name": "Asman's",
+  "address": "Bala Rd, Lira, Uganda",
+  "phone": "+256783170789",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 653,
+  "name": "Igila Centenary View Chicken Point",
+  "address": "256 boundary road, Lira, Uganda",
+  "phone": "+256780575800",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 654,
+  "name": "Sarah's restaurant",
+  "address": "Juba Road, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 655,
+  "name": "Good Time(Nassanga) Resturant",
+  "address": "Plot 24 Kwania Rd, Lira, Uganda",
+  "phone": "+256774164944",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 656,
+  "name": "First Class Snack",
+  "address": "Oyite Ojok Lane, Lira, Uganda",
+  "phone": "+256788487703",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 657,
+  "name": "Big Size Pork Joint",
+  "address": "Juba Road, Lira, Uganda",
+  "phone": "+256700377770",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 658,
+  "name": "BIG BROTHER PHASE II Restaurant \u0026 Takeaway",
+  "address": "6WQ2+25J city east, Kyoga Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 659,
+  "name": "Midtown Cyber Cafe",
+  "address": "Juba Road, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 660,
+  "name": "Fortress Chillout",
+  "address": "Kitgum Stage, Lira, Uganda",
+  "phone": "+256393224998",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 661,
+  "name": "Bulshale Cafe",
+  "address": "Obote Avenue, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 662,
+  "name": "Acwera hotels",
+  "address": "Ekwang Rd Lira, 566, Lira, Uganda",
+  "phone": "+256392870514",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 663,
+  "name": "Milliana cafe lira",
+  "address": "2.2461732345210947, 32.89758631025201 lira, Uganda",
+  "phone": "224617323452109473289758631025201",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 664,
+  "name": "Central Park Shopping Center",
+  "address": "Olwol Rd, Lira, Uganda",
+  "phone": "+256780452614",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 665,
+  "name": "Village Plaza",
+  "address": "Kampala - Northern Bypass Hwy, Kampala, Uganda",
+  "phone": "+256414240091",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 666,
+  "name": "Westview Shopping Center",
+  "address": "1st Floor Shop No B14, 6VWW+CXF City Mall, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 667,
+  "name": "Broadway Estates Shopping Mall",
+  "address": "Lira - Gulu Rd, Gulu, Uganda",
+  "phone": "+256755999944",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 668,
+  "name": "Brentwood Shopping Center",
+  "address": "NGETTA, Lira-Kitgum Rd, Uganda",
+  "phone": "+256778101627",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 669,
+  "name": "Bear Valley Shopping Center",
+  "address": "21 Bala Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 670,
+  "name": "Mayfair Plaza Shopping Center",
+  "address": "6VVW+GR8 MAIN MARKET, Noteber Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 671,
+  "name": "Willow Grove Shopping Center",
+  "address": "Lugogo By-Pass, Kampala, Uganda",
+  "phone": "+256200905005",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 672,
+  "name": "Mall",
+  "address": "Adekokwok sub county, Aloi Rd, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 673,
+  "name": "Amnet Graphic \u0026 Cimputer Center Odokomit",
+  "address": "Teso Bar Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 674,
+  "name": "Lira Regional Referral Hospital",
+  "address": "Teso Bar Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 675,
+  "name": "Lira Regional Referal Hospital,Psychiatric Ward",
+  "address": "Aduku Rd, Lira, Uganda",
+  "phone": "+256392130071",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 676,
+  "name": "Charis Health Center-Lira, Uganda",
+  "address": "Plot 9/19, 21-41 Ngetta Road Police Rd, Lira P.O.BOX 2, LIRA, Uganda",
+  "phone": "733+91921412",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 677,
+  "name": "Good Care Medical Centre",
+  "address": "Juba Road, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 678,
+  "name": "ST MARY'S MEDICAL CENTRE",
+  "address": "Akii Bua Stadium, Lira-Kitgum Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 679,
+  "name": "Bjacklyn Medicals",
+  "address": "Lira University, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 680,
+  "name": "Ronam Health Care Clinic",
+  "address": "Unnamed Road, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 681,
+  "name": "Galilee Specialist Hospital",
+  "address": "Plot 23 Agoro Road, Lira, Uganda",
+  "phone": "+256774157641",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 682,
+  "name": "PAG Health Center IV",
+  "address": "Plot 23 Agoro Road, Lira, Uganda",
+  "phone": "+256774157641",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 683,
+  "name": "Hope For Life Medical Centre",
+  "address": "Plot 104 Police Rd, Lira, Uganda",
+  "phone": "+256783190875",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 684,
+  "name": "Hope For Life Medical Centre",
+  "address": "Police Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 685,
+  "name": "Adyel Health Centre III",
+  "address": "Maruzi Road, Lira, Uganda",
+  "phone": "+256772686442",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 686,
+  "name": "RHINO CLINIC",
+  "address": "Teso Bar Rd, Lira, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 687,
+  "name": "Health Centre",
+  "address": "Church Rd, Lira, Uganda",
+  "phone": "+256775009307",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 688,
+  "name": "Avento Specialist Medical Centre",
+  "address": "Gulu Road, Lira, Uganda",
+  "phone": "+256755564254",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 689,
+  "name": "Rays Hotel",
+  "address": "Booma road, Golf Course Rd, Mbarara, Uganda",
+  "phone": "+256701408561",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 690,
+  "name": "Ekhaya Crescent Hotel",
+  "address": "Ntare Rd, Mbarara, Uganda",
+  "phone": "+256775916004",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 691,
+  "name": "Pinnacle Hotel Mbarara",
+  "address": "Plot 7 Kabale Road, Mbarara, Uganda",
+  "phone": "+256392916391",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 692,
+  "name": "Palace Hotel Mbarara",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 693,
+  "name": "Wagga Resort Mbarara",
+  "address": "Off Fort Portal-Kasese Road/P.O.Box 1200 Mbarara - Kasese Rd, Mbarara, Uganda",
+  "phone": "+256772396607",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 694,
+  "name": "Rubax Motel Mbarara",
+  "address": "Hall Mark Secondary School, Mbarara, Uganda",
+  "phone": "+256702377259",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 695,
+  "name": "Acacia Hotel Mbarara",
+  "address": "Kakiika Division, Mbarara, Uganda",
+  "phone": "+256782322883",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 696,
+  "name": "Nataaha Hotels",
+  "address": "Kyamugorani, Mbarara Northern Bypass Rd, Mbarara, Uganda",
+  "phone": "+256782928625",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 697,
+  "name": "Kosiya Hotel \u0026 Services Apartment",
+  "address": "Ibanda Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 698,
+  "name": "Agip Motel",
+  "address": "Johnstone Road, Mbarara, Uganda",
+  "phone": "+254739997181",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 699,
+  "name": "Little Woods Inn",
+  "address": "Plot 96 Victor Bwana Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 700,
+  "name": "Igongo Cultural Centre",
+  "address": "Bananuka Rd, Mbarara, Uganda",
+  "phone": "+256786442134",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 701,
+  "name": "Easy View Hotel",
+  "address": "edge of Rwizi River at the junction of Fort Portal \u0026, Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "+256782915164",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 702,
+  "name": "Palm World Hotel",
+  "address": "Ntale Road, Mbarara, Uganda",
+  "phone": "+256703990847",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 703,
+  "name": "SILVERBACK HOTEL MBARARA",
+  "address": "P.O Box 1152 Mbarara / Plot 23 Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256772659841",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 704,
+  "name": "Stod Villas Mbarara",
+  "address": "Plot 57, P.O Box 1152 Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256485421131",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 705,
+  "name": "Asamar Country Resort Ruti",
+  "address": "Buremba Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 706,
+  "name": "Hotel Kash - North Wing",
+  "address": "Ruharo Rd, Mbarara, Uganda",
+  "phone": "+256703505020",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 707,
+  "name": "westway luxury suites",
+  "address": "Damulira Road, Mbarara, Uganda",
+  "phone": "+256772856777",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 708,
+  "name": "Rhino Motel",
+  "address": "Plot 38, 42 Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256485421615",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 709,
+  "name": "Oxford Hotel",
+  "address": "Plot 31 Kampala-Masaka Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 710,
+  "name": "Palm World Hotel",
+  "address": "Wills Street , London Arcade, Mbarara, Uganda",
+  "phone": "+256700488884",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 711,
+  "name": "Rays Hotel",
+  "address": "WILLS STREET, Bananuka Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 712,
+  "name": "Hotel Kash",
+  "address": "Ntare Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 713,
+  "name": "Hotel Kash - North Wing",
+  "address": "Bananuka Rd, Mbarara, Uganda",
+  "phone": "+256701667711",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 714,
+  "name": "JAPS Motel",
+  "address": "Church of Uganda, Bwizibwera Across, Bwizibwera, Uganda",
+  "phone": "+256772652173",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 715,
+  "name": "Hotel B Plus",
+  "address": "Ruharo Rd, Mbarara, Uganda",
+  "phone": "+256754674745",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 716,
+  "name": "Rwampara Suites Hotel",
+  "address": "Road, Mbarara, Uganda",
+  "phone": "+256701155445",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 717,
+  "name": "Grand Holiday Hotel",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256772477693",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 718,
+  "name": "Leisure Park International Hotel",
+  "address": "Behind Agip Motel, Mbarara, Uganda",
+  "phone": "+256776503621",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 719,
+  "name": "Spannet Suites",
+  "address": "Katete Road, Mbarara, Uganda",
+  "phone": "+256702423979",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 720,
+  "name": "Lite cottages",
+  "address": "Ruharo Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 721,
+  "name": "Rushozi Country Home",
+  "address": "Ruharo Rd, Mbarara, Uganda",
+  "phone": "+256774039563",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 722,
+  "name": "Grand holiday international",
+  "address": "Kabale - Kisoro Rd, Kabale, Uganda",
+  "phone": "+256789582059",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 723,
+  "name": "Palace Hotel",
+  "address": "Opposite, Plot 33-35,Muti Drive, Ntare School, Mbarara, Uganda",
+  "phone": "+256758674080",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 724,
+  "name": "Meliva Guest House",
+  "address": "Plot 159 Fortportal, Fort Portal-Mpondwe Rd, Mbarara, Uganda",
+  "phone": "+256701579670",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 725,
+  "name": "The Greenville home",
+  "address": "Unnamed Road, Mbarara, Uganda",
+  "phone": "+256702676661",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 726,
+  "name": "Hotel Kash",
+  "address": "Tatiaitwe, Opposite rwampara suites, near, Mbarara, Uganda",
+  "phone": "+256774649101",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 727,
+  "name": "Dream Wood Suites",
+  "address": "mwizi road, Nyakayojo, Uganda",
+  "phone": "+256704008222",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 728,
+  "name": "Africa Guest House",
+  "address": "Ruharo Cathedral, Plot 352, Mubangizi Rd Ruharo Village opposite Road to, Mbarara, Uganda",
+  "phone": "+256777065018",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 729,
+  "name": "The GreenVille Home",
+  "address": "9JMW+CQH Fort Portal \u0026, Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "+256782915164",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 730,
+  "name": "Silver Motel",
+  "address": "Ibanda Rd, Mbarara, Uganda",
+  "phone": "+256780629714",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 731,
+  "name": "Igongo Cultural Centre \u0026 Country Hotel",
+  "address": "Kasese - Mbarara Highway, Kasese, Uganda",
+  "phone": "+256772382204",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 732,
+  "name": "City Entry Hotel",
+  "address": "Masaka-Mbarara By-pass Rd, Lyantonde, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 733,
+  "name": "Mbara Lodge",
+  "address": "Biharwe, Mbarara, Uganda",
+  "phone": "+256773683820",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 734,
+  "name": "Rwizi Arch Hotel | Mbarara",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 735,
+  "name": "Embassy Suites Mbarara",
+  "address": "Ruharo Rd, Mbarara, Uganda",
+  "phone": "+2565555555",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 736,
+  "name": "Bwizi Gardens and Resort",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 737,
+  "name": "Rwekishokye Country Club",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256706751466",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 738,
+  "name": "Lake View Resort Hotel Mbarara",
+  "address": "Mbarara - Bushenyi Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 739,
+  "name": "Palm Heights Hotel",
+  "address": "Hall Mark Secondary School, Mbarara, Uganda",
+  "phone": "+256702377259",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 740,
+  "name": "CAPRICON EXECUTIVE HOTEL-THE HOME OF HOSPITALITY",
+  "address": "Boma Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 741,
+  "name": "Rwampara Suites",
+  "address": "Ntare Rd, Mbarara, Uganda",
+  "phone": "+256702853353",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 742,
+  "name": "Square Suites",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 743,
+  "name": "Deeva Country Home",
+  "address": "Bus Park Rd, Mbarara, Uganda",
+  "phone": "+256752243531",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 744,
+  "name": "Jameson Resort Hotel Ltd",
+  "address": "Tatiaitwe, Near, Mbarara, Uganda",
+  "phone": "+256754125425",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 745,
+  "name": "Krystal Cottages",
+  "address": "Mbarara Northern Bypass Rd, Mbarara, Uganda",
+  "phone": "+256775729890",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 746,
+  "name": "Vine Inn Mbarara",
+  "address": "Buremba Road, Mbarara, Uganda",
+  "phone": "+256704023485",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 747,
+  "name": "Pelican",
+  "address": "Plot 14, Mosque Road, Katoba Division, Mbarara, Uganda",
+  "phone": "+256701341252",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 748,
+  "name": "Generation Suites",
+  "address": "Bananuka Rd, Mbarara, Uganda",
+  "phone": "+256784979546",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 749,
+  "name": "University Inn",
+  "address": "Plot 57 Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256704023485",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 750,
+  "name": "Twin Gardens",
+  "address": "Fort portal - Kasese road, Fort Portal, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 751,
+  "name": "Pelikan Hotel",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256782746336",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 752,
+  "name": "Forest Breeze Hotel",
+  "address": "92, Plot 57 / P.O Box 1152 Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "92571152",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 753,
+  "name": "Amazima Op Farm",
+  "address": "Ruharo Rd, Mbarara, Uganda",
+  "phone": "+256772448396",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 754,
+  "name": "Fullstop Destiny Hotel",
+  "address": "Kasese - Fort Portal Road, Mbarara, Uganda",
+  "phone": "+254789300000",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 755,
+  "name": "Jombe Restaurant and Accommodation",
+  "address": "Plot 5 Bananuka Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 756,
+  "name": "Romax Hotel",
+  "address": "Ruharo Rd, Mbarara, Uganda",
+  "phone": "+256703505020",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 757,
+  "name": "Sunshine Hotel",
+  "address": "Bushenyi Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 758,
+  "name": "Maendeleo Company Trading As Agip Motel",
+  "address": "mbarara-masaka rd koranolya, Mbarara, Uganda",
+  "phone": "+256701175755",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 759,
+  "name": "Clari Suites",
+  "address": "92, Plot 57 / P.O Box 1152 Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "92571152",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 760,
+  "name": "San Diego Motel",
+  "address": "Plot 12 Bananuka Rd, Mbarara, Uganda",
+  "phone": "+256382271737",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 761,
+  "name": "Kihembo Suites",
+  "address": "Ruharo Rd, Mbarara, Uganda",
+  "phone": "+256703505020",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 762,
+  "name": "Bam Classic Hotel",
+  "address": "Mbarara - Bushenyi Rd, Mbarara, Uganda",
+  "phone": "+256757895778",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 763,
+  "name": "Balya Inn",
+  "address": "Plot 77 Fort Portal Road, Mbarara, Uganda",
+  "phone": "+256776711898",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 764,
+  "name": "Hotel Canan",
+  "address": "Plot 24, Easy View Complex Building, 30 Mbaguta St, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 765,
+  "name": "Rwizi Arch Hotel",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256392722828",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 766,
+  "name": "Café Havana",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256770392046",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 767,
+  "name": "Big Chef Restaurant",
+  "address": "Masaka Road, Mbarara, Uganda",
+  "phone": "+256701527697",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 768,
+  "name": "Cafe Havana3",
+  "address": "Golf Course Rd, Mbarara, Uganda",
+  "phone": "+256779494447",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 769,
+  "name": "MOONLIGHT RESTAURANT \u0026 TAKEAWAY",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256779494447",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 770,
+  "name": "Jack's Lounge",
+  "address": "Kyamugolani Road, Mbarara, Uganda",
+  "phone": "+256788288084",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 771,
+  "name": "Baguma Restaurant",
+  "address": "Cooper House opposite centenary bank after shell Ankole, Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "+256750805405",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 772,
+  "name": "Chicken and Fish Restaurant",
+  "address": "next bsu, Rwemigina, Mbarara, Uganda",
+  "phone": "+256777630643",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 773,
+  "name": "The Carnivor",
+  "address": "Buremba Road, Mbarara, Uganda",
+  "phone": "+256776333351",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 774,
+  "name": "Kekez Crispy Dine",
+  "address": "Katete Rubeho, Road, Mbarara, Uganda",
+  "phone": "+256702116754",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 775,
+  "name": "Nam Restaurant",
+  "address": "Boma Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 776,
+  "name": "Safari bar and restaurant",
+  "address": "Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "+256700408282",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 777,
+  "name": "Limu Restaurant African Restaurant Kyosiga House (Mackan Singh), Mbarara",
+  "address": "Buremba Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 778,
+  "name": "High Way Restuarant",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256703072415",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 779,
+  "name": "MELIBA COUNTRY SUITS",
+  "address": "Ntare Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 780,
+  "name": "Pinnacle Restaurant and bar",
+  "address": "Mosque Road, Mbarara, Uganda",
+  "phone": "+256776585240",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 781,
+  "name": "Global Chefs",
+  "address": "P.O Box 1152 Mbarara, Plot 23 Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256704691977",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 782,
+  "name": "Lakeview",
+  "address": "Buremba Road, Mbarara, Uganda",
+  "phone": "+256756417117",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 783,
+  "name": "Coffee Bar",
+  "address": "Zebra crossing, Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256784125974",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 784,
+  "name": "Cafè JOES",
+  "address": "Mbarara - Bushenyi Rd, Rwebikona, Uganda",
+  "phone": "+256392178445",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 785,
+  "name": "Shena Restaurant",
+  "address": "Central Market, Mbaguta St, Mbarara, Uganda",
+  "phone": "+256759822613",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 786,
+  "name": "Itungo restaurant",
+  "address": "Nyamityobora, Mbarara, Uganda",
+  "phone": "+256784765120",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 787,
+  "name": "Jesh Restaurant",
+  "address": "African Republic, Mbarara Airport, Mbarara, Uganda, Central, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 788,
+  "name": "Smart Mk Restaurant",
+  "address": "Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 789,
+  "name": "Lord's Bar",
+  "address": "Bucunku Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 790,
+  "name": "Kaahwa Kanuzire Restaurant",
+  "address": "Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "+256706173542",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 791,
+  "name": "LORDS GARDENS",
+  "address": "Colors Nursery School Lugazi, Baguma Road,Next to, Mbarara, Uganda",
+  "phone": "+256705011251",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 792,
+  "name": "Rhino Tavern Bar \u0026 Restaurant",
+  "address": "Bushenyi Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 793,
+  "name": "Dining cafe",
+  "address": "Mackansigh St, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 794,
+  "name": "Alisha Spring Restaurant",
+  "address": "1st Floor, GBK Plaza, Mackansigh St, Mbarara, Uganda",
+  "phone": "+256781130746",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 795,
+  "name": "Da-bluez Restaurant",
+  "address": "Buremba Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 796,
+  "name": "Snacks Print Corner Restaurant",
+  "address": "7km from mbarara town along, Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "+256752853343",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 797,
+  "name": "Nalongo's Delicacy",
+  "address": "Ruti Nyakakoni, Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 798,
+  "name": "Oxford Restaurant",
+  "address": "Mbarara Northern Bypass Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 799,
+  "name": "Sarah's restaurant",
+  "address": "Kakyeka Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 800,
+  "name": "Spacies Pub",
+  "address": "Bushenyi Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 801,
+  "name": "New Traveller's Hotel",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 802,
+  "name": "Mt Muhavura",
+  "address": "Mackansigh St, Mbarara, Uganda",
+  "phone": "+256706761407",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 803,
+  "name": "Sweet aroma restaurant",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 804,
+  "name": "Cafe' Muble",
+  "address": "Ntare Rd, Mbarara, Uganda",
+  "phone": "+256750647877",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 805,
+  "name": "Fresh Lusaniya restaurant Ntake shop Rwebikona Mbarara-Bushenyi Rd stage",
+  "address": "Bananuka Rd, Mbarara, Uganda",
+  "phone": "+256701410082",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 806,
+  "name": "Pack 'n' Chill Restaurant",
+  "address": "Mbaguta St, Mbarara, Uganda",
+  "phone": "+256706944712",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 807,
+  "name": "City Entry Hotel",
+  "address": "Ntare Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 808,
+  "name": "Family Restaurant",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256754684654",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 809,
+  "name": "Himaliya",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256789569740",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 810,
+  "name": "Agip Motel's Restaunt and Bar",
+  "address": "Unnamed Road, Mbarara, Uganda",
+  "phone": "+256758488211",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 811,
+  "name": "Meat Max Bar Be Que",
+  "address": "Bus Park Rd, Mbarara, Uganda",
+  "phone": "+256758733060",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 812,
+  "name": "Yummy",
+  "address": "Masaka Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 813,
+  "name": "Cafe' By-Pass @Shell Makenke",
+  "address": "Masaka Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 814,
+  "name": "Red lite fast foods",
+  "address": "Mackansigh St, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 815,
+  "name": "Life Lounge",
+  "address": "Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "+256703344504",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 816,
+  "name": "RAHUMUZ RESTUARANT",
+  "address": "Kampala Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 817,
+  "name": "MUST PIONEER CANTEEN",
+  "address": "Mbarara - Bushenyi Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 818,
+  "name": "Sky Way Restuarant",
+  "address": "Bishop Willis Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 819,
+  "name": "midland bar and restaurant gardens",
+  "address": "Bishop Willis Rd, Mbarara, Uganda",
+  "phone": "+256778003743",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 820,
+  "name": "LOTIK GREEN FARM(Nyakabungo plot 76 mbarara, Mbarara, Uganda )",
+  "address": "Kisenyi- Mandela, Mbarara, Uganda",
+  "phone": "+256700172113",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 821,
+  "name": "Rolex Booth",
+  "address": "Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 822,
+  "name": "Mbarara Shopping Center",
+  "address": "Golf Course Rd, Mbarara, Uganda",
+  "phone": "+256703562094",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 823,
+  "name": "Portville Mall",
+  "address": "Plot 2 McAllister Road, Mbarara, Uganda",
+  "phone": "+256785933476",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 824,
+  "name": "Da Twinz Invesments",
+  "address": "Kijungu-Mayanja Road, Mbarara, Uganda",
+  "phone": "+256772077333",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 825,
+  "name": "Amazon Building",
+  "address": "Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 826,
+  "name": "DAYTODAY",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256774060222",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 827,
+  "name": "Tatiaitwe",
+  "address": "Buremba Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 828,
+  "name": "NEW MUGISHA DEPOT",
+  "address": "GBK House, Shop No 5, Mbaguta St, Mbarara, Uganda",
+  "phone": "+256775704488",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 829,
+  "name": "Tonny Electronics Ishaka",
+  "address": "11 Mbaguta St, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 830,
+  "name": "NOAH SHOPPING CENTER",
+  "address": "Western Region, Mbarara - Bushenyi Rd, Uganda",
+  "phone": "+256772709046",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 831,
+  "name": "Blessed shoe centre Mbarara",
+  "address": "Kikubo Ln, Mbarara, Uganda",
+  "phone": "+256782493667",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 832,
+  "name": "Mbarara River Rwizi Falls",
+  "address": "Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 833,
+  "name": "Igongo Cultural Centre",
+  "address": "Nyakasharu  Rubirizi Queen Elizabeth National Park, Mbarara, Uganda",
+  "phone": "+256772892866",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 834,
+  "name": "Kamuntu Safaris Ltd",
+  "address": "Lake View Resort Hotel Rd, Mbarara, Uganda",
+  "phone": "+256772367972",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 835,
+  "name": "Mbarara Tours",
+  "address": "Bishop Willis Rd, Mbarara, Uganda",
+  "phone": "+256771485948",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 836,
+  "name": "Country Cinema Mbarara",
+  "address": "Plot 28, Kampala Road, Mbarara Top floor of the building housing Centenary Bank, Next to Agip Motel, Mbarara, Uganda",
+  "phone": "+256751144931",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 837,
+  "name": "Queen Elizabeth National Park",
+  "address": "Fort Portal-Mpondwe Rd, Rubirizi, Uganda",
+  "phone": "+256791217764",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 838,
+  "name": "Portville Mall",
+  "address": "GBK building, opp stanbic bank Ntare Rd, Mbarara, Uganda",
+  "phone": "+256776184725",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 839,
+  "name": "Kasubi Royal Tombs",
+  "address": "Kachwekano Road, Kabale, Uganda",
+  "phone": "+256771272933",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 840,
+  "name": "Mbarara Tours",
+  "address": "Queen Elizabeth National Park, Mbarara - Kasese Rd, Katunguru, Uganda",
+  "phone": "+256772378565",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 841,
+  "name": "The Great Trekkers Safaris",
+  "address": "Kabale - Mbarara Rd, Muhanga, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 842,
+  "name": "Canine Safaris Ltd",
+  "address": "Plot 110 Kabale - Mbarara Rd, Kabale, Uganda",
+  "phone": "+256781524064",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 843,
+  "name": "Mabira forest",
+  "address": "Kabale-Kachwekano, Kabale, Uganda",
+  "phone": "+256751199341",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 844,
+  "name": "Signature Premium",
+  "address": "Modern Shopper Plaza, Mbaguta St, Mbarara, Uganda",
+  "phone": "+256782787471",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 845,
+  "name": "Bwindi Impenetrable Forest National Park",
+  "address": "+256789871401, Wakiso, Uganda",
+  "phone": "+256789871401",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 846,
+  "name": "Agip Motel",
+  "address": "Golf Course Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 847,
+  "name": "Easy View Hotel",
+  "address": "Biharwe, Bihalrwe, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 848,
+  "name": "Pelikan Hotel",
+  "address": "Nyore, Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "+256783356142",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 849,
+  "name": "St James Church of Uganda",
+  "address": "Kampala Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 850,
+  "name": "New Tooro Kingdom Palace",
+  "address": "King of Kings Secondary School, Fort Portal, Uganda",
+  "phone": "+256754169484",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 851,
+  "name": "Shell Makenke",
+  "address": "Bananuka Rd, Mbarara, Uganda",
+  "phone": "+256701667711",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 852,
+  "name": "Nyore Hillside Retreat",
+  "address": "Plot 57, P.O Box 1152 Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256485421131",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 853,
+  "name": "Amity Realtors Ltd",
+  "address": "Plot 24, Easy View Complex Building, 30 Mbaguta St, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 854,
+  "name": "Mbarara Hotel",
+  "address": "36-48 Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256485421615",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 855,
+  "name": "Kavumba Recreation Center - kids park",
+  "address": "Boma Rd, Mbarara, Uganda",
+  "phone": "+256782046018",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 856,
+  "name": "Biharwe Play Ground",
+  "address": "9JMW+CQH Fort Portal \u0026, Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "+256782915164",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 857,
+  "name": "Kyambura Gorge",
+  "address": "Ndorwa County Prisons, Kabale, Uganda",
+  "phone": "+256705183191",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 858,
+  "name": "Kibale Forest",
+  "address": "Mbaguta St, Mbarara, Uganda",
+  "phone": "+256778415015",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 859,
+  "name": "FamITech Solutions Company Limited",
+  "address": "Plot 12 Bananuka Rd, Mbarara, Uganda",
+  "phone": "+256701367970",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 860,
+  "name": "Bugoli Adventures Limited",
+  "address": "2nd Floor, Adit house near Umeme Regional Offices, Plot 24 High Street opposite, Mbarara, Uganda",
+  "phone": "+256700226975",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 861,
+  "name": "Maramagambo Forest",
+  "address": "Buremba Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 862,
+  "name": "Hyena Hill Lodge",
+  "address": "The heat, Mbarara, Uganda",
+  "phone": "+256706435856",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 863,
+  "name": "Buffalo Safari Lodge",
+  "address": "Masiro Rd, Kampala, Uganda",
+  "phone": "+256776997377",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 864,
+  "name": "Hawk's Eye Lodge Bunyonyi",
+  "address": "Plot 2 McAllister Road, Mbarara, Uganda",
+  "phone": "+256785933476",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 865,
+  "name": "Lake Nkuruba Nature Reserve \u0026 Community Campsite",
+  "address": "Plot 19, Emburara Close, Ibanda Rd, Mbarara, Uganda",
+  "phone": "+256776210872",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 866,
+  "name": "Mbarara Community Hospital",
+  "address": "Plot 28 Mac Allister Road Lugazi Round About Opposite Kabaterine Kindegarten, Mbarara, Uganda",
+  "phone": "+256200909495",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 867,
+  "name": "Mayanja Memorial Hospital",
+  "address": "Holy Innocent Children's Hospital, To Mwizi \u0026 Isingiro, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 868,
+  "name": "Divine Mercy Hospital (Father Bash Foundation)",
+  "address": "Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 869,
+  "name": "Mbarara Regional Referral Hospital",
+  "address": "opp Bank of Uganda, Adit Mall, Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256702336110",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 870,
+  "name": "Mbarara Muslim Health Centre",
+  "address": "Mbarara Municiple Council, Mbarara, Uganda",
+  "phone": "+256485421445",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 871,
+  "name": "Blue Clinics Mbarara",
+  "address": "Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 872,
+  "name": "Life Point Clinic",
+  "address": "Mbarara Municiple Council./P.O.Box 920, Mbarara, Uganda",
+  "phone": "+256392962665",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 873,
+  "name": "Tania Medical Center",
+  "address": "Church Rd, Mbarara, Uganda",
+  "phone": "+256485444179",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 874,
+  "name": "Mbarara Regional Referral Hospital, Psychiatry Department",
+  "address": "Constantino Road, Mbarara, Uganda",
+  "phone": "+256782061849",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 875,
+  "name": "JOFAM MEDICAL CLINIC",
+  "address": "Market, Nyamityobora_Mbarara _Uganda, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 876,
+  "name": "Kakoba Health Centre III",
+  "address": "St Agustine medical center, mbarara western region, uganda, P.o.Box 811 Ntare Rd, Uganda",
+  "phone": "+256772471714",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 877,
+  "name": "St Augustine medical center",
+  "address": "P.O.Box 290 Mbarara - Masaka Rd, Mbarara, Uganda",
+  "phone": "+256782549262",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 878,
+  "name": "St.Jude Clinic Kizungu",
+  "address": "Plot 24-30 Mbaguta Street, Upper Ground Floor Mbarara Commercial Complex, Mbarara, Uganda",
+  "phone": "+256393280696",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 879,
+  "name": "ISS CLINIC",
+  "address": "Mbarara Bushenyi Road, Ruharo Rd, Kampala, Uganda",
+  "phone": "+256393248462",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 880,
+  "name": "Mbarara Neuroscience Institute",
+  "address": "Alliance-kakoba, Mbarara, Uganda",
+  "phone": "+256778592830",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 881,
+  "name": "Ruharo Eye Centre",
+  "address": "Kabale - Mbarara Rd, Mbarara, Uganda",
+  "phone": "+256485420482",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 882,
+  "name": "Mayanja Memorial Hospital",
+  "address": "Kyamugoranyi Road, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 883,
+  "name": "Surgical Centre - Mbarara",
+  "address": "Boma B, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 884,
+  "name": "Trust Dental Care Uganda",
+  "address": "Ntare Rd, Mbarara, Uganda",
+  "phone": "+256756551711",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 885,
+  "name": "Pentagon Women and Children's Clinic",
+  "address": "Uganda Martyrs Primary and Social Centre, Mbarara, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 886,
+  "name": "Mbarara University Hospital",
+  "address": "Mbarara, City, Uganda",
+  "phone": "+256700376654",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 887,
+  "name": "Royal Park Hotel",
+  "address": "Plot M130 Kimaka Road Jinja 1553, Jinja, Uganda",
+  "phone": "+256774676832",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 888,
+  "name": "Jinja Safari Hotel",
+  "address": "36 Bridge St, Jinja, Uganda",
+  "phone": "+256786480603",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 889,
+  "name": "Jinja Nile Resort Uganda",
+  "address": "Wakoli Road, Jinja, Uganda",
+  "phone": "+256712600223",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 890,
+  "name": "Nile Front Cottages",
+  "address": "Plot 26A Nile Crescent, Road, Jinja, Uganda",
+  "phone": "+256704797244",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 891,
+  "name": "Nile Village Hotel \u0026 Spa",
+  "address": "17 Kiira Rd, Jinja, Uganda",
+  "phone": "+256772373991",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 892,
+  "name": "Source of the Nile Suites",
+  "address": "1 Lwansunu Rd, Jinja, Uganda",
+  "phone": "+256700497397",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 893,
+  "name": "Nile Bridge Cottages",
+  "address": "48/49 Kiira Rd, Jinja, Uganda",
+  "phone": "+256434120879",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 894,
+  "name": "Igar Plaza Hotel",
+  "address": "Plot 5 Kiira Rd, Jinja, Uganda",
+  "phone": "+256784982692",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 895,
+  "name": "Pacific Cottages and Guest House",
+  "address": "9 Kiira Rd, Jinja, Uganda",
+  "phone": "+256759504928",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 896,
+  "name": "Hotel Paradise on the Nile",
+  "address": "Bujowali, Njeru, Uganda",
+  "phone": "+256752890021",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 897,
+  "name": "Al-Nisaa Hotel and Spa",
+  "address": "Kyabazinga Highway, Jinja, Uganda",
+  "phone": "+256705333984",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 898,
+  "name": "MASESE VILLAS",
+  "address": "Butanga Lane,Nyenga Road ,Njeru, Njeru, Uganda",
+  "phone": "+256434660786",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 899,
+  "name": "Buutu Nest",
+  "address": "Unnamed Road, Nyize, Uganda",
+  "phone": "+256782905959",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 900,
+  "name": "The Mansion Hotel",
+  "address": "18d Kiira Rd, Jinja, Uganda",
+  "phone": "+256434121334",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 901,
+  "name": "Jinja Grand Hotel",
+  "address": "15 Lubogo Road, Jinja, Uganda",
+  "phone": "+256755844789",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 902,
+  "name": "Source Garden Hotel Jinja",
+  "address": "Unnamed Road, Jinja, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 903,
+  "name": "Pearl On The Nile Hotel",
+  "address": "16 Jackson Ave, Jinja, Uganda",
+  "phone": "+256434121954",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 904,
+  "name": "Jinja City Hotel",
+  "address": "25 A, 25a Kisinja Rd, Jinja, Uganda",
+  "phone": "+256778915002",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 905,
+  "name": "Victoria Panorama Hotel",
+  "address": "12 Nalufenya Rd, Jinja, Uganda",
+  "phone": "+256777524355",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 906,
+  "name": "Rydges Accomodations",
+  "address": "Nile Ave, Jinja, Uganda",
+  "phone": "+256700250250",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 907,
+  "name": "Royal Park Hotel",
+  "address": "Kutch Rd, Jinja, Uganda",
+  "phone": "+256702081214",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 908,
+  "name": "Bacchus@30Wilson",
+  "address": "Plot 4 Speke Ave, Jinja, Uganda",
+  "phone": "+256772369579",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 909,
+  "name": "JUSVERO MOTEL",
+  "address": "Kyabazinga Road, Jinja, Uganda",
+  "phone": "+256770523971",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 910,
+  "name": "Surjios Guesthouse \u0026 Pizzeria",
+  "address": "D. Mufasha Close, Bujowali, Njeru, Uganda",
+  "phone": "+256783535955",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 911,
+  "name": "Jinja Safari Hotel",
+  "address": "5 Lubogo Ln, Jinja, Uganda",
+  "phone": "+256701520705",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 912,
+  "name": "Merona Hotel",
+  "address": "18f Kiira Rd, Jinja, Uganda",
+  "phone": "+256777205489",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 913,
+  "name": "Victorian Holiday Villa",
+  "address": "Plot 188, Namakwanda - Kangulumira Road, Jinja, Uganda",
+  "phone": "+256782390243",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 914,
+  "name": "Ewuwo Sanctuary Guesthouse",
+  "address": "34b Nile Cres, Jinja, Uganda",
+  "phone": "+256434122400",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 915,
+  "name": "Marina lake view apartments",
+  "address": "Plot 16 Bridge St, Jinja, Uganda",
+  "phone": "+256772120987",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 916,
+  "name": "Hotel Bellevue",
+  "address": "54b Kiira Rd, Jinja, Uganda",
+  "phone": "+256700682162",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 917,
+  "name": "Jinja Backpackers",
+  "address": "24 Main St, Jinja, Uganda",
+  "phone": "+256754577117",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 918,
+  "name": "Samuka Island Retreat",
+  "address": "Speke Monument Road, Bukaya, Uganda",
+  "phone": "+256706283822",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 919,
+  "name": "Ci' Sand Suites",
+  "address": "26 Nile Cres, Jinja, Uganda",
+  "phone": "+256702501100",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 920,
+  "name": "Hotel Maria Grant",
+  "address": "9 Odaka Road, Masese, Jinja, Uganda",
+  "phone": "+256701876559",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 921,
+  "name": "Bridge Way Guest House",
+  "address": "31 Bridge St, Jinja, Uganda",
+  "phone": "+256393249292",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 922,
+  "name": "Lucky Guest House",
+  "address": "Wanyange, old, Kakira Rd, Jinja, Uganda",
+  "phone": "+254789300000",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 923,
+  "name": "Nile Eden Resort",
+  "address": "Naminya Primary School, Along Kayunga Road, Njeru, Uganda",
+  "phone": "+256759035995",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 924,
+  "name": "Calm River Inn",
+  "address": "Bujagali, Jinja, Uganda",
+  "phone": "+256782321541",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 925,
+  "name": "Serene Executive Accommodation",
+  "address": "Plot 7 Bakibinga Road, Bukaya, Jinja, Uganda",
+  "phone": "+256772054826",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 926,
+  "name": "Impala Suites",
+  "address": "Victoria Nile, Kangulumira, Uganda",
+  "phone": "+256772237400",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 927,
+  "name": "Explorers River Camp",
+  "address": "NJERU TOWN, Jinja, Uganda",
+  "phone": "+256774523585",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 928,
+  "name": "Delight Motel Lodge",
+  "address": "Main St, Jinja, Uganda",
+  "phone": "+256770807702",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 929,
+  "name": "Tusubira Village",
+  "address": "Njeru, 1km off kayunga-bugerere road jinja, Jinja, Uganda",
+  "phone": "+256758540981",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 930,
+  "name": "Holland Park",
+  "address": "Wildwaters Lodge, River Nile, Uganda",
+  "phone": "+256772237400",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 931,
+  "name": "Eden Rock Resorts Bujjagali",
+  "address": "Buyala Primary School, Unnamed Road, Jinja, Uganda",
+  "phone": "+256704244566",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 932,
+  "name": "The Roots",
+  "address": "Bujagali, Jinja, Uganda",
+  "phone": "+256772970181",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 933,
+  "name": "BN private beach",
+  "address": "Off Kayunga Rd, Jinja, Uganda",
+  "phone": "+256782507788",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 934,
+  "name": "Lemala Wildwaters",
+  "address": "Unnamed Road, Bukaya, Uganda",
+  "phone": "+256775682387",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 935,
+  "name": "Upendo On The Nile",
+  "address": "Gokhale Rd, Jinja, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 936,
+  "name": "BK Castella Hotel",
+  "address": "Plot 45, Bukamunye , 0.390039, 33.249791, Uganda",
+  "phone": "45039003933249791",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 937,
+  "name": "Ambassador Guest House",
+  "address": "Bujagali Falls, Kangulumira, Jinja, Uganda",
+  "phone": "+256782320552",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 938,
+  "name": "The Nile Porch",
+  "address": "36 Bridge St, Jinja, Uganda",
+  "phone": "+256753515075",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 939,
+  "name": "Wildwaters Lodge",
+  "address": "Nalufenya Rd, Jinja, Uganda",
+  "phone": "+256756752699",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 940,
+  "name": "Royal Paradise Hotel",
+  "address": "Magwa Cres, Jinja, Uganda",
+  "phone": "+256700362552",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 941,
+  "name": "Hillview Hotel",
+  "address": "9 Naranbhai Road, Jinja, Uganda",
+  "phone": "+256704248109",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 942,
+  "name": "Nile it Resort",
+  "address": "31 Bridge St, Jinja, Uganda",
+  "phone": "+256788144777",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 943,
+  "name": "Source Of The Nile Hotel",
+  "address": "Plot 16, Off Bugerere, Kayunga Rd, Jinja, Uganda",
+  "phone": "+256780978920",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 944,
+  "name": "Adrift River Club",
+  "address": "Cliff Rd, Jinja, Uganda",
+  "phone": "+256774789263",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 945,
+  "name": "Victoria Breeze Apartments",
+  "address": "Unnamed Road, Jinja, Uganda",
+  "phone": "+256754902672",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 946,
+  "name": "Buyala Bliss",
+  "address": "26 Bridge St, Jinja, Uganda",
+  "phone": "+256392176784",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 947,
+  "name": "Brisk Recreation Hotel Triangle",
+  "address": "Samuka Island, Jinja, Uganda",
+  "phone": "+256772401508",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 948,
+  "name": "Living Waters Resort",
+  "address": "Plot 15 Spire Rd, Jinja, Uganda",
+  "phone": "+256785354614",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 949,
+  "name": "Orchid Grand",
+  "address": "38 Kiira Rd, Jinja, Uganda",
+  "phone": "+256763287604",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 950,
+  "name": "Amber Court INN",
+  "address": "Off Kate road, Plot 3 masese rise, Jinja, Uganda",
+  "phone": "+256759783406",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 951,
+  "name": "Forever Resort",
+  "address": "Kutch Rd, Jinja, Uganda",
+  "phone": "",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 952,
+  "name": "Golden Cherries",
+  "address": "Victorian Road, Jinja, Uganda",
+  "phone": "+256787040018",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 953,
+  "name": "Gately On Nile",
+  "address": "17 Nalufenya Rd, Jinja, Uganda",
+  "phone": "+256787638424",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 954,
+  "name": "The Kipling Lodge",
+  "address": "11 Odaka Road, Masese, Jinja, Uganda",
+  "phone": "+256777524355",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 955,
+  "name": "Tourist Bay Hotel",
+  "address": "Plot 8, Njeru, Jinja, Uganda",
+  "phone": "+256774025440",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 956,
+  "name": "La Rock Inn",
+  "address": "Mailo Mbili, Mpumudde Ave, Jinja, Uganda",
+  "phone": "+256701792988",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 957,
+  "name": "Emirina Travel Hotel",
+  "address": "Kutch Rd, Jinja, Uganda",
+  "phone": "+256776501879",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 958,
+  "name": "Victoria View Inn",
+  "address": "3 Nalufenya Rd, Jinja, Uganda",
+  "phone": "+256751224000",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 959,
+  "name": "River Side Hotel Jinja",
+  "address": "Wakoli Road, Jinja, Uganda",
+  "phone": "+256712600223",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 960,
+  "name": "Monte Cristo Resort",
+  "address": "24 Kisinja Rd, Jinja, Uganda",
+  "phone": "+256772500400",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 961,
+  "name": "Speke Courts Hotel",
+  "address": "Amberly Lane II Off Amberley Crescent , off Amberley Road Amber court, Jinja, Uganda",
+  "phone": "+256704009369",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 962,
+  "name": "Kinzi Apartments and Gardens",
+  "address": "30 Wilson Ave, Jinja, Uganda",
+  "phone": "+256781887082",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 963,
+  "name": "Nile Hotel Jinja",
+  "address": "Plot 23 Iganga Road. Box No. 5125, Jinja, Uganda",
+  "phone": "+256434122660",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 964,
+  "name": "Green source Guest House",
+  "address": "8 Kiira Rd, Jinja, Uganda",
+  "phone": "+256702350777",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 965,
+  "name": "Crested Crane Hotel",
+  "address": "28 Nalufenya Rd, Jinja, Uganda",
+  "phone": "+256772008006",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 966,
+  "name": "The Black Lantern",
+  "address": "28 Nalufenya Rd, Jinja, Uganda",
+  "phone": "+256772008006",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 967,
+  "name": "VIP Guest House",
+  "address": "3 Kaduyu Road, Jinja, Uganda",
+  "phone": "+256775504105",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 968,
+  "name": "Roziz Inn",
+  "address": "Naranbhai Road, Jinja, Uganda",
+  "phone": "+256788817012",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 969,
+  "name": "Signature Hotel Apartments",
+  "address": "17 Kiira Rd, Jinja, Uganda",
+  "phone": "+256772373991",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 970,
+  "name": "Calsuit Appartment",
+  "address": "Naranbhai Road, Jinja, Uganda",
+  "phone": "+256788817012",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 971,
+  "name": "Ebenezer Guesthouse",
+  "address": "Plot 11, Victoria Lane, Box No. 5180, Jinja, Uganda",
+  "phone": "+256706038548",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 972,
+  "name": "Baobab Cottage",
+  "address": "Bridge St, Jinja, Uganda",
+  "phone": "+256777077422",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 973,
+  "name": "New Daniel Hotel (1998) Ltd",
+  "address": "5 Jackson Ave, Jinja, Uganda",
+  "phone": "+256783160804",
+  "country-code": "UG",
+  "country": "Uganda"
+ },
+ {
+  "id": 974,
+  "name": "Nile River Camp",
+  "address": "12a Kiira Rd, Jinja, Uganda",
+  "phone": "+256774563773",
+  "country-code": "UG",
+  "country": "Uganda"
+ }
+]

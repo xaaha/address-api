@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS address (
+id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+name TEXT
+address TEXT
+phone TEXT
+country_code TEXT
+country TEXT
+)

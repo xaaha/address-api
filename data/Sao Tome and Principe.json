@@ -1,0 +1,1562 @@
+[
+ {
+  "id": 1,
+  "name": "Pestana Miramar São Tomé",
+  "address": "Av. Marginal 12 de Julho 851, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392244500",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 2,
+  "name": "Pestana São Tomé",
+  "address": "Av. Marginal 12 de Julho 851, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392244500",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 3,
+  "name": "Omali São Tomé",
+  "address": "Praia Sundi, Roça Sundy, Santo António, São Tomé \u0026 Príncipe",
+  "phone": "+2399995000",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 4,
+  "name": "Sundy Praia Príncipe Island",
+  "address": "City Hall, Estrada, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399920777",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 5,
+  "name": "Pestana São Tomé",
+  "address": "6PMG+QFH Roça de Santo António, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 6,
+  "name": "Praia Inhame Eco Lodge",
+  "address": "Praia do Lagarto, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392222350",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 7,
+  "name": "Roça Santo António Ecolodge",
+  "address": "Av. Marginal 12 de Julho, 69 Água Grande, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392222778",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 8,
+  "name": "Hotel Praia",
+  "address": "Roca de Porto Alegre, Sao Tome and Principe, São Tomé \u0026 Príncipe",
+  "phone": "+2399916552",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 9,
+  "name": "Pestana Miramar São Tomé",
+  "address": "Av. Marginal 12 de Julho, 69 Água Grande, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392222778",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 10,
+  "name": "Emoyeni Gardens Hotel",
+  "address": "9P86+WFC Praia Lagarto, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392226235",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 11,
+  "name": "PZERO Hotel",
+  "address": "6JWJ+7XF, Bombaim, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 12,
+  "name": "Mucumbli",
+  "address": "8PQP+CC7, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 13,
+  "name": "Roça Sundy Príncipe Island",
+  "address": "9JHQ+25X, Guadalupe, São Tomé \u0026 Príncipe",
+  "phone": "+2399935849",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 14,
+  "name": "Belo Monte Hotel and Museum",
+  "address": "Bairro Campo de Milho, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392221237",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 15,
+  "name": "Praia Jalé Ecolodge",
+  "address": "Quinta Buala, Sao Jose, no 1, Graça, São Tomé \u0026 Príncipe",
+  "phone": "+244948723268",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 16,
+  "name": "Welfare Agroturismo São Tomé",
+  "address": "Agua Marçal São tomé 4 quartos, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399859931",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 17,
+  "name": "Hotel central",
+  "address": "9P48+PXX, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399047518",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 18,
+  "name": "Casa Luís",
+  "address": "9JGR+344, Guadalupe, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 19,
+  "name": "São Pedro Guesthouse",
+  "address": "Estrada Belém Batepá 104, Cidade da Trindade, São Tomé \u0026 Príncipe",
+  "phone": "+2399883636",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 20,
+  "name": "Hotel Kenito",
+  "address": "Plano agua ize casa 19, ST, São Tomé \u0026 Príncipe",
+  "phone": "+2399899849",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 21,
+  "name": "HN City Center Hotel",
+  "address": "7PPW+RPJ, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399904705",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 22,
+  "name": "Domus Guesthouse",
+  "address": "Praia Emilia Agua - Grande, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399834334",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 23,
+  "name": "Casa de Ferias",
+  "address": "8PHH+GQW, Estrada de fruta fruta, r/c, Sao Tome, Sao Tome e Principe, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+351934149407",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 24,
+  "name": "HOTEL VITORIA",
+  "address": "8PMH+VCP, Street February 3rd, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 25,
+  "name": "Guest Agua leve residence",
+  "address": "8PRG+6H9, Mato Quitxiba, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399928560",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 26,
+  "name": "Welfare Agroturismo São Tomé",
+  "address": "9P48+GQM, Campo De Milio Sao Tomé Près Aéroport, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399910607",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 27,
+  "name": "Roça Vale dos Prazeres",
+  "address": "7P6W+WJ8, Bairro de Santana, Santana, Cantagalo, SantʼAna, São Tomé \u0026 Príncipe",
+  "phone": "+2399904382",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 28,
+  "name": "Domus Guesthouse",
+  "address": "9P4C+P7G, Avenida Marginal 12 de Julho, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399909697",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 29,
+  "name": "Eden Valley, Ecolodge and Farming",
+  "address": "Sao Marcal 117, Sao Tome, Sao Tome, Sao Tome and Principe, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399978733",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 30,
+  "name": "Hostel Lina",
+  "address": "8PQG+JR8, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 31,
+  "name": "Firma Efraim",
+  "address": "8PQG+JXX, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 32,
+  "name": "RESORT ME-ZOCHI",
+  "address": "9P3C+Q36, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399904500",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 33,
+  "name": "Guest house Quinta Natural",
+  "address": "São Tomé \u0026 Príncipe, São Tomé, Via principal de Chacará",
+  "phone": "+2399045000",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 34,
+  "name": "Residencial Tamarindos",
+  "address": "Av. da Independência 168, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392221895",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 35,
+  "name": "Pousada Vila Paraíso",
+  "address": "Campo de Milho, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399907669",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 36,
+  "name": "Hotel Agôsto Neto",
+  "address": "8PQM+8MX, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392241700",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 37,
+  "name": "Club Santana",
+  "address": "8PMJ+4J7, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392227562",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 38,
+  "name": "Hotel Residencial Luxan",
+  "address": "8PPP+XM5, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399990331",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 39,
+  "name": "Hotel Cocoa Residence",
+  "address": "33-B, Rua do Padre Martinho Pinto da Rocha, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392227276",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 40,
+  "name": "Hotel Avenida",
+  "address": "R. da Caixa 154, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399804173",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 41,
+  "name": "Hotel O Bigodes",
+  "address": "8PQP+C8R, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392226728",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 42,
+  "name": "Elitineide",
+  "address": "5M3F+WX2, Angra Toldo, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 43,
+  "name": "Palmtree Guest House",
+  "address": "Morro Peixe Lobata ST, Morro Peixe, São Tomé \u0026 Príncipe",
+  "phone": "+2399962605",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 44,
+  "name": "Monteiro Paradise Guest House",
+  "address": "Monte Café Trindade ST, Monte Café, São Tomé \u0026 Príncipe",
+  "phone": "+2399940398",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 45,
+  "name": "Ramos Guest House",
+  "address": "Estrada de Belem, Cidade da Trindade, São Tomé \u0026 Príncipe",
+  "phone": "+2399903164",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 46,
+  "name": "Residencial Nossa Senhora da Conceição",
+  "address": "8M22+MCM, Monte Café, São Tomé \u0026 Príncipe",
+  "phone": "+2399903927",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 47,
+  "name": "TropicalFerias",
+  "address": "Campo de Milho numero 85, Gonga Agua-Grande- S Tome, Sao Tome Island, São Tomé \u0026 Príncipe",
+  "phone": "+447399182692",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 48,
+  "name": "Residence Gabrielle",
+  "address": "Welfare Agroturismo | Roça Santa Luzia, Milagrosa, São Tomé \u0026 Príncipe",
+  "phone": "+2399853740",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 49,
+  "name": "HN City Center Hotel",
+  "address": "9P4C+P78, ES1, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 50,
+  "name": "ANA-EMANUEL",
+  "address": "Roça Vale dos Prazeres, Santo Amaro, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 51,
+  "name": "Unama Coastline House",
+  "address": "Estrada do Aeroporto, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392226599",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 52,
+  "name": "Vera Cruz Guest House",
+  "address": "8PMH+PP9, R. Barão Água Izé, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 53,
+  "name": "A Casa do Bruno",
+  "address": "Campo de Milho, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399932506",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 54,
+  "name": "Talatona Recidence",
+  "address": "Rua 3 Fevereiro, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399963838",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 55,
+  "name": "GENTE D'AQUI (Ngê D'ai êê)",
+  "address": "Welfare Agroturismo | Roça Santa Luzia, Milagrosa, São Tomé \u0026 Príncipe",
+  "phone": "+2399853740",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 56,
+  "name": "Casa Ediana, Casa Tiago",
+  "address": "9P48+J2W, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399903332",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 57,
+  "name": "Quinta da Buala",
+  "address": "2GQ7+R53, Porto Alegre, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 58,
+  "name": "Coisas Belas Guesthouse",
+  "address": "MCMV+PCF, Belo Monte, São Tomé \u0026 Príncipe",
+  "phone": "+2392226983",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 59,
+  "name": "Casa Tia Ana",
+  "address": "São Tomé \u0026 Príncipe, Sundi, ST Sundi Hotel Roça Sundy",
+  "phone": "+2399997000",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 60,
+  "name": "Sienna's Village Aparthotel",
+  "address": "9G2R+288, Neves, São Tomé \u0026 Príncipe",
+  "phone": "+2399908736",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 61,
+  "name": "Residencial Celva's",
+  "address": "Avenida Marginal 12 de Julho, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399867574",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 62,
+  "name": "Pensão Aurelice",
+  "address": "Rua do Padre Martinho Pinto da Rocha, Nº 893, São Tomé \u0026 Príncipe",
+  "phone": "+2399985437",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 63,
+  "name": "Roça Bombaim",
+  "address": "Rua de Angola, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392227551",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 64,
+  "name": "Paraíso dos Grelhados",
+  "address": "Avenida das Nações Unidas, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392227261",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 65,
+  "name": "Papa-Figo",
+  "address": "8PVG+42R, R. do Município, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 66,
+  "name": "Dona Teté",
+  "address": "8PQJ+MJM, R. de Moçambique, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392226530",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 67,
+  "name": "O Pirata",
+  "address": "8PHR+58F, Avenida Marginal 12 Julho, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399904353",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 68,
+  "name": "Xico's Café",
+  "address": "8PRP+RRF, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399912967",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 69,
+  "name": "Casa Museu Almada Negreiros",
+  "address": "Pç Amizade e Solidariedade entre os Povos, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392221557",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 70,
+  "name": "Filomar",
+  "address": "9P5C+P6R, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 71,
+  "name": "90 Graus Esplanada Bar",
+  "address": "Av. das Nações Unidas, 230 São Tomé e Príncipe, São Tomé \u0026 Príncipe",
+  "phone": "+2399980520",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 72,
+  "name": "Petisqueira Leo",
+  "address": "Roça Saudade Trindade, Sao Tome, São Tomé \u0026 Príncipe",
+  "phone": "+2399916172",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 73,
+  "name": "La Bistro",
+  "address": "8PHR+7JV, Estr. de Pantufo, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 74,
+  "name": "Sabor Intenso",
+  "address": "8PJM+G8C, Unnamed Rd, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 75,
+  "name": "Petisqueira Santola",
+  "address": "8PRP+HJC, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399907830",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 76,
+  "name": "Miónga",
+  "address": "8PWQ+379, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399939216",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 77,
+  "name": "Restaurante Celva's",
+  "address": "Av. da Independência 166, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399908820",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 78,
+  "name": "Pestana São Tomé",
+  "address": "8PWQ+4FQ, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399880412",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 79,
+  "name": "Casa das Artes Criação Ambiente e Utopias",
+  "address": "8P6X+X5V, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 80,
+  "name": "Omali São Tomé",
+  "address": "8PRP+PRR, R. de Goa, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 81,
+  "name": "Hotel central",
+  "address": "8PVF+CJW, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 82,
+  "name": "Sweet Guest House",
+  "address": "8PRP+7MR, Av. da Independência, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399870785",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 83,
+  "name": "Pestana Miramar São Tomé",
+  "address": "8PQG+8VW, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 84,
+  "name": "Quitanda Pitanguinha",
+  "address": "8PPJ+X8C, Rua de Angola, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399803888",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 85,
+  "name": "Dom Duarte",
+  "address": "Praia do Lagarto, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392222350",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 86,
+  "name": "Restaurante B9 Governo Sombra",
+  "address": "6PWR+WV, Santana, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 87,
+  "name": "Churasqueira do Riboque",
+  "address": "City Hall, Estrada, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399920777",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 88,
+  "name": "Tia Vicência",
+  "address": "Monte Café Trindade ST, Monte Café, São Tomé \u0026 Príncipe",
+  "phone": "+2399940398",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 89,
+  "name": "Hidden restaurant",
+  "address": "6P7F+52J, Unnamed Road, Ribeira Afonso, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 90,
+  "name": "The Airplane",
+  "address": "Av. Marginal 12 de Julho 851, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392244500",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 91,
+  "name": "Brisamar",
+  "address": "CM3M+6XX, Micoló, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 92,
+  "name": "Sabor Divino",
+  "address": "CM3P+CQW, ES10, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 93,
+  "name": "Onda Azul",
+  "address": "Manuel Pereira, 118 Monte Cafe Trindade ST, Monte Café, São Tomé \u0026 Príncipe",
+  "phone": "+2399940398",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 94,
+  "name": "Padaria Miguel Bernardo",
+  "address": "5JP7+G6W, st, Guayaquil, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 95,
+  "name": "Restaurante XS",
+  "address": "4JPX+MF3, EN nº 2, São João dos Angolares, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 96,
+  "name": "Detalhe",
+  "address": "9JGQ+V6Q, Unnamed Road e Príncipe, Guadalupe, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 97,
+  "name": "Roulote 47",
+  "address": "ST, Uba Quime, São Tomé \u0026 Príncipe",
+  "phone": "+2399989273",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 98,
+  "name": "Sabor Intenso",
+  "address": "Morro Peixe, GPS: 0.40600, 6.64189, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "040600664189",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 99,
+  "name": "Espaço Sombra do Abacateiro",
+  "address": "9G4X+CHH, Bairo Agua Tomá Rua dos Pescadores Neves, Neves, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 100,
+  "name": "Unnamed restaurant",
+  "address": "8PVG+42R, R. do Município, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 101,
+  "name": "Descontrair Espaço de Lazer",
+  "address": "6PRJ+8P, Santana, São Tomé \u0026 Príncipe",
+  "phone": "+2399905344",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 102,
+  "name": "Zima restaurante Bar",
+  "address": "8M24+JF6, Unnamed Road, Batepá, Alice, São Tomé \u0026 Príncipe",
+  "phone": "+2399903698",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 103,
+  "name": "Salama Snack Bar",
+  "address": "Bairro Quilombo, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399903374",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 104,
+  "name": "Cafeteira Incubadora",
+  "address": "7P4V+R38, R. Francisco Silva, Santana, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 105,
+  "name": "Doces da roça",
+  "address": "EN nº 2, São João dos Angolares, São Tomé \u0026 Príncipe",
+  "phone": "+2399922316",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 106,
+  "name": "Roulotte Pura Adrenalina",
+  "address": "escola Dona Maria de Jesus, Ponta Mina atras da, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 107,
+  "name": "Papa Petisco",
+  "address": "9P87+775, Estrada do aeroporto Praia Lagarto, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392221121",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 108,
+  "name": "Tentadora",
+  "address": "8PJM+489, estrada do aeroporto Priaia Lagarto, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399909755",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 109,
+  "name": "Complexo Mamá Muxima",
+  "address": "8PQP+J5M, Ave Amilcar Cabral, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399811379",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 110,
+  "name": "Beira Mar - Rolotte",
+  "address": "8PMQ+RJ2, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 111,
+  "name": "Complexo João Alemão",
+  "address": "9H52+FG7, Neves, São Tomé \u0026 Príncipe",
+  "phone": "+2399905562",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 112,
+  "name": "Restaurant next to Kizomba",
+  "address": "8PJM+8F6, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 113,
+  "name": "Príncipe Restaurante",
+  "address": "8PPJ+WHC, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 114,
+  "name": "Restaurante Benfica",
+  "address": "EN nº 2, Ribeira Afonso, São Tomé \u0026 Príncipe",
+  "phone": "+2399816300",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 115,
+  "name": "PORE DO SOL",
+  "address": "9P4F+J9R, Bairro do Hospital, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 116,
+  "name": "TOKA Gastrobar",
+  "address": "8P8V+C57, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 117,
+  "name": "Bombeiros",
+  "address": "8PVF+958, Rua do Padre Martinho Pinto da Rocha, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399912605",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 118,
+  "name": "COCONUT'S BAR",
+  "address": "Av. Marginal 12 de Julho 851, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392244500",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 119,
+  "name": "Vitally Mar Churrasco",
+  "address": "8PX7+GM9, Oque del Rei, São Tomé e Príncipe, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 120,
+  "name": "Petisqueira Santola",
+  "address": "8PWQ+6RJ, Avenida Marginal 12 Julho, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 121,
+  "name": "Xquizeat",
+  "address": "Praça Yon Gato, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399873066",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 122,
+  "name": "O CANTINHO DA DIANA",
+  "address": "9P3C+Q24, ES1, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399858531",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 123,
+  "name": "Bala Bala Bar (Praia Lagarto)",
+  "address": "8PHH+2RQ, VMC Road, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399909459",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 124,
+  "name": "Miónga",
+  "address": "8PQJ+3G3, Rua Patrice Lumumba, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 125,
+  "name": "Bala-Bala bar @Praia Lagarto",
+  "address": "8PQM+PVV, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 126,
+  "name": "Angélica Camblé",
+  "address": "8PQJ+8MM, Rua Patrice Lumumba, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 127,
+  "name": "Contentor",
+  "address": "8PPP+F2G, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399905788",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 128,
+  "name": "Restaurante Muxima Wame",
+  "address": "Av. Marginal 12 de Julho 26, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 129,
+  "name": "Casa Cantagalo Restaurante Leve Leve",
+  "address": "8PQM+Q89, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 130,
+  "name": "Galáxia STP Limitada",
+  "address": "Rua de Angola, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399014991",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 131,
+  "name": "Monte Mar Restaurante São Tomé",
+  "address": "Avenida 12 Julho, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399803424",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 132,
+  "name": "Café Nunes-25",
+  "address": "8PVC+9P9, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 133,
+  "name": "Restaurante Celva's",
+  "address": "8PJM+MPH, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399983580",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 134,
+  "name": "Taste Of INDIA",
+  "address": "8PPQ+7JC, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 135,
+  "name": "Grelhador de Celia",
+  "address": "8PPH+VWJ, Avenida Kwame N'kruma, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 136,
+  "name": "Café Pepe Bar Restaurante",
+  "address": "8PPJ+FMP, Avenida Água Grande, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 137,
+  "name": "Casa Dona Rosinha",
+  "address": "8PRP+FQ5, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399867340",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 138,
+  "name": "Firma Efraim",
+  "address": "8PQJ+8MM, Rua Patrice Lumumba, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 139,
+  "name": "Restaurante Tia Chichinta",
+  "address": "8PQG+JR8, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 140,
+  "name": "Lachonete Falcão",
+  "address": "Avenida Kwame N'kruma, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399904048",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 141,
+  "name": "Pestana São Tomé",
+  "address": "9PF7+7CP, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399015502",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 142,
+  "name": "Complexo Mirador",
+  "address": "8PRP+JR2, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 143,
+  "name": "Emoyeni Gardens Hotel",
+  "address": "8PPG+XRC, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 144,
+  "name": "Café Camões",
+  "address": "8PX9+8C, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 145,
+  "name": "Sabor da Ilha",
+  "address": "Av. Marginal 12 de Julho, 69 Água Grande, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392222778",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 146,
+  "name": "Ponto de Encontro",
+  "address": "Rua de Angola, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392227551",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 147,
+  "name": "Barraquinha n°8",
+  "address": "Praia do Lagarto, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392222350",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 148,
+  "name": "O Pátio",
+  "address": "EN nº 2, São João dos Angolares, São Tomé \u0026 Príncipe",
+  "phone": "+2399922316",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 149,
+  "name": "Mitwo's",
+  "address": "Av. Marginal 12 de Julho 851, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392244500",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 150,
+  "name": "Churrasqueira da Ganda",
+  "address": "9JGQ+V6Q, Unnamed Road e Príncipe, Guadalupe, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 151,
+  "name": "Comida Da Tânia",
+  "address": "Avenida 12 Julho, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399803424",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 152,
+  "name": "Bar da Bó -Autênticos sabores das Ilhas",
+  "address": "9H52+FG7, Neves, São Tomé \u0026 Príncipe",
+  "phone": "+2399905562",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 153,
+  "name": "Karaoke",
+  "address": "8PVQ+J5F, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392222625",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 154,
+  "name": "CYBER Computer",
+  "address": "8PQH+XX6, Av. Marginal 12 de Julho, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392224271",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 155,
+  "name": "TEC PONTE DIGITAL STP",
+  "address": "8PQH+G76, Av. Conceição, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399939731",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 156,
+  "name": "SOMEX, LDA (SUPER BOCK)",
+  "address": "8PRG+2WF, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 157,
+  "name": "Centro Comercial São Tomé",
+  "address": "Avenida Kwame N'kruma, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399893259",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 158,
+  "name": "Residencial Apresentacao",
+  "address": "J96V+W7F, Porto Real, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 159,
+  "name": "Albergaria Porcelana",
+  "address": "XGXC+MRW Ilhéu das Rolas, Porto Alegre, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 160,
+  "name": "Roça Água-Izé",
+  "address": "HCX7+3JP, Unnamed Road, Terreiro Velho, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 161,
+  "name": "Saint Nicholas Waterfall",
+  "address": "R. Barão Água Izé 586, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399904498",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 162,
+  "name": "National Museum",
+  "address": "8PWQ+9QV, Avenida Marginal 12 Julho, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392221874",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 163,
+  "name": "Forte de São Sebastião",
+  "address": "6P9G+433, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 164,
+  "name": "Pico Papagaio",
+  "address": "8PWQ+CR6 Forte de São Sebastião, Avenida Marginal 12 Julho, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 165,
+  "name": "Equator Landmark",
+  "address": "5GVX+C46, Monte Carmo, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 166,
+  "name": "Obo National Park",
+  "address": "14 rua Oua 23, Santo António, São Tomé \u0026 Príncipe",
+  "phone": "+2399964860",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 167,
+  "name": "O Qué Pipi Waterfall",
+  "address": "XGXC+XQW, Ilhéu das Rolas, Porto Alegre, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 168,
+  "name": "Cão Grande Peak",
+  "address": "ES1, Água Grande, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 169,
+  "name": "Museu do Mar e da Pesca Artesanal",
+  "address": "Rua de Angola, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392227551",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 170,
+  "name": "Praia dos Tamarindos",
+  "address": "MCMV+PCF, Belo Monte, São Tomé \u0026 Príncipe",
+  "phone": "+2392226983",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 171,
+  "name": "Lagoa Amélia",
+  "address": "Praia Sundi, Roça Sundy, Santo António, São Tomé \u0026 Príncipe",
+  "phone": "+2399995000",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 172,
+  "name": "Roça Paciencia",
+  "address": "8PQM+8MX, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392241700",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 173,
+  "name": "Pico de Sao Tome",
+  "address": "Ilhéu das rolas, Caué Sul, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 174,
+  "name": "Praia Jale",
+  "address": "33-B, Rua do Padre Martinho Pinto da Rocha, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392227276",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 175,
+  "name": "Museu Do Cafe",
+  "address": "2GQ7+R53, Porto Alegre, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 176,
+  "name": "Príncipe",
+  "address": "MCR2+JHX, Principe, Sundi, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 177,
+  "name": "Claudio Corallo - Cacao \u0026 Caffe São Tomé e Príncipe",
+  "address": "Avenida Marginal 12 Julho 1001, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 178,
+  "name": "São Tomé",
+  "address": "4JQX+J3J, Roça de São João Angolares, São Tomé \u0026 Príncipe",
+  "phone": "+2392261140",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 179,
+  "name": "Casa Museu Almada Negreiros",
+  "address": "Av. Marginal 12 de Julho 851, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392244500",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 180,
+  "name": "Bombaim",
+  "address": "Praia do Lagarto, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2392222350",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 181,
+  "name": "Santana",
+  "address": "Roça Saudade Trindade, Sao Tome, São Tomé \u0026 Príncipe",
+  "phone": "+2399916172",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 182,
+  "name": "Pestana São Tomé",
+  "address": "Roca de Porto Alegre, Sao Tome and Principe, São Tomé \u0026 Príncipe",
+  "phone": "+2399916552",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 183,
+  "name": "Santo Amaro",
+  "address": "R. da Caixa 201, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399957446",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 184,
+  "name": "Praia Seca",
+  "address": "7JQ6+FW7, Milagrosa, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 185,
+  "name": "Praia Santa Rita",
+  "address": "7JXR+W3G, Monte Café, São Tomé \u0026 Príncipe",
+  "phone": "+2399859167",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 186,
+  "name": "Praia Jalé Ecolodge",
+  "address": "Av. Amilcar Cabral São Tomé ST, Ave Amilcar Cabral, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399811379",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 187,
+  "name": "Principe",
+  "address": "7HJR+JCC, M. Vilela, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 188,
+  "name": "Hotel central",
+  "address": "MCCJ+GXR, Unnamed Road, Picão, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 189,
+  "name": "Sweet Guest House",
+  "address": "CJ4Q+G83, Morro Peixe, São Tomé \u0026 Príncipe",
+  "phone": "+2399913792",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 190,
+  "name": "Waterfall Devil Canyon",
+  "address": "7JPG+747, Monte Café, São Tomé \u0026 Príncipe",
+  "phone": "",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 191,
+  "name": "Belo Monte Hotel and Museum",
+  "address": "Av. Marginal 12 de Julho 851, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399959088",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 192,
+  "name": "Real Equator",
+  "address": "Avenida 12 de julho - Marginale, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399981234",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 193,
+  "name": "In Modas",
+  "address": "Avenida Marginal 12 de Julho, São Tomé, São Tomé \u0026 Príncipe",
+  "phone": "+2399970010",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 194,
+  "name": "Hotel Veneza Ribeirao Das Neves",
+  "address": "9G2R+288, Neves, São Tomé \u0026 Príncipe",
+  "phone": "+2399908736",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ },
+ {
+  "id": 195,
+  "name": "Ti Hostel",
+  "address": "7JXR+W3G, Monte Café, São Tomé \u0026 Príncipe",
+  "phone": "+2399859167",
+  "country-code": "ST",
+  "country": "Sao Tome and Principe"
+ }
+]

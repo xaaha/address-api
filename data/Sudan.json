@@ -1,0 +1,6642 @@
+[
+ {
+  "id": 1,
+  "name": "Corinthia Hotel",
+  "address": "HGXG+6XX South of Sayid Abdelrahman Street, Khartoum, Sudan",
+  "phone": "+249900926161",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 2,
+  "name": "Plaza Hotel",
+  "address": "Omak Street, Almanshiya, Nile St, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 3,
+  "name": "Coral Hotel",
+  "address": "15th St, Khartoum, Sudan",
+  "phone": "+249900902157",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 4,
+  "name": "Khartoum Plaza Hotel",
+  "address": "Arabi, Khartoum, Sudan",
+  "phone": "+249117647119",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 5,
+  "name": "Kabri Touristic Hotel",
+  "address": "Ebed Khatim St, Khartoum, Sudan",
+  "phone": "+249912140648",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 6,
+  "name": "Regency Hotel",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249183775972",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 7,
+  "name": "White Tower Hotel Apartments",
+  "address": "Sayed Abdul Rahman Ave, Khartoum, Sudan",
+  "phone": "+249912366603",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 8,
+  "name": "Bougainvilla Hotel",
+  "address": "Jamaa Street Al Mogran Area, Khartoum, Sudan",
+  "phone": "+249183774100",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 9,
+  "name": "Soluxe Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "+249183521640",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 10,
+  "name": "Kanon Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 11,
+  "name": "Nantong Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "+249960979804",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 12,
+  "name": "Prince Suites Hotel",
+  "address": "GGHV+MQJ، Unnamed Road, الخرطوم،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 13,
+  "name": "Maziya Residence",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249183567585",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 14,
+  "name": "City Flats Hotel",
+  "address": "Nile Street, Khartoum, Sudan",
+  "phone": "+249187155555",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 15,
+  "name": "Al Salam Hotel",
+  "address": "GH25+7X6، ولاية الخرطوم،, Khartoum, Sudan",
+  "phone": "+249123089631",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 16,
+  "name": "Alahlam Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 17,
+  "name": "Abbasher Palace Hotel",
+  "address": "JG2C+XC4، Al Souq Al Arabi، الخرطوم،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 18,
+  "name": "5M Hotel",
+  "address": "السودان ٢, Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 19,
+  "name": "Dubai hotel",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 20,
+  "name": "Kanon Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 21,
+  "name": "Ewa Hotel Apartment",
+  "address": "GGGV+37M، الخرطوم،, Khartoum, Sudan",
+  "phone": "+249966350759",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 22,
+  "name": "Royal Plaza Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "+249917518981",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 23,
+  "name": "Cannes Hotel",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 24,
+  "name": "Great Wall Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 25,
+  "name": "Senopper hotel",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 26,
+  "name": "Paradise Hotel",
+  "address": "Memory Rd, Khartoum, Sudan",
+  "phone": "+249906467900",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 27,
+  "name": "Downtown Hotel \u0026 Business Center",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 28,
+  "name": "Acropole Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 29,
+  "name": "Khartoum 2 Hotel",
+  "address": "47th St, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 30,
+  "name": "City Plaza Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "+249123032408",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 31,
+  "name": "Rosan Park Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "+249966387789",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 32,
+  "name": "Goba Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "+249111787272",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 33,
+  "name": "Diamond Blue hotel",
+  "address": "HHQP+WCX، المـنـــشـــيــة، الخرطوم،, Khartoum, Sudan",
+  "phone": "+249912301910",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 34,
+  "name": "Sudan Hotel",
+  "address": "GH25+7X6، ولاية الخرطوم،, Khartoum, Sudan",
+  "phone": "+249156555555",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 35,
+  "name": "Himont Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 36,
+  "name": "Sindian Hotel",
+  "address": "Unnamed Road, Khartoum, Sudan",
+  "phone": "+249905539561",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 37,
+  "name": "Lando Orchid Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 38,
+  "name": "Rowanya Hotel \u0026 Restaurant",
+  "address": "Madani St, Khartoum, Sudan",
+  "phone": "+249910008850",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 39,
+  "name": "Grand Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "+249157875070",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 40,
+  "name": "Meroë Hotel",
+  "address": "GH25+7X6، ولاية الخرطوم،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 41,
+  "name": "La Lune Palace Hotel Apartments",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249183771097",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 42,
+  "name": "Habitat Tower Hotel Appartement",
+  "address": "Sayed Abdul Rahman Ave, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 43,
+  "name": "Horizon Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "+249183595815",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 44,
+  "name": "Guest House Jordah",
+  "address": "HGXG+74P، Unnamed Road, الخرطوم،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 45,
+  "name": "Prince Hotel",
+  "address": "Katharina St, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 46,
+  "name": "Sudan hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "+249912311034",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 47,
+  "name": "Aywa Hotel Khartoum",
+  "address": "JHCF+XP9، ش الشيخ ادريس ابراهيم، الخرطوم بحري،, Khartoum North, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 48,
+  "name": "الخلفاء للشقق الفندقية",
+  "address": "Khartoum, Sudan",
+  "phone": "+249912385687",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 49,
+  "name": "Hotel China",
+  "address": "Khartoum, Sudan",
+  "phone": "+249995562602",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 50,
+  "name": "Mariam Hotel",
+  "address": "Sayed Abdul Rahman Ave, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 51,
+  "name": "Shamlo Guest House",
+  "address": "Street 117, Khartoum, Sudan",
+  "phone": "+249905690009",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 52,
+  "name": "Kabri Alsham Hotel",
+  "address": "HGXF+637، الخرطوم،, Khartoum, Sudan",
+  "phone": "+249912422881",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 53,
+  "name": "Hotel Lebanese arena",
+  "address": "Khartoum, Sudan",
+  "phone": "+249905926753",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 54,
+  "name": "Top Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "+249183741931",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 55,
+  "name": "Dadnas hotel",
+  "address": "Mohammed Najeeb St, Khartoum, Sudan",
+  "phone": "+249918844433",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 56,
+  "name": "Luxury Hotel Apartments",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249154884444",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 57,
+  "name": "Landmark resort",
+  "address": "Khartoum, Sudan",
+  "phone": "+249912356789",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 58,
+  "name": "Menshia Hotel",
+  "address": "El Jami Ave, Khartoum, Sudan",
+  "phone": "+249122033310",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 59,
+  "name": "فندق تمام",
+  "address": "Khartoum, Sudan",
+  "phone": "+249183740133",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 60,
+  "name": "Popular Khartoum hotel",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249999913300",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 61,
+  "name": "Lan Tian Motel",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249922280003",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 62,
+  "name": "Al Waleed Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "+249999680190",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 63,
+  "name": "فندق سمت SMT HOTEL",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 64,
+  "name": "مطعم و فندق افريكا هاوس",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249920905936",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 65,
+  "name": "Lord Hotel",
+  "address": "GH25+7X6، ولاية الخرطوم،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 66,
+  "name": "Khartoum YHA",
+  "address": "Sahafa Ave, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 67,
+  "name": "فندق تولان السياحي",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 68,
+  "name": "Anaam",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 69,
+  "name": "فندق الدوحة",
+  "address": "Abdul Moneim Mohammed St, Khartoum, Sudan",
+  "phone": "+249991443355",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 70,
+  "name": "HOTEL KARWAL",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 71,
+  "name": "Mile One House",
+  "address": "Cairo St, Khartoum, Sudan",
+  "phone": "+249900000132",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 72,
+  "name": "Lisamin Safari Hotel",
+  "address": "41st St, Khartoum, Sudan",
+  "phone": "+249125871255",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 73,
+  "name": "برج النرجس",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249183403605",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 74,
+  "name": "Rawaq Apartments Hotel",
+  "address": "شرق النادي, King Abdel Aziz Street, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 75,
+  "name": "Bahrain International Hotel",
+  "address": "Nile St, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 76,
+  "name": "Manshiya Apartments",
+  "address": "Ebed Khatim St, Khartoum, Sudan",
+  "phone": "+249155670616",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 77,
+  "name": "CoRinthia",
+  "address": "Street 117, Khartoum, Sudan",
+  "phone": "+249155277772",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 78,
+  "name": "Noura Suites",
+  "address": "Khartoum, Sudan",
+  "phone": "+249920101284",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 79,
+  "name": "Cantrela Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "+249183565956",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 80,
+  "name": "فندق هارموني",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 81,
+  "name": "Alaietidal Hotel الأعتدال للشقق الفندقيه",
+  "address": "Sayed Abdul Rahman Ave, Khartoum, Sudan",
+  "phone": "+249155888866",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 82,
+  "name": "Dare Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 83,
+  "name": "MR AWAB HOUSE",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249183774039",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 84,
+  "name": "منطقة الأبراج",
+  "address": "Khartoum, Sudan",
+  "phone": "+249121534720",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 85,
+  "name": "El Razi Hostel فندق الرازي",
+  "address": "JH4G+G9H، Al Barari (Hay Al، Shati'e، Al Safa Road, Khartoum, Sudan",
+  "phone": "+249183288800",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 86,
+  "name": "ALFAJIR APARTMENTS",
+  "address": "Khartoum, Sudan",
+  "phone": "+249183288500",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 87,
+  "name": "Khartoum Youth Hostel",
+  "address": "Khartoum, Sudan",
+  "phone": "+249962226333",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 88,
+  "name": "White Tower Hotel Apartments",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249126066624",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 89,
+  "name": "امنة للشقق المفروشة",
+  "address": "HGPQ+57H، Ozone Park SQ، شارع احمد خير, Khartoum, Sudan",
+  "phone": "+249183464611",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 90,
+  "name": "Swan Hotel, Khartoum",
+  "address": "Khartoum, Sudan",
+  "phone": "+249183790802",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 91,
+  "name": "منزل حامد سالم",
+  "address": "JGCP+P58، الختمية، الخرطوم بحري،, Khartoum North, Sudan",
+  "phone": "+249123114825",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 92,
+  "name": "فندق جالو الشعبي",
+  "address": "55th Ave E, Khartoum, Sudan",
+  "phone": "+249922222099",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 93,
+  "name": "Wadi Halfa Hotel",
+  "address": "Intersection between, 47 Al Mufti St, Khartoum, Sudan",
+  "phone": "+249183567585",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 94,
+  "name": "STAR HOTEL",
+  "address": "Khartoum, Sudan",
+  "phone": "+249187199000",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 95,
+  "name": "شارع عثمان القاضي",
+  "address": "37th 35th Ave, Khartoum, Sudan",
+  "phone": "+249900902163",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 96,
+  "name": "البيت الفندق السودان",
+  "address": "49th St, Khartoum 11111, Sudan",
+  "phone": "9+64911111",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 97,
+  "name": "فندق الصافات",
+  "address": "Africa St, Khartoum, Sudan",
+  "phone": "+249187007777",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 98,
+  "name": "Al Nuba Restaurant",
+  "address": "Unnamed Road, Khartoum - الخرطوم،, الخرطوم،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 99,
+  "name": "Assaha Restaurant",
+  "address": "Sayed Abdul Rahman Ave, Khartoum, Sudan",
+  "phone": "+249999920251",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 100,
+  "name": "Amwaj Restaurant",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 101,
+  "name": "Sultana Restaurant",
+  "address": "Africa St, Khartoum, Sudan",
+  "phone": "+249918288890",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 102,
+  "name": "Papa Costa Resturant",
+  "address": "Khartoum, Sudan",
+  "phone": "+249999000402",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 103,
+  "name": "Bangkok Restaurant",
+  "address": "El Gamhuriya Ave, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 104,
+  "name": "In 'N' Out Restaurant",
+  "address": "Algazaar Road, Khartoum, Sudan",
+  "phone": "+249999244410",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 105,
+  "name": "Spectra Restaurant \u0026 Cafe",
+  "address": "Khartoum, Sudan",
+  "phone": "+249921155111",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 106,
+  "name": "Laziz Restaurant",
+  "address": "22 Africa St., Khartoum,Sudan, Africa St, Khartoum, Sudan",
+  "phone": "+249123552308",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 107,
+  "name": "Dice Grill \u0026 Pizza",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 108,
+  "name": "Cedar Resturant",
+  "address": "شارع عبدالفضيل الماظ،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 109,
+  "name": "Roots Bistro Café",
+  "address": "Elgorashi Garden, El Taiyer Zulfu St S, Khartoum, Sudan",
+  "phone": "+249117447844",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 110,
+  "name": "Le Grill",
+  "address": "شارع مكة, Khartoum, Sudan",
+  "phone": "+249997774777",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 111,
+  "name": "Hanno’s Restaurant",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 112,
+  "name": "Ozone Restaurant",
+  "address": "Khartoum, Sudan",
+  "phone": "+249994806597",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 113,
+  "name": "Rickshaw Restaurant",
+  "address": "Khartoum, Sudan",
+  "phone": "+249900943332",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 114,
+  "name": "Manuella Restaurant",
+  "address": "The block between western end of street 15 and street 11, الخرطوم،, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 115,
+  "name": "Luxury Pastry \u0026 Resturant",
+  "address": "Khartoum, Sudan",
+  "phone": "+249100444044",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 116,
+  "name": "Tannoor Inn",
+  "address": "Khartoum, Sudan",
+  "phone": "+249910401000",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 117,
+  "name": "AlRaqi",
+  "address": "Unnamed Road،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 118,
+  "name": "Yum Yum Resturant",
+  "address": "HG9V+XWH، شارع مدثر الحجاز, Khartoum, Sudan",
+  "phone": "+249912625954",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 119,
+  "name": "نص ضربه",
+  "address": "just off Street 117, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 120,
+  "name": "Manuella Restaurant",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 121,
+  "name": "Luxury Pastry \u0026 Resturant",
+  "address": "Street 117, Khartoum, Sudan",
+  "phone": "+249126011180",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 122,
+  "name": "Tannoor Inn",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249912197839",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 123,
+  "name": "Alamarat Agashi",
+  "address": "Khartoum, Sudan",
+  "phone": "+249912385759",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 124,
+  "name": "Hashtag Extra Food",
+  "address": "Khartoum, Sudan",
+  "phone": "+249121222222",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 125,
+  "name": "Subway Sudan",
+  "address": "Block 68، 601, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 126,
+  "name": "Restaurant \u0026 Cafe Piano",
+  "address": "Khartoum, Sudan",
+  "phone": "+249995505100",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 127,
+  "name": "Picnic Restaurant",
+  "address": "Khartoum, Sudan",
+  "phone": "+249913988844",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 128,
+  "name": "Makan Café and Restaurant",
+  "address": "Al-Mashtal St, Khartoum, Sudan",
+  "phone": "+249910071860",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 129,
+  "name": "Universal Cafe",
+  "address": "Unnamed Road،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 130,
+  "name": "Jory restaurant",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 131,
+  "name": "Maple Cafe \u0026 Restaurant",
+  "address": "شارع النيل،, Khartoum, Sudan",
+  "phone": "+249992840113",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 132,
+  "name": "Pistachio Restaurant",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 133,
+  "name": "Paprika",
+  "address": "Khartoum, Sudan",
+  "phone": "+249123767535",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 134,
+  "name": "corner café and pizzeria",
+  "address": "just off Street 117, Khartoum, Sudan",
+  "phone": "+249912350739",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 135,
+  "name": "Topkapi Restaurant",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 136,
+  "name": "Saj al-Samak",
+  "address": "29th St, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 137,
+  "name": "TAJ MAHAL INDIAN RESTAURANT",
+  "address": "1st St, Khartoum, Sudan",
+  "phone": "+249919044444",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 138,
+  "name": "Kit Kat",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249111999937",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 139,
+  "name": "مطعم وكافتريا ياضلنا",
+  "address": "Khartoum, Sudan",
+  "phone": "+249998818999",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 140,
+  "name": "Marib Yemeni Restaurant",
+  "address": "Khartoum, Sudan",
+  "phone": "+249121100008",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 141,
+  "name": "Bangkok Restaurant",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249966644654",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 142,
+  "name": "مطعم الصلاة على النبي",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249111151313",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 143,
+  "name": "Africa Village Resturant",
+  "address": "Mecca Street, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 144,
+  "name": "Nimir's Pizzeria",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249909900006",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 145,
+  "name": "Ritz Cafe \u0026 Restaurant",
+  "address": "شارع أفريقيا، الخرطوم،, Khartoum, Sudan",
+  "phone": "+249113333966",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 146,
+  "name": "African Garden",
+  "address": "الطائف، الخرطوم،،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 147,
+  "name": "Bukhari House Restaurant",
+  "address": "Unnamed Road, Khartoum, Sudan",
+  "phone": "+249925559118",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 148,
+  "name": "Endo Mando Family Restaurant",
+  "address": "Khartoum, Sudan",
+  "phone": "+249967677060",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 149,
+  "name": "Orchestra Restaurant",
+  "address": "Mecca Street, Khartoum, Sudan",
+  "phone": "+249902793252",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 150,
+  "name": "Ribs Grills",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 151,
+  "name": "Salt 'n' Pepper",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 152,
+  "name": "أقاشي X",
+  "address": "Khartoum, Sudan",
+  "phone": "+249127999889",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 153,
+  "name": "Atmosphere Restaurant \u0026 Cafe",
+  "address": "شارع المشتل،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 154,
+  "name": "مطعم وكافتيريا البيت المصري",
+  "address": "Khartoum, Sudan",
+  "phone": "+249117777732",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 155,
+  "name": "Babel Restaurant",
+  "address": "Mecca Street, Khartoum, Sudan",
+  "phone": "+249123009199",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 156,
+  "name": "Princess Restaurant coastwise",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 157,
+  "name": "Kababji",
+  "address": "Ebed Khatim St, Khartoum, Sudan",
+  "phone": "+249910110916",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 158,
+  "name": "Dodi Restaurant",
+  "address": "HHVQ+HC8 الواجهه النهريه, Nile St, Khartoum, Sudan",
+  "phone": "+249995000050",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 159,
+  "name": "Super",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249928714080",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 160,
+  "name": "Mother Restaurant",
+  "address": "Unnamed Road, Khartoum, Sudan",
+  "phone": "+249962339756",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 161,
+  "name": "Flafel Ala Kaifak",
+  "address": "Corinthia, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 162,
+  "name": "Aish wa Milh",
+  "address": "53 Africa St, Khartoum, Sudan",
+  "phone": "+249912944602",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 163,
+  "name": "Bab Al Yemen",
+  "address": "Along, Safaa Street, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 164,
+  "name": "Retro Restaurant \u0026 Café",
+  "address": "37th 35th Ave, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 165,
+  "name": "WE BURGER",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249123051111",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 166,
+  "name": "Universal Restaurant",
+  "address": "Ahmed Makki Abdu St, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 167,
+  "name": "مطعم بيت حبوبة",
+  "address": "Mohammed Najeeb St, Khartoum, Sudan",
+  "phone": "+249995555596",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 168,
+  "name": "Shawarger",
+  "address": "Khartoum, Sudan",
+  "phone": "+249911317996",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 169,
+  "name": "Chicken For You",
+  "address": "Aria 3 Block 1، Abualgasim Hashim Road, Khartoum, Sudan",
+  "phone": "+249920279000",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 170,
+  "name": "Barcelona Foods",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 171,
+  "name": "LAN TIAN, restaurant of SICHUAN, China",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249924496049",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 172,
+  "name": "Azal Yemen restaurant",
+  "address": "الرياض، الخرطوم، السودان - شارع، 117, Street 117, Khartoum, Sudan",
+  "phone": "+249904444777",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 173,
+  "name": "Ritz",
+  "address": "41st St, Khartoum, Sudan",
+  "phone": "+249123333930",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 174,
+  "name": "pizza +",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249909582305",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 175,
+  "name": "Rozel Restaurant",
+  "address": "Algazaar Road, Khartoum, Sudan",
+  "phone": "+249117002000",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 176,
+  "name": "Muram Ethiopian restuarant",
+  "address": "HGGV+3VW، شارع بادي أبودقن, Khartoum, Sudan",
+  "phone": "+249912307796",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 177,
+  "name": "شموخ النيل للسياحة النيلية",
+  "address": "1st St, Khartoum, Sudan",
+  "phone": "+249112910248",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 178,
+  "name": "Traditional Restaurant",
+  "address": "Al Safa Rd, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 179,
+  "name": "61 Popular Restaurant",
+  "address": "الجزار, الرياض، شارع, Sudan",
+  "phone": "+249912367487",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 180,
+  "name": "كازنوفا بروست",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249900009197",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 181,
+  "name": "Fish Resort",
+  "address": "38 Algazaar Road, Khartoum, Sudan",
+  "phone": "+249901232318",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 182,
+  "name": "لؤلؤة النيل للسياحة النيلية",
+  "address": "HGQP+8H2، Near Badr Park, Al Jazira St, Khartoum, Sudan",
+  "phone": "+249923759727",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 183,
+  "name": "بامبو بيرقر",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249964749502",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 184,
+  "name": "مطعم هفت لي hafat lay",
+  "address": "Mohammed Najeeb St, Khartoum, Sudan",
+  "phone": "+249925088688",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 185,
+  "name": "KAK Fried Chicken",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249155330333",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 186,
+  "name": "Aspawa Turkish Resturant",
+  "address": "HGQP+8H2، Near Badr Park, Al Jazira St, Khartoum, Sudan",
+  "phone": "+249923759727",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 187,
+  "name": "Chicano Restaurant",
+  "address": "Ebed Khatim St, Khartoum, Sudan",
+  "phone": "+249901111116",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 188,
+  "name": "عبد الوهاب وأولاده للفول والفلافل",
+  "address": "Khartoum, Sudan",
+  "phone": "+249994443333",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 189,
+  "name": "مطعم السندة",
+  "address": "Al Mufti St, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 190,
+  "name": "Taotao Restaurant",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249155330333",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 191,
+  "name": "مطعم على كيفك",
+  "address": "Ebed Khatim St, Khartoum, Sudan",
+  "phone": "+249901111116",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 192,
+  "name": "Chef's Burger \u0026 Crepe",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249123153491",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 193,
+  "name": "Ethiopian Restaurant مطعم اثيوبيا",
+  "address": "18th Floor, Corinthia Hotel, Nile St, Khartoum, Sudan",
+  "phone": "+249900900545",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 194,
+  "name": "Falfelha - فلفلها",
+  "address": "Khartoum, Sudan",
+  "phone": "+249955775433",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 195,
+  "name": "Dan's Restaurant",
+  "address": "HGPQ+34R، شارع احمد خير, Khartoum, Sudan",
+  "phone": "+249155884170",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 196,
+  "name": "Al-Waha Mall",
+  "address": "HGPQ+3J8، شارع احمد خير, Khartoum, Sudan",
+  "phone": "+249912224910",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 197,
+  "name": "City Plaza Mall",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249919924199",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 198,
+  "name": "Polo frenzy mall",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 199,
+  "name": "الرياض مول / Al Riyadh mall",
+  "address": "شارع أفريقيا، Khartoum, الخرطوم،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 200,
+  "name": "Al Riyadh shopping Mall",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249122791238",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 201,
+  "name": "Magdi center مجدي سنتر",
+  "address": "Ground floor Africa St, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 202,
+  "name": "بقالة الضفاف",
+  "address": "Abdul Moneim Mohammed St, Khartoum, Sudan",
+  "phone": "+249183740074",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 203,
+  "name": "Al-Anfal Shopping Center",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 204,
+  "name": "Abualfadil Plaza",
+  "address": "Khartoum, Sudan",
+  "phone": "+249910000080",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 205,
+  "name": "Alanfal Mall",
+  "address": "HFP4+486، Unnamed Road, Omdurman, Sudan",
+  "phone": "+249912803694",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 206,
+  "name": "Alzaytona Shopping Center",
+  "address": "Unnamed Road, Khartoum North, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 207,
+  "name": "Hypersale",
+  "address": "Tutui Ring Road, Khartoum, Sudan",
+  "phone": "+249917113366",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 208,
+  "name": "Dawha Aliman Center",
+  "address": "Al-Inqaz St, Khartoum North, Sudan",
+  "phone": "+249903763737",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 209,
+  "name": "Ela Trade Center",
+  "address": "Khartoum, Sudan",
+  "phone": "+249922138183",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 210,
+  "name": "مركز بروتين | Protein center",
+  "address": "Al Ma'arad St, Khartoum, Sudan",
+  "phone": "+249110006000",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 211,
+  "name": "Maksoum Trading Center",
+  "address": "حلة كوكو, Khartoum, Sudan",
+  "phone": "+249918303900",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 212,
+  "name": "أبو الفاضل بلازا",
+  "address": "El Taiyar El Gameil St, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 213,
+  "name": "Barna \u0026 Fahim Center",
+  "address": "Unnamed Road, أم درمان،،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 214,
+  "name": "Jewelry and Gold Hyper Mart",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 215,
+  "name": "مجمع الرشيد موسي التجاري 2",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 216,
+  "name": "shea butter center",
+  "address": "Saleh Pasha El Mek St, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 217,
+  "name": "Amarat Shopping center",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 218,
+  "name": "Senyr Shopping Center",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 219,
+  "name": "Abualfadil Plaza",
+  "address": "محطة سبعة, Sahafa Ave, Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 220,
+  "name": "Al Amarat Center",
+  "address": "HH5C+CHV، أركويت، الخرطوم،, Khartoum, Sudan",
+  "phone": "+249917937676",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 221,
+  "name": "Namak Plaza",
+  "address": "شارع الصحافة زلط، Khartoum, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 222,
+  "name": "Al-Nuhaisy Shopping center",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249911268886",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 223,
+  "name": "Joyous Center",
+  "address": "Al Hurriya Ave, Khartoum, Sudan",
+  "phone": "+249903899333",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 224,
+  "name": "Ahlan Shopping Center",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 225,
+  "name": "Alamarat Centre",
+  "address": "MF8Q+4PM، الركابية، أم درمان،, Omdurman, Sudan",
+  "phone": "+249912314987",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 226,
+  "name": "Kush mall",
+  "address": "Khartoum, Sudan",
+  "phone": "+249929001901",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 227,
+  "name": "Harlem Plaza",
+  "address": "Street 117, Khartoum, Sudan",
+  "phone": "+249124015754",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 228,
+  "name": "Al Asdiqaa Center Mobile Services",
+  "address": "HGHX+FX6، العمارات، الخرطوم،, Khartoum, Sudan",
+  "phone": "+249909000068",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 229,
+  "name": "Well being Center",
+  "address": "Omdurman, Sudan",
+  "phone": "+249914655764",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 230,
+  "name": "معرض ترهاقا",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249155164873",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 231,
+  "name": "Alnujoma for cooling and air conditioning",
+  "address": "MF6Q+QPP، Unnamed Road, أم درمان،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 232,
+  "name": "Elan Fashion إيــلان فاشــون",
+  "address": "Omdurman, Sudan",
+  "phone": "+249123448815",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 233,
+  "name": "Alrahma center",
+  "address": "1 Quds St, Khartoum, Sudan",
+  "phone": "+249915006333",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 234,
+  "name": "Everest Center",
+  "address": "Khartoum, Sudan",
+  "phone": "+249116144447",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 235,
+  "name": "نبوية إستايل للملابس",
+  "address": "Omdurman, Sudan",
+  "phone": "+249999588888",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 236,
+  "name": "بخورات المرشد",
+  "address": "Omdurman, Sudan",
+  "phone": "+249912797054",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 237,
+  "name": "اورينت سنتر Orient Center",
+  "address": "HGXG+WFM، Unnamed Road, الخرطوم،, Khartoum, Sudan",
+  "phone": "+249900226699",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 238,
+  "name": "In time hypermarket",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 239,
+  "name": "Misk Center",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 240,
+  "name": "Tineer center",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 241,
+  "name": "Orcal Advertising Art Production",
+  "address": "Al Shargi St, Khartoum, Sudan",
+  "phone": "+249999900686",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 242,
+  "name": "Petty Center Supermarket",
+  "address": "Khartoum, Sudan",
+  "phone": "+249900000000",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 243,
+  "name": "Merouj Goods Distribution Center",
+  "address": "El Jami Ave, Khartoum 11111, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 244,
+  "name": "Al Rasheed Awedalkreem Belding",
+  "address": "مربع 47، الخرطوم،،, Khartoum, Sudan",
+  "phone": "+249123756023",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 245,
+  "name": "AlMaimona Lifestyle Center",
+  "address": "Khartoum, Sudan",
+  "phone": "+249916667999",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 246,
+  "name": "تبارك للتسوق العائلي Tabark shopping center",
+  "address": "Khartoum North, Sudan",
+  "phone": "+249912988779",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 247,
+  "name": "Abusciba Center for poultry products and dairy",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 248,
+  "name": "Abualfadl Markets",
+  "address": "15th St, Khartoum, Sudan",
+  "phone": "+249112770060",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 249,
+  "name": "Abouhsas Trade Center",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 250,
+  "name": "Sinkaka Hotel apartments",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 251,
+  "name": "آل عبدالمجيد عبدالغني محمد",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 252,
+  "name": "Al Marfa Hotel",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 253,
+  "name": "بابكر محمد الحسن البشير",
+  "address": "Omdurman, Sudan",
+  "phone": "+249187450045",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 254,
+  "name": "عبد الصمد فندق",
+  "address": "Unnamed Road, Omdurman - أم درمان،, Omdurman, Sudan",
+  "phone": "+249902666002",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 255,
+  "name": "Garden Hotel",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 256,
+  "name": "عثمان عبد الماجد بشاره (بوكو)",
+  "address": "Al-Tasa'h, Al-Thawra Omdurman، أم درمان،،, Omdurman, Sudan",
+  "phone": "+249923392187",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 257,
+  "name": "Bani’s Family House2",
+  "address": "شارع السلام،, Omdurman, Sudan",
+  "phone": "+249187713890",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 258,
+  "name": "شقق الحفيان الفندقية",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 259,
+  "name": "رامي و مظفر",
+  "address": "Al Mourada Street, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 260,
+  "name": "فندق الفارابي",
+  "address": "أم درمان،،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 261,
+  "name": "Maryland Hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 262,
+  "name": "فندق البك",
+  "address": "Khartoum, Sudan",
+  "phone": "+249905926753",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 263,
+  "name": "عمارة عادل النور 2 Adil Elnour's Hotel",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 264,
+  "name": "مربع 50",
+  "address": "شارع مدني (7, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 265,
+  "name": "شقه مهند",
+  "address": "Omdurman, Sudan",
+  "phone": "+249912480708",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 266,
+  "name": "برج ابروف للشقق الفندقية",
+  "address": "PF7G+W94، أم درمان،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 267,
+  "name": "فندق رنين السياحي",
+  "address": "HGWG+V64، Unnamed Road, الخرطوم،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 268,
+  "name": "بيت ناس دكوري",
+  "address": "الفردوس شمال، الخرطوم،, Khartoum, Sudan",
+  "phone": "+249123013050",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 269,
+  "name": "شقق سكنيه",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 270,
+  "name": "Ahmed Abd Alalim House",
+  "address": "Khartoum, Sudan",
+  "phone": "+249995562602",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 271,
+  "name": "Abbasher Palace Hotel",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 272,
+  "name": "عمارة عبداللطيف للشقق المفروشة",
+  "address": "شارع الثورة بالنص،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 273,
+  "name": "Zeyada house",
+  "address": "HGXG+6XX South of Sayid Abdelrahman Street, Khartoum, Sudan",
+  "phone": "+249900926161",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 274,
+  "name": "Safi House",
+  "address": "49th St, Khartoum 11111, Sudan",
+  "phone": "9+64911111",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 275,
+  "name": "Abd elmonem house",
+  "address": "Khartoum, Sudan",
+  "phone": "+249122996308",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 276,
+  "name": "Alahlam Hotel",
+  "address": "MGW5+V5V، الواحة، أم درمان،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 277,
+  "name": "Senopper hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "+249157875070",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 278,
+  "name": "البيت",
+  "address": "JC8X+HGX، حي البستان، أم درمان،, Ombada, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 279,
+  "name": "برطم",
+  "address": "M9GX+FW2، شارع دنقلا، أم درمان،, Ombada, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 280,
+  "name": "Al Salam Hotel",
+  "address": "شارع المجاهدين، الخرطوم،،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 281,
+  "name": "فندق صديق العودابي",
+  "address": "Sayed Abdul Rahman Ave, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 282,
+  "name": "التجاني سعد",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249906129657",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 283,
+  "name": "فندق منتصرالسياحي",
+  "address": "Unnamed Road, Khartoum - الخرطوم،،, Khartoum, Sudan",
+  "phone": "+249962766156",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 284,
+  "name": "Al Sahar Hotel",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 285,
+  "name": "داخليه المنيره لسكن الطالبات",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 286,
+  "name": "بيت ناس كوجينا",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 287,
+  "name": "1 Adil Elnour's Hotel",
+  "address": "JCV9+5GR، أمبدة،, Ombada, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 288,
+  "name": "فندق البوسته",
+  "address": "Khartoum, Sudan",
+  "phone": "+249912356789",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 289,
+  "name": "Arabi hotel",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 290,
+  "name": "فندق الحديقة/ Al hadeeqa hotel",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 291,
+  "name": "Maziya Residence",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 292,
+  "name": "فندق هالف مون Half Moon hotel",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 293,
+  "name": "شمس الدين",
+  "address": "Sudan h34, Althawra Belnos St, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 294,
+  "name": "فندق الخيام",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 295,
+  "name": "فندق النيل بلازا",
+  "address": "حى العمدة غرب، أم درمان،،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 296,
+  "name": "بكري ضوينا",
+  "address": "JC7W+V4W، حي البستان، أم درمان،, Ombada, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 297,
+  "name": "A-Alaouf Ali",
+  "address": "السوق الشعبي امدرمان, Omdurman, Sudan",
+  "phone": "+249963951922",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 298,
+  "name": "وكالة 7Abbo للعقارات والاستثمار",
+  "address": "Khartoum North, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 299,
+  "name": "حمودي للشقق الفندقية",
+  "address": "Babiker Badri St, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 300,
+  "name": "الدكتور شقق مفروشة",
+  "address": "Omdurman, Sudan",
+  "phone": "+249611822884",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 301,
+  "name": "فندق اوبرا opera hotel",
+  "address": "MF2Q+39R، أم درمان،, Omdurman, Sudan",
+  "phone": "+249923720777",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 302,
+  "name": "فندق السواقي",
+  "address": "Khartoum, Sudan",
+  "phone": "+249915944693",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 303,
+  "name": "Hasneen Hotel",
+  "address": "مدينة النيل، أم درمان،، أم درمان،،, أم درمان،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 304,
+  "name": "منتجع الأمين البرير - All Time Restaurant",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 305,
+  "name": "الخير للشقق الفندقية",
+  "address": "Khartoum, Sudan",
+  "phone": "+249127506541",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 306,
+  "name": "مكب الكيزان",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 307,
+  "name": "Khartoum Plaza Hotel",
+  "address": "Omdurman, Sudan",
+  "phone": "+249999406800",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 308,
+  "name": "برج النرجس",
+  "address": "JFWJ+87V، Unnamed Road, أم درمان،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 309,
+  "name": "Himont Hotel",
+  "address": "شرق النادي, King Abdel Aziz Street, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 310,
+  "name": "أشيآر للشقق المفروشة",
+  "address": "Unnamed Road, Tuti Island،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 311,
+  "name": "Harmony Hotel",
+  "address": "Sayed Abdul Rahman Ave, Khartoum, Sudan",
+  "phone": "+249912366603",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 312,
+  "name": "عمارة حسن ابوزيد",
+  "address": "Khartoum, Sudan",
+  "phone": "+249912716533",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 313,
+  "name": "فرحنا حمدت الله",
+  "address": "Omdurman, Sudan",
+  "phone": "+249124961900",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 314,
+  "name": "فندق فاران",
+  "address": "Babiker Badri St, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 315,
+  "name": "بيت العزابه",
+  "address": "JC9G+WFC، أم درمان،, Ombada, Sudan",
+  "phone": "+249920701717",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 316,
+  "name": "منزل علي فضل مضوي فضل",
+  "address": "Omdurman, Sudan",
+  "phone": "+249962828140",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 317,
+  "name": "موتيل دكتور حسن",
+  "address": "أم درمان،،, HCWM+R32،، أم درمان،, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 318,
+  "name": "Mutwakil adam home",
+  "address": "Unnamed Road, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 319,
+  "name": "فندق الدقيل",
+  "address": "JFXJ+J4Q، حي العرب، أم درمان،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 320,
+  "name": "شارع ستيم",
+  "address": "JFJR+476، JFHQ+WPV، أم درمان،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 321,
+  "name": "هوتيل",
+  "address": "Nuzha, Khartoum, Sudan",
+  "phone": "+249915822278",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 322,
+  "name": "اسراء",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249183774641",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 323,
+  "name": "عمارة ابوسفيان للشقق المفروشه",
+  "address": "Al Morada St, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 324,
+  "name": "بيت بلباس المغتربين",
+  "address": "Albugaa Abu saeed, 599, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 325,
+  "name": "منزل فيصل وابنائه",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 326,
+  "name": "Dream House Private Hostel",
+  "address": "Unnamed Road, أم درمان،،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 327,
+  "name": "فندق ام جواسير",
+  "address": "JFVJ+VRC، حي البوسته جنوب، أم درمان،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 328,
+  "name": "منزل عمر جمعه",
+  "address": "ِِِAl-Wadi Street, Omdurman, Sudan",
+  "phone": "+249998585490",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 329,
+  "name": "بيت المكنه منذر اللورد",
+  "address": "Khartoum, Sudan",
+  "phone": "+249183740933",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 330,
+  "name": "ALFAJIR APARTMENTS",
+  "address": "MF59+RXM، Unnamed Road, أم درمان،, Omdurman, Sudan",
+  "phone": "+249918327446",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 331,
+  "name": "Anaam",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 332,
+  "name": "سكن الرائدات",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 333,
+  "name": "البيت ناس الورع",
+  "address": "Africa St, Khartoum, Sudan",
+  "phone": "+249187007777",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 334,
+  "name": "فندق سكني",
+  "address": "Omdurman, Sudan",
+  "phone": "+249128010208",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 335,
+  "name": "عمك سبأ",
+  "address": "Unnamed Road, Omdurman, Sudan",
+  "phone": "+249998209329",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 336,
+  "name": "Mile One House",
+  "address": "Intersection between, 47 Al Mufti St, Khartoum, Sudan",
+  "phone": "+249183567585",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 337,
+  "name": "محمد اسماعيل (اسكيمو)",
+  "address": "مدينة النيل،, أم درمان،, Omdurman, Sudan",
+  "phone": "+249902185354",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 338,
+  "name": "الحي البريطاني",
+  "address": "Khartoum, Sudan",
+  "phone": "+249183288500",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 339,
+  "name": "Kabri Touristic Hotel",
+  "address": "Unnamed Road, أم درمان،،, Omdurman, Sudan",
+  "phone": "+249916506020",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 340,
+  "name": "City Flats Hotel",
+  "address": "Unnamed Road, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 341,
+  "name": "SM Tower",
+  "address": "Khartoum, Sudan",
+  "phone": "+249187199000",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 342,
+  "name": "مالك منصور",
+  "address": "سوق السابعة، أم درمان, Ombada, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 343,
+  "name": "Altaka Hotel",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 344,
+  "name": "ابودلال للشقق المفروشة",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 345,
+  "name": "ابوسفيان للشقق المفروشه",
+  "address": "Doctors' Rd, Omdurman, Sudan",
+  "phone": "+249912161474",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 346,
+  "name": "musab",
+  "address": "سوق الشجرة, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 347,
+  "name": "فندق امنية",
+  "address": "Unnamed Road, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 348,
+  "name": "Al Housh restaurant",
+  "address": "Doctors' Rd, Omdurman, Sudan",
+  "phone": "+249966616712",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 349,
+  "name": "Om Alnoor Restaurant",
+  "address": "Nile St, Omdurman, Sudan",
+  "phone": "+249960666279",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 350,
+  "name": "Dodi",
+  "address": "JFJV+XG4، أم درمان،, Omdurman, Sudan",
+  "phone": "+249912328681",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 351,
+  "name": "DODI",
+  "address": "Al Bawaba St, Omdurman, Sudan",
+  "phone": "+249155770800",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 352,
+  "name": "Al-Rakoubah Restaurant",
+  "address": "Omdurman, Sudan",
+  "phone": "+249961791799",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 353,
+  "name": "Qaryat Al Mashwiyat - Grill City",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 354,
+  "name": "And Plus للمأكولات السورية",
+  "address": "Omdurman, Sudan",
+  "phone": "+249967676742",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 355,
+  "name": "Kak Restaurant",
+  "address": "JFQJ+HWH، شارع الاربعين،أم درمان،, Omdurman, Sudan",
+  "phone": "+249966168585",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 356,
+  "name": "smash burger",
+  "address": "MF69+5GM، أم درمان،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 357,
+  "name": "Thuraya Garden",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 358,
+  "name": "Rwabi Beach",
+  "address": "شارع السلام, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 359,
+  "name": "Al Jawad Restaurant",
+  "address": "Omdurman, Sudan",
+  "phone": "+249927483333",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 360,
+  "name": "شاركليز بيرقر",
+  "address": "سوق, سوق بانت شرق، Omdurman, Sudan",
+  "phone": "+249125022366",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 361,
+  "name": "كافتريا الأمير الشطبي",
+  "address": "Omdurman, Sudan",
+  "phone": "+249963208266",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 362,
+  "name": "لارينز بيتزا",
+  "address": "Omdurman, Sudan",
+  "phone": "+249923685206",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 363,
+  "name": "مطعم سمكمك - Samakmk Restaurant",
+  "address": "Omdurman, Sudan",
+  "phone": "+249918491530",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 364,
+  "name": "Barada Syrian Foods",
+  "address": "شارع الواجه،, Omdurman, Sudan",
+  "phone": "+249996699288",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 365,
+  "name": "أبو الهش للأسماك الطازجة",
+  "address": "شارع, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 366,
+  "name": "Debonairs Pizza",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 367,
+  "name": "لارينز بيتزا",
+  "address": "Omdurman ,thawra21, Sudan",
+  "phone": "+249908517547",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 368,
+  "name": "KFC Alwadi",
+  "address": "Althawra Belnos St, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 369,
+  "name": "مطعم سمكمك - Samakmk Restaurant",
+  "address": "Unnamed Road, Omdurman, Sudan",
+  "phone": "+249912242824",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 370,
+  "name": "Barada Syrian Foods",
+  "address": "Unnamed Road, Omdurman, Sudan",
+  "phone": "+249126060640",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 371,
+  "name": "أبو الهش للأسماك الطازجة",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 372,
+  "name": "Abou El Sid Restaurant",
+  "address": "Umm Durman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 373,
+  "name": "كافتريا الأنفال",
+  "address": "الدوحة، أم درمان،, Omdurman, Sudan",
+  "phone": "+249964911114",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 374,
+  "name": "مطعم أبو طويلة",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 375,
+  "name": "Vapiano Restaurant",
+  "address": "Unnamed Road, Omdurman, Sudan",
+  "phone": "+249915941953",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 376,
+  "name": "كافتريا المجمع",
+  "address": "Omdurman, Sudan",
+  "phone": "+249114979818",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 377,
+  "name": "Agashi Restaurant",
+  "address": "Althawra Belnos St, Omdurman, Sudan",
+  "phone": "+249922266850",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 378,
+  "name": "فلافل",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 379,
+  "name": "Al-Coach Restaurant",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 380,
+  "name": "Hay zangana خايف زنغنا",
+  "address": "Omdurman, Sudan",
+  "phone": "+249900909010",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 381,
+  "name": "Foul Alhijra Restaurant",
+  "address": "Omdurman, Sudan",
+  "phone": "+249129733331",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 382,
+  "name": "Daisy Restaurant",
+  "address": "Ombada, Sudan",
+  "phone": "+249912192602",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 383,
+  "name": "السائغ للفطائر",
+  "address": "Nile St, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 384,
+  "name": "Big Burger",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 385,
+  "name": "عمر بوش",
+  "address": "JFQC+4MF، شارع استادالمريخ, Omdurman, Sudan",
+  "phone": "+249117777249",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 386,
+  "name": "Gareeb",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 387,
+  "name": "كفتجي",
+  "address": "Omdurman, Sudan",
+  "phone": "+249907098808",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 388,
+  "name": "Black Diamond | الجوهرة السوداء",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 389,
+  "name": "حلويات الشامية",
+  "address": "Unnamed Road, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 390,
+  "name": "Khalid fish Grill",
+  "address": "Omdurman, Sudan",
+  "phone": "+249920888819",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 391,
+  "name": "Buffalo burger",
+  "address": "Althawra Bus Stop, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 392,
+  "name": "كافتيريا ART Burger Center",
+  "address": "Unnamed Road, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 393,
+  "name": "Italy Pizza",
+  "address": "شارع عابدين،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 394,
+  "name": "كشري وبيتزا",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 395,
+  "name": "Alkini Restaurant",
+  "address": "Omdurman, Sudan",
+  "phone": "+249926771970",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 396,
+  "name": "Bloopers tr",
+  "address": "Nile St, Omdurman, Sudan",
+  "phone": "+249927948696",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 397,
+  "name": "The core restaurant \u0026cafeمطعم وكافي",
+  "address": "شارع الفيل،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 398,
+  "name": "مساعد للاسماك الطازجه",
+  "address": "Omdurman, Sudan",
+  "phone": "+249912494150",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 399,
+  "name": "كفتنجي",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 400,
+  "name": "الجموعي للأسماك",
+  "address": "Al Shuhadda Bus Station, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 401,
+  "name": "مطعم أماسي أم در",
+  "address": "Omdurman, Sudan",
+  "phone": "+249905951663",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 402,
+  "name": "Elsultan Foods السلطان",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 403,
+  "name": "Ethiopian anjira kisra",
+  "address": "ابوسعد، أم درمان،،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 404,
+  "name": "Marcin Pizza",
+  "address": "Omdurman, Sudan",
+  "phone": "+249912621843",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 405,
+  "name": "Recharge",
+  "address": "Al Arbaeen St, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 406,
+  "name": "البيت المصري",
+  "address": "Omdurman, Sudan",
+  "phone": "+249919466066",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 407,
+  "name": "Amira restaurant",
+  "address": "Unnamed Road, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 408,
+  "name": "Restaurant Borai",
+  "address": "العاشرة، أم درمان،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 409,
+  "name": "Pizza Hut",
+  "address": "Omdurman, Sudan",
+  "phone": "+249920007667",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 410,
+  "name": "سمسمة",
+  "address": "Al Bawaba St, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 411,
+  "name": "CRUNCHI Resturant",
+  "address": "شارع الدومه, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 412,
+  "name": "ماما نوره للمشويات",
+  "address": "MFPP+38W، أم درمان،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 413,
+  "name": "كافتيريا جنان رست",
+  "address": "الموردة، أم درمان،،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 414,
+  "name": "فلافل توحه",
+  "address": "Omdurman, Sudan",
+  "phone": "+249912406672",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 415,
+  "name": "كافتيريا كريكس",
+  "address": "Omdurman, Sudan",
+  "phone": "+249123617617",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 416,
+  "name": "محمد بركات للشبس",
+  "address": "Omdurman, Sudan",
+  "phone": "+249999912902",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 417,
+  "name": "ميدان الثورة الحــارة 22",
+  "address": "Omdurman, Sudan",
+  "phone": "+249124665222",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 418,
+  "name": "مطعم الاميرة",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 419,
+  "name": "تويكس ساندوتش",
+  "address": "شارع الشقلة، أم درمان،, Omdurman, Sudan",
+  "phone": "+249907610521",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 420,
+  "name": "مطعم حاتم الطائي",
+  "address": "الخامسة،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 421,
+  "name": "لافا كنافه",
+  "address": "شارع عبدالله خليل،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 422,
+  "name": "الطاعم للاسماك",
+  "address": "Al Arbaeen St, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 423,
+  "name": "عوض مالك للفواكه",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 424,
+  "name": "Abdeen Fishes",
+  "address": "Omdurman, Sudan",
+  "phone": "+249111575707",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 425,
+  "name": "Chicano Restaurant",
+  "address": "Althawra Belnos St، أم درمان،،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 426,
+  "name": "KFC - كنتاكي الحوش",
+  "address": "JGX3+W9H، بيت المال، أم درمان،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 427,
+  "name": "كافتيريا كازانوفا",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 428,
+  "name": "حليم بيرقر",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 429,
+  "name": "Dinner Pizza",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 430,
+  "name": "Quick Burger",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 431,
+  "name": "اسماك النيلين",
+  "address": "Ombada, Sudan",
+  "phone": "+249929949709",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 432,
+  "name": "برعي بوش",
+  "address": "Unnamed Road, Omdurman, Sudan",
+  "phone": "+249912602027",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 433,
+  "name": "Olive",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 434,
+  "name": "كيمو للفطائر",
+  "address": "Omdurman, Sudan",
+  "phone": "+249922566681",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 435,
+  "name": "ملك الفطائر والبيتزا",
+  "address": "Omdurman, Sudan",
+  "phone": "+249994290739",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 436,
+  "name": "104 Resturant and Sweetshop",
+  "address": "Omdurman, Sudan",
+  "phone": "+249999777746",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 437,
+  "name": "Dafaly meat restaurant",
+  "address": "Unnamed Road, Omdurman, Sudan",
+  "phone": "+249912602027",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 438,
+  "name": "حلويات كنفوش",
+  "address": "Omdurman, Sudan",
+  "phone": "+249996324556",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 439,
+  "name": "Twenty one",
+  "address": "Omdurman, Sudan",
+  "phone": "+249999777746",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 440,
+  "name": "ملك المنقة",
+  "address": "Omdurman, Sudan",
+  "phone": "+249994290739",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 441,
+  "name": "مطعم سبأ اليمني",
+  "address": "Omdurman, Sudan",
+  "phone": "+249900615330",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 442,
+  "name": "Kinain Buffet كنين بوفيه",
+  "address": "Umm Durman, Sudan",
+  "phone": "+249155111171",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 443,
+  "name": "مطعم تزه الليلي (كوارع,فول, مديدة بلح + بسبوسة )",
+  "address": "Omdurman, Sudan",
+  "phone": "+249900615330",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 444,
+  "name": "مطعم عمك الدومة",
+  "address": "شارع الوادي، حي الرياض الثورة، الثورة، امدرمان،, Omdurman, Sudan",
+  "phone": "+249900000107",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 445,
+  "name": "Al-Nuhaisy Shopping center",
+  "address": "Omdurman, Sudan",
+  "phone": "+249123448815",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 446,
+  "name": "Namak Plaza",
+  "address": "HGPQ+3J8، شارع احمد خير, Khartoum, Sudan",
+  "phone": "+249912224910",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 447,
+  "name": "Omdurman Hyper Market",
+  "address": "Omdurman, Sudan",
+  "phone": "+249912797054",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 448,
+  "name": "Abualfadil Plaza",
+  "address": "MF6Q+QPP، Unnamed Road, أم درمان،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 449,
+  "name": "Senyr Shopping Center",
+  "address": "Omdurman, Sudan",
+  "phone": "+249999588888",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 450,
+  "name": "Al Asdiqaa Center Mobile Services",
+  "address": "Abdul Moneim Mohammed St, Khartoum, Sudan",
+  "phone": "+249183740074",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 451,
+  "name": "ميلانو مول",
+  "address": "MF8Q+4PM، الركابية، أم درمان،, Omdurman, Sudan",
+  "phone": "+249912314987",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 452,
+  "name": "Al-Waha Mall",
+  "address": "Omdurman, Sudan",
+  "phone": "+249914655764",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 453,
+  "name": "Harlem Plaza",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 454,
+  "name": "Magdi center مجدي سنتر",
+  "address": "Omdurman, Sudan",
+  "phone": "+249963979999",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 455,
+  "name": "Alanfal Mall",
+  "address": "Khartoum, Sudan",
+  "phone": "+249999161672",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 456,
+  "name": "Afra Shopping Mall",
+  "address": "Khartoum North, Sudan",
+  "phone": "+249909006462",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 457,
+  "name": "Al-Anfal Shopping Center",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 458,
+  "name": "Alzaytona Shopping Center",
+  "address": "MG8W+3HP، شارع شمبات جنوب، الخرطوم بحري،, Khartoum North, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 459,
+  "name": "City Plaza Mall",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 460,
+  "name": "الرياض مول / Al Riyadh mall",
+  "address": "Unnamed Road, الخرطوم،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 461,
+  "name": "Maksoum Trading Center",
+  "address": "Khartoum North, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 462,
+  "name": "Barna \u0026 Fahim Center",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 463,
+  "name": "Center Abu Dguen",
+  "address": "الرئيسي, Jabel Awliya Express Way, Khartoum, Sudan",
+  "phone": "+249912288307",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 464,
+  "name": "Khalid Center",
+  "address": "Kober Cinema, Khartoum North, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 465,
+  "name": "أبو الفاضل بلازا",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 466,
+  "name": "مركز بروتين | Protein center",
+  "address": "Omdurman, Sudan",
+  "phone": "+249915253147",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 467,
+  "name": "Alsalam Shopping Center",
+  "address": "Omdurman, Sudan",
+  "phone": "+249912123667",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 468,
+  "name": "Ela Trade Center",
+  "address": "Ombada, Sudan",
+  "phone": "+249911844633",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 469,
+  "name": "shea butter center",
+  "address": "Unnamed Road, Khartoum North, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 470,
+  "name": "Jewelry and Gold Hyper Mart",
+  "address": "Khartoum, Sudan",
+  "phone": "+249922138183",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 471,
+  "name": "Hypersale",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 472,
+  "name": "الخرطوم السودان",
+  "address": "حلة كوكو, Khartoum, Sudan",
+  "phone": "+249918303900",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 473,
+  "name": "Marina Center",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 474,
+  "name": "مجمع الرشيد موسي التجاري 2",
+  "address": "El Taiyar El Gameil St, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 475,
+  "name": "European Shoes Shop",
+  "address": "Al Ma'arad St, Khartoum, Sudan",
+  "phone": "+249110006000",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 476,
+  "name": "بوتيك scarf طرحه center",
+  "address": "Tutui Ring Road, Khartoum, Sudan",
+  "phone": "+249917113366",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 477,
+  "name": "الطيب center",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 478,
+  "name": "Amarat Shopping center",
+  "address": "Al-Inqaz St, Khartoum North, Sudan",
+  "phone": "+249903763737",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 479,
+  "name": "Donia Games Center",
+  "address": "Unnamed Road, أم درمان،،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 480,
+  "name": "البيت الراقي. chic home",
+  "address": "HFP4+486، Unnamed Road, Omdurman, Sudan",
+  "phone": "+249912803694",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 481,
+  "name": "Alnujoma for cooling and air conditioning",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 482,
+  "name": "Gold Center ( قولد سنتر )",
+  "address": "Saleh Pasha El Mek St, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 483,
+  "name": "Ahlan Shopping Center",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 484,
+  "name": "Kush mall",
+  "address": "شارع الصحافة زلط، Khartoum, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 485,
+  "name": "Zain Customer Care Centre",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 486,
+  "name": "Alamarat Centre",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 487,
+  "name": "Well being Center",
+  "address": "محطة البقالة،, El Droshab North Street, Sudan",
+  "phone": "+249910048358",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 488,
+  "name": "الحديقة النباتية (امدرمان)",
+  "address": "الكلاكلة القبة، الخرطوم،،, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 489,
+  "name": "Elan Fashion إيــلان فاشــون",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 490,
+  "name": "Mohaleb center",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249911268886",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 491,
+  "name": "معرض ترهاقا",
+  "address": "Khartoum, Sudan",
+  "phone": "+249929001901",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 492,
+  "name": "G Town Center",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 493,
+  "name": "Everest Center",
+  "address": "Street 117, Khartoum, Sudan",
+  "phone": "+249124015754",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 494,
+  "name": "Sofana Optical Center",
+  "address": "JFCC+X39، بانت غرب، أم درمان،, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 495,
+  "name": "Tmax Center",
+  "address": "HGHX+FX6، العمارات، الخرطوم،, Khartoum, Sudan",
+  "phone": "+249909000068",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 496,
+  "name": "al moalem center",
+  "address": "Khartoum, Sudan",
+  "phone": "+249116144447",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 497,
+  "name": "تبارك للتسوق العائلي Tabark shopping center",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 498,
+  "name": "Abouhsas Trade Center",
+  "address": "Al Hurriya Ave, Khartoum, Sudan",
+  "phone": "+249903899333",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 499,
+  "name": "اورينت سنتر Orient Center",
+  "address": "التاسعة،, Omdurman, Sudan",
+  "phone": "+249124889999",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 500,
+  "name": "Misk Center",
+  "address": "Omdurman, Sudan",
+  "phone": "+249912658396",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 501,
+  "name": "نبوية إستايل للملابس",
+  "address": "Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 502,
+  "name": "AlMaimona Lifestyle Center",
+  "address": "Khartoum, Sudan",
+  "phone": "+249900000000",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 503,
+  "name": "Abusciba Center for poultry products and dairy",
+  "address": "شارع الهجرة،, Omdurman, Sudan",
+  "phone": "+249991812061",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 504,
+  "name": "Orcal Advertising Art Production",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 505,
+  "name": "Petty Center Supermarket",
+  "address": "heart center, Africa St, near, Sudan",
+  "phone": "+249922877789",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 506,
+  "name": "Tineer center",
+  "address": "Omdurman, Sudan",
+  "phone": "+249966266297",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 507,
+  "name": "Merouj Goods Distribution Center",
+  "address": "HGXG+WFM، Unnamed Road, الخرطوم،, Khartoum, Sudan",
+  "phone": "+249900226699",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 508,
+  "name": "Al Rasheed Awedalkreem Belding",
+  "address": "15th St, Khartoum, Sudan",
+  "phone": "+249112770060",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 509,
+  "name": "Alyaqoot Center",
+  "address": "Al Khurtum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 510,
+  "name": "Alrowad Shopping Center",
+  "address": "MFPG+QQ9، شارع الشنقيطي, Omdurman, Sudan",
+  "phone": "+249917275353",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 511,
+  "name": "Abo zahid trading center",
+  "address": "El Jami Ave, Khartoum 11111, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 512,
+  "name": "Mara Center 2",
+  "address": "مربع 47، الخرطوم،،, Khartoum, Sudan",
+  "phone": "+249123756023",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 513,
+  "name": "التوم سنتر Altoom Center",
+  "address": "Khartoum, Sudan",
+  "phone": "+249916667999",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 514,
+  "name": "Dream Center",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 515,
+  "name": "محلات الرشيد للملابس الجاهزة",
+  "address": "الثورةح٩، شارع الشنقيطي, Omdurman, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 516,
+  "name": "El-quds Center market",
+  "address": "Al Shargi St, Khartoum, Sudan",
+  "phone": "+249999900686",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 517,
+  "name": "Samir Color Select Center",
+  "address": "Al Khurtum, Sudan",
+  "phone": "+249122791238",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 518,
+  "name": "Sara Center سارة سنتر للمواد الغذائية",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 519,
+  "name": "Jotun Almolazmeen Branch",
+  "address": "Khartoum North, Sudan",
+  "phone": "+249912988779",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 520,
+  "name": "Sultana buty Center",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 521,
+  "name": "Al Zikryat Center",
+  "address": "Alkadroo, Sudan",
+  "phone": "+249912838012",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 522,
+  "name": "Protien Center",
+  "address": "Khartoum, Sudan",
+  "phone": "+249910000080",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 523,
+  "name": "Future Technology Center",
+  "address": "Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 524,
+  "name": "هوم سنتر",
+  "address": "Ground floor Africa St, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 525,
+  "name": "Sunset Villa",
+  "address": "Nyala, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 526,
+  "name": "Ocean View Nyali Boutique Hotel",
+  "address": "2VRF+QPR، نيالا،, Nyala, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 527,
+  "name": "Hotel In Mombasa",
+  "address": "3WF4+42G، Unnamed Road, نيالا،، نيالا،, Nyala, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 528,
+  "name": "مطعم جوبا",
+  "address": "Nyala, Sudan",
+  "phone": "+249912652125",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 529,
+  "name": "Nyala algeer مطعم",
+  "address": "Nyala, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 530,
+  "name": "مطعم أبو سيفين السياحي",
+  "address": "Nyala, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 531,
+  "name": "Roast House Nyala",
+  "address": "Nyala, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 532,
+  "name": "The Travelers Restaurant",
+  "address": "3V8P+V89، Unnamed Road, نيالا،, Nyala, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 533,
+  "name": "School Station Restaurant",
+  "address": "Nyala, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 534,
+  "name": "سوق البرتكان",
+  "address": "2VW4+4G9، Unnamed Road, نيالا،, Nyala, Sudan",
+  "phone": "+249993346478",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 535,
+  "name": "حله بانتيوم",
+  "address": "Unnamed Road, Nyala, Sudan",
+  "phone": "+249918403332",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 536,
+  "name": "مطعم سفن دايز 7DAYS",
+  "address": "Algeer Road, Nyala, Sudan",
+  "phone": "+249100352858",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 537,
+  "name": "مطعم ابو سيفين العائلي /Abu Seifen",
+  "address": "3V6H+64G، Unnamed Road, نيالا،, Nyala, Sudan",
+  "phone": "+249903999928",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 538,
+  "name": "جوكس كافي",
+  "address": "Nyala, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 539,
+  "name": "Alrayian Kafteria",
+  "address": "A43, Nyala, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 540,
+  "name": "Central Park Shopping Center",
+  "address": "Ground floor Africa St, Khartoum, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 541,
+  "name": "Coral Port Sudan",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249183774100",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 542,
+  "name": "Palace Hotel",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249912334201",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 543,
+  "name": "Portsudan Palace Hotel",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249906636869",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 544,
+  "name": "Basiri Plaza Hotel",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249912293026",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 545,
+  "name": "Okere Hotel",
+  "address": "Unnamed Road, بورتسودان‎،،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 546,
+  "name": "Bohein Hotel",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249901132695",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 547,
+  "name": "Solitaire Hotel",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249922835200",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 548,
+  "name": "Mirak Furnished Suites",
+  "address": "J648+VQ7، طريق عثمان دقنة، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 549,
+  "name": "Dongla Hotel",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249912133278",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 550,
+  "name": "Saba Hotel",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249912255665",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 551,
+  "name": "ميراك للشقق الفندقية",
+  "address": "J653+MRQ، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 552,
+  "name": "Marhaba Hotel",
+  "address": "Othman Hassan Road, Port Sudan, Sudan",
+  "phone": "+249912817060",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 553,
+  "name": "مارينا للشقق المفروشة",
+  "address": "J5MM+V8M، Unnamed Rd, بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249916969155",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 554,
+  "name": "HALLO HOTEL APARTMENTS",
+  "address": "هدل بورتسودان, Bur Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 555,
+  "name": "لاروزا للشقق الفندقية - Laroza Luxury Apartments",
+  "address": "Unnamed Road, Port Sudan, Sudan",
+  "phone": "+249916767667",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 556,
+  "name": "Olympic Palace Hotel",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 557,
+  "name": "الكيلو منتجع سياحي",
+  "address": "J6FC+M4G، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 558,
+  "name": "Alrabwa Hotel",
+  "address": "J696+V4R، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 559,
+  "name": "شقه ياسر",
+  "address": "J693+4P4، Unnamed Road, بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 560,
+  "name": "Zahran Hotel",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 561,
+  "name": "البيت",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249919908740",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 562,
+  "name": "NARGIS HOTEL APARTMENT",
+  "address": "J678+8W6، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 563,
+  "name": "فندق علا",
+  "address": "J669+QM6 University West Road, Port Sudan, Sudan",
+  "phone": "+249912255665",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 564,
+  "name": "زهرة القاش للشقق الفندقية",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 565,
+  "name": "قصر ديالا للشقق الفندقية",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249901262003",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 566,
+  "name": "الجناح الملكي",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249914230739",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 567,
+  "name": "فندق الحمين",
+  "address": "Engineers St, Port Sudan, Sudan",
+  "phone": "+249917801350",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 568,
+  "name": "شقق اولاد الشريف",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 569,
+  "name": "Baseery Plaza Hotel",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 570,
+  "name": "فندق بدر",
+  "address": "J6V6+QQ4، بورتسودان‎،، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249908715015",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 571,
+  "name": "فندق إيواء بورتسودان",
+  "address": "M637+PF3، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249117118018",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 572,
+  "name": "فندق جيلا",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 573,
+  "name": "فندق الربوة",
+  "address": "Engineers St, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 574,
+  "name": "فندق رانيا",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 575,
+  "name": "Naji Hotel",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249962502504",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 576,
+  "name": "فندق الإسكندرية",
+  "address": "Unnamed Road, Port Sudan, Sudan",
+  "phone": "+249911225586",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 577,
+  "name": "شقق اللورد الفندقية",
+  "address": "J667+VM4 مدرسة البحر الأحمر الثانوية - بنين, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 578,
+  "name": "منتجع اركويت",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249917801350",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 579,
+  "name": "منتجع الأمواج السياحي",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 580,
+  "name": "فندق قصر المدينه",
+  "address": "J699+R96، Unnamed Road، بورتسودان‎،، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249120908670",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 581,
+  "name": "عمارة عمر باقديم",
+  "address": "H5RR+43M، مدينة اركويت, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 582,
+  "name": "باير للشقق الفندقيه",
+  "address": "Unnamed Road, Port Sudan, Sudan",
+  "phone": "+249123081179",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 583,
+  "name": "Al Taher Mohamed Saleh Hotel Apartments",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249909086631",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 584,
+  "name": "فندق سمارماز",
+  "address": "J69C+X8J، شارع الاستاد، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 585,
+  "name": "بازا للشقق الفندقية",
+  "address": "Red Sea University N Rd, بورتسودان‎،،، Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 586,
+  "name": "منزل صهيب صلاح",
+  "address": "J6M5+PP2، شارع الاذاعة والتلفزيون , بورتسودان‎،، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249100692656",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 587,
+  "name": "بورتسودان",
+  "address": "Unnamed Road, بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 588,
+  "name": "شقق الفندقية",
+  "address": "J679+V65، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 589,
+  "name": "الكيلو بيتش",
+  "address": "J677+PVV، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 590,
+  "name": "شقق الخليج الذهبي 2",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249912138942",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 591,
+  "name": "قصر الشباب",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249123525321",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 592,
+  "name": "السوق",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 593,
+  "name": "سعيد باعوم",
+  "address": "بورتسودان‎،، بورتسودان‎،،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 594,
+  "name": "فندق التعاون",
+  "address": "طريق المدينة المنورة، Bur Sudan, Sudand, بورتسودان‎،, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 595,
+  "name": "فندق الصداقة",
+  "address": "J668+PMG، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 596,
+  "name": "داخلية الشهيد الجميعابي للطلاب",
+  "address": "Unnamed Road, Port Sudan, Sudan",
+  "phone": "+249125103996",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 597,
+  "name": "Ovah furnished apartments",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 598,
+  "name": "اي",
+  "address": "شارع الاذاعة والتلفزيون , بورتسودان‎،، بورتسودان‎،،, Port Sudan, Sudan",
+  "phone": "+249100692656",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 599,
+  "name": "ميز الجمارك بورتسودان",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249910045409",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 600,
+  "name": "شقة",
+  "address": "J6CC+6PW، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 601,
+  "name": "استراجة الجودي",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 602,
+  "name": "Отель Престиж",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 603,
+  "name": "عمارة تاج السر",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249916831201",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 604,
+  "name": "Red Sea",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249311834586",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 605,
+  "name": "مزارع ودواجن",
+  "address": "J669+QC4 University West Road, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 606,
+  "name": "Othman Hassan",
+  "address": "Al Cornache St, Port Sudan, Sudan",
+  "phone": "+249999900153",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 607,
+  "name": "السلطان للشقق الفندقية",
+  "address": "H65W+5MQ، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 608,
+  "name": "royal restaurant",
+  "address": "J6HM+X8C، بورتسودان‎،، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249913590015",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 609,
+  "name": "Bakri Max Restaurant",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249904666606",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 610,
+  "name": "Dream Restaurant",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 611,
+  "name": "Delicious | لذيذ",
+  "address": "J66C+VGX، شارع جامعة البحر الاحمر الشمالي, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 612,
+  "name": "الهادي كورارع",
+  "address": "J686+PW3، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249129990170",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 613,
+  "name": "مطعم الفردوس",
+  "address": "H5WJ+2V4، Unnamed Road, بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 614,
+  "name": "جزيرة ابوكلام",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249990049981",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 615,
+  "name": "مطعم العمدة",
+  "address": "J686+G2V، شارع الاستاد، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249112112131",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 616,
+  "name": "مطعم بيتزا جابر",
+  "address": "Al Cornache St, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 617,
+  "name": "Red Sea Bistro",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 618,
+  "name": "cappuccino cafe",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 619,
+  "name": "كرشو",
+  "address": "الديوم الجنوبية, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 620,
+  "name": "H.K.restaurant",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 621,
+  "name": "مطعم حاج عبده",
+  "address": "J5QW+9C4، Unnamed Road, بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249902111510",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 622,
+  "name": "Mama Amal BBQ",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 623,
+  "name": "مطعم الافندي",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249112096021",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 624,
+  "name": "مطعم الشيف",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249311838222",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 625,
+  "name": "مطعم الشيف",
+  "address": "Sudan, Port Sudan, Unnamed Road",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 626,
+  "name": "Fathi for fresh fish",
+  "address": "J679+VR3، شارع بوهين، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249912316429",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 627,
+  "name": "Jbaber's pizza \u0026 waffle",
+  "address": "Unnamed Road, Port Sudan, Sudan",
+  "phone": "+249902113194",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 628,
+  "name": "مصعب اقاشي",
+  "address": "J6V3+R79، Unnamed Road, بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 629,
+  "name": "سقالة السمك",
+  "address": "J645+44V، طريق المدينة المنورة، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 630,
+  "name": "Ahmed Khalifa Restaurant",
+  "address": "H5RR+43M، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 631,
+  "name": "Charcoal's Burgers",
+  "address": "H6Q9+VJ5، Unnamed Road, بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 632,
+  "name": "Sea Gull",
+  "address": "H6R9+HG8، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249113202200",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 633,
+  "name": "مطعم سلات",
+  "address": "J669+GRW University North Road, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 634,
+  "name": "Sukain Restaurant",
+  "address": "H5PW+2H6، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 635,
+  "name": "Jaber's 2 pizza \u0026 waffle",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 636,
+  "name": "مطعم و صالة العمري",
+  "address": "H6R9+7GQ، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 637,
+  "name": "Crazy burger",
+  "address": "J669+VJ5، شارع جامعة البحر الاحمر الغربي، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 638,
+  "name": "ملك الجامبو 2",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 639,
+  "name": "Chocolate House",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 640,
+  "name": "مطعم الرحمة",
+  "address": "Stadium St, Port Sudan, Sudan",
+  "phone": "+249912400347",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 641,
+  "name": "Al Hanaa Rustrant",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249929553383",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 642,
+  "name": "Jaber's pizza \u0026 waffle",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 643,
+  "name": "مطعم حجه طيبه الشعبي",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 644,
+  "name": "مطعم شوت تايم",
+  "address": "J6CF+3H8، بورتسودان‎،، بورتسودان‎،، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 645,
+  "name": "مطعم العربي",
+  "address": "H5CP+94F، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249967161159",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 646,
+  "name": "مطعم محمد حجير",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 647,
+  "name": "كافتيريا البحرين",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249116442250",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 648,
+  "name": "الطيب ذكي",
+  "address": "Unnamed Road, بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 649,
+  "name": "شركه استايل مرسال",
+  "address": "J678+CXQ، Unnamed Road, بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249999999363",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 650,
+  "name": "مطعم الانقاذ الوطني",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 651,
+  "name": "روناز سنتر للمأكولات والمشروبات",
+  "address": "J684+HJW، بورتسودان سوق ديم المدينة،، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 652,
+  "name": "السودان للأسماك",
+  "address": "J6V3+W5H، Unnamed Road, بورتسودان‎،، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 653,
+  "name": "Nour Alyemen Restaurant",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249912370466",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 654,
+  "name": "حلواني اخواان",
+  "address": "J696+FR4، شارع علي هاشم، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 655,
+  "name": "مطعم حسن قوشابي",
+  "address": "Stadium St, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 656,
+  "name": "عروس البحر",
+  "address": "Unnamed Road, بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249911419920",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 657,
+  "name": "كافتريا الكافاب",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 658,
+  "name": "افوال الزنجي",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249914060303",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 659,
+  "name": "مخبازة الريان",
+  "address": "Sudan, Port Sudan, Unnamed Road",
+  "phone": "+249907771444",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 660,
+  "name": "حلواني الرحمه",
+  "address": "J5JV+6V4، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 661,
+  "name": "مطعم ود النو للفول",
+  "address": "H6R4+WX6، بورتسودان‎،، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 662,
+  "name": "سي لايت Sea Light",
+  "address": "بورتسودان‎،،, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 663,
+  "name": "الافندي",
+  "address": "H6Q9+PGC، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 664,
+  "name": "ياسمين الشام للمأكولات السورية",
+  "address": "Al Cornache St, Bur Sudan, Sudan",
+  "phone": "+249930333337",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 665,
+  "name": "Presto food \u0026 drimls",
+  "address": "بورتسودان‎،،, Sudan",
+  "phone": "+249912297896",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 666,
+  "name": "مطعم مدني",
+  "address": "Dowba Building, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 667,
+  "name": "مخبازة هارون",
+  "address": "H6J4+V5W، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249915811850",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 668,
+  "name": "بيتزا",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 669,
+  "name": "طيارة للأقاشي",
+  "address": "Unnamed Road,،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 670,
+  "name": "Albasha Pizza",
+  "address": "سوق المنقبه, Port Sudan, Sudan",
+  "phone": "+249995534474",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 671,
+  "name": "مطعم سندباد",
+  "address": "J639+35H، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249960055589",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 672,
+  "name": "حلواني عبدوت",
+  "address": "J5JV+4VV، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249910068017",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 673,
+  "name": "Mandi Restaurant",
+  "address": "بورتسودان‎،، بورتسودان‎،،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 674,
+  "name": "مطعم اللورد",
+  "address": "J6V6+26V، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 675,
+  "name": "مصعب الاسماك",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249966655223",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 676,
+  "name": "مطعم حاجه مريم",
+  "address": "بورتسودان, _, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 677,
+  "name": "قراصة الكهرباء",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 678,
+  "name": "اركويت للفتة",
+  "address": "Engineers St, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 679,
+  "name": "محمد حمدان للمأكولات السريعة",
+  "address": "J684+RQ6، Unnamed Road, بورتسودان‎،، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 680,
+  "name": "حلواني سويت كورنر -Sweet Corner",
+  "address": "Stadium St, Port Sudan, Sudan",
+  "phone": "+249112112131",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 681,
+  "name": "مطعم ابوخليل",
+  "address": "J669+GRR، شارع جامعة البحر الاحمر الشمالي, Port Sudan, Sudan",
+  "phone": "+249913847479",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 682,
+  "name": "الخير اقاشي",
+  "address": "بورتسودان‎،،, بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 683,
+  "name": "مطعم اليباد",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 684,
+  "name": "كافتريا البحيرة",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249966515433",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 685,
+  "name": "تاات",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249963685133",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 686,
+  "name": "شوكليت هاوس",
+  "address": "Al Cornache St, Port Sudan, Sudan",
+  "phone": "+249999990912",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 687,
+  "name": "Waffles",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 688,
+  "name": "المنجروف بورتسودان",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 689,
+  "name": "دونا بيتزا Dona Pizza",
+  "address": "J669+GMJ، شارع جامعة البحر الاحمر الشمالي, Port Sudan, Sudan",
+  "phone": "+249900100122",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 690,
+  "name": "شارع حسن فاصوليا",
+  "address": "near mam amal, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 691,
+  "name": "دكان ملكة جانسي",
+  "address": "محطة باسمة،, Port Sudan, Sudan",
+  "phone": "+249912913129",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 692,
+  "name": "مخبازة ود همد",
+  "address": "J6JQ+7H9، J6JQ+7H9، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 693,
+  "name": "PRSTOO FOOD \u0026DRINKS",
+  "address": "H6R9+4GH، السودان بورتسودان ترانسيت, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 694,
+  "name": "كافتيريا الفردوس",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249966675360",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 695,
+  "name": "Demanor",
+  "address": "H5RR+43M، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249907771444",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 696,
+  "name": "سندوتشات وعصاير بيبو",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249966675360",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 697,
+  "name": "جوجو٦",
+  "address": "J688+MVX، بورتسودان‎، السودان جوار الجامع الكبير, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 698,
+  "name": "كافتيريا مشوار",
+  "address": "H6W4+6RW، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 699,
+  "name": "كافتيريا الفردوس",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 700,
+  "name": "مطعم ماهر",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249911333604",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 701,
+  "name": "Port Sudan Mall",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249918559509",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 702,
+  "name": "بورتسودان مول..المدينه",
+  "address": "J692+VQX، Unnamed Road, بورتسودان‎،، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249912866456",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 703,
+  "name": "Beauty Mall Center",
+  "address": "Stadium St, Port Sudan, Sudan",
+  "phone": "+249311838738",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 704,
+  "name": "سيتي سنتر",
+  "address": "J695+V6X، مجمع مكاتب ضرائب ديم المدينة، طريق المدينة المنورة، بورتسودان‎،, Port Sudan, Sudan",
+  "phone": "+249123041299",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 705,
+  "name": "Port Sudan",
+  "address": "Engineers St, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 706,
+  "name": "نادي بورتسودان العالمي port sudan international clup",
+  "address": "Unnamed Road, Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 707,
+  "name": "A\u0026S Travel and Tourism Agency",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249912133278",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 708,
+  "name": "Charisma Diving Center",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249967076732",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 709,
+  "name": "Basiri Plaza Hotel",
+  "address": "Al Cornache St, Port Sudan, Sudan",
+  "phone": "+249922366112",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 710,
+  "name": "Coral Port Sudan",
+  "address": "Port Sudan, Sudan",
+  "phone": "+249183774100",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 711,
+  "name": "Red Sea",
+  "address": "Suakin, Sudan",
+  "phone": "+249918760672",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 712,
+  "name": "Osman Digna Port",
+  "address": "Port Sudan, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 713,
+  "name": "فندق مالكة",
+  "address": "5M33+GV6، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 714,
+  "name": "Najaf Hotelفندق نجف",
+  "address": "كوستي،،, Kosti, Sudan",
+  "phone": "+249120777455",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 715,
+  "name": "Umm Dom Hotel",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 716,
+  "name": "احمد النور",
+  "address": "Kosti, Sudan",
+  "phone": "+249912306649",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 717,
+  "name": "فندق الكوباري - Kobari Hotel",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 718,
+  "name": "زكريا محمد حامد ادم",
+  "address": "كوستي،،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 719,
+  "name": "Abu Zayd Hotel",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 720,
+  "name": "بيت العزابه",
+  "address": "4MX8+JG5، Unnamed Road, Kosti - كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 721,
+  "name": "اولاد عكاشه",
+  "address": "Unnamed Road, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 722,
+  "name": "دار الضباط الإداريين",
+  "address": "Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 723,
+  "name": "فندق الريان",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 724,
+  "name": "Rodat Almadina Hotel",
+  "address": "5M69+365، كوستي،،, كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 725,
+  "name": "كمال الدين محمد عكاشه",
+  "address": "Umm Kafur, Sudan",
+  "phone": "+249547029691",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 726,
+  "name": "فندق تبيدي",
+  "address": "5J6R+CMG، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 727,
+  "name": "Хотел \"Нил\"",
+  "address": "حي الاندلس, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 728,
+  "name": "Hospitality Palace Hotel",
+  "address": "5M46+R25، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 729,
+  "name": "Alnasr Furnitured Apartments",
+  "address": "Unnamed Road, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 730,
+  "name": "El Reda",
+  "address": "4JQG+7CG، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 731,
+  "name": "د.خضر عمر المؤمن",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 732,
+  "name": "عمارة جيلانى",
+  "address": "5M8C+RPW، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 733,
+  "name": "المدينة الجامعية",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 734,
+  "name": "مصطفي كامل شاكر",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 735,
+  "name": "نادي الشرطة",
+  "address": "5M4G+4G3، Unnamed Road, كوستي،, Kosti, Sudan",
+  "phone": "+249912769155",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 736,
+  "name": "اسكان الجيلي عبدالباقي حمدت الله بعشوم للطلاب",
+  "address": "4JXX+5F7، كوستي،، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 737,
+  "name": "عبدالله محمد عيسى",
+  "address": "Kosti, Sudan",
+  "phone": "+249912738144",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 738,
+  "name": "ام جب الركابية",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 739,
+  "name": "Alhayat Palace Hotel",
+  "address": "Boksi Lot، كوستي،, Kosti, Sudan",
+  "phone": "+249912912731",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 740,
+  "name": "بشري للاسماك",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 741,
+  "name": "مطعم كوكس",
+  "address": "4MF2+94Q، Unnamed Road, كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 742,
+  "name": "أبج للطعمية الفاخرة",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 743,
+  "name": "Cookies كفتريا",
+  "address": "Kosti, Sudan",
+  "phone": "+249908994351",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 744,
+  "name": "قهوة حامد",
+  "address": "Unnamed Road, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 745,
+  "name": "مطعم سبأ",
+  "address": "Unnamed Road, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 746,
+  "name": "كافتريا كوستينا",
+  "address": "Kosti, Sudan",
+  "phone": "+249915431698",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 747,
+  "name": "فندق يافا",
+  "address": "كوستي،،, كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 748,
+  "name": "كافيتريا",
+  "address": "كوستي،،, Kosti, Sudan",
+  "phone": "+249901000020",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 749,
+  "name": "ادم للأسماك",
+  "address": "4MP6+RCW، كوستي،, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 750,
+  "name": "الواحة مول",
+  "address": "Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 751,
+  "name": "كافتيريا الفوال",
+  "address": "Unnamed Road, كوستي،،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 752,
+  "name": "كافتريا ود الناير",
+  "address": "5QH2+QRV، ربك‎‎،, Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 753,
+  "name": "محل سمك اكتشاف بق",
+  "address": "Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 754,
+  "name": "فول الزين",
+  "address": "5PJX+FFX، ربك‎‎،، ربك‎‎،, Rabak, Sudan",
+  "phone": "+249962548813",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 755,
+  "name": "Mohammad Omar Musa Restaurant (Kindergarten City)",
+  "address": "Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 756,
+  "name": "عقيد فتح الرحمن علي احمد",
+  "address": "Rabak, Sudan",
+  "phone": "+249917081666",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 757,
+  "name": "موس الكردفاني",
+  "address": "Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 758,
+  "name": "مطعم الحاجة جواهر للمأكولات الشعبية",
+  "address": "Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 759,
+  "name": "Laziz Cafeteria",
+  "address": "Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 760,
+  "name": "الفوال الشاعر ودو",
+  "address": "5QJ2+WFM، ربك‎‎،, Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 761,
+  "name": "مطعم ليالي",
+  "address": "5QW5+H8V، ربك‎‎،, Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 762,
+  "name": "مطعم بكري للفول",
+  "address": "5PMW+46X، Unnamed Road, ربك‎‎،, Rabak, Sudan",
+  "phone": "+249113948912",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 763,
+  "name": "كافتريا الشتيله",
+  "address": "Kosti, Sudan",
+  "phone": "+249919898212",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 764,
+  "name": "كفتيريا كوستي للاسماك",
+  "address": "Rabak, Sudan",
+  "phone": "+249916338175",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 765,
+  "name": "كافتريا واستراحة ود الكوة",
+  "address": "Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 766,
+  "name": "Bushra Fried Fish",
+  "address": "5PGX+V5C، ربك‎‎،, Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 767,
+  "name": "مطعم بتول جوار مشروع النظافة",
+  "address": "5P5V+WMG، ربك‎‎،، ربك‎‎،, Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 768,
+  "name": "كافترية ومنتجع السدره",
+  "address": "5P4R+6CR، ربك‎‎،، ربك‎‎،, Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 769,
+  "name": "مطعم مادونا",
+  "address": "5PPX+C5J، ربك‎‎،, Rabak, Sudan",
+  "phone": "+249919084796",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 770,
+  "name": "مطعم صابرين",
+  "address": "5PGX+P6W، ربك‎‎،, Rabak, Sudan",
+  "phone": "+249918102962",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 771,
+  "name": "مطعم ود الحاج",
+  "address": "5PVQ+VCR، ربك‎‎،، ربك‎‎،, Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 772,
+  "name": "فوال الشيخ",
+  "address": "Unnamed Road, Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 773,
+  "name": "بلبل للطقة و حمو للكوارع",
+  "address": "غرب بنك البركة, Rabak, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 774,
+  "name": "مطعم المندي",
+  "address": "5PHX+3RH، ربك‎‎،, Rabak, Sudan",
+  "phone": "+249922938450",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 775,
+  "name": "ابو ظريفة",
+  "address": "5PHW+RM2، ربك‎‎،, Rabak, Sudan",
+  "phone": "+249911123392",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 776,
+  "name": "شواية الشناوي",
+  "address": "Rabak, Sudan",
+  "phone": "+249912512847",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 777,
+  "name": "كافتريا الاستاذ للاسماك الطازجة",
+  "address": "5PHX+M4G، Unnamed Road, ربك‎‎،, Rabak, Sudan",
+  "phone": "+249912781692",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 778,
+  "name": "فوال يوسف",
+  "address": "4JJV+CR8، كوستي،, Kosti, Sudan",
+  "phone": "+249900394221",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 779,
+  "name": "عثمان للأقاشى",
+  "address": "5M87+HH8، كوستي،, Kosti, Sudan",
+  "phone": "+249903194130",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 780,
+  "name": "Wahba Fried Fish",
+  "address": "5PGX+W4Q، ربك‎‎،, Rabak, Sudan",
+  "phone": "+249919545957",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 781,
+  "name": "بوشندا",
+  "address": "5M88+32H، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 782,
+  "name": "مطعم طارق البرعي",
+  "address": "5J4R+MWM، حارة المزلقان،, Kosti, Sudan",
+  "phone": "+249911320295",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 783,
+  "name": "حمو وبلبل",
+  "address": "Kosti, Sudan",
+  "phone": "+249912810969",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 784,
+  "name": "بلبل للطقه",
+  "address": "4MF2+94Q، كوستي،, Kosti, Sudan",
+  "phone": "+249901253828",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 785,
+  "name": "محمد حسن الشايقي",
+  "address": "5M96+MR9، Unnamed Road, كوستي،, Kosti, Sudan",
+  "phone": "+249909464155",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 786,
+  "name": "اقاشي ام روابة",
+  "address": "5M89+454، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 787,
+  "name": "عم عبده",
+  "address": "4PG6+P33، Unnamed Road, كوستي،, Kosti, Sudan",
+  "phone": "+249910336386",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 788,
+  "name": "مطعم ود الفكي للأسماك الطازجة",
+  "address": "4MP5+GFX، كوستي،، 4MP5+MJ7، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 789,
+  "name": "مطعم تبوري",
+  "address": "4MX3+X3J، كوستي،، كوستي،, Kosti, Sudan",
+  "phone": "+249999886450",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 790,
+  "name": "ابوعريضة للمندي الفاخر",
+  "address": "5M5C+22P، كوستي،، كوستي،،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 791,
+  "name": "أيسكريم رحيق",
+  "address": "4MQ8+Q7H، كوستي،, Kosti, Sudan",
+  "phone": "+249964066839",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 792,
+  "name": "كافتريا المناره شيخ مزمل",
+  "address": "5MCC+23C، Unnamed Road, كوستي،، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 793,
+  "name": "عم عبدو",
+  "address": "4MF2+94Q، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 794,
+  "name": "كوستا",
+  "address": "5M96+RWC، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 795,
+  "name": "كافتريا الحمدي",
+  "address": "4MF2+94X، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 796,
+  "name": "اخصائي العرديب",
+  "address": "Kosti, Sudan",
+  "phone": "+249910199611",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 797,
+  "name": "ابوتبو للفول والفلافل",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 798,
+  "name": "ابوتبو فول وفلافل",
+  "address": "5M87+RX6، كوستي،،, كوستي،, Kosti, Sudan",
+  "phone": "+249914566834",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 799,
+  "name": "عمو عبدو",
+  "address": "5M25+V6G، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 800,
+  "name": "وائل ووليد",
+  "address": "5M88+H3C، Unnamed Road, كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 801,
+  "name": "ايسكريم التمبولي",
+  "address": "4MMR+PQ8، Unnamed Road, كوستي،, Kosti, Sudan",
+  "phone": "+249911135535",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 802,
+  "name": "أيسكريم جدو",
+  "address": "4MX3+H2V، كوستي،، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 803,
+  "name": "عم العمدة عمدة الفسيخ",
+  "address": "5M69+Q8Q، Unnamed Road, كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 804,
+  "name": "عاصم رست",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 805,
+  "name": "Altahir Restaurant مطعم الطاهر 3",
+  "address": "4MF2+94Q، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 806,
+  "name": "Altaher Restaurant Center",
+  "address": "5M99+XXP، Unnamed Road, كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 807,
+  "name": "شواية رست",
+  "address": "5J2X+3VG، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 808,
+  "name": "فوالي السليم",
+  "address": "Unnamed Road, كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 809,
+  "name": "شواية قندهار",
+  "address": "5M22+4VX، كوستي،، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 810,
+  "name": "كافتريا اولاد حامد للاسماك (جدو)",
+  "address": "4JJJ+252، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 811,
+  "name": "مطعم ود النور",
+  "address": "5M79+5P9، كوستي،, Kosti, Sudan",
+  "phone": "+249912382213",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 812,
+  "name": "مطعم أولاد عبود للفلافل",
+  "address": "Kosti, Sudan",
+  "phone": "+249913287755",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 813,
+  "name": "مطعم وايس كريم فورتي ميكس",
+  "address": "Kosti, Sudan",
+  "phone": "+249900508865",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 814,
+  "name": "مطعم البحيرة للأسماك",
+  "address": "4MPQ+7CH، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 815,
+  "name": "سبأ للموكولات",
+  "address": "Kosti, Sudan",
+  "phone": "+249911135535",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 816,
+  "name": "البوادي اللحوم والمشويات",
+  "address": "4JRP+PXJ، كوستي،, Kosti, Sudan",
+  "phone": "+249915151555",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 817,
+  "name": "تجاني اقاشي",
+  "address": "5M68+HH9، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 818,
+  "name": "Blash Centre",
+  "address": "4PJ4+CCQ، Unnamed Road, كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 819,
+  "name": "Restaurant and Datahir 2",
+  "address": "5M6C+867، Unnamed Road, كوستي،، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 820,
+  "name": "متجر",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 821,
+  "name": "World Food Programme \"Kosti-FO\"",
+  "address": "5M97+5J9، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 822,
+  "name": "مطعم عابدين",
+  "address": "5M6C+W42، كوستي،, Kosti, Sudan",
+  "phone": "+249912306649",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 823,
+  "name": "مطعم ابو دقن",
+  "address": "Boksi Lot، كوستي،, Kosti, Sudan",
+  "phone": "+249913577727",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 824,
+  "name": "Cafeteria east of the Nile",
+  "address": "5M2H+MRP، Unnamed Road, كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 825,
+  "name": "مطعم تكساس",
+  "address": "4MF2+94X، كوستي،, Kosti, Sudan",
+  "phone": "+249902246668",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 826,
+  "name": "مطعم جمال ابو انس",
+  "address": "4JRQ+V46، كوستي،, Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 827,
+  "name": "Abu famous restaurant Fish",
+  "address": "Kosti, Sudan",
+  "phone": "+249912540532",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 828,
+  "name": "مخبز بسمة",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 829,
+  "name": "مطعم جمال ابو انس",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ },
+ {
+  "id": 830,
+  "name": "Kosti",
+  "address": "Kosti, Sudan",
+  "phone": "",
+  "country-code": "SD",
+  "country": "Sudan"
+ }
+]

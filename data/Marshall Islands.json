@@ -1,0 +1,434 @@
+[
+ {
+  "id": 1,
+  "name": "Private Island Boutique Resort Bikendrik Island Hideaway, Marshall Islands",
+  "address": "Kwajalein Atoll 96970, Marshall Islands",
+  "phone": "+6923295230",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 2,
+  "name": "Hotel Robert Reimers",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 3,
+  "name": "Marshall Islands Resort",
+  "address": "Rairok village, Long Islands, Majuro Atoll 96960, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 4,
+  "name": "Lojkar",
+  "address": "Uliga Road Majuro, 96960, Marshall Islands",
+  "phone": "+6926256474",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 5,
+  "name": "Flame Tree Backpackers Hostel",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "+6926252525",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 6,
+  "name": "Seagull Restaurant",
+  "address": "Ionmaaj Weto, Rita Ocean Road, Rita Majuro, 96960, Marshall Islands",
+  "phone": "+6926252605",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 7,
+  "name": "Blue Lagoon Restaurant",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 8,
+  "name": "D\u0026J Enterprises",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll 96960, Marshall Islands",
+  "phone": "+6926256641",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 9,
+  "name": "Tide Table Restaurant \u0026 Lounge",
+  "address": "Uliga Main Road Majuro Majuro Atoll, 96960, Marshall Islands",
+  "phone": "+6926253605",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 10,
+  "name": "Toeak Bar and Grill",
+  "address": "Uliga Majuro Atoll, Delap-Uliga-Djarrit, Marshall Islands",
+  "phone": "+6926256866",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 11,
+  "name": "BBQ",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 12,
+  "name": "Island Star",
+  "address": "Rairok, Delap-Uliga-Djarrit, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 13,
+  "name": "Won Hai Shien",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "+6926253370",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 14,
+  "name": "NKB Restaurant",
+  "address": "Rairikku, Delap-Uliga-Djarrit, Marshall Islands",
+  "phone": "+6922474771",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 15,
+  "name": "Jittak Take-out",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 16,
+  "name": "Simba resturant",
+  "address": "PO Box 477, 96960, Delap-Uliga-Djarrit, 96960, Marshall Islands",
+  "phone": "4779696096960",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 17,
+  "name": "Kitco",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll 96960, Marshall Islands",
+  "phone": "39+75696960",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 18,
+  "name": "China restaurant",
+  "address": "Lagoon Rd, Majuro Atoll, Delap-Uliga-Djarrit, Marshall Islands",
+  "phone": "+6922472337",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 19,
+  "name": "Seagull restaurant",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 20,
+  "name": "Alliang",
+  "address": "Uliga Rd, Majuro, Majuro Atoll 96960, Marshall Islands",
+  "phone": "+6926258292",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 21,
+  "name": "Lucky Star (Mon Reader)",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "+6924557988",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 22,
+  "name": "Yummy",
+  "address": "Rairok butkan, 711, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 23,
+  "name": "Yokwe Fast Food",
+  "address": "Delap, Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 24,
+  "name": "Akia Cafe",
+  "address": "Rairikku, Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "+6924568263",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 25,
+  "name": "Island Cafe",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "+6926258318",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 26,
+  "name": "Harry's Bar",
+  "address": "Delap Main Road, Majuro, Majuro Atoll, RMI Majuro Marshall Islands MH, 96960, Marshall Islands",
+  "phone": "+6924567716",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 27,
+  "name": "Formosa Shopping Center",
+  "address": "799 Lagoon Rd, Delap-Uliga-Djarrit, MH 96960, Marshall Islands",
+  "phone": "79996960",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 28,
+  "name": "KNK Shopping Center",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "+6926254758",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 29,
+  "name": "EZ Price Mart",
+  "address": "Uliga, Majuro Atoll 96960, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 30,
+  "name": "Majuro",
+  "address": "898 Delap Main Road, Majuro, 96960, Marshall Islands",
+  "phone": "89896960",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 31,
+  "name": "Uliga",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll 96960, Marshall Islands",
+  "phone": "39+44896960",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 32,
+  "name": "Delap-Uliga-Djarrit",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 33,
+  "name": "Marshall Islands Visitors Authority",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "+6924564764",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 34,
+  "name": "Amata Kabua International Airport",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll, RMI",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 35,
+  "name": "RMI Office of Commerce, Investment \u0026 Tourism",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "+6926253372",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 36,
+  "name": "RAYCREW",
+  "address": "Lagoon Rd, Majuro Atoll, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 37,
+  "name": "Hotel Robert Reimers",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll, Marshall Islands",
+  "phone": "+6926252525",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 38,
+  "name": "Payless Supermarket",
+  "address": "Uliga Road Majuro, 96960, Marshall Islands",
+  "phone": "+6926256474",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 39,
+  "name": "Marshall Islands Resort",
+  "address": "Delap-Uliga-Djarrit, Majuro Atoll 96960, Marshall Islands",
+  "phone": "+6926252233",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 40,
+  "name": "International Convention Center",
+  "address": "Uliga Majuro, Majuro Atoll 96960, Marshall Islands",
+  "phone": "+6926256822",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 41,
+  "name": "La Bojie Restaurant",
+  "address": "buoj ebeye, kibwe2x, Kwajalein Atoll 96970, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 42,
+  "name": "L.A.G business",
+  "address": "Kwajalein Atoll 96970, Marshall Islands",
+  "phone": "+6923295230",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 43,
+  "name": "Subway",
+  "address": "Kwajalein Atoll 96970, Marshall Islands",
+  "phone": "+6923298596",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 44,
+  "name": "Zamperini Dining Facility",
+  "address": "Kwajalein, Kwajalein Atoll, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 45,
+  "name": "Anthony's Pizza",
+  "address": "Cafe Pacific, Kwajalein Atoll, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 46,
+  "name": "Hotel Ebeye",
+  "address": "Mon Kukbok, Ebeye, Marshall Islands",
+  "phone": "+6922351182",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 47,
+  "name": "Mama Store",
+  "address": "Kwajalein, Kwajalein Atoll, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 48,
+  "name": "American Eatery",
+  "address": "Kwajalein, Kwajalein Atoll, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 49,
+  "name": "Burger King",
+  "address": "Kwajalein, Kwajalein Atoll, Marshall Islands",
+  "phone": "",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 50,
+  "name": "Laulani Village Shopping Center",
+  "address": "unamed road, 96970, Kwajalein Atoll, Marshall Islands",
+  "phone": "+6923293081",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 51,
+  "name": "Ewa Beach Shopping Center",
+  "address": "91-1119 Keaunui Dr, Ewa Beach, HI 96706",
+  "phone": "91111996706",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 52,
+  "name": "Marshall Shopping Center",
+  "address": "91-919 Fort Weaver Rd, Ewa Beach, HI 96706",
+  "phone": "9191996706",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 53,
+  "name": "Ewa Town Center",
+  "address": "1300 E Pinecrest Dr, Marshall, TX 75670",
+  "phone": "130075670",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ },
+ {
+  "id": 54,
+  "name": "Kwajalein Dive Center",
+  "address": "91-1401 Fort Weaver Rd, Ewa Beach, HI 96706",
+  "phone": "91140196706",
+  "country-code": "MH",
+  "country": "Marshall Islands"
+ }
+]

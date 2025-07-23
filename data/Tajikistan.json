@@ -1,0 +1,5330 @@
+[
+ {
+  "id": 1,
+  "name": "Hilton Dushanbe",
+  "address": "Mirzo Tursunzoda 21b, Dushanbe, Tajikistan",
+  "phone": "+992487017171",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 2,
+  "name": "Hyatt Regency Dushanbe",
+  "address": "Mirzo Rizo Street 6, Dushanbe 734000, Tajikistan",
+  "phone": "+992935256666",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 3,
+  "name": "Hilton Dushanbe",
+  "address": "Said Nosirov Street, Dushanbe, Tajikistan",
+  "phone": "+992487019000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 4,
+  "name": "Hotel Taj Palace",
+  "address": "Mirzo Tursunzoda Street 10, Dushanbe, Tajikistan",
+  "phone": "+992446107744",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 5,
+  "name": "Hotel \"777\"",
+  "address": "Ayni Street 48, Dushanbe, Tajikistan",
+  "phone": "+992487030000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 6,
+  "name": "The Rumi Hotel",
+  "address": "26/1 Ismoili Somoni Prospekt, Dushanbe 734026, Tajikistan",
+  "phone": "261734026",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 7,
+  "name": "Asia Grand Hotel",
+  "address": "Ayni Street 48, Dushanbe, Tajikistan",
+  "phone": "+992487030000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 8,
+  "name": "Hotel Ayni",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992900019000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 9,
+  "name": "SAFO Dushanbe Hotel",
+  "address": "Mirzo Tursunzoda Street 21, Dushanbe, Tajikistan",
+  "phone": "+992446007777",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 10,
+  "name": "Almos Hotel",
+  "address": "Chorbogh, Tajikistan",
+  "phone": "+992985051888",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 11,
+  "name": "Hotel Vatan",
+  "address": "Prospekt Rudaki 160, Panjakent, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 12,
+  "name": "Safir-Hotel",
+  "address": "Khusravi Dekhlavi Street 89, Dushanbe, Tajikistan",
+  "phone": "+992550851001",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 13,
+  "name": "Oriyo Hotel",
+  "address": "Khoviling, Tajikistan",
+  "phone": "+992918720007",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 14,
+  "name": "Shumon Hotel",
+  "address": "19-й проезд улицы Джавонон, д.4 Душанбе, 734042, Tajikistan",
+  "phone": "194734042",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 15,
+  "name": "“Hello, Dushanbe!” Hostel",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 16,
+  "name": "Hotel Sharq",
+  "address": "Nazarshoev Street, Dushanbe, Tajikistan",
+  "phone": "+77054174818",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 17,
+  "name": "Hotel Rohat",
+  "address": "Shevchenko Street, Dushanbe, Tajikistan",
+  "phone": "+79241066300",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 18,
+  "name": "Atlas Hotel",
+  "address": "Ayni Street, Dushanbe, Tajikistan",
+  "phone": "+992987241010",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 19,
+  "name": "Pamir Hotel-Hostel",
+  "address": "734003, Karamov Street, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 20,
+  "name": "Hello Dushanbe Guest House",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 21,
+  "name": "City Hostel",
+  "address": "Nisor Muhammad Street 30, Dushanbe, Tajikistan",
+  "phone": "+992933301435",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 22,
+  "name": "Green House Hostel",
+  "address": "Ulitsa L'va Tolstogo 59, Dushanbe, Tajikistan",
+  "phone": "+992372246904",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 23,
+  "name": "Pamir Hotel-Hostel",
+  "address": "734000, Hisor 24A, Dushanbe, Tajikistan",
+  "phone": "73400024",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 24,
+  "name": "SAKHO HOSTEL",
+  "address": "Rudaki Avenue 6a, Dushanbe, Tajikistan",
+  "phone": "+992938707100",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 25,
+  "name": "Hotel Orio",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992927883395",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 26,
+  "name": "Diamond Hotel",
+  "address": "1. Maysazor street, 1. Maysazor street, Dushanbe, Tajikistan, Dushanbe 734002, Tajikistan",
+  "phone": "11734002",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 27,
+  "name": "Hello Dushanbe Guest House",
+  "address": "Гиссарский район джамоат Алмоси, Darozi, Tajikistan",
+  "phone": "+992881255555",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 28,
+  "name": "Hostel Sunrise",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992487030000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 29,
+  "name": "Grey Hotel",
+  "address": "Borbad Street, Dushanbe, Tajikistan",
+  "phone": "+992988610413",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 30,
+  "name": "Ali Hostel",
+  "address": "Tajikistan, Dushanbe, Rahmon Nabiyev Street, 2nd Passage, Nr. 23",
+  "phone": "+992887081077",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 31,
+  "name": "Flamingo",
+  "address": "Sovetskiy 28, Dushanbe 734554, Tajikistan",
+  "phone": "28734554",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 32,
+  "name": "Yellow Hostel",
+  "address": "str. FAZLIDIN SHAHOBOV 122. Dushanbe, Tajikistan ул. Фазлиддин Шахобов 122. Душанбе, Таджикистан, Dushanbe 734020, Tajikistan",
+  "phone": "122122734020",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 33,
+  "name": "HAYAT DUSHANBE HOTEL",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992900444333",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 34,
+  "name": "Dushanbe Serena Hotel",
+  "address": "Bokhtar St 37, Dushanbe, Tajikistan",
+  "phone": "+992934441515",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 35,
+  "name": "Anisa Hostel",
+  "address": "Varzob, Tajikistan",
+  "phone": "+992882202020",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 36,
+  "name": "Bruce Hostel",
+  "address": "Ayni Street 32, Dushanbe, Tajikistan",
+  "phone": "+992907140110",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 37,
+  "name": "Rental Car 99 - Diyor Travel Tajikistan, Hostel 99",
+  "address": "734001, Rudaki Avenue 6a, Dushanbe, Tajikistan",
+  "phone": "+992933336226",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 38,
+  "name": "Hotel Tojikiston",
+  "address": "Rudaki Avenue, Dushanbe, Tajikistan",
+  "phone": "+992372246487",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 39,
+  "name": "Hotel Dushanbe",
+  "address": "Shevchenko Street 75-26, Dushanbe, Tajikistan",
+  "phone": "+992372270092",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 40,
+  "name": "Lotte Palace Dushanbe",
+  "address": "Rudaki Avenue, Dushanbe, Tajikistan",
+  "phone": "+992936558899",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 41,
+  "name": "Мехмонхонаи \"Лал\"",
+  "address": "Adkhamov Street 62, Dushanbe, Tajikistan",
+  "phone": "+992888998080",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 42,
+  "name": "Gulistan Tour Hotel",
+  "address": "Shevchenko Street 71, Dushanbe, Tajikistan",
+  "phone": "+992900119000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 43,
+  "name": "Hotel Restaurant Pamir Palace",
+  "address": "Nisor Muhammad Street, Dushanbe, Tajikistan",
+  "phone": "+992372278188",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 44,
+  "name": "Hotel Meridian Dushanbe",
+  "address": "Sportivnaya Street 12, Dushanbe, Tajikistan",
+  "phone": "+992372363888",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 45,
+  "name": "Hotel Avesto",
+  "address": "Foteh Niyozi 54, Dushanbe, Tajikistan",
+  "phone": "+992372274346",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 46,
+  "name": "Hotel Sarvar",
+  "address": "Rudaki Ave 105a, Dushanbe 734001, Tajikistan",
+  "phone": "105734001",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 47,
+  "name": "Hotel Istiqlol",
+  "address": "Испечак-2 Дом 16/3 Душанбе TJ 734000, Dushanbe, Tajikistan",
+  "phone": "2163734000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 48,
+  "name": "Vakhsh Hotel",
+  "address": "734001, Bukhoro Street 4, Dushanbe, Tajikistan",
+  "phone": "+992880288888",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 49,
+  "name": "Отель-Диор, Меҳмонхонаи Диор, Гостиница Диор, Dior Hotel",
+  "address": "M41, Khorog, Tajikistan",
+  "phone": "+992352220004",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 50,
+  "name": "PLATINUM HOTEL DUSHANBE",
+  "address": "Hotel Gulistan Tour, Bukhoro Street 78, Dushanbe 734025, Tajikistan",
+  "phone": "78734025",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 51,
+  "name": "Safar Hotel\u0026SPA",
+  "address": "улица Гагарина 19а, Dushanbe, Tajikistan",
+  "phone": "+992555505050",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 52,
+  "name": "Kokhi Afsaron",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992446203399",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 53,
+  "name": "Hotel City Garden",
+  "address": "Str, Nisor Muhammad Street 59/1, Dushanbe 734013, Tajikistan",
+  "phone": "591734013",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 54,
+  "name": "Hotel Sino",
+  "address": "Rudaki Ave 7, Dushanbe, Tajikistan",
+  "phone": "+992372219655",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 55,
+  "name": "Hotel Tajikmatlubot",
+  "address": "Ismoili Somoni district Str. Fazliddin Shahobov 203, Dushanbe 734000, Tajikistan",
+  "phone": "203734000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 56,
+  "name": "Vefa Apart Hotel",
+  "address": "Ayni Street 63, Dushanbe 734000, Tajikistan",
+  "phone": "63734000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 57,
+  "name": "Hotel-Hostel Kurush 122",
+  "address": "Shohtemur Street 22, Dushanbe, Tajikistan",
+  "phone": "+992446009933",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 58,
+  "name": "Hostel Dushanbe",
+  "address": "Rudaki Avenue 14, Dushanbe 734013, Tajikistan",
+  "phone": "14734013",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 59,
+  "name": "LIFE HOTEL",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992906372727",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 60,
+  "name": "Kohi Malika Resort",
+  "address": "Nisor Muhammad Street 16, Dushanbe 734024, Tajikistan",
+  "phone": "16734024",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 61,
+  "name": "Hostel Latifa",
+  "address": "F. Attor St 33, Dushanbe 734000, Tajikistan",
+  "phone": "33734000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 62,
+  "name": "H Hotel Dushanbe",
+  "address": "Хусензода 36 А 13 этаж, Dushanbe 734019, Tajikistan",
+  "phone": "3613734019",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 63,
+  "name": "Otel' \"Oriyon\"",
+  "address": "Улица Н. Мухаммада 6, дом 3, Dushanbe, Tajikistan",
+  "phone": "+992502000005",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 64,
+  "name": "Khostel I Sauna 103",
+  "address": "Сино, 103, Dushanbe, Tajikistan",
+  "phone": "+992972949898",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 65,
+  "name": "Guest House \"Comfort\"",
+  "address": "Jabbor Rasulov Ave 9, Dushanbe 734000, Tajikistan",
+  "phone": "+992900702318",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 66,
+  "name": "Hotel Tajservice",
+  "address": "98a Khusravi Dehlavi Street, Dushanbe 734024, Tajikistan",
+  "phone": "98734024",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 67,
+  "name": "Gostnitsa Guliston",
+  "address": "Karamov Street, Dushanbe, Tajikistan",
+  "phone": "+992917839393",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 68,
+  "name": "Hotel Sher",
+  "address": "Улица Н. Мухаммада 6, дом 3, Dushanbe, Tajikistan",
+  "phone": "+992502000005",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 69,
+  "name": "The Life",
+  "address": "Shestopalov Street, Dushanbe, Tajikistan",
+  "phone": "+992908805509",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 70,
+  "name": "Sanatorium Shambari",
+  "address": "Shestopalov Street, Dushanbe, Tajikistan",
+  "phone": "+992908805509",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 71,
+  "name": "Otel' Oriyo",
+  "address": "734003, Ozodi Zanon №44, (near Rudaki Plaza ) Душанбе, Dushanbe, Tajikistan",
+  "phone": "73400344",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 72,
+  "name": "Platinum",
+  "address": "Rudaki Avenue 24, Dushanbe, Tajikistan",
+  "phone": "+992372211050",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 73,
+  "name": "Maramz house",
+  "address": "Nisor Muhammad Street 3. 21, Dushanbe 734000, Tajikistan",
+  "phone": "321734000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 74,
+  "name": "Sayfi Guesthouse",
+  "address": "Mirzo Rizo Street, Dushanbe, Tajikistan",
+  "phone": "+992931215151",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 75,
+  "name": "Otel' Bokhtariyon",
+  "address": "32,, Nisor Muhammad Street 3/4, Dushanbe, Tajikistan",
+  "phone": "+992446251818",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 76,
+  "name": "Home Aikus",
+  "address": "улица Нисор Мухаммад 5-й проезд 4/1, Dushanbe 734024, Tajikistan",
+  "phone": "541734024",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 77,
+  "name": "Aeroport Guesthouse",
+  "address": "Ниёзи 34, Dushanbe, Tajikistan",
+  "phone": "+992446400108",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 78,
+  "name": "Zimchurud Eco Villas",
+  "address": "55 Spirit Sport Club, Husseinzoda Street 34, Dushanbe, Tajikistan",
+  "phone": "+992446303399",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 79,
+  "name": "Travel Hostel",
+  "address": "Mirzo Rizo Street 6, Dushanbe 734000, Tajikistan",
+  "phone": "+992935256666",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 80,
+  "name": "Chilchanor",
+  "address": "Otel' \"Oriyo\", Dushanbe 734017, Tajikistan",
+  "phone": "+992882144447",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 81,
+  "name": "Tohirion Hotel",
+  "address": "Karamov Street 4, Dushanbe, Tajikistan",
+  "phone": "+992902556767",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 82,
+  "name": "Restaurant Forel (Trout)",
+  "address": "Mirzo Tursunzoda Street 21, Dushanbe, Tajikistan",
+  "phone": "+992900900609",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 83,
+  "name": "Delhi Darbar Dushanbe",
+  "address": "Rudaki Avenue 96, Dushanbe, Tajikistan",
+  "phone": "+992800707070",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 84,
+  "name": "Focaccia Grill",
+  "address": "Poytakht-80, Rudaki Avenue 55/1, Dushanbe 734000, Tajikistan",
+  "phone": "80551734000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 85,
+  "name": "Restaurant Sharbat",
+  "address": "Abdulahad Kakharov Street, Dushanbe, Tajikistan",
+  "phone": "+992931077010",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 86,
+  "name": "Steak House",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992934101209",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 87,
+  "name": "Sayoh Restaurant",
+  "address": "ул. Сино, Dushanbe, Tajikistan",
+  "phone": "+992989860007",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 88,
+  "name": "Arirang Kaya Korean restaurant",
+  "address": "Nazarshoev Street 145, Dushanbe, Tajikistan",
+  "phone": "+992931718888",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 89,
+  "name": "Fiza Restaurant",
+  "address": "Ismoil Somoni Avenue 26/1, Dushanbe, Tajikistan",
+  "phone": "+992487021234",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 90,
+  "name": "Restaurant \"Fregat\"",
+  "address": "Bekhzod Street 1, Dushanbe, Tajikistan",
+  "phone": "+992937271151",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 91,
+  "name": "Bella Pizza \u0026 Pasta",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992446259999",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 92,
+  "name": "Zaitoun",
+  "address": "Mirzo Tursunzoda Street 164, Dushanbe, Tajikistan",
+  "phone": "+992921115678",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 93,
+  "name": "Bukhara Restaurant",
+  "address": "82, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 94,
+  "name": "Il Patio",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 95,
+  "name": "Shukrona Restaurant",
+  "address": "Druzhby Narodov Street, Dushanbe, Tajikistan",
+  "phone": "+992987745555",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 96,
+  "name": "Çıtır Usta",
+  "address": "Saadi Sherozi Avenue, Dushanbe, Tajikistan",
+  "phone": "+992901442144",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 97,
+  "name": "Гастробар \"28 MONKEYS\"",
+  "address": "Rahmon Nabiyev Street 26, Dushanbe, Tajikistan",
+  "phone": "+992000700088",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 98,
+  "name": "Lung Chen Restaurant",
+  "address": "Rudaki Avenue 29, Dushanbe, Tajikistan",
+  "phone": "+992886600073",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 99,
+  "name": "Panorama Restaurant",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 100,
+  "name": "Sambusai Khujand restaurant",
+  "address": "Shohtemur Street 42, Dushanbe 734012, Tajikistan",
+  "phone": "42734012",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 101,
+  "name": "Rohat Teahouse",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992931580002",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 102,
+  "name": "Dushanbe Qurutob",
+  "address": "Hisor, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 103,
+  "name": "Restaurant CZN BURAK",
+  "address": "Shohtemur Street, Dushanbe, Tajikistan",
+  "phone": "+992711116060",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 104,
+  "name": "Turkish Restaurant Ozyurt",
+  "address": "Mirzo Tursunzoda Street 80, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 105,
+  "name": "Rudaki House Restaurant",
+  "address": "HRF2+FM6 Dushanbe Mall, 2rd floor, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 106,
+  "name": "Shahrisabz Restaurant",
+  "address": "Druzhby Narodov Street 47, Dushanbe, Tajikistan",
+  "phone": "+992550506661",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 107,
+  "name": "Traktir",
+  "address": "82,Душанбе, Таджикистан Насрутолло Махсум 77/5 А, Dushanbe, Tajikistan",
+  "phone": "+992372320303",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 108,
+  "name": "Zafar Restaurant",
+  "address": "Rudaki Avenue 92, Dushanbe, Tajikistan",
+  "phone": "+992919405656",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 109,
+  "name": "Omar Khayyam",
+  "address": "Bekhzod Street, Dushanbe, Tajikistan",
+  "phone": "+992882500500",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 110,
+  "name": "Yakkachinar Restaurant",
+  "address": "Rudaki Avenue 155, Dushanbe, Tajikistan",
+  "phone": "+992901013805",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 111,
+  "name": "Javonon Restaurant",
+  "address": "ул.М.Мастонгулова7, Dushanbe, Tajikistan",
+  "phone": "+992938275050",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 112,
+  "name": "SULTANBEY - ресторан турецкой кухни",
+  "address": "Bukhoro Street, Dushanbe, Tajikistan",
+  "phone": "+992909888808",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 113,
+  "name": "Yak Restaurant",
+  "address": "Alisher Navoi St, Dushanbe 734000, Tajikistan",
+  "phone": "+92734000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 114,
+  "name": "Segafredo",
+  "address": "The Republic of Tajikistan, Dushanbe, str. A.Donish 19, Dushanbe, Tajikistan",
+  "phone": "+992900900525",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 115,
+  "name": "Niagara Restaurant",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 116,
+  "name": "Sari Osyo",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 117,
+  "name": "BBQ Burger House",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992934412500",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 118,
+  "name": "Bonu Resturan",
+  "address": "Abdulahad Kakharov Street 67, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 119,
+  "name": "Navoi Deha Restaurant",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992900744588",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 120,
+  "name": "9 Val Restaurant",
+  "address": "Karamov Street, Dushanbe, Tajikistan",
+  "phone": "+992939838811",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 121,
+  "name": "Sarez",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 122,
+  "name": "Choykhona \"Toki\"",
+  "address": "Rudaki Avenue 55, Dushanbe, Tajikistan",
+  "phone": "+992554056888",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 123,
+  "name": "Amani",
+  "address": "Tehron Street 21, Dushanbe, Tajikistan",
+  "phone": "+992557505050",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 124,
+  "name": "Al Sham",
+  "address": "Rudaki Avenue 24, Dushanbe, Tajikistan",
+  "phone": "+992900900910",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 125,
+  "name": "Mimino",
+  "address": "Husseinzoda Street 36a, Dushanbe, Tajikistan",
+  "phone": "+992985793393",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 126,
+  "name": "Teahouse \"Omar Khayyam\"",
+  "address": "Druzhby Narodov Street, Dushanbe, Tajikistan",
+  "phone": "+992985806363",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 127,
+  "name": "Vaksh Restaurant",
+  "address": "Rudaki Avenue 167, Dushanbe, Tajikistan",
+  "phone": "+992900600505",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 128,
+  "name": "Bomi Jahon",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992938727099",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 129,
+  "name": "Ресторан Бухоро",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992934381064",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 130,
+  "name": "Mandi",
+  "address": "хувайдулоева 2, Dushanbe, Tajikistan",
+  "phone": "+992939268888",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 131,
+  "name": "Latina-Dushanbe",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992933111102",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 132,
+  "name": "Chakan",
+  "address": "1-й проезд Турсунзаде 4, Dushanbe, Tajikistan",
+  "phone": "+9922271666",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 133,
+  "name": "Fish \u0026 Steak",
+  "address": "Druzhby Narodov Street 47, Dushanbe, Tajikistan",
+  "phone": "+992888556661",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 134,
+  "name": "Қахвахона Бистро",
+  "address": "Ahmadi Donish Street 55, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 135,
+  "name": "TajPlov",
+  "address": "Pushkin Street 24, Dushanbe, Tajikistan",
+  "phone": "+992938800152",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 136,
+  "name": "Bahori Ajam",
+  "address": "Комсомольское оз, Dushanbe, Tajikistan",
+  "phone": "+992711070707",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 137,
+  "name": "Obitjon Fried Chicken (Чуҷаи Бирёни \"Обитҷон\")",
+  "address": "Rudaki Avenue, Dushanbe, Tajikistan",
+  "phone": "+992005668800",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 138,
+  "name": "Трактиръ \"Консерваторъ\"",
+  "address": "choikhona Rohat, Rudaki 84, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 139,
+  "name": "Dorado Seafood Restaurant",
+  "address": "Husseinzoda Street, Dushanbe, Tajikistan",
+  "phone": "+992919431151",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 140,
+  "name": "Sim Sim Pub",
+  "address": "Турдиев, Dushanbe, Tajikistan",
+  "phone": "+992900007748",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 141,
+  "name": "Rohat Restaurant",
+  "address": "Druzhby Narodov Street 59, Dushanbe, Tajikistan",
+  "phone": "+992935224583",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 142,
+  "name": "Pamir Restaurant",
+  "address": "Bokhtar St, Dushanbe, Tajikistan",
+  "phone": "+992908666666",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 143,
+  "name": "Pizza Express",
+  "address": "M. Kurbonov Street 15, Dushanbe, Tajikistan",
+  "phone": "+992880005000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 144,
+  "name": "Merve Restaurant",
+  "address": "Магазин шикорчӣ, 3 этаж, Железнодорожный вокзал, Nazarshoev Street 47, Dushanbe 734000, Tajikistan",
+  "phone": "347734000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 145,
+  "name": "Grill Bar BQ Cafe",
+  "address": "Rudaki Avenue 24, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 146,
+  "name": "Arabica Restaurant",
+  "address": "Husseinzoda Street 155, Dushanbe, Tajikistan",
+  "phone": "+992400400400",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 147,
+  "name": "Qarabolo Qurutob",
+  "address": "ул. Курбон Рахимов, 29, Dushanbe, Tajikistan",
+  "phone": "+992931013333",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 148,
+  "name": "Tiflis",
+  "address": "Mirzo Tursunzoda Street, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 149,
+  "name": "SIERRA Coffee,Tehron, Dushanbe",
+  "address": "Academics Rajabov Street 11, Dushanbe, Tajikistan",
+  "phone": "+992372271200",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 150,
+  "name": "Archazor",
+  "address": "Nazarshoev Street, Dushanbe, Tajikistan",
+  "phone": "+992907019393",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 151,
+  "name": "Restoran Rumi",
+  "address": "Bukhoro Street 78, Dushanbe 734025, Tajikistan",
+  "phone": "78734025",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 152,
+  "name": "Кафе \"Анситу\" (Душанбе)",
+  "address": "Bokhtar St 37, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 153,
+  "name": "Чавонон Ресторан",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992907380303",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 154,
+  "name": "Chinese restaurant",
+  "address": "98, N.Makhsum street, Dushanbe, Tajikistan",
+  "phone": "+992555590011",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 155,
+  "name": "OASIS Shisha House Кальянная",
+  "address": "Mirzo Tursunzoda Street 129, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 156,
+  "name": "Restaurant Millenium",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 157,
+  "name": "Jahon-Aka Teahouse",
+  "address": "Мирзо Турсунзода 21b, Dushanbe, Tajikistan",
+  "phone": "+992909090090",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 158,
+  "name": "Southern Fried Chicken",
+  "address": "Hotel Gulistan Tour, Bukhoro Street 78, Dushanbe 734025, Tajikistan",
+  "phone": "78734025",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 159,
+  "name": "3.7.2. Cafe-Bar",
+  "address": "2, Dushanbe, Tajikistan",
+  "phone": "+992885888550",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 160,
+  "name": "Bakhori Ajam",
+  "address": "Абдулахад Кахорова 5, Dushanbe, Tajikistan",
+  "phone": "+992907904848",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 161,
+  "name": "Merve Cafe",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992935765555",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 162,
+  "name": "Burger Shack",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+9924460088882271666",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 163,
+  "name": "Yakitoriya",
+  "address": "РАХИМОВ 17, Dushanbe, Tajikistan",
+  "phone": "+992935050099",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 164,
+  "name": "Life Restobar",
+  "address": "Rudaki Plaza, Rudaki Avenue 127, Dushanbe 734043, Tajikistan",
+  "phone": "127734043",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 165,
+  "name": "Nozanin Restaurant",
+  "address": "Mirzo Tursunzoda Street, Dushanbe, Tajikistan",
+  "phone": "+992883038888",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 166,
+  "name": "Zeera Afghan Osh \u0026 Korma",
+  "address": "Skver, Ayni Street 7, Dushanbe, Tajikistan",
+  "phone": "+992000555444",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 167,
+  "name": "Restaurant Shomi Kalba",
+  "address": "3rd floor, 55, Rudaki Avenue 55, Dushanbe, Tajikistan",
+  "phone": "+992206061010",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 168,
+  "name": "Bavaria House",
+  "address": "Rudaki Avenue 84, Dushanbe, Tajikistan",
+  "phone": "+992907931347",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 169,
+  "name": "Choykhona \"Afsona\"",
+  "address": "Loiq Sherali St, Dushanbe, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 170,
+  "name": "Грузински ресторант \"Кафене Грузия\"",
+  "address": "Rudaki Avenue 119, Dushanbe, Tajikistan",
+  "phone": "+992999992008",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 171,
+  "name": "Ресторан «Дидор»",
+  "address": "Mirzo Tursunzoda Street 49, Dushanbe, Tajikistan",
+  "phone": "+992931113333",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 172,
+  "name": "Alliance Restaurant",
+  "address": "82, Dushanbe, Tajikistan",
+  "phone": "+992881110128",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 173,
+  "name": "Pizza Cafe Лаҳза",
+  "address": "Bukhoro Street 50, Dushanbe, Tajikistan",
+  "phone": "+992372210073",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 174,
+  "name": "Қаҳвахонаи Ҷоми-Ҷам",
+  "address": "Bokhtar St, Dushanbe, Tajikistan",
+  "phone": "+992000002828",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 175,
+  "name": "Dushanbe Mall (Ashan Hypermarket)",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 176,
+  "name": "Munisa Mall",
+  "address": "Borbad Street, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 177,
+  "name": "Siyoma Mall",
+  "address": "Shohtemur Street 22, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 178,
+  "name": "Barakat Plaza",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992999996060",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 179,
+  "name": "Sadbarg Trade Center",
+  "address": "Rudaki Avenue, Dushanbe, Tajikistan",
+  "phone": "+992927030058",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 180,
+  "name": "Saodat Mall",
+  "address": "\"б\",, Ayni Street 16, Dushanbe, Tajikistan",
+  "phone": "+992446302020",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 181,
+  "name": "Trading Center Siyovush",
+  "address": "District 82, Dushanbe, Tajikistan",
+  "phone": "+992917628762",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 182,
+  "name": "Trading Center \"Samira\"",
+  "address": "Bekhzod Street 47, Dushanbe 734000, Tajikistan",
+  "phone": "47734000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 183,
+  "name": "Tarovat",
+  "address": "Saadi Sherozi Avenue 64, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 184,
+  "name": "Маркази савдо \"Хамадони\"",
+  "address": "Фирдавси 8, Dushanbe, Tajikistan",
+  "phone": "+992446526666",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 185,
+  "name": "Tts \"Barakat\"",
+  "address": "20-solagii Istikloliyat St 44, Wachdat 735400, Tajikistan",
+  "phone": "2044735400",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 186,
+  "name": "Shopping Center \"Fayz\"",
+  "address": "Khuroson Ave 22, Vahdat 735400, Tajikistan",
+  "phone": "22735400",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 187,
+  "name": "Torgovyy Tsentr \"Parviz\"",
+  "address": "M41, Kirpichny, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 188,
+  "name": "La Cite",
+  "address": "Rudaki Ave 79, Vahdat 735400, Tajikistan",
+  "phone": "79735400",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 189,
+  "name": "Torgovo-Razvlekatel'nyy Tsentr \"Sitora\"",
+  "address": "Bekhzod Street, Dushanbe, Tajikistan",
+  "phone": "+992935082221",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 190,
+  "name": "Volna",
+  "address": "Somoniyon Ave, Vahdat 735400, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 191,
+  "name": "Tarovat",
+  "address": "Rudaki Plaza, Rudaki Avenue 127, Dushanbe, Tajikistan",
+  "phone": "+992446104242",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 192,
+  "name": "Torgovyy Tsentr \"Izatullo\"",
+  "address": "Shevchenko Street, Dushanbe, Tajikistan",
+  "phone": "+992918614343",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 193,
+  "name": "Akobir",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 194,
+  "name": "Trading Center DUNYO",
+  "address": "Chikmat-Riso-Straße, Wachdat 735400, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 195,
+  "name": "Trading Center \"Dushanbe\"",
+  "address": "Rudaki Ave, Vahdat 735400, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 196,
+  "name": "Shopping Center Vahdat",
+  "address": "Rudaki Ave 45, Vahdat 735400, Tajikistan",
+  "phone": "45735400",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 197,
+  "name": "Shopping Center Khojiyon",
+  "address": "Somoniyon Ave 1, Vahdat 735400, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 198,
+  "name": "Shopping Center Detskiy Mir",
+  "address": "Karaboev Avenue, Dushanbe, Tajikistan",
+  "phone": "+992900000011",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 199,
+  "name": "Shopping Center \"Khuroson\"",
+  "address": "Buston St, Vahdat 735400, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 200,
+  "name": "Shopping Center Ilkhom",
+  "address": "Bokhtar St, Vahdat 735400, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 201,
+  "name": "Shopping Center",
+  "address": "Karaboev Avenue, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 202,
+  "name": "Panjsher Shopping Center",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992988888040",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 203,
+  "name": "Shopping Center",
+  "address": "Rudaki Avenue, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 204,
+  "name": "Shopping Center Olimjon",
+  "address": "проспект Дж. Расулова 55/1, Dushanbe, Tajikistan",
+  "phone": "+992446007917",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 205,
+  "name": "LC WAIKIKI",
+  "address": "Jomi Avenue, Dushanbe, Tajikistan",
+  "phone": "+992937977676",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 206,
+  "name": "Shopping Center Bahor",
+  "address": "Nazarshoev Street, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 207,
+  "name": "Flex\u0026Chill Amusement Center",
+  "address": "Bukhoro Street 27, Dushanbe 467351, Tajikistan",
+  "phone": "27467351",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 208,
+  "name": "Rudaki plaza",
+  "address": "Bukhoro Street, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 209,
+  "name": "Shopping Center Mannol",
+  "address": "Ahmadi Donish Street 3, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 210,
+  "name": "Shopping Center Imomi Azam",
+  "address": "Borbad Street, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 211,
+  "name": "Shopping Center Barodaron",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 212,
+  "name": "Asia Grand Hotel",
+  "address": "National Libarary Firdavsi (new), Dushanbe, Tajikistan",
+  "phone": "+992933232319",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 213,
+  "name": "Hilton Dushanbe",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 214,
+  "name": "Rudaki Park",
+  "address": "Academics Rajabov Street 7, Dushanbe, Tajikistan",
+  "phone": "+992372271350",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 215,
+  "name": "National Museum of Tajikistan",
+  "address": "Mirzo Tursunzoda Street 21, Dushanbe, Tajikistan",
+  "phone": "+992446007777",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 216,
+  "name": "National Museum of Antiquities of Tajikistan",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 217,
+  "name": "Flagpole",
+  "address": "улица Шодмони, Dushanbe, Tajikistan",
+  "phone": "+992372242511",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 218,
+  "name": "Haji Yaqub Mosque",
+  "address": "Ayni Street 48, Dushanbe, Tajikistan",
+  "phone": "+992487030000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 219,
+  "name": "Monument of Ismail Samani",
+  "address": "World Tallest Flagpole, Dushanbe, Tajikistan",
+  "phone": "+992501222962",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 220,
+  "name": "Memorial to Tajik writers",
+  "address": "Ismoil Somoni Avenue, Dushanbe, Tajikistan",
+  "phone": "+992372271508",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 221,
+  "name": "National Library of Tajikistan",
+  "address": "Rudaki Avenue, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 222,
+  "name": "Gurminj Museum of Musical Instruments",
+  "address": "26/1 Ismoili Somoni Prospekt, Dushanbe 734026, Tajikistan",
+  "phone": "261734026",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 223,
+  "name": "Noor Art Gallery",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 224,
+  "name": "Dushanbe",
+  "address": "Eshkashem, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 225,
+  "name": "Mehrgon Market",
+  "address": "улица Нисор Мухаммад 5-й проезд 4/1, Dushanbe 734024, Tajikistan",
+  "phone": "541734024",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 226,
+  "name": "Istochnik \"Chiluchor Chashma\"",
+  "address": "Rudaki Avenue 84, Dushanbe, Tajikistan",
+  "phone": "+992907931347",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 227,
+  "name": "Dushanbe International Airport",
+  "address": "Pulodi Street, Dushanbe, Tajikistan",
+  "phone": "+992935637141",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 228,
+  "name": "Delfin Waterpark",
+  "address": "Богоутдинова 7/2, Dushanbe, Tajikistan",
+  "phone": "+992487020020",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 229,
+  "name": "Rohat Teahouse",
+  "address": "Shahrtuz, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 230,
+  "name": "“Hello, Dushanbe!” Hostel",
+  "address": "Мехнат 4 Душанбе Таджикистан, Badakhshan, Dushanbe, Tajikistan",
+  "phone": "+992446259090",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 231,
+  "name": "Parking",
+  "address": "Ismoili Somoni Monument, Jalol Ikromi Street, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 232,
+  "name": "Roof of the World Travel",
+  "address": "Опера балет, Dushanbe, Tajikistan",
+  "phone": "+992372271666",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 233,
+  "name": "Hyatt Regency Dushanbe",
+  "address": "кӯчаи Шота Руставели, проезд 1, дом 8, Душанбе 734025, Tajikistan",
+  "phone": "18734025",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 234,
+  "name": "Yamchun Fort",
+  "address": "Ismoil Somoni Avenue, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 235,
+  "name": "Hisor",
+  "address": "кӯчаи цыган 32/1, Dushanbe 734012, Tajikistan",
+  "phone": "321734012",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 236,
+  "name": "Gostinitsa \"Sugdiyon\"",
+  "address": "Lenina Street 223, Khujand 735700, Tajikistan",
+  "phone": "223735700",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 237,
+  "name": "Firuz Hotel",
+  "address": "Mira Avenue 63a, Khujand, Tajikistan",
+  "phone": "+992926055444",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 238,
+  "name": "Guest House Sharq 21",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992927072318",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 239,
+  "name": "Bakhoriston",
+  "address": "Ulitsa Moskovskaya, Chkalovsk, Tajikistan",
+  "phone": "+79616784701",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 240,
+  "name": "Hotel BUSTON",
+  "address": "Ulitsa Komsomol'skaya, Chkalovsk, Tajikistan",
+  "phone": "+992924444498",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 241,
+  "name": "Kheson",
+  "address": "Улица Дружбы дом 1 Строение, Kairakum 735610, Tajikistan",
+  "phone": "+992921773576",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 242,
+  "name": "Armon Apart Hotel",
+  "address": "Sharq Street, 21, Khujand 735700, Tajikistan",
+  "phone": "21735700",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 243,
+  "name": "Hotel MATIN",
+  "address": "Sir-darya Street 7, Khujand, Tajikistan",
+  "phone": "+992927716967",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 244,
+  "name": "Bahri Tojik Resort \u0026 Spa",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992924441444",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 245,
+  "name": "Худжанд Гранд Отель | Khujand Grand Hotel",
+  "address": "Chkalovsk, Tajikistan",
+  "phone": "+992928222022",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 246,
+  "name": "Parliament Palace Hotel",
+  "address": "Prospekt Rudaki 160, Panjakent, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 247,
+  "name": "Hotel KHUJAND STAR",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992926371001",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 248,
+  "name": "Hotel Shohin",
+  "address": "Худжанд ул Камоли Хучанди Зариф ва Солех Рачабовхо , 63, Khujand 735700, Tajikistan",
+  "phone": "63735700",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 249,
+  "name": "Vahdat Hotel",
+  "address": "Gagarina 104, Khujand 735700, Tajikistan",
+  "phone": "104735700",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 250,
+  "name": "Firuz Plaza",
+  "address": "Pereulok Maksudzhona Tanburi, Khujand, Tajikistan",
+  "phone": "+992928791563",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 251,
+  "name": "Hotel Zarrin 999",
+  "address": "Turbaza, Зона Отдыха г.Кайракум, г.Кайракум 735750, Tajikistan",
+  "phone": "+992928672222",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 252,
+  "name": "Guest House Sebzor",
+  "address": "Ulitsa Lenina 179, Khujand 735700, Tajikistan",
+  "phone": "179735700",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 253,
+  "name": "Sugd Hotel",
+  "address": "Turbaza, Зона Отдыха г.Кайракум, г.Кайракум 735750, Tajikistan",
+  "phone": "+992928672222",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 254,
+  "name": "Amir Apartments",
+  "address": "Chkalovsk, Tajikistan",
+  "phone": "+992928222022",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 255,
+  "name": "Firuz Plaza",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992888880161",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 256,
+  "name": "Sitorai Khujand",
+  "address": "Khochi Sodik 1A, Khujand 735711, Tajikistan",
+  "phone": "+992927560768",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 257,
+  "name": "Park Apart",
+  "address": "Ave Ismoili Somoni 179, Khujand, Tajikistan",
+  "phone": "+992342241616",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 258,
+  "name": "Remi Khudjant",
+  "address": "Chkalovsk, Tajikistan",
+  "phone": "+992929437292",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 259,
+  "name": "Golden Apartments",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992342267766",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 260,
+  "name": "Milano",
+  "address": "Khochi Sodik 1A, Khujand 735711, Tajikistan",
+  "phone": "+992927560768",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 261,
+  "name": "Hotel Zarrin 999",
+  "address": "Sir-darya Street 28, Khujand 735700, Tajikistan",
+  "phone": "28735700",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 262,
+  "name": "\"Zaytun\" Restoran Tadzhikskoy Kukhni",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992934447730",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 263,
+  "name": "Turkish cafe - Saray",
+  "address": "хиёбони Камоли Худжанди 2а, Khujand, Tajikistan",
+  "phone": "+992928520909",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 264,
+  "name": "Cafe Ravshan",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 265,
+  "name": "Restoran Visol",
+  "address": "хиёбони Камоли Худжанди, Khujand, Tajikistan",
+  "phone": "+992926777200",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 266,
+  "name": "Fish Restaurant \"Manu Daryo\"",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992928886661",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 267,
+  "name": "Beliy Dom (White House)",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992927770159",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 268,
+  "name": "Paprika Khujand",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992927235959",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 269,
+  "name": "\"Temurmalik\" - Restoran",
+  "address": "13 Mikrorayon, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 270,
+  "name": "Kafe Bargi Sabz",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992928444701",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 271,
+  "name": "Kafe Khusrav",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992926666116",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 272,
+  "name": "Сихкабоби Афзал",
+  "address": "Prospekt Rakhim Dzhalilya, Khujand, Tajikistan",
+  "phone": "+992922006699",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 273,
+  "name": "Restoran Umari Khayom",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992924408181",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 274,
+  "name": "Ресторан «Форель»",
+  "address": "Ave R. Khadjiev, Khujand, Tajikistan",
+  "phone": "+992928410590",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 275,
+  "name": "Sugdiyon",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992927760700",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 276,
+  "name": "TajBurger",
+  "address": "хиёбони Камоли Худжанди, Khujand, Tajikistan",
+  "phone": "+992927503737",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 277,
+  "name": "Restoran Parlament",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 278,
+  "name": "Restoran \"Nurteks\"",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992002662797",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 279,
+  "name": "Orzui Kamol",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 280,
+  "name": "Farzona",
+  "address": "Ulitsa Yova, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 281,
+  "name": "Barbarossa",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992928280090",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 282,
+  "name": "Kafe Nematjon",
+  "address": "Gagarin Street, Khujand, Tajikistan",
+  "phone": "+99293790",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 283,
+  "name": "Кафе ВАКТ",
+  "address": "Prospekt Ismoili Somoni, Khujand, Tajikistan",
+  "phone": "+992923330044",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 284,
+  "name": "Oshkhonai Salom",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992987558100",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 285,
+  "name": "Somonsaroy",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992119115544",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 286,
+  "name": "Насими Баҳор",
+  "address": "Ghoziyon, Tajikistan",
+  "phone": "+992929633636",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 287,
+  "name": "Eclipse",
+  "address": "A376, Khujand, Tajikistan",
+  "phone": "+992927684055",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 288,
+  "name": "'Azizon' Sambusa Joint / Самбӯсахонаи \"Азизон\"",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 289,
+  "name": "Restoran Istiklol",
+  "address": "Proyezd Dzhzhuma, Khujand, Tajikistan",
+  "phone": "+992927930327",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 290,
+  "name": "Shashlyk Kundacha",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992956325884",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 291,
+  "name": "Oshkhonai Umed",
+  "address": "Gagarin Street, Khujand, Tajikistan",
+  "phone": "+992928757570",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 292,
+  "name": "Ресторан Golden Fish",
+  "address": "Ulitsa Sanoat, Khujand, Tajikistan",
+  "phone": "+992929372600",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 293,
+  "name": "Restoran \"Galamaydon\"",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992928901555",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 294,
+  "name": "Tuykhonai \"Amir\"",
+  "address": "Танбури 46a, Khujand 735000, Tajikistan",
+  "phone": "46735000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 295,
+  "name": "Khod-Dogi Bolazzat",
+  "address": "Ostanovka 20 Kvartal, Ave R. Khadjiev, Khujand, Tajikistan",
+  "phone": "+992929605010",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 296,
+  "name": "Оши Узбекистон",
+  "address": "Sir-darya Street, Khujand, Tajikistan",
+  "phone": "+992929598900",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 297,
+  "name": "Restoran Luks",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992925050002",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 298,
+  "name": "Business restaurant \"Dousti\"",
+  "address": "Ulitsa Istak, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 299,
+  "name": "Фаровон",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992929000071",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 300,
+  "name": "Abdugaffor",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992928901555",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 301,
+  "name": "Mevagul",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 302,
+  "name": "Paprika",
+  "address": "A376, Khujand, Tajikistan",
+  "phone": "+992922221919",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 303,
+  "name": "Oshi Khochibobo",
+  "address": "шейх Бурхон, Khujand, Tajikistan",
+  "phone": "+992929031114",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 304,
+  "name": "Burger House",
+  "address": "Sir-darya Street, Khujand, Tajikistan",
+  "phone": "+992927070040",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 305,
+  "name": "Ansitu",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 306,
+  "name": "Kafe Nilufar",
+  "address": "Ulitsa Dzhura Zokirova, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 307,
+  "name": "Royal Resto-Bar",
+  "address": "н.Бобоҷон Ғафуров, ҷ, Ҳайдар Усмонов, Khujand 735700, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 308,
+  "name": "Kamila",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992929353223",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 309,
+  "name": "Anis Grilled Chicken Stand",
+  "address": "улица Камоли Худжанди 162, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 310,
+  "name": "Khuchand 17 Mikrorayon",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 311,
+  "name": "Самбӯсахонаи Орзу Унҷи",
+  "address": "№2, Ave R. Khadjiev 2, Khujand, Tajikistan",
+  "phone": "+992923335555",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 312,
+  "name": "National Central Complex \"Oshi Palov\"",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 313,
+  "name": "Vega Kafe \"Sebcha\"",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992928930075",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 314,
+  "name": "HOT_DOG_HOUSE Худжанд",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992997007007",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 315,
+  "name": "Kafe Shokhin",
+  "address": "ул. Фрунзе, Khujand, Tajikistan",
+  "phone": "+992928440222",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 316,
+  "name": "Shashliki Takhtacha",
+  "address": "Sir-darya Street, Khujand, Tajikistan",
+  "phone": "+992927556967",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 317,
+  "name": "MagFood",
+  "address": "Ulitsa A Kakhorova, Khujand, Tajikistan",
+  "phone": "+992927840020",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 318,
+  "name": "Solo Pizza",
+  "address": "A376, Khujand, Tajikistan",
+  "phone": "+992920009512",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 319,
+  "name": "Kafe Yagona",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 320,
+  "name": "Dousti",
+  "address": "Ulitsa Druzhby Narodov, Khujand, Tajikistan",
+  "phone": "+992928262224",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 321,
+  "name": "Тарабхонаи \"Шоҳ\"",
+  "address": "Ostanovka Ul. Kamola Khudzhandi, A376, Khujand, Tajikistan",
+  "phone": "+992927972726",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 322,
+  "name": "Пирожки Боғ",
+  "address": "Prospekt Ismoili Somoni 20, Khujand, Tajikistan",
+  "phone": "+992928851605",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 323,
+  "name": "Akhrulloamak",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992926104444",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 324,
+  "name": "Kafe Masal",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992927614460",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 325,
+  "name": "Нури Самарқанд",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 326,
+  "name": "Hotdogger",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 327,
+  "name": "Gyro Restaurant",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992926600200",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 328,
+  "name": "Oshkhona Istak",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992922001313",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 329,
+  "name": "Самбусаи Бобоча",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992928542076",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 330,
+  "name": "Oshkhonai Abdullo",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 331,
+  "name": "Моҳибирёни \"Тӯтинисо\"",
+  "address": "Yagodka Street, Khujand, Tajikistan",
+  "phone": "+992921110033",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 332,
+  "name": "Самбусахонаи Нисохон",
+  "address": "Gagarin Street, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 333,
+  "name": "Mevlana",
+  "address": "Ostanovka Univermag, Khiyoboni Ismoili Somoni, Khujand, Tajikistan",
+  "phone": "+992928609666",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 334,
+  "name": "Sobirin",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 335,
+  "name": "Giro",
+  "address": "Khochi-Abdulaziz, Ulitsa Dzhura Zokirova, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 336,
+  "name": "Sportbar Istiklol",
+  "address": "Аминчон Расулов 1а, Khujand, Tajikistan",
+  "phone": "+992990080707",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 337,
+  "name": "Samsa Pulichukur",
+  "address": "A376, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 338,
+  "name": "Choykhonai Nematchon",
+  "address": "Kamoli Khujandi Ave 83, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 339,
+  "name": "Abdullojon (Sixkabobi oli)",
+  "address": "Ulitsa Istak, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 340,
+  "name": "Ошхонаи Бахтиёрҷон ош шашлик",
+  "address": "Prospekt Rakhim Dzhalilya, Khujand, Tajikistan",
+  "phone": "+992923000022",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 341,
+  "name": "Chaykhana Aziizon",
+  "address": "хиёбони Камоли Худжанди, Khujand, Tajikistan",
+  "phone": "+992920111001",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 342,
+  "name": "Kafe Goziyen",
+  "address": "ул. 50 лет СССР, Khujand 735700, Tajikistan",
+  "phone": "50735700",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 343,
+  "name": "Okay pizza",
+  "address": "И. Сомони 2 Б Худжанд, 735700, Tajikistan",
+  "phone": "+992001330777",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 344,
+  "name": "Nu\"Ri Ma\"Ruf",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992926661111",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 345,
+  "name": "Khanif",
+  "address": "735700, Khujand 735700, Tajikistan",
+  "phone": "735700735700",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 346,
+  "name": "Sambusai Tutiniso",
+  "address": "Lokhuti, Prospekt Rakhim Dzhalilya, Khujand, Tajikistan",
+  "phone": "+992922006699",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 347,
+  "name": "Yova Kanechni 33",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 348,
+  "name": "Пирожки Белый дом",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992927260004",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 349,
+  "name": "Piva Point",
+  "address": "Sto, Sir-darya Street, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 350,
+  "name": "Urumchi",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992927259900",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 351,
+  "name": "Stolovaya Khgu",
+  "address": "Sir-darya Street 28, Khujand, Tajikistan",
+  "phone": "+992929558822",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 352,
+  "name": "Achoib",
+  "address": "Ave Rahmon Nabiev, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 353,
+  "name": "Temurchon",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 354,
+  "name": "Vakt",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992924440202",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 355,
+  "name": "Lazzati Notakror",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992111307777",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 356,
+  "name": "Khujand Plaza",
+  "address": "Остановка Абрешим, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 357,
+  "name": "Tajcity",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 358,
+  "name": "\"Сомон Плаза\" - Баҳори Истиқлол маркази савдо",
+  "address": "Ave R. Khadjiev, Khujand, Tajikistan",
+  "phone": "+992921113030",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 359,
+  "name": "Barakat Commercial Center",
+  "address": "Ulitsa Lenina 144, Gafurov, Tajikistan",
+  "phone": "+992927509009",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 360,
+  "name": "Somoni Park",
+  "address": "Prospekt Ismoili Somoni, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 361,
+  "name": "Historical Museum of Sughd Region",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 362,
+  "name": "Stella Khujand",
+  "address": "Prospekt Tashkentskiy, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 363,
+  "name": "Arbob Palace",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 364,
+  "name": "Kamoli Khujand park",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 365,
+  "name": "Kamal Khujandi Statue",
+  "address": "Ave Ismoili Somoni, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 366,
+  "name": "Stella S Gosudarstvennym Gerbom Rt",
+  "address": "Nabiyeva Street, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 367,
+  "name": "Khujand Historical Leaders",
+  "address": "Бободжон Гафуровский район, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 368,
+  "name": "Mosque Jami",
+  "address": "Ave Rahmon Nabiev, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 369,
+  "name": "Rudaki Monument",
+  "address": "Krepost', Khujand, Tajikistan",
+  "phone": "+992927678393",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 370,
+  "name": "Kairakum Reservoir",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 371,
+  "name": "Markazi Javonon",
+  "address": "Khujand, Tajikistan",
+  "phone": "+992927507454",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 372,
+  "name": "Parliament Palace Hotel",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 373,
+  "name": "Bofanda",
+  "address": "Sir-darya Street 28, Khujand 735700, Tajikistan",
+  "phone": "28735700",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 374,
+  "name": "Maschidi Soycha",
+  "address": "1 2 3 4, Khujand, Tajikistan",
+  "phone": "+992342266588",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 375,
+  "name": "Shomi Kulob",
+  "address": "ул.Шамсиддин Шохин R2VV+8PQ Куляб, Хатлон 735360, Tajikistan",
+  "phone": "+992985016000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 376,
+  "name": "Hotel Shelkovyi put",
+  "address": "Dusti b/n, Kulob 735360, Tajikistan",
+  "phone": "75+62735360",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 377,
+  "name": "Gostinitsa \"Sakho-Kulyab\"",
+  "address": "Kulob, Tajikistan",
+  "phone": "+992985349092",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 378,
+  "name": "HotelBobojon",
+  "address": "Kulob, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 379,
+  "name": "Restaurant \"Tohir\"",
+  "address": "Kulob, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 380,
+  "name": "Restaurant Kulob Terminal",
+  "address": "Корез, Kulob, Tajikistan",
+  "phone": "+992918615005",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 381,
+  "name": "Oshkhonai Milli",
+  "address": "R-23, Kulob, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 382,
+  "name": "Anakhita",
+  "address": "Kulob, Tajikistan",
+  "phone": "+992944393939",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 383,
+  "name": "Nice Restaurant",
+  "address": "Боги Маркази, Ulitsa Safarova 16, Kulob, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 384,
+  "name": "Ошхонаи Дусти",
+  "address": "Ismoili Somoni Avenue, Kulob, Tajikistan",
+  "phone": "+992988884427",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 385,
+  "name": "Hamburger",
+  "address": "Kulob, Tajikistan",
+  "phone": "+992985331197",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 386,
+  "name": "Oshkhonai Tilloi",
+  "address": "Ulitsa Safarova, Kulob, Tajikistan",
+  "phone": "+992918784343",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 387,
+  "name": "Khodog Ismoil8",
+  "address": "Ismoili Somoni Avenue, Kulob, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 388,
+  "name": "Choykhonai Istaravshan",
+  "address": "Mir Sayyid Ali Hamadani, Kulob, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 389,
+  "name": "Sim-Sim",
+  "address": "Ulitsa 1-Go Maya, Kulob, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 390,
+  "name": "Istanbul Turkish cafe",
+  "address": "Kulob, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 391,
+  "name": "Чойхонаи DIDOR",
+  "address": "Kulob, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 392,
+  "name": "Shomi Kulob",
+  "address": "Kulob, Tajikistan",
+  "phone": "+992770071414",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 393,
+  "name": "Ошхонаи сайёҳи",
+  "address": "Боги Маркази, Ulitsa Safarova 16, Kulob, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 394,
+  "name": "Kafe-Bar Sharora",
+  "address": "Unnamed Road, Kulob, Tajikistan",
+  "phone": "+992985463632",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 395,
+  "name": "Қурутобхонаи \"Шуроободу Дарвоз\" (Озода)",
+  "address": "Ulitsa 1-Go Maya, Kulob, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 396,
+  "name": "Oshkhonai Parviz",
+  "address": "Ismoili Somoni Avenue, Kulob, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 397,
+  "name": "Cafe de la Paix",
+  "address": "Unnamed Road, Kulob, Tajikistan",
+  "phone": "+992901900606",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 398,
+  "name": "Siyoma Mall",
+  "address": "Nazarshoev Street, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 399,
+  "name": "Barakat Plaza",
+  "address": "Jomi Avenue, Dushanbe, Tajikistan",
+  "phone": "+992937977676",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 400,
+  "name": "Sadbarg Trade Center",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992999996060",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 401,
+  "name": "La Cite",
+  "address": "Rudaki Avenue, Dushanbe, Tajikistan",
+  "phone": "+992927030058",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 402,
+  "name": "Akobir",
+  "address": "Ulitsa Tomin 44, Kulob, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 403,
+  "name": "Torgovyy Tsentr \"Izatullo\"",
+  "address": "Bukhoro Street 27, Dushanbe 467351, Tajikistan",
+  "phone": "27467351",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 404,
+  "name": "(Kulob Plaza) Markazi Savdo",
+  "address": "Фирдавси 8, Dushanbe, Tajikistan",
+  "phone": "+992446526666",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 405,
+  "name": "Tarovat",
+  "address": "Rudaki Avenue, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 406,
+  "name": "Torgovo-Razvlekatel'nyy Tsentr \"Sitora\"",
+  "address": "\"б\",, Ayni Street 16, Dushanbe, Tajikistan",
+  "phone": "+992446302020",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 407,
+  "name": "Tarovat",
+  "address": "Bukhoro Street, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 408,
+  "name": "Noor Art Gallery",
+  "address": "Nisor Muhammad Street 1/1, Dushanbe, Tajikistan",
+  "phone": "+992446105555",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 409,
+  "name": "MB Shopping Centar",
+  "address": "Rudaki Avenue 83, Dushanbe, Tajikistan",
+  "phone": "+992988394004",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 410,
+  "name": "Volna",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 411,
+  "name": "Гостиница \"Киропол\"",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 412,
+  "name": "Istaravshan",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 413,
+  "name": "Istaravshan Plaza",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 414,
+  "name": "Shahobov family's",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992113642222",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 415,
+  "name": "Гостиница Hotel Истаравшан",
+  "address": "Unnamed Road, Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 416,
+  "name": "Gostinitsa Sadbarg",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992927689291",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 417,
+  "name": "Чорбоғ",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 418,
+  "name": "Dzhamoat Guli Surkh",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992900399029",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 419,
+  "name": "Kuchkina",
+  "address": "Ҷамоъати деҳотии Чорбоғ, Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 420,
+  "name": "Akhror Ummatkulov",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992927778228",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 421,
+  "name": "Khuzhabekov Komil",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 422,
+  "name": "Tarabkhonai Dekhai Sakhsiyon",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 423,
+  "name": "Oshkhonai Anis",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 424,
+  "name": "Tarabkhonai Alisher",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 425,
+  "name": "Tarabkhonai Dekhai Bogi-Kalon",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 426,
+  "name": "Chaykhana \"Daleron\"",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 427,
+  "name": "Тарабхонаи \"ШАҲНОЗА\"",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 428,
+  "name": "Mini",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 429,
+  "name": "LOVEASH",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992926251000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 430,
+  "name": "Shashlikkhoni Abdumannon",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992988220488",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 431,
+  "name": "Norelad Ianokhsho",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 432,
+  "name": "Restoran Azizi",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 433,
+  "name": "Restoran Istaravshan",
+  "address": "Unnamed Road, Ghonchi, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 434,
+  "name": "Қаҳвахонаи Аржанг",
+  "address": "Unnamed Road, Ghonchi, Tajikistan",
+  "phone": "+992917010741",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 435,
+  "name": "Farovon",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992928024142",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 436,
+  "name": "Choykhona 2",
+  "address": "M34, Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 437,
+  "name": "Restoran Poshkent",
+  "address": "Unnamed Road, Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 438,
+  "name": "Restoran Orzu",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 439,
+  "name": "Restoran \"Sitora\"",
+  "address": "Ulitsa Oktyabr'skaya, Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 440,
+  "name": "Sambusai \"Zubnoy\"",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 441,
+  "name": "Кохи \"Фирдавсӣ\"",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 442,
+  "name": "Choykhonai Boboi Abdullo Balandi",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 443,
+  "name": "Tarabkhonai \"Ikrom Bobo\"",
+  "address": "Unnamed Road, Kalininabad, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 444,
+  "name": "Osh Mustafo",
+  "address": "Unnamed Road, Istaravshan, Tajikistan",
+  "phone": "+992985602226",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 445,
+  "name": "Shashlikkhoni Mannon",
+  "address": "Ғончӣ, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 446,
+  "name": "Restoran \" Se Dodaron \"",
+  "address": "Ghonchi, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 447,
+  "name": "Тарабхонаи Гулдаста",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 448,
+  "name": "Oshkhonai Azizon",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 449,
+  "name": "Sambusai Akbarchon",
+  "address": "Ghonchi, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 450,
+  "name": "Ҳоҷи Анвар Шашлик",
+  "address": "Basmanda, Tajikistan",
+  "phone": "+79233280708",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 451,
+  "name": "Tuykhonai \"Alisher\"",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 452,
+  "name": "Sambusa Osh Lagman",
+  "address": "Ghonchi, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 453,
+  "name": "Zafar Tsentr",
+  "address": "Ghonchi, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 454,
+  "name": "Restoran Letniy",
+  "address": "Basmanda, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 455,
+  "name": "Tarabkhonai Mukhabbat",
+  "address": "Prospekt Ismoila Somoni, Istaravshan, Tajikistan",
+  "phone": "+992949447474",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 456,
+  "name": "Тарабхонаи Абдуфатоҳ",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992927256363",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 457,
+  "name": "Restoran Shabcharog",
+  "address": "Парк, Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 458,
+  "name": "National Food Sambusa Guli Surkh №1",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 459,
+  "name": "Sambusai Khozmag",
+  "address": "Unnamed Road, Kalininabad, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 460,
+  "name": "Choykhonai Tagi Chinor",
+  "address": "Kurkat, Tajikistan",
+  "phone": "+992928990510",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 461,
+  "name": "ҶДММ Чойхонаи Фозил Паҳлавон",
+  "address": "Ghonchi, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 462,
+  "name": "WaxpulcmIL レストラン",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 463,
+  "name": "Бахор Plaza",
+  "address": "Kalininabad, Tajikistan",
+  "phone": "+992927759917",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 464,
+  "name": "Chaykhana \"Lazzati Shom\"",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 465,
+  "name": "Restoran Saburi",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992900399029",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 466,
+  "name": "Oshi Kirpichnyy",
+  "address": "Kalininabad, Tajikistan",
+  "phone": "+992929923106",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 467,
+  "name": "Oshkhonai Umedzhon",
+  "address": "Ghonchi, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 468,
+  "name": "Kafe Dusti",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 469,
+  "name": "Titan Istaravshan",
+  "address": "Ghonchi, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 470,
+  "name": "Choykhoni Kal'achai Bakovul",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992918974447",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 471,
+  "name": "Chaykhana \"Murodi\"",
+  "address": "Ghonchi, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 472,
+  "name": "Choykhonai Sebzor",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 473,
+  "name": "Choykhonai Mazbut",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992888847773",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 474,
+  "name": "Chaykhanai Akpar",
+  "address": "Unnamed Road, Ghonchi, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 475,
+  "name": "Choykhona",
+  "address": "Unnamed Road, Istaravshan, Tajikistan",
+  "phone": "+992987054677",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 476,
+  "name": "Самбӯсахонаи Нуриллохӯҷа",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 477,
+  "name": "Сafe Pizza",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 478,
+  "name": "ISTAR BURGER",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 479,
+  "name": "Choykhonai Boboi Nosir",
+  "address": "M34, Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 480,
+  "name": "Magozai Maktabi 65 Obichumak",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 481,
+  "name": "Nash Dom",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 482,
+  "name": "Choykhonai Boboi Naim",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 483,
+  "name": "Restaurants",
+  "address": "Ulitsa Avaza Nasriyeva, Ghonchi, Tajikistan",
+  "phone": "+992927768646",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 484,
+  "name": "“Хожи ота” ХК чойхонаси",
+  "address": "Ulitsa Dusti, Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 485,
+  "name": "Kafe Safeda",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 486,
+  "name": "Oshkhonai Makhmudchon",
+  "address": "просп. Исмоили Сомони, Istaravshan, Tajikistan",
+  "phone": "+992927616591",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 487,
+  "name": "Yakhmoskhonai \"Azamat\"",
+  "address": "Prospekt Ismoila Somoni, Istaravshan, Tajikistan",
+  "phone": "+992918309533",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 488,
+  "name": "Restoran Umidchan",
+  "address": "Ulitsa Oktyabr'skaya, Istaravshan, Tajikistan",
+  "phone": "+992987766660",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 489,
+  "name": "Oshkhonai Faridun",
+  "address": "Unnamed Road, Istaravshan, Tajikistan",
+  "phone": "+992989000938",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 490,
+  "name": "Istaravshan",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992988708852",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 491,
+  "name": "Doner Kabob",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992918616591",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 492,
+  "name": "Chaykhana Bafoi",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 493,
+  "name": "Tarabkhonai,, Narziniso,,",
+  "address": "Unnamed Road, Istaravshan, Tajikistan",
+  "phone": "+992928335777",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 494,
+  "name": "Gipermarket Sadaf",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 495,
+  "name": "Ошхонаи Ҳасанбой",
+  "address": "Kal'acha, Tajikistan",
+  "phone": "+992920141010",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 496,
+  "name": "Чойхонаи Ҳоҷӣ Қобил",
+  "address": "Ulitsa Dusti, Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 497,
+  "name": "Kafe \"Dushanbe\"",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 498,
+  "name": "Chaykhana",
+  "address": "Unnamed Road, Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 499,
+  "name": "Чойхонаи \"Боғи ватан\"",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 500,
+  "name": "Kafe Sultan",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 501,
+  "name": "Супермаркет/Ресторан-Шокиров",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 502,
+  "name": "Чойхона",
+  "address": "Село Джаркурган, Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 503,
+  "name": "Choykhona \"Alichon\"",
+  "address": "Калачаи калон, Istaravshan, Tajikistan",
+  "phone": "+992927222900",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 504,
+  "name": "Chaykhana Obodi",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 505,
+  "name": "Dilpisand",
+  "address": "M34, Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 506,
+  "name": "Ice-cream Истаравшан",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992918332100",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 507,
+  "name": "Choykhonai Atam",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 508,
+  "name": "Choykhonai Lazzat",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992989070999",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 509,
+  "name": "Gamburger",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 510,
+  "name": "Ошхонаи Милли \"Муҳаммадсодиқ\"",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992926240005",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 511,
+  "name": "Shashlyki Nasiba",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 512,
+  "name": "Chai khans Mug Teppa",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 513,
+  "name": "Konditerskaya Ismoilchon",
+  "address": "M34, Istaravshan, Tajikistan",
+  "phone": "+992988440600",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 514,
+  "name": "Dom Byta Dilshod",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992985772200",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 515,
+  "name": "Tarabkhonai Bakht",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 516,
+  "name": "Oshkhonai Gulrez",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 517,
+  "name": "Shashlikkhonai Kurgona",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992928300909",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 518,
+  "name": "Istaravshan Siti",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 519,
+  "name": "Tsentral'nyy Rynok Gorod Istaravshan",
+  "address": "Rudaki Avenue, Dushanbe, Tajikistan",
+  "phone": "+992927030058",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 520,
+  "name": "Siyoma Mall",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 521,
+  "name": "Sadbarg Trade Center",
+  "address": "Фирдавси 8, Dushanbe, Tajikistan",
+  "phone": "+992446526666",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 522,
+  "name": "Avis Siti",
+  "address": "Кургонча, Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 523,
+  "name": "Business center \u0026 Restaurant FAROVON",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992988307007",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 524,
+  "name": "Bust of Lenin",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 525,
+  "name": "Mug Tepe fort",
+  "address": "Krepost', Khujand, Tajikistan",
+  "phone": "+992927678393",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 526,
+  "name": "Maschidi Khazrati Shokh",
+  "address": "Ave Ismoili Somoni, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 527,
+  "name": "Somoni Park",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 528,
+  "name": "Kal'ai Mug",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 529,
+  "name": "Mazar-i-Chor Gumbaz",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 530,
+  "name": "Mosque Muhammad Iqbal",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 531,
+  "name": "Historical Museum of Sughd Region",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 532,
+  "name": "Arbob Palace",
+  "address": "Бободжон Гафуровский район, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 533,
+  "name": "Музей «ИСТАРАВШАН»",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "+992900399029",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 534,
+  "name": "Stella Khujand",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 535,
+  "name": "Stella S Gosudarstvennym Gerbom Rt",
+  "address": "Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 536,
+  "name": "Istaravshan",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 537,
+  "name": "Kapitoliyskaya Volchitsa",
+  "address": "Prospekt Ismoili Somoni, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 538,
+  "name": "Hauz-i-Sangin Mosque",
+  "address": "Prospekt Tashkentskiy, Khujand, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 539,
+  "name": "The national emblem of Tajikistan",
+  "address": "Istaravshan, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 540,
+  "name": "Hotel Ramz",
+  "address": "Ulitsa Sino, Кушониён 735140, Tajikistan",
+  "phone": "+44735140",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 541,
+  "name": "Otel' Bokhtariyon",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "+992988001919",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 542,
+  "name": "VAHDAT",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "+992939392191",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 543,
+  "name": "Levakand Restaurant",
+  "address": "Bueno pero Gafurov Street 34, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 544,
+  "name": "Saturday kitchen",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "+992555554136",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 545,
+  "name": "Oooolll",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 546,
+  "name": "Restoran \"Sugdiyon\"",
+  "address": "Ulitsa Ayni, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 547,
+  "name": "La Bottega",
+  "address": "RJ053, Qurgonteppa, Tajikistan",
+  "phone": "+992905999971",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 548,
+  "name": "Oshkhonai Duston",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "+992927085553",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 549,
+  "name": "Oshkhonai Khosiyat",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "+992401013131",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 550,
+  "name": "Kolkhoz Khodoger",
+  "address": "Qakhorov, Qurgonteppa, Tajikistan",
+  "phone": "+992988099658",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 551,
+  "name": "Stolovaya Kurutobkhonai Milli",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 552,
+  "name": "Restaurant \"Malika\"",
+  "address": "Prospekt Vakhdat, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 553,
+  "name": "Кафе Бар BarBQ",
+  "address": "Prospekt Borbad, Qurgonteppa, Tajikistan",
+  "phone": "+992000010407",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 554,
+  "name": "Restoran Staryy Prichal",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "+992915343333",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 555,
+  "name": "Мурги тандури гули сурх chicken in tandoor",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 556,
+  "name": "Oshi Tagi Archa",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "+992000010407",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 557,
+  "name": "Ekhson",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 558,
+  "name": "Kabobkhonai Ravshan",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 559,
+  "name": "Sentr",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 560,
+  "name": "Restoran \"Pristizh\"",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 561,
+  "name": "\"Дунё Хаус\"",
+  "address": "Vakhshstroy, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 562,
+  "name": "Stolovaya Podval'chik",
+  "address": "Prospekt Borbad 1, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 563,
+  "name": "Restoran Obi Toza",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 564,
+  "name": "8 Marta",
+  "address": "Kol'tsevaya Qurgonteppa, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 565,
+  "name": "Hot-dog 07",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 566,
+  "name": "\"Sokhil\"",
+  "address": "просп. Борбад 2, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 567,
+  "name": "Чойхонаи Роҳат",
+  "address": "Ulitsa Dzerzhinskogo, Qurgonteppa, Tajikistan",
+  "phone": "+992901221616",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 568,
+  "name": "Restoran Barodaron",
+  "address": "B Gafurov Street 34, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 569,
+  "name": "BURGER",
+  "address": "Unnamed Road, Zargar, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 570,
+  "name": "Bukhoro",
+  "address": "Unnamed Road, Qurgonteppa, Tajikistan",
+  "phone": "+992933307333",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 571,
+  "name": "Hotdogger 07",
+  "address": "Children's Football Pitch, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 572,
+  "name": "Urumchi",
+  "address": "Ulitsa 70-Let Oktyabrya, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 573,
+  "name": "Shokhrokh",
+  "address": "Unnamed Road, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 574,
+  "name": "\"Versal'\"",
+  "address": "Prospekt Vakhdat, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 575,
+  "name": "Restoran Arz",
+  "address": "Ulitsa Gorod Norimanova, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 576,
+  "name": "Shaboda",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 577,
+  "name": "Star Food",
+  "address": "просп. Борбад 2, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 578,
+  "name": "Oshkhona Shashlyki Khudzhanda",
+  "address": "Таджикистан г, Vahdat Avenue, Qurgonteppa, Tajikistan",
+  "phone": "+992208208208",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 579,
+  "name": "Non Kabob",
+  "address": "Vakhsh, Tajikistan",
+  "phone": "+992985128585",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 580,
+  "name": "Shomi Bokhtar",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 581,
+  "name": "Kuchai Kizilbayrak",
+  "address": "Kyzylkala, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 582,
+  "name": "Zarnisor",
+  "address": "Vahdat Avenue, Qurgonteppa, Tajikistan",
+  "phone": "+992905903006",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 583,
+  "name": "Kafe Makhzar",
+  "address": "Prospekt Borbad, Qurgonteppa, Tajikistan",
+  "phone": "+992907731528",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 584,
+  "name": "Kafe Todzhmakhal",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 585,
+  "name": "Тарафхона Деҳаи Хушвахт",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 586,
+  "name": "T Ya Shagoli",
+  "address": "Zargar, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 587,
+  "name": "Cafe \"Marvorid\"",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "+992931833804",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 588,
+  "name": "Kafe Suman",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 589,
+  "name": "Orom",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "+992909164016",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 590,
+  "name": "Kafe-Morozhenov",
+  "address": "Vakhsh, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 591,
+  "name": "Kafe Soro",
+  "address": "Zargar, Tajikistan",
+  "phone": "+992939491204",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 592,
+  "name": "Oshkhonai Bakht",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 593,
+  "name": "Cafe \"Zaytuna\"",
+  "address": "Vakhshstroy, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 594,
+  "name": "Obi hayot",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 595,
+  "name": "Tarabkhonai \"Sokhil\"",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 596,
+  "name": "Aristokrat",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 597,
+  "name": "Kafe Dilsuz",
+  "address": "RJ053, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 598,
+  "name": "Chaykhana Nilufar",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "+992888888097",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 599,
+  "name": "Vokhuri",
+  "address": "Qurgonteppa 735140, Tajikistan",
+  "phone": "+992980870707",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 600,
+  "name": "Kulinariya \"Madina\"",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 601,
+  "name": "COLUMBIA 2ум Табаи Хисори",
+  "address": "Ulitsa Ayni, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 602,
+  "name": "Kafe Arabika",
+  "address": "Vahdat Avenue, Qurgonteppa, Tajikistan",
+  "phone": "+992980870707",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 603,
+  "name": "Kafe Vatan",
+  "address": "Ulitsa Ayni, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 604,
+  "name": "Rich house (кальян бар)",
+  "address": "Ulitsa Ayni, Qurgonteppa, Tajikistan",
+  "phone": "+992902400005",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 605,
+  "name": "Yakhmos",
+  "address": "B Gafurov Street, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 606,
+  "name": "Sambusakhoi Uyguri",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 607,
+  "name": "Resto-club \"Aura\"",
+  "address": "РҶ054, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 608,
+  "name": "Kafe Dekhay Baroy Khosilot",
+  "address": "Ulitsa Ayni 151, Qurgonteppa 735140, Tajikistan",
+  "phone": "151735140",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 609,
+  "name": "Kafe Levakant",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 610,
+  "name": "Kafe Bystro \"Diyor\"",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 611,
+  "name": "Ajva",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 612,
+  "name": "Teztayer",
+  "address": "проспект Вахдат, Курган-Тюбе, Таджикистан 63, Prospekt Vakhdat, Qurgonteppa, Tajikistan",
+  "phone": "+992918870707",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 613,
+  "name": "Nochnoy Klub Parus",
+  "address": "Ulitsa Ayni, Qurgonteppa, Tajikistan",
+  "phone": "+992000100200",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 614,
+  "name": "New Qurghonteppa Bazar",
+  "address": "Ваҳдат 144, Qurgonteppa, Tajikistan",
+  "phone": "+992885555536",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 615,
+  "name": "Tarabkhonai Munisa",
+  "address": "Ulitsa Dzh Mirzokodyrovoy, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 616,
+  "name": "ресторан L\u0026M",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 617,
+  "name": "Kafe Belaya Loshchad'",
+  "address": "Ayni St, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 618,
+  "name": "Cafe\u0026Bar \"Afruz\"",
+  "address": "Ulitsa Dzh. Abdulloyeva, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 619,
+  "name": "Burger",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "+992919785858",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 620,
+  "name": "Choykhonai D Sarob",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 621,
+  "name": "Kafe \"Nargis\"",
+  "address": "Ulitsa Druzhby Narodov, Qurgonteppa, Tajikistan",
+  "phone": "+992900807878",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 622,
+  "name": "Vatan",
+  "address": "РҶ054, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 623,
+  "name": "Shaurma I Samsa",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "+992904202737",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 624,
+  "name": "Munisa Mall",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "+992999996060",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 625,
+  "name": "Tarovat",
+  "address": "Jomi Avenue, Dushanbe, Tajikistan",
+  "phone": "+992937977676",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 626,
+  "name": "Barakat Plaza",
+  "address": "Bukhoro Street, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 627,
+  "name": "La Cite",
+  "address": "Rudaki Avenue, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 628,
+  "name": "Tarovat",
+  "address": "\"б\",, Ayni Street 16, Dushanbe, Tajikistan",
+  "phone": "+992446302020",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 629,
+  "name": "Akobir",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 630,
+  "name": "New Qurghonteppa Bazar",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 631,
+  "name": "Privokzal'nyy",
+  "address": "Bukhoro Street 27, Dushanbe 467351, Tajikistan",
+  "phone": "27467351",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 632,
+  "name": "Torgovo-Razvlekatel'nyy Tsentr \"Sitora\"",
+  "address": "Nazarshoev Street, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 633,
+  "name": "Sadbarg Trade Center",
+  "address": "Nisor Muhammad Street 1/1, Dushanbe, Tajikistan",
+  "phone": "+992446105555",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 634,
+  "name": "Central Department Store",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 635,
+  "name": "Центр обслуживания клиентов компании Tcell",
+  "address": "Мехнат 4 Душанбе Таджикистан, Badakhshan, Dushanbe, Tajikistan",
+  "phone": "+992446259090",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 636,
+  "name": "Poytakht",
+  "address": "Mirzo Tursunzoda Street 49, Dushanbe, Tajikistan",
+  "phone": "+992918309983",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 637,
+  "name": "Noor Art Gallery",
+  "address": "Prospekt Vakhdat, Qurgonteppa, Tajikistan",
+  "phone": "+992935050000",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 638,
+  "name": "Mehrgon Market",
+  "address": "Ulitsa Yuzhnaya, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 639,
+  "name": "Korvon Market",
+  "address": "Rudaki Avenue, Dushanbe, Tajikistan",
+  "phone": "+992927030058",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 640,
+  "name": "Volna",
+  "address": "Rudaki Avenue 83, Dushanbe, Tajikistan",
+  "phone": "+992988394004",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 641,
+  "name": "Mekhrgon",
+  "address": "Vahdat Avenue, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 642,
+  "name": "Civil War monument",
+  "address": "Vahdat Avenue, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 643,
+  "name": "Gorodskoy Muzey .",
+  "address": "Abdu, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 644,
+  "name": "National Museum of Tajikistan",
+  "address": "World Tallest Flagpole, Dushanbe, Tajikistan",
+  "phone": "+992501222962",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 645,
+  "name": "Rudaki Park",
+  "address": "Rudaki Avenue, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 646,
+  "name": "Rahmon Murchaev Park",
+  "address": "Hisor, Tajikistan",
+  "phone": "+992911406440",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 647,
+  "name": "National Museum of Antiquities of Tajikistan",
+  "address": "Unnamed Road, Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 648,
+  "name": "Flagpole",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 649,
+  "name": "Hisor Fortress",
+  "address": "Shahrtuz, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 650,
+  "name": "Istochnik \"Chiluchor Chashma\"",
+  "address": "Academics Rajabov Street 7, Dushanbe, Tajikistan",
+  "phone": "+992372271350",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 651,
+  "name": "Shirkent National Park",
+  "address": "Ismoil Somoni Avenue, Dushanbe, Tajikistan",
+  "phone": "+992372271508",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 652,
+  "name": "Buddhist monastery Ajina-Tepa",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 653,
+  "name": "National Library of Tajikistan",
+  "address": "26/1 Ismoili Somoni Prospekt, Dushanbe 734026, Tajikistan",
+  "phone": "261734026",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 654,
+  "name": "Pingan",
+  "address": "Pulodi Street, Dushanbe, Tajikistan",
+  "phone": "+992935637141",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 655,
+  "name": "Bactria Cultural Centre",
+  "address": "Ayni Street, Dushanbe, Tajikistan",
+  "phone": "+992938009008",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 656,
+  "name": "Rohat Teahouse",
+  "address": "Rudaki Avenue 84, Dushanbe, Tajikistan",
+  "phone": "+992907931347",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 657,
+  "name": "Vose",
+  "address": "кӯчаи Шота Руставели, проезд 1, дом 8, Душанбе 734025, Tajikistan",
+  "phone": "18734025",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 658,
+  "name": "Pamir Highway Tour",
+  "address": "Ismoili Somoni Monument, Jalol Ikromi Street, Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 659,
+  "name": "Sarytag",
+  "address": "Mirzo Tursunzoda Street 12, Dushanbe, Tajikistan",
+  "phone": "+992372219289",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 660,
+  "name": "Roof of the World Travel",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 661,
+  "name": "Zoda Art Gallery",
+  "address": "National Libarary Firdavsi (new), Dushanbe, Tajikistan",
+  "phone": "+992933232319",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 662,
+  "name": "Varzob",
+  "address": "Опера балет, Dushanbe, Tajikistan",
+  "phone": "+992372271666",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 663,
+  "name": "Karatag",
+  "address": "Sarband, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 664,
+  "name": "Hyatt Regency Dushanbe",
+  "address": "Qurgonteppa, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 665,
+  "name": "Writers’ Union Building",
+  "address": "Dushanbe, Tajikistan",
+  "phone": "",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ },
+ {
+  "id": 666,
+  "name": "Darqad",
+  "address": "улица Шодмони, Dushanbe, Tajikistan",
+  "phone": "+992372242511",
+  "country-code": "TJ",
+  "country": "Tajikistan"
+ }
+]

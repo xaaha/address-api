@@ -1,0 +1,2690 @@
+[
+ {
+  "id": 1,
+  "name": "Arbiru Beach Resort",
+  "address": "Malinamoc Ald. 30 Agosto, Rua Fatuk Laletek, Díli, Timor-Leste",
+  "phone": "+67077230900",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 2,
+  "name": "Hotel Timor",
+  "address": "Díli, Timor-Leste",
+  "phone": "+6703315888",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 3,
+  "name": "Timor Plaza Hotel \u0026 Apartments",
+  "address": "Bebonuk Aldeia Meti I, Díli, Timor-Leste",
+  "phone": "+67077263642",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 4,
+  "name": "Malinamoc Paradise",
+  "address": "Comoro, Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+67077529888",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 5,
+  "name": "Beach Garden Hotel",
+  "address": "Bebonuk Aldeia Meti I, Díli, Timor-Leste",
+  "phone": "+67077263642",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 6,
+  "name": "Arbiru Beach Resort",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077608333",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 7,
+  "name": "Chong Ti Hotel",
+  "address": "R. António Heitor, Díli, Timor-Leste",
+  "phone": "+6703324502",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 8,
+  "name": "Excelsior Resort Hotel",
+  "address": "Rua De Manu Tafui Fatuhada, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 9,
+  "name": "Hotel The Ramelau",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 10,
+  "name": "Hilton Dili Palm Springs",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 11,
+  "name": "Plaza Hotel Executive Wing",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 12,
+  "name": "Timor Lodge Hotel",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077238586",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 13,
+  "name": "Sunset Inn By Pro-Ema",
+  "address": "Díli, Timor-Leste",
+  "phone": "+6703313088",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 14,
+  "name": "Novo Turismo Resort \u0026 Spa",
+  "address": "R. São Sebastião, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 15,
+  "name": "Casa Minha Backpackers",
+  "address": "Becora raihun, no 53, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 16,
+  "name": "JL Villa",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077747524",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 17,
+  "name": "Ocean View Beach Hotel",
+  "address": "Audian, Díli, Timor-Leste",
+  "phone": "+6703323080",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 18,
+  "name": "The Gardens Residence",
+  "address": "Av. de Portugal, Díli, Timor-Leste",
+  "phone": "+67077237092",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 19,
+  "name": "Timor Resort",
+  "address": "Rua Aimutin, Comoro, Díli, Timor-Leste",
+  "phone": "+6703310300",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 20,
+  "name": "Villa Verde Hotel",
+  "address": "Rua Alexo Cortegreal, Díli, Timor-Leste",
+  "phone": "+6703324879",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 21,
+  "name": "The Gardens Residence",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 22,
+  "name": "Luz Clarita Hotel",
+  "address": "Av. da Restauração Comoro, Díli, Timor-Leste",
+  "phone": "+67077888888",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 23,
+  "name": "Terra Santa Residence",
+  "address": "Estrada da areia branca, Metiaut Becari, Díli, Timor-Leste",
+  "phone": "+67077166260",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 24,
+  "name": "Villa Verde Hotel",
+  "address": "56 Rua Dos Direitos Largo De Lecidere, Díli, Timor-Leste",
+  "phone": "+67078339050",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 25,
+  "name": "Hotel Colmera",
+  "address": "Aldeia Metin 2, Travessa Ai-Talik hun, R. Bebonuk, Díli, Timor-Leste",
+  "phone": "+67077306030",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 26,
+  "name": "The Plaza Hotel \u0026 Serviced Apartments",
+  "address": "Díli, Timor-Leste",
+  "phone": "+6703311251",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 27,
+  "name": "Dili Central Backpackers",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 28,
+  "name": "Tibar Beach Retreat",
+  "address": "Audian, Díli, Timor-Leste",
+  "phone": "+6703311136",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 29,
+  "name": "D'City Hotel",
+  "address": "Rua dos Martires da Patria, Bebora, Díli, Timor-Leste",
+  "phone": "+6703322653",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 30,
+  "name": "Casa do Sândalo",
+  "address": "R. Srg Lobato, Díli, Timor-Leste",
+  "phone": "+67073506279",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 31,
+  "name": "Sakura Tower",
+  "address": "R. José Maria Marques, Díli, Timor-Leste",
+  "phone": "+67077232438",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 32,
+  "name": "Gino's Hotel Lda Mobys DBHotel",
+  "address": "Rua Antanio Hritor, Díli, Timor-Leste",
+  "phone": "+67078386381",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 33,
+  "name": "DaTerra hostel and snack bar",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 34,
+  "name": "Adelaide's Lodge",
+  "address": "R. José Maria Marques, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 35,
+  "name": "SandsMotel",
+  "address": "Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+67073202020",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 36,
+  "name": "Golgota Hotel \u0026 Resort",
+  "address": "Rua Antanio Hritor, Díli, Timor-Leste",
+  "phone": "+67078386381",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 37,
+  "name": "Beachside Hotel",
+  "address": "Bebonuk Dili TL, Díli, Timor-Leste",
+  "phone": "+67077458474",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 38,
+  "name": "Timor Backpackers",
+  "address": "Comoro, Aimutin, Díli, Timor-Leste",
+  "phone": "+6703310096",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 39,
+  "name": "Hotel Audian",
+  "address": "Bebonuk Dili TL, Díli, Timor-Leste",
+  "phone": "+67077458474",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 40,
+  "name": "Apriana Da Costa",
+  "address": "Bebonuk Comoro, Díli, Timor-Leste",
+  "phone": "+67077236041",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 41,
+  "name": "Jonliston Apartments \u0026 Hotel",
+  "address": "Aldeia II Comoro Metin Bebonuk, Díli, Timor-Leste",
+  "phone": "+67077134703",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 42,
+  "name": "Talilaran Vila Verde",
+  "address": "sede Soco, R. Bebonuk, near, Díli, Timor-Leste",
+  "phone": "+67077198198",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 43,
+  "name": "Dili Homestay",
+  "address": "Estrada da areia branca S/N, Metiaut Becari Timor -Leste, Díli, Timor-Leste",
+  "phone": "+6703322929",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 44,
+  "name": "Discovery Hotel",
+  "address": "Avenue Bidau, Lecidere, 670, Díli, Timor-Leste",
+  "phone": "+6703310005",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 45,
+  "name": "Timor Top",
+  "address": "No. 84 Bidau Lecidere, Rua 30 de Agosto, Díli, Timor-Leste",
+  "phone": "+67077940900",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 46,
+  "name": "Future Holiday Hotel",
+  "address": "Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+6703324227",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 47,
+  "name": "Esplanada",
+  "address": "R. José Maria Marques, Díli, Timor-Leste",
+  "phone": "+67077232438",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 48,
+  "name": "Tito's Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67073382476",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 49,
+  "name": "Osteria Italiana",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 50,
+  "name": "L'Aubergine",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077355629",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 51,
+  "name": "Dilicious Timor",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077488258",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 52,
+  "name": "Little Pattaya Restaurant",
+  "address": "Rua D. Boa Ventura Dili, Díli, Timor-Leste",
+  "phone": "+67077303301",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 53,
+  "name": "Naris No.1 Korean Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67078303939",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 54,
+  "name": "Prato",
+  "address": "Metiaut, Díli, Timor-Leste",
+  "phone": "+67078266420",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 55,
+  "name": "El Legendario",
+  "address": "Marconi 04, Díli, Timor-Leste",
+  "phone": "+67078476019",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 56,
+  "name": "Queen Tundriee Restauran",
+  "address": "Avenue Bidau Lecidere, Díli, Timor-Leste",
+  "phone": "+6703310005",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 57,
+  "name": "Temasek Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67078020217",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 58,
+  "name": "Pro-Ema Restaurant School",
+  "address": "Av. Liberdade de Imprensa, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 59,
+  "name": "Cast Away Bar",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 60,
+  "name": "New Lilis Restaurant",
+  "address": "R. Colmera, Díli, Timor-Leste",
+  "phone": "+67077293200",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 61,
+  "name": "Ocean View Restaurant",
+  "address": "Unnamed Road, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 62,
+  "name": "Nha Casa Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077246220",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 63,
+  "name": "Early Sun Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 64,
+  "name": "Restaurante Tavirense",
+  "address": "R. Santo António de Motael, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 65,
+  "name": "Great Wall Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 66,
+  "name": "New 88 Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 67,
+  "name": "Mas Broo 2",
+  "address": "R. José Maria Marques, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 68,
+  "name": "Samuana Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 69,
+  "name": "Golden Star Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 70,
+  "name": "Padaria Brasão",
+  "address": "aimutin DiliTimor Leste, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 71,
+  "name": "Caravela",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077602674",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 72,
+  "name": "Big Thumb Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 73,
+  "name": "Restaurante Bidau",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 74,
+  "name": "The Donburi Garden",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67073788222",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 75,
+  "name": "The Aisy's Kitchen",
+  "address": "08 Rua De, Viqueque, Timor-Leste",
+  "phone": "+67077332399",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 76,
+  "name": "Agora Food Studio",
+  "address": "R. José Maria Marques, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 77,
+  "name": "Hari's Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 78,
+  "name": "Uma Knua Food Court",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077426247",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 79,
+  "name": "HAKKA RESTAURANTE",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 80,
+  "name": "Bistro Lifestyle",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077266889",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 81,
+  "name": "Jatim Food",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 82,
+  "name": "Mas Boy",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077804777",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 83,
+  "name": "Everest Coffee House",
+  "address": "Avenida de Becora, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 84,
+  "name": "Spongebob Restaurant",
+  "address": "R. José Maria Marques, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 85,
+  "name": "M Y hotel restaurants \u0026 bar",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 86,
+  "name": "Marlolo Beach Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 87,
+  "name": "Liquadan Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 88,
+  "name": "Restaurante Linivon",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 89,
+  "name": "Restaurante Boca Doce",
+  "address": "R. Bebonuk, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 90,
+  "name": "Jade Garden Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67073791234",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 91,
+  "name": "Belos Tempos Dili, Uni Lda",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 92,
+  "name": "Linivong Restaurant",
+  "address": "Av. de Portugal, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 93,
+  "name": "Lalapan Plur",
+  "address": "Campo Alor, Rua De, Díli, Timor-Leste",
+  "phone": "+67077584437",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 94,
+  "name": "Bos Sate",
+  "address": "R. Barros Gomes, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 95,
+  "name": "Nelayan Restaurante",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077888866",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 96,
+  "name": "Sego Sambal",
+  "address": "R. Bebonuk, Díli, Timor-Leste",
+  "phone": "+67077268315",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 97,
+  "name": "Jeitu Burguer",
+  "address": "Bidau akadiruhun, Díli, Timor-Leste",
+  "phone": "+67077189860",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 98,
+  "name": "Chen Ji Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 99,
+  "name": "Traditional Food Timorese Restaurant",
+  "address": "R. Gov. José Celestino da Silva, Díli, Timor-Leste",
+  "phone": "+67077088701",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 100,
+  "name": "Susan Filipino Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 101,
+  "name": "Arriba",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67076836525",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 102,
+  "name": "Aroma Cafe",
+  "address": "R. Mesquita Annur, Díli, Timor-Leste",
+  "phone": "+67073555535",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 103,
+  "name": "Mike's Chicken",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077826734",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 104,
+  "name": "Doce Tentação",
+  "address": "Av. Cidade de Lisboa, Díli, Timor-Leste",
+  "phone": "+67078403785",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 105,
+  "name": "Martabak Mas Boy",
+  "address": "Rua de Luro Mata, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 106,
+  "name": "Nurhalim Restaurant",
+  "address": "Av. de Portugal, Díli, Timor-Leste",
+  "phone": "+67078514450",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 107,
+  "name": "AHI MATAN",
+  "address": "R. Belarmino Lobo, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 108,
+  "name": "Delima's Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077273333",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 109,
+  "name": "Maternillda house",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 110,
+  "name": "Mie Doben Dili",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 111,
+  "name": "The Ahoc Coffee \u0026 Restaurant",
+  "address": "Bidau Lecidere, Díli, Timor-Leste",
+  "phone": "+67076858979",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 112,
+  "name": "ProDiv Resto",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077733555",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 113,
+  "name": "Chantha Food",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67075333228",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 114,
+  "name": "City Cafe",
+  "address": "R. Quinze de Outubro 60201, Díli, Timor-Leste",
+  "phone": "+67073705888",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 115,
+  "name": "Sara",
+  "address": "R. Humberto da Cruz, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 116,
+  "name": "The satay shack",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67073851111",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 117,
+  "name": "Liquadan Restaurant",
+  "address": "18,, R. José Maria Marques, Díli, Timor-Leste",
+  "phone": "+67077238508",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 118,
+  "name": "Green Resto",
+  "address": "R. Santo António de Motael, Díli, Timor-Leste",
+  "phone": "+67074010324",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 119,
+  "name": "Holland Martabak Dili",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077476869",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 120,
+  "name": "Sunset view BBQ",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077717776",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 121,
+  "name": "Chillin in Dili Food Truck",
+  "address": "Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+67077356541",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 122,
+  "name": "Restaurant Jelofa",
+  "address": "R. Jacinto de Cândido 7, Díli, Timor-Leste",
+  "phone": "+67073685504",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 123,
+  "name": "Jatim Food Restaurant",
+  "address": "dili metiaut, Díli, Timor-Leste",
+  "phone": "+67076339999",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 124,
+  "name": "ETDA Restaurant \u0026 Training centre",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 125,
+  "name": "Bali Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67073851489",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 126,
+  "name": "City Restaurant",
+  "address": "CHWR+82R Akadiruhun, Rua Jacinto Cândido, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 127,
+  "name": "MIZEFALLA RESTAURANT",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077381220",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 128,
+  "name": "Restaurante Benverflab",
+  "address": "R. Belarmino Lobo, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 129,
+  "name": "New Saigon",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67074142393",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 130,
+  "name": "Warung Wong Solo",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67073611306",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 131,
+  "name": "Rumah Makan Menara - Coto Makassar",
+  "address": "R. César Maria de Serpa Rosa 30102, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 132,
+  "name": "Bakso Kota Cak Man",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077414087",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 133,
+  "name": "Timor Thai Restaurante",
+  "address": "Third Floor at LELI English school, Díli, Timor-Leste",
+  "phone": "+67077859912",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 134,
+  "name": "Ali Restaurant",
+  "address": "Fatuhada, Díli, Timor-Leste",
+  "phone": "+67078855588",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 135,
+  "name": "The Sky Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 136,
+  "name": "Fireh Lila",
+  "address": "Palapasu, Díli, Timor-Leste",
+  "phone": "+67077745777",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 137,
+  "name": "ELRESO RESTAURANT",
+  "address": "CGWR+JM5 Timor Plaza, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 138,
+  "name": "Restaurante Putrie Moris",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077153419",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 139,
+  "name": "BRasa",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077282288",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 140,
+  "name": "Mi Chea Restaurant",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077680000",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 141,
+  "name": "Restaurante 75 Tem Comidas Padang",
+  "address": "Presidente Nicolau Lobato, Comoro Bridge Dili, Timor-Leste",
+  "phone": "+67077489978",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 142,
+  "name": "Zela Restaurante",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077234723",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 143,
+  "name": "Warung Spongebob",
+  "address": "R. José Maria Marques, Díli, Timor-Leste",
+  "phone": "+67073828288",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 144,
+  "name": "Rua Fonte dos Namorados",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077268150",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 145,
+  "name": "Dili Club and Pizza",
+  "address": "Restaurante Escola, Bidau Lecidere, Díli, Timor-Leste",
+  "phone": "+67077940900",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 146,
+  "name": "Timor Plaza",
+  "address": "Dili Central, CBD5 Level 2 Timor Plaza, R. Bebonuk, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 147,
+  "name": "Colmera Shopping Center",
+  "address": "CGWJ+CG3 Timor Lodge Hotel - Comoro, Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+67077364309",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 148,
+  "name": "Dili Square",
+  "address": "Unnamed Road, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 149,
+  "name": "CBD 3",
+  "address": "R. D Fernando, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 150,
+  "name": "Andy Lay Shop",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67073296773",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 151,
+  "name": "Loja Basic Lda",
+  "address": "R. Colmera, Díli, Timor-Leste",
+  "phone": "+67073683519",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 152,
+  "name": "Jacinto Plaza",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67073663650",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 153,
+  "name": "F.c maudoko",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077232909",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 154,
+  "name": "Prilamora",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 155,
+  "name": "Hametin Berlian",
+  "address": "Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+67077688888",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 156,
+  "name": "Landmark Plaza",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 157,
+  "name": "Plaza Mini Mart",
+  "address": "Unit 106, Level 1, Timor Plaza, Dili Central, Comoro, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 158,
+  "name": "Meimart , Timor Plaza",
+  "address": "Unnamed Road, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 159,
+  "name": "Jatim",
+  "address": "Unnamed Road, Raifusa, Timor-Leste",
+  "phone": "+67076463428",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 160,
+  "name": "Rosella Mallari",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 161,
+  "name": "Dili Financial Business Centre",
+  "address": "Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+6703322222",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 162,
+  "name": "Homemakers Dili",
+  "address": "Suite 111, Level 1 Timor Plaza, Timor-Leste",
+  "phone": "+67077775566",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 163,
+  "name": "Fronteira Guest House",
+  "address": "Unnamed Road, Suai, Suai, Timor-Leste",
+  "phone": "+6702230047",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 164,
+  "name": "Restaurante Nape",
+  "address": "Suai, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 165,
+  "name": "Restaurant Mas Bambang",
+  "address": "Suai, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 166,
+  "name": "Vong Restorante",
+  "address": "Suai, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 167,
+  "name": "Filadelfia Resto",
+  "address": "BAIRO COSTA, Suai, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 168,
+  "name": "Rest. Kartini",
+  "address": "BAIRO COSTA, Suai, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 169,
+  "name": "VIDA NOVA RESTAURANT",
+  "address": "Suai, Timor-Leste",
+  "phone": "+67076002416",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 170,
+  "name": "Restorante Trecia",
+  "address": "Unnamed Road, Suai, Timor-Leste",
+  "phone": "+67077356356",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 171,
+  "name": "Restaurante Mantap Jepara",
+  "address": "Suai, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 172,
+  "name": "Cozinha de Mãe",
+  "address": "Suai, Timor-Leste",
+  "phone": "+67076036224",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 173,
+  "name": "Braca Selna Vicen",
+  "address": "Suai, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 174,
+  "name": "Restaurante Metila",
+  "address": "苏, 艾 Timor-Leste",
+  "phone": "+67077031311",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 175,
+  "name": "Amizade resto",
+  "address": "Suai, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 176,
+  "name": "BARACA MIFERTY",
+  "address": "BAIRO COSTA, Suai, Timor-Leste",
+  "phone": "+67076930766",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 177,
+  "name": "Kamanassa Restaurant 餐厅",
+  "address": "Suai, loro, Timor-Leste",
+  "phone": "+67075562822",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 178,
+  "name": "BARAKA AMIZADE",
+  "address": "Suai, Timor-Leste",
+  "phone": "+67075841427",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 179,
+  "name": "Hotel Suai and Restaurant Vida Nova",
+  "address": "loro (Lo'o, Suai, Timor-Leste",
+  "phone": "+67075559167",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 180,
+  "name": "Marobo Hot Spring",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 181,
+  "name": "Suai",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077314588",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 182,
+  "name": "Tais Market",
+  "address": "R. Formosa 4, Díli, Timor-Leste",
+  "phone": "+6703331159",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 183,
+  "name": "Same",
+  "address": "Bobonaro, Timor-Leste",
+  "phone": "+67074212035",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 184,
+  "name": "Ceking Rice Terrace",
+  "address": "Aileu, Timor-Leste",
+  "phone": "+67077252527",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 185,
+  "name": "Lauhata Beach Escape",
+  "address": "Liquica, Timor-Leste",
+  "phone": "+67077401111",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 186,
+  "name": "Uma Knua",
+  "address": "Bairo Tijolu, Aldeia Kmaelpun, Liho, Railaco, Timor-Leste",
+  "phone": "+67077122371",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 187,
+  "name": "Mini Resto \u0026 Terang Bulan \"AGAU\"",
+  "address": "MAUBARA, LIQUIÇA, TIMOR LESTE,AVENIDA JOSE NUNES MAU, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 188,
+  "name": "Doa ibu restaurant",
+  "address": "Tibar, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 189,
+  "name": "Restoranta melga",
+  "address": "Liquica, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 190,
+  "name": "Lauhata Beach Escape",
+  "address": "Timor-Leste, Liquica, Unnamed Road",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 191,
+  "name": "NIPLO LOES",
+  "address": "Liquica, Timor-Leste",
+  "phone": "+67076700528",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 192,
+  "name": "88 VINTE QUATRO",
+  "address": "Liquica, Timor-Leste",
+  "phone": "+67077401111",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 193,
+  "name": "L’Amour Carin",
+  "address": "Liquica, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 194,
+  "name": "Resto Lacomera Unipessoal",
+  "address": "Liquica, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 195,
+  "name": "Resto Dirmalo Portu Tibar",
+  "address": "Loes Liquica, Maubara, Timor-Leste",
+  "phone": "+67076596120",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 196,
+  "name": "Liquica Park",
+  "address": "Liquica, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 197,
+  "name": "Black Rock Restaurant",
+  "address": "Rua Kamale Mutu, Liquica, Timor-Leste",
+  "phone": "+67077988305",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 198,
+  "name": "Timor Plaza",
+  "address": "Dili Central, CBD5 Level 2 Timor Plaza, R. Bebonuk, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 199,
+  "name": "Colmera Shopping Center",
+  "address": "CGWJ+CG3 Timor Lodge Hotel - Comoro, Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+67077364309",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 200,
+  "name": "CBD 3",
+  "address": "Unnamed Road, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 201,
+  "name": "Loja Basic Lda",
+  "address": "Unnamed Road, Raifusa, Timor-Leste",
+  "phone": "+67076463428",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 202,
+  "name": "Prilamora",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077232909",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 203,
+  "name": "Andy Lay Shop",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67073663650",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 204,
+  "name": "F.c maudoko",
+  "address": "Bebora, Liquica, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 205,
+  "name": "Jacinto Plaza",
+  "address": "Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+67077688888",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 206,
+  "name": "Jatim",
+  "address": "R. Colmera, Díli, Timor-Leste",
+  "phone": "+67073683519",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 207,
+  "name": "Chammell",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 208,
+  "name": "Plaza Mini Mart",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67076900322",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 209,
+  "name": "Landmark Plaza",
+  "address": "One Stop Shopping Centre, Fatuhada, 3rd Floor, Bonavide, Díli, Timor-Leste",
+  "phone": "+67077414080",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 210,
+  "name": "Rosella Mallari",
+  "address": "Unit #07-10 Rua P.N.Lobato, Timor Plaza, IT Zone, Díli, Timor-Leste",
+  "phone": "+67077556678",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 211,
+  "name": "Cheers, Timor Plaza",
+  "address": "Rua Dili, Tibar, Timor-Leste",
+  "phone": "+67077569194",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 212,
+  "name": "Grand Dragon Lotaria Timor Plaza CBD4",
+  "address": "Comoro, Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+67077529888",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 213,
+  "name": "Loja Diliana",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 214,
+  "name": "Grand Dragon Lotaria Malinamoc (Agent Center)",
+  "address": "Timor Plaza Shop 246, Díli, Timor-Leste",
+  "phone": "+67077860786",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 215,
+  "name": "Grand Dragon Lotaria Manleuana (Agent Center)",
+  "address": "Shop 137 Timor plaza, Díli, Timor-Leste",
+  "phone": "+67077939225",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 216,
+  "name": "Candy World",
+  "address": "CHQ3+G6G Rua Fatumeta, Díli, Timor-Leste",
+  "phone": "+6703310772",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 217,
+  "name": "Jian Hao Shop",
+  "address": "Kampung baru 30/08, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 218,
+  "name": "YISHENG PLAZA",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077720054",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 219,
+  "name": "Grand Dragon Lotaria (Agent Center)",
+  "address": "TIMOR PLAZA, Díli, Timor-Leste",
+  "phone": "+67073008778",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 220,
+  "name": "Grand Dragon Lotaria Kampung Baru (Agent Center)",
+  "address": "R. Kampung Merdeka, Díli, Timor-Leste",
+  "phone": "+67078027670",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 221,
+  "name": "Grand Dragon Lotaria Tasi Tolu (Agent Center)",
+  "address": "Rua Presidente Nicolao Lobato Pantai Kelapa, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 222,
+  "name": "Timor Plaza Night Market",
+  "address": "BAIROPITE, Díli, Timor-Leste",
+  "phone": "+6703322655",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 223,
+  "name": "Vista Cafe",
+  "address": "CHW4+48Q time square, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 224,
+  "name": "Liquica",
+  "address": "Timor plaza, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 225,
+  "name": "Hendry JHoney",
+  "address": "Díli, Timor-Leste",
+  "phone": "+6703322383",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 226,
+  "name": "National Graphic arts \u0026 Printing Center of Timor Leste",
+  "address": "Rua Timor Plaza, Díli, Timor-Leste",
+  "phone": "+6703310943",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 227,
+  "name": "Homemakers Dili",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 228,
+  "name": "Pinas In Timor Store",
+  "address": "Timor-Leste, Rua Lisbutak Manleuana, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 229,
+  "name": "Loja Kristal",
+  "address": "Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+67077098888",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 230,
+  "name": "Qulina Gourmet",
+  "address": "Villa, Liquica, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 231,
+  "name": "Grand Dragon Lotaria Elemloi (Agent Center)",
+  "address": "Comoro, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 232,
+  "name": "Kiaria Bali Spa",
+  "address": "Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+67073237786",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 233,
+  "name": "Ariyan Furniture Shop In Timor Leste",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 234,
+  "name": "Loja dos Agricultores",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077320028",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 235,
+  "name": "Oppo Service Center",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 236,
+  "name": "Zain Plaza, Aitarak Laran",
+  "address": "timor plaza, Díli, Timor-Leste",
+  "phone": "+67077049401",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 237,
+  "name": "Office World",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67073657777",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 238,
+  "name": "Grasia supermercado",
+  "address": "Fuic (Aitarak Laran, Zain Lda Rua Pres. Nicolau Lobato, Anin, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 239,
+  "name": "Salesian Media Center",
+  "address": "Unnamed Road, Díli, Timor-Leste",
+  "phone": "+67078001160",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 240,
+  "name": "ZAIN PLAZA",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67076533530",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 241,
+  "name": "tl-sports",
+  "address": "Inside Landmark Plaza, Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+67074991555",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 242,
+  "name": "Tokodede Center",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077734444",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 243,
+  "name": "WFour Supermarket",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 244,
+  "name": "Instantshop OVERSIZE",
+  "address": "Av. de Portugal, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 245,
+  "name": "Kios Claudia",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 246,
+  "name": "UpStore Visimitra",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 247,
+  "name": "SMC Cafeteria",
+  "address": "Unit 106, Level 1, Timor Plaza, Dili Central, Comoro, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 248,
+  "name": "Gloria Jean's Coffees",
+  "address": "Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+67074012009",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 249,
+  "name": "Ms Glow Dili",
+  "address": "Ministry of Agriculture and Fisheries, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 250,
+  "name": "Loja Cahaya Jaya Abadi",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 251,
+  "name": "donat chocolate",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 252,
+  "name": "Liquica",
+  "address": "Timor Plaza, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 253,
+  "name": "Toko Liverpool",
+  "address": "Timor Plaza, Díli, Timor-Leste",
+  "phone": "+67077529888",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 254,
+  "name": "JITA PLAZA",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 255,
+  "name": "DELL STORE",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 256,
+  "name": "Mei Mart",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 257,
+  "name": "MB ULTRASOUND CENTER",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 258,
+  "name": "Bobby Digital DVD Shop",
+  "address": "Timor Plaza, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 259,
+  "name": "Nibhay Pharmacy",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 260,
+  "name": "Liborio lopes da cruz",
+  "address": "Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 261,
+  "name": "Harsha Unipessoal Lda",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 262,
+  "name": "Palm Business and Trade Center",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 263,
+  "name": "Timor Telecom Shop",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 264,
+  "name": "Infosys Unipessoal Lda",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077764923",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 265,
+  "name": "Bamboo Institute Timor-Leste",
+  "address": "Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+6703322222",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 266,
+  "name": "Timor Plaza Hotel \u0026 Apartments",
+  "address": "CBD 4, 104-105, Timor Plaza, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 267,
+  "name": "Camyi Lda.",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 268,
+  "name": "Smash It With Health \u0026 Fitness",
+  "address": "Unnamed Road, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 269,
+  "name": "Immaculate Conception Cathedral",
+  "address": "Bobonaro, Timor-Leste",
+  "phone": "+67074212035",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 270,
+  "name": "Marobo Hot Spring",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67073801549",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 271,
+  "name": "Church of Saint Anthony of Motael",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 272,
+  "name": "Cristo Rei",
+  "address": "R. Formosa 4, Díli, Timor-Leste",
+  "phone": "+6703331159",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 273,
+  "name": "Liquica",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077314588",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 274,
+  "name": "Kampung Adat Tamkesi",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 275,
+  "name": "Timor Adventures",
+  "address": "Av. de Portugal, Díli, Timor-Leste",
+  "phone": "+67078625995",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 276,
+  "name": "Dili",
+  "address": "Dili Port, Díli, Timor-Leste",
+  "phone": "+67076909799",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 277,
+  "name": "Betano",
+  "address": "Tutuala, Lautem District, Muapitine, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 278,
+  "name": "Ermera",
+  "address": "R. Belarmino Lobo No.1, R. de Lecidere, Díli, Timor-Leste",
+  "phone": "+6703312890",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 279,
+  "name": "Ermera",
+  "address": "Rua Hudi-Laran Bairopite, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 280,
+  "name": "Maliana",
+  "address": "Estr. de Ilicnamo, Beloi, Timor-Leste",
+  "phone": "+67077236084",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 281,
+  "name": "Com",
+  "address": "Aldiea Metin 1 , Bebonuk , Comoro, Díli, Timor-Leste",
+  "phone": "+67078038885",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 282,
+  "name": "Tutuala",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 283,
+  "name": "Lautem",
+  "address": "Aileu, Timor-Leste",
+  "phone": "+67077252527",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 284,
+  "name": "Bobonaro",
+  "address": "Liquica, Timor-Leste",
+  "phone": "+67077401111",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 285,
+  "name": "Hotel Suprise Manatuto",
+  "address": "Manatuto, Timor-Leste",
+  "phone": "+67077252476",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 286,
+  "name": "From Dili To São Jose Gues House Manatuto",
+  "address": "Manatuto, Timor-Leste",
+  "phone": "+67075930314",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 287,
+  "name": "Restaurante Mickey Mouse",
+  "address": "Manatuto, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 288,
+  "name": "Bar Restaurante Jenisse",
+  "address": "Manatuto, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 289,
+  "name": "ZERO START",
+  "address": "Manatuto, AITEAS, Timor-Leste",
+  "phone": "+67077463010",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 290,
+  "name": "Canossa Restaurante Manatuto (Centro Formasaun Sta. Isabel)",
+  "address": "Manatuto, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 291,
+  "name": "ABOLA Marcação",
+  "address": "Manatuto, Timor-Leste",
+  "phone": "+67077252476",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 292,
+  "name": "Ramifloma Restorante",
+  "address": "Unnamed Road, Manatuto, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 293,
+  "name": "Mini resto Obratu",
+  "address": "Manatuto, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 294,
+  "name": "Spotzasso",
+  "address": "Manatuto, Timor-Leste",
+  "phone": "+67078538388",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 295,
+  "name": "Hotel Suprise Manatuto",
+  "address": "Manatuto, Timor-Leste",
+  "phone": "+67077620970",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 296,
+  "name": "Otaria Eating",
+  "address": "Manatuto, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 297,
+  "name": "LYZENA REstaurant",
+  "address": "Unnamed Road, Manatuto, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 298,
+  "name": "Restaurant Difranole",
+  "address": "Unnamed Road, Manatuto, Timor-Leste",
+  "phone": "+67077262465",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 299,
+  "name": "Jacinto Plaza",
+  "address": "Manatuto, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 300,
+  "name": "Timor Plaza",
+  "address": "Dili Central, CBD5 Level 2 Timor Plaza, R. Bebonuk, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 301,
+  "name": "CBD 3",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 302,
+  "name": "Manatuto",
+  "address": "Manatuto, Timor-Leste",
+  "phone": "+67076360124",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 303,
+  "name": "Igreja Santo Antonio, Manatuto",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077348142",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 304,
+  "name": "Gruta de Santo António de Saututun",
+  "address": "Av. Pres. Nicolau Lobato, Díli, Timor-Leste",
+  "phone": "+67077688888",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 305,
+  "name": "BUTIKO Shopping Center",
+  "address": "Golgota Dili, Rua Comoro, Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 306,
+  "name": "Archives \u0026 Museum of East Timorese Resistance",
+  "address": "Manatuto, Timor-Leste",
+  "phone": "+67076360124",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 307,
+  "name": "Church of Saint Anthony of Motael",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 308,
+  "name": "Tatamailau",
+  "address": "Bobonaro, Timor-Leste",
+  "phone": "+67074212035",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 309,
+  "name": "Largo de Lecidere",
+  "address": "R. Formosa 4, Díli, Timor-Leste",
+  "phone": "+6703331159",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 310,
+  "name": "Immaculate Conception Cathedral",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67073801549",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 311,
+  "name": "Igreja Santo Antonio, Manatuto",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 312,
+  "name": "Cristo Rei",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67077314588",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 313,
+  "name": "Com",
+  "address": "Dili Port, Díli, Timor-Leste",
+  "phone": "+67076909799",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 314,
+  "name": "Ermera",
+  "address": "Tutuala, Lautem District, Muapitine, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 315,
+  "name": "Bobonaro",
+  "address": "Estr. de Ilicnamo, Beloi, Timor-Leste",
+  "phone": "+67077236084",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 316,
+  "name": "Dili",
+  "address": "R. Belarmino Lobo No.1, R. de Lecidere, Díli, Timor-Leste",
+  "phone": "+6703312890",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 317,
+  "name": "Liquica",
+  "address": "Aileu, Timor-Leste",
+  "phone": "+67077252527",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 318,
+  "name": "Lospalos",
+  "address": "Díli, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 319,
+  "name": "Bobonaro",
+  "address": "Balibo District, Balibo, Timor-Leste",
+  "phone": "+67077774845",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 320,
+  "name": "Borala Guest House",
+  "address": "Viqueque, Timor-Leste",
+  "phone": "+67074190362",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 321,
+  "name": "Borala Guest House",
+  "address": "Unnamed Rd, Loihuno,, Loihuno, Timor-Leste",
+  "phone": "+67078326687",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 322,
+  "name": "Guest House Luminar",
+  "address": "Rua Mercida, Viqueque, Timor-Leste",
+  "phone": "+67077010281",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 323,
+  "name": "Joaninha Home",
+  "address": "Viqueque, Timor-Leste",
+  "phone": "+67075388737",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 324,
+  "name": "Anhamori",
+  "address": "Viqueque, Timor-Leste",
+  "phone": "+67077130668",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 325,
+  "name": "Hospedaria Vitoria",
+  "address": "Viqueque, Timor-Leste",
+  "phone": "+67076367512",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 326,
+  "name": "Hotel Comunitaria Wailakurini",
+  "address": "Rua Beloi Santa Cruz, Viqueque, Timor-Leste",
+  "phone": "+67077010281",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 327,
+  "name": "Restaurante Vicna Joma",
+  "address": "Viqueque, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 328,
+  "name": "Luminar Restaurant",
+  "address": "Viqueque, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 329,
+  "name": "QQLay Restaurant \u0026 Bar",
+  "address": "Viqueque, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 330,
+  "name": "Jdhd FC dgdg",
+  "address": "Viqueque, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 331,
+  "name": "Rangel",
+  "address": "Viqueque, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 332,
+  "name": "Dapur K2",
+  "address": "Rua Viqueque, Beloi, Viqueque, Timor-Leste",
+  "phone": "+67078102611",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 333,
+  "name": "Finlos Restaurante",
+  "address": "Rua Viqueque, Beloi, Viqueque, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 334,
+  "name": "SAHAT GARRY",
+  "address": "Viqueque, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 335,
+  "name": "Loja Gariuai 2",
+  "address": "Baucau, Timor-Leste",
+  "phone": "",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ },
+ {
+  "id": 336,
+  "name": "Viqueque",
+  "address": "Díli, Timor-Leste",
+  "phone": "+67073801549",
+  "country-code": "TL",
+  "country": "Timor Leste"
+ }
+]

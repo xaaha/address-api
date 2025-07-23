@@ -1,0 +1,4922 @@
+[
+ {
+  "id": 1,
+  "name": "Brazza Hotel",
+  "address": "381 rue du Ruisseau Centreville Proche Banque Banque Sino Congolaise Centreville, Brazzaville, Congo - Brazzaville",
+  "phone": "+242055537274",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 2,
+  "name": "Radisson Blu M'Bamou Palace Hotel, Brazzaville",
+  "address": "136 Rue Charles Faucault, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 3,
+  "name": "Hotel Olympic Palace",
+  "address": "Avenue Auxence Ickonga, Brazzaville, Congo - Brazzaville",
+  "phone": "+242067351700",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 4,
+  "name": "Grand Lancaster Brazzaville",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242068888882",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 5,
+  "name": "Pefaco Hotel Maya-Maya Brazzaville",
+  "address": "Boulevard Denis Sassou Nguesso, Brazzaville, Congo - Brazzaville",
+  "phone": "+242056048030",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 6,
+  "name": "GHS Hotel",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 7,
+  "name": "Résidence Saint-Jacques Brazzaville",
+  "address": "Av. P. E. Lumumba, Brazzaville, Congo - Brazzaville",
+  "phone": "+242065121212",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 8,
+  "name": "Hôtel de l'Aéroport",
+  "address": "Centre-Ville, Corniche, Av. Amilcar Cabral, Brazzaville, Congo - Brazzaville",
+  "phone": "+242050506060",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 9,
+  "name": "Brazza Hotel",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242053666600",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 10,
+  "name": "Capital Hotel",
+  "address": "Rue Ibongui, Oyo, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 11,
+  "name": "RESIDENCE HOTELIERE DE MOUNGALI BRAZZAVILLE REP DU CONGO",
+  "address": "Oyo, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 12,
+  "name": "Class Hotel",
+  "address": "30 bis rue Jacob et Binaki, Quartier Diatta, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 13,
+  "name": "class hotel",
+  "address": "67 Rue de Pavie, Brazzaville, Congo - Brazzaville",
+  "phone": "+242053666633",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 14,
+  "name": "Hotel Scaimba",
+  "address": "Cite Des 17 Parcelles Avenue Mayima N°2, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 15,
+  "name": "RESIDENCE \"Le Parisien\"",
+  "address": "Rue Moukoundzi, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 16,
+  "name": "HOTEL LE PARISIEN",
+  "address": "Ollombo-Oyo Brazzaville Republic of the Congo, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 17,
+  "name": "Elbo appartement hotel",
+  "address": "21 Rue Boundji Marché Talangai, Talangai, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 18,
+  "name": "Hotel Elbo Suites",
+  "address": "Okoyo Marcel, Oyo, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 19,
+  "name": "Ledger Plaza Maya Maya (Headquarter)",
+  "address": "Rue Vizda N°16, Makélékélé, Congo - Brazzaville",
+  "phone": "9727298667",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 20,
+  "name": "Hotel Saphir",
+  "address": "Arret Station Afric, Kintele, Zone Chatelet Bleu, Brazzaville, Congo - Brazzaville",
+  "phone": "+242067159226",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 21,
+  "name": "Kintele Congress Center and Hotel",
+  "address": "Sambandongo Road, n°05 Matoure Brazzaville Republic of the Congo, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 22,
+  "name": "Hotel Riviera",
+  "address": "21 rue Mbiemo, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 23,
+  "name": "Leon Hôtel",
+  "address": "2106 Rue Fokeli, Bacongo, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 24,
+  "name": "AMARITSAH CLUB HOTEL",
+  "address": "Camp de Mfilou Case B 81 /82 -H CiteI Shelter, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 25,
+  "name": "Grand hôtel de kintelé",
+  "address": "67 Rue Emile Biayenda, Cité la base, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 26,
+  "name": "Edmond Hotel",
+  "address": "112 Rue Moussala, Cité la base, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 27,
+  "name": "HÔTEL AFRICA",
+  "address": "175 Av. de l'Amitié, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 28,
+  "name": "Résidence Léo",
+  "address": "Avenue de la gare routière, face au service des impôts, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 29,
+  "name": "Brazza Beach Hotel",
+  "address": "Rue Nkounkou Auguste, N°33, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 30,
+  "name": "Hotel de la Paix",
+  "address": "Avenue Félix Eboue En Face Du Tresor Public - Centre Ville, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 31,
+  "name": "King Maya",
+  "address": "41 Rue Bangalas, Brazzaville, Congo - Brazzaville",
+  "phone": "+242068358080",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 32,
+  "name": "Hotel du Boulevard",
+  "address": "Mpissa Bacongo, Makélékélé, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 33,
+  "name": "Hôtel Platinum",
+  "address": "Rajec Road, Kintelle Brazzaville, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 34,
+  "name": "Hotel le Bourgeois",
+  "address": "impasse lycée Javauhey Impasse lycée Javauhey Centre ville, Brazzaville, Congo - Brazzaville",
+  "phone": "+242068486751",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 35,
+  "name": "Auberge Arizona 02",
+  "address": "Rue Pavie (derrnière Avenue Nelson Mandela), Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 36,
+  "name": "Abibou Hôtel",
+  "address": "15 Rue Kintengue, Bacongo, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 37,
+  "name": "Hotel Etoile",
+  "address": "54 Rue BOMASSA, Av. de la Cité des Dix-Sept, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066846115",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 38,
+  "name": "HOTEL LE MARTHELEK",
+  "address": "05 Bis rue Yomba Diata Makelekele, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 39,
+  "name": "Pacific Hotel",
+  "address": "07 Rue Nzoungou Case de Gaulle, Avenue Savorgnan De Brazza, Bacongo, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 40,
+  "name": "Résidence Hôtelière La Clé des Champs",
+  "address": "Av. de l'Amitié, Brazzaville, Congo - Brazzaville",
+  "phone": "+242068888844",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 41,
+  "name": "Place Vendome (Morgane de Paris)",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 42,
+  "name": "Appartement Du Centre",
+  "address": "28 rue lamy bacongo, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 43,
+  "name": "Hotel Domingo",
+  "address": "23 Rue Mbemba Pierre, Moukoundzi Ngouaka, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 44,
+  "name": "Phoenix Hôtel",
+  "address": "Marwine Hotel, Moungali, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 45,
+  "name": "Hôtel du Boulevard",
+  "address": "Ave de la Paix, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 46,
+  "name": "Bold Hotel",
+  "address": "50 Rue Docteur Curreaux, Brazzaville, Congo - Brazzaville",
+  "phone": "+242050740000",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 47,
+  "name": "Jon's Hotel",
+  "address": "73 BIS Avenue Des 3 Martyrs, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 48,
+  "name": "Verda Politan",
+  "address": "69 rue Antonetti, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 49,
+  "name": "Hotel Granilia 1",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242068346858",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 50,
+  "name": "Hotel Steven",
+  "address": "Rue Kinkala n°80, Moungali, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 51,
+  "name": "Hotel Murex",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 52,
+  "name": "Charlie Hotel",
+  "address": "Rue Kinkala, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 53,
+  "name": "Le Paternel-2",
+  "address": "Centre-Ville, Face Ministère du Budget et des Finances, 80 Av. du Maréchal Foch, Brazzaville, Congo - Brazzaville",
+  "phone": "+242068600000",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 54,
+  "name": "Yes Club",
+  "address": "22 Bis Rue Mayama, Moungali, Congo - Brazzaville",
+  "phone": "+242053989224",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 55,
+  "name": "Lambert Hotel",
+  "address": "Quartier la Base, Brazzaville, Congo - Brazzaville",
+  "phone": "+242064863030",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 56,
+  "name": "Hôtel Adonis",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 57,
+  "name": "juro residence",
+  "address": "132 bis rue lenin, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 58,
+  "name": "Majestic Hotel",
+  "address": "161 Avenue Sergent Malamine Centre Ville Mandarine Patisserie, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 59,
+  "name": "Royal Hotel",
+  "address": "30 rue Jacob-Binaki, Makélékélé, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 60,
+  "name": "Hotel Longue Histoire",
+  "address": "impasse Ave auxence ickonga, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 61,
+  "name": "Le Magestic Hotel",
+  "address": "Av. Amilcar Cabral, Brazzaville, Congo - Brazzaville",
+  "phone": "+242065080839",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 62,
+  "name": "Hotel eclipse",
+  "address": "2 Rue Père Bessieux Avenue Foch, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 63,
+  "name": "Hotel Hilareme Destination",
+  "address": "Rue de Reims Face de BGFI Bank, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 64,
+  "name": "Hotel Gardenia",
+  "address": "Arrêt de Bus 753, Ave des Trois Martyrs, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 65,
+  "name": "Vignon Hotel 02",
+  "address": "Ave des Premiers Jeux Africains, Brazzaville, Congo - Brazzaville",
+  "phone": "+242068287979",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 66,
+  "name": "Auberge le Pacific",
+  "address": "N°44, Jules Grevy/Nganga Lingolo, Bacongo District, Bacongo, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 67,
+  "name": "Résidence Elonda Kintele",
+  "address": "20 Rue Banziris Poto-Poto, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066333905",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 68,
+  "name": "Hôtel Résidence PEMBA",
+  "address": "351 Ave Savorgnan de Brazza, Brazzaville, Congo - Brazzaville",
+  "phone": "+242069215413",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 69,
+  "name": "Marwine Hotel",
+  "address": "54 Rue BOMASSA Ave de la Cité des Dix-sept, Brazzaville, Congo - Brazzaville",
+  "phone": "+242056702121",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 70,
+  "name": "Hôtel Le Paradis",
+  "address": "28, rue Kouilou, la poudrière 1er arrêt au bord de l'aeroport. La poudrière, Brazzaville, Congo - Brazzaville",
+  "phone": "+242069878784",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 71,
+  "name": "Appartements Meublés Paola",
+  "address": "Moungali 39 rue Djambala, Moungali, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 72,
+  "name": "Hotel La montagne",
+  "address": "1076 Rue Biza, Brazzaville, Congo - Brazzaville",
+  "phone": "+242065786744",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 73,
+  "name": "Victorine Hotel",
+  "address": "162 Av. de l'Amitié, Brazzaville, Congo - Brazzaville",
+  "phone": "+242055787777",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 74,
+  "name": "Hôtel La Destinée",
+  "address": "Congo - Brazzaville, Brazzaville, 39 Rue Bankoua Moukondo",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 75,
+  "name": "Amaritsah Club Hotel",
+  "address": "72 Rue Moudjombo Moungali, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 76,
+  "name": "Villa Lys Hotel",
+  "address": "82 Bis Rue Gamboma, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 77,
+  "name": "Hotel Commodore",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242055175311",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 78,
+  "name": "Auberge Arizona 01",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 79,
+  "name": "Hotel Muesse",
+  "address": "Rue Mampiri, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 80,
+  "name": "Hotel le Tresor 2",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 81,
+  "name": "Hotel les Anguilles",
+  "address": "20 Rue Mayama Plateau Des 15ans, Brazzaville, Congo - Brazzaville",
+  "phone": "+242056056591",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 82,
+  "name": "Hôtel Léon Bacongo",
+  "address": "46 Rue Yakomas, Poto-Poto, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 83,
+  "name": "Potal Hotel",
+  "address": "numéro 3, Av. de l'Amitié, Brazzaville, Congo - Brazzaville",
+  "phone": "+242057770777",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 84,
+  "name": "Hotel La Perle",
+  "address": "Ave des 3 Martyrs, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 85,
+  "name": "Hotel Bankazi",
+  "address": "41 Rue Kouyou, Brazzaville, Congo - Brazzaville",
+  "phone": "+242222600103",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 86,
+  "name": "Auberge K",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 87,
+  "name": "Residence BOKOLE",
+  "address": "Avenue Charles Foucault, Brazzaville, Congo - Brazzaville",
+  "phone": "+442392599472",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 88,
+  "name": "Hotel Le Filon d'Or",
+  "address": "Ave Du Mont Des Arts, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 89,
+  "name": "Hotel La Petite Residence",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242068486751",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 90,
+  "name": "Hotel Delta",
+  "address": "105 Av. du Maréchal Galliéni, Brazzaville, Congo - Brazzaville",
+  "phone": "+242068852424",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 91,
+  "name": "Hotel Le Grillon",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242053989224",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 92,
+  "name": "Hotel Bel Air",
+  "address": "6 rue Faidherbe, Brazzaville, Congo - Brazzaville",
+  "phone": "+242064576868",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 93,
+  "name": "Hotel Otina Ollombo",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242069284245",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 94,
+  "name": "Residence Etap",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242068227014",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 95,
+  "name": "HOTEL ARC EN CIEL",
+  "address": "Arrêt Forage, 26 RUE MASSENGO ANDRE Quartier LA BASE ASECNA, Brazzaville, Congo - Brazzaville",
+  "phone": "+242064708997",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 96,
+  "name": "Le First Restaurant Brazzaville",
+  "address": "Case J-318V, Moungali 3, Congo - Brazzaville",
+  "phone": "+242066136060",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 97,
+  "name": "Restaurant Ilys",
+  "address": "2 rue du tourisme, camp clairon, Congo - Brazzaville",
+  "phone": "+242066308494",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 98,
+  "name": "Restaurant Jardin des Saveurs",
+  "address": "Rue des Compagnons de Brazza, Brazzaville, Congo - Brazzaville",
+  "phone": "+242044821111",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 99,
+  "name": "La Pirogue",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242044116863",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 100,
+  "name": "Jaipur Restaurant",
+  "address": "175 Av. de l'Amitié, Brazzaville, Congo - Brazzaville",
+  "phone": "+242053765555",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 101,
+  "name": "Restaurant La Grande Cascade",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242066778143",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 102,
+  "name": "Mami Wata",
+  "address": "Av. Amilcar Cabral, Brazzaville, Congo - Brazzaville",
+  "phone": "+242050506060",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 103,
+  "name": "Le Feu des Saveurs",
+  "address": "Tours Jumelles, Av. Amilcar Cabral, Brazzaville, Congo - Brazzaville",
+  "phone": "+242055370401",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 104,
+  "name": "Restaurant O Sympathic",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242055342879",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 105,
+  "name": "Royal Spice",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242069096952",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 106,
+  "name": "CHEZ DOM",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242068078349",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 107,
+  "name": "Le COSY",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242069270202",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 108,
+  "name": "Restaurant L'oriental",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 109,
+  "name": "Hippocampe",
+  "address": "Av. du Maréchal Foch, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066068835",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 110,
+  "name": "La Capricciosa",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242056172085",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 111,
+  "name": "Kudia",
+  "address": "310 rue Fouekele, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 112,
+  "name": "Restaurant Royal",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 113,
+  "name": "Brazza Burger",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242053177777",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 114,
+  "name": "La Cantine",
+  "address": "242 Rue Loufou, Brazzaville, Congo - Brazzaville",
+  "phone": "+242064881682",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 115,
+  "name": "Le Restaurant Ouvert",
+  "address": "CG 303, Rue Madzia, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 116,
+  "name": "Restaurant La Sénégalaise",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 117,
+  "name": "Grill House",
+  "address": "219 Rue de Pavie, Brazzaville, Congo - Brazzaville",
+  "phone": "+242069579106",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 118,
+  "name": "La Cantine",
+  "address": "Palais de Justice de Brazzaville, Brazzaville, Congo - Brazzaville",
+  "phone": "+242050552670",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 119,
+  "name": "Maman Ro",
+  "address": "PLATEAU DES 15ans, 5 Rue Mayombe, Brazzaville, Congo - Brazzaville",
+  "phone": "+242055927506",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 120,
+  "name": "LE KUDU",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 121,
+  "name": "Butcher block",
+  "address": "Rue sainte anne bis, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066535542",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 122,
+  "name": "Le First Bar And Grill Brazzaville",
+  "address": "Résidence Les Flamboyants, camp Clairon, vers l'hôpital militaire, Brazzaville, Congo - Brazzaville",
+  "phone": "+242056016899",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 123,
+  "name": "Le BOUDOIR NADO NADO",
+  "address": "Mucodec Caisse Du CCF, Brazzaville, Congo - Brazzaville",
+  "phone": "+242067531316",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 124,
+  "name": "Gourmandine",
+  "address": "Rue sainte anne, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 125,
+  "name": "Il Taglio restaurant",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 126,
+  "name": "Esperance Restaurant",
+  "address": "Bd Denis Sassou Nguesso, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 127,
+  "name": "Restaurant Epices Royales",
+  "address": "Mfilou, Brazzaville, Congo - Brazzaville",
+  "phone": "+242226083678",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 128,
+  "name": "Restaurant Bar La Belle Étoile",
+  "address": "Temple du Centenaire, 02 rue Jean Marie Niabia, centre-ville En face du, Brazzaville, Congo - Brazzaville",
+  "phone": "+242064669066",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 129,
+  "name": "LA CERISE",
+  "address": "Av. de l'Amitié, Brazzaville, Congo - Brazzaville",
+  "phone": "+242055142222",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 130,
+  "name": "BALI \"Le Week-end\"",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242056359000",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 131,
+  "name": "Restaurant Céleste",
+  "address": "Ave du Serg Malamine, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066264444",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 132,
+  "name": "D\u0026D Restaurant/ Bar à Tapas",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 133,
+  "name": "Chez NORD-EST",
+  "address": "Rue de Reims, Brazzaville, Congo - Brazzaville",
+  "phone": "+242019888887",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 134,
+  "name": "LOÏC GRILL",
+  "address": "Av. de l'Indépendance, Brazzaville, Congo - Brazzaville",
+  "phone": "+242065577920",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 135,
+  "name": "Ci Gusta! Brazzaville",
+  "address": "Ave du Serg Malamine, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 136,
+  "name": "Le Terminalia",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242066620516",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 137,
+  "name": "Crousty land",
+  "address": "Case De Gaulle, 21 Rue Mbama, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066662129",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 138,
+  "name": "Ô Mille Saveurs",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242068593766",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 139,
+  "name": "Chez Bolingo",
+  "address": "Ave du Serg Malamine, Brazzaville, Congo - Brazzaville",
+  "phone": "+242069552222",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 140,
+  "name": "KANI Restaurant",
+  "address": "131 Rue de Pavie, Brazzaville, Congo - Brazzaville",
+  "phone": "+242064458044",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 141,
+  "name": "Restaurant Black \u0026 White",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242055588588",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 142,
+  "name": "L'ENTRE-POTES (Resto-Bar)",
+  "address": "67 Rue de Pavie, Brazzaville, Congo - Brazzaville",
+  "phone": "+242064141414",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 143,
+  "name": "Blue Martini Lounge Bar restaurant",
+  "address": "PIROTTE, Quartier tribunal - centre ville, 3, Brazzaville, Congo - Brazzaville",
+  "phone": "+242064635913",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 144,
+  "name": "Suhi bar",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 145,
+  "name": "Restaurant Mère July",
+  "address": "Rue lagué, Ave de la Paix, Brazzaville, Congo - Brazzaville",
+  "phone": "+242068219045",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 146,
+  "name": "Los Cabos",
+  "address": "141 Rue jolly, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066538243",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 147,
+  "name": "Restaurant Miam",
+  "address": "Av. de la 2ème Division Blindée, Brazzaville, Congo - Brazzaville",
+  "phone": "+242050901111",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 148,
+  "name": "Delice Rouge",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 149,
+  "name": "Restaurant La Tomate",
+  "address": "10 maisons), Ave de la Paix, Brazzaville, Congo - Brazzaville",
+  "phone": "+242056740606",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 150,
+  "name": "Sanke Restaurant (Chez Aly)",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242066569883",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 151,
+  "name": "LA MONTAGNE KOJACK",
+  "address": "69, rue Zanaga, Ave de la Paix, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066725629",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 152,
+  "name": "MOOD",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242068613020",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 153,
+  "name": "Restaurant Marie Diallo",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242064555554",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 154,
+  "name": "Le Croq' Sandwicherie",
+  "address": "67 Rue de Pavie, Brazzaville, Congo - Brazzaville",
+  "phone": "+242064884444",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 155,
+  "name": "Restaurant Nerwaya",
+  "address": "Rue Louémé, Brazzaville, Congo - Brazzaville",
+  "phone": "+242064434289",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 156,
+  "name": "L restaurant bar",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 157,
+  "name": "Saveurs Gourmandes",
+  "address": "142 rue Beranger BACONGO, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066624458",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 158,
+  "name": "La Mie Dorée",
+  "address": "Rue des Compagnons de Brazza, Brazzaville, Congo - Brazzaville",
+  "phone": "+242068403338",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 159,
+  "name": "Chocolate bar",
+  "address": "93 Avenue du Docteur Jamot Brazzaville, Brazzaville, Congo - Brazzaville",
+  "phone": "+242065586526",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 160,
+  "name": "Noura",
+  "address": "1537 Rue Louvakou, Brazzaville, Congo - Brazzaville",
+  "phone": "+242064818181",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 161,
+  "name": "RED CAFE",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242055217485",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 162,
+  "name": "La Republique",
+  "address": "Matata, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 163,
+  "name": "Restaurant Exaunel",
+  "address": "3, rue Malanda Faustin, route de l'auberge Gasgonne, Brazzaville, Congo - Brazzaville",
+  "phone": "+242069619128",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 164,
+  "name": "AlWady Restaurant",
+  "address": "Centre Ville, 92 Av. de l'Indépendance, Brazzaville, Congo - Brazzaville",
+  "phone": "+242056431919",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 165,
+  "name": "La p'tite Faim",
+  "address": "Av. Simon Kimbangou, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 166,
+  "name": "Chez Patou",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242067636369",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 167,
+  "name": "Le GLAD",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242053619292",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 168,
+  "name": "Restaurant Ile De Gorée",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242066691688",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 169,
+  "name": "Pizza Hot+",
+  "address": "Ave Savorgnan de Brazza, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066326456",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 170,
+  "name": "Al Waddy",
+  "address": "Centre-Ville Poto-Poto, 39 Rue Colbert, Brazzaville, Congo - Brazzaville",
+  "phone": "+242068805502",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 171,
+  "name": "Le parfait",
+  "address": "54 avenue Félix Eboué, Centre -ville, Congo - Brazzaville",
+  "phone": "+242067864613",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 172,
+  "name": "Bold Sushi",
+  "address": "340 Ave des Trois Martyrs, Brazzaville, Congo - Brazzaville",
+  "phone": "+242067544900",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 173,
+  "name": "L’Assiette",
+  "address": "123 Ave des Trois Martyrs, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066666606",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 174,
+  "name": "La Teranga",
+  "address": "Chapelle Des Vainqueurs, 02 rue du 05 Février Poto Poto en face de l'église, Brazzaville, Congo - Brazzaville",
+  "phone": "+242057350370",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 175,
+  "name": "Restaurant La Baguette",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242064455318",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 176,
+  "name": "Restaurant VOG",
+  "address": "Ave du Camp, Brazzaville 14752, Congo - Brazzaville",
+  "phone": "+242066308494",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 177,
+  "name": "Restaurant la Providence",
+  "address": "Rue Madzia, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066681984",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 178,
+  "name": "Restaurant Loft",
+  "address": "Rue de Pavie, Brazzaville, Congo - Brazzaville",
+  "phone": "+242053666633",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 179,
+  "name": "Resto Chez Natacha (LIPOU)",
+  "address": "Av. Amilcar Cabral, Brazzaville, Congo - Brazzaville",
+  "phone": "+242050506060",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 180,
+  "name": "Bali",
+  "address": "Ave William Guynet, Brazzaville, Congo - Brazzaville",
+  "phone": "+242056639090",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 181,
+  "name": "Le Réconfort restaurant-bar",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242057434817",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 182,
+  "name": "La Désirade Plus",
+  "address": "Ave Paul Doumer, Brazzaville, Congo - Brazzaville",
+  "phone": "+242056747777",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 183,
+  "name": "Resto chez Natacha MABIALA LIPOU MASSALA",
+  "address": "Unnamed Road, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066357060",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 184,
+  "name": "Bijoux Bolingo",
+  "address": "LA GLACIER, 193 Ave Savorgnan de Brazza, Brazzaville, Congo - Brazzaville",
+  "phone": "+242069800880",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 185,
+  "name": "VILLA O'L",
+  "address": "Ave de France, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 186,
+  "name": "242 Tacos Street",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242057434817",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 187,
+  "name": "Restaurant Chez Aliou BA",
+  "address": "66 Ave des Trois Martyrs, Brazzaville, Congo - Brazzaville",
+  "phone": "+242065294141",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 188,
+  "name": "Fast-Food Le Grilladin",
+  "address": "Rue de Pavie, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 189,
+  "name": "Resto Baye",
+  "address": "Unnamed Road, Brazzaville, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 190,
+  "name": "Le Gourmand",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242069428888",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 191,
+  "name": "La Guinguette au bord du Fleuve",
+  "address": "20 Av. du 5 Février, Brazzaville, Congo - Brazzaville",
+  "phone": "+242064799632",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 192,
+  "name": "Restaurant Les Délices De Faï",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242044907275",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 193,
+  "name": "Chez Tantine",
+  "address": "03 avenue foch centre ville, Av. du Maréchal Foch, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066666600",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 194,
+  "name": "Brazzaville Mall",
+  "address": "Rue BOUAYOKA, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066503340",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 195,
+  "name": "Centre commercial Grand fleuve",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242066736548",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 196,
+  "name": "Orca Brazzaville",
+  "address": "Mampassi, Ave des Trois Martyrs, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 197,
+  "name": "Kennys",
+  "address": "118 Rue Eugène Kakou, Brazzaville, Congo - Brazzaville",
+  "phone": "+242053882910",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 198,
+  "name": "ZARA",
+  "address": "Plateau marché, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 199,
+  "name": "ctl congo",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 200,
+  "name": "Nkoumba",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242060005522",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 201,
+  "name": "Charisma Shop",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 202,
+  "name": "Agence Commercial Airtel Conco",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 203,
+  "name": "EPPAVPA",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242069034946",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 204,
+  "name": "Hypermarché Géant casino - Le grand fleuve",
+  "address": "Ave de la Paix, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066972331",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 205,
+  "name": "Foire Internationale De Kinshasa -FIKIN",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 206,
+  "name": "Park'n Shop",
+  "address": "Centre-Ville, Corniche, Av. Amilcar Cabral, Brazzaville, Congo - Brazzaville",
+  "phone": "+242050506060",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 207,
+  "name": "Place commerciale",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+243813670990",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 208,
+  "name": "Ruelle de Brazzaville",
+  "address": "Bd du Maréchal Lyautey, Brazzaville, Congo - Brazzaville",
+  "phone": "+242040304730",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 209,
+  "name": "Centre de Bien-être",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 210,
+  "name": "AFRIC'DESIGN BRAZZAVILLE",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068094222",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 211,
+  "name": "Supermarché chez MOMO",
+  "address": "Avenue du mur de l'Asecna, Brazzaville, Brazzaville, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 212,
+  "name": "Moni-Shop",
+  "address": "03 avenue foch centre ville, Av. du Maréchal Foch, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066666600",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 213,
+  "name": "Group Elegance",
+  "address": "BP 2141, N1, Brazzaville, Congo - Brazzaville",
+  "phone": "+242222811900",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 214,
+  "name": "Mozar Center",
+  "address": "Centre ville, 20 Av. Nelson Mandela, Brazzaville, Congo - Brazzaville",
+  "phone": "+242068141000",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 215,
+  "name": "I.F.C Institut Français du Congo",
+  "address": "City Center, Ave du Camp, imm, Congo - Brazzaville",
+  "phone": "+242065213333",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 216,
+  "name": "Royal negos",
+  "address": "Ave Adrien Conus, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066070512",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 217,
+  "name": "GG Mart Super Marche",
+  "address": "Stade Félix Éboué, 4460 Poto poto face au, Brazzaville, Congo - Brazzaville",
+  "phone": "+242053891520",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 218,
+  "name": "BRAZZAVILLE",
+  "address": "37 Ave William Guynet, Brazzaville, Congo - Brazzaville",
+  "phone": "+242068885656",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 219,
+  "name": "Kavali center",
+  "address": "Av. Loutassi, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066767172",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 220,
+  "name": "Game Store",
+  "address": "Ministère de la culture et des arts, Bd Denis Sassou Nguesso, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 221,
+  "name": "Symphonie des Arts",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242066183531",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 222,
+  "name": "Eric Kayser",
+  "address": "49 Rue BAKOUKOUYA, Brazzaville, Congo - Brazzaville",
+  "phone": "+242055241639",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 223,
+  "name": "La Capricciosa",
+  "address": "Rue MAMPOUYA Michel MBOUONO, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 224,
+  "name": "Kin Marché",
+  "address": "Ave Alfassa, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 225,
+  "name": "Olivier",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 226,
+  "name": "Building ex-Sozacom",
+  "address": "Ave de la Paix, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 227,
+  "name": "Chez tshang",
+  "address": "6 Rue de la Mfoa, Brazzaville, Congo - Brazzaville",
+  "phone": "+242064833330",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 228,
+  "name": "Mayam Halisi Paris",
+  "address": "Orca, La gare Avenue, Brazzaville, Congo - Brazzaville",
+  "phone": "+242057584080",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 229,
+  "name": "L'Adonique Center",
+  "address": "Ave William Guynet, Brazzaville, Congo - Brazzaville",
+  "phone": "+242064954444",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 230,
+  "name": "Diana bijoux",
+  "address": "133 Rue Louingui, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 231,
+  "name": "The Bible House",
+  "address": "Centre commercial Grand Fleuve, Av. Amilcar Cabral, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 232,
+  "name": "Orange Digital Center",
+  "address": "face Pharmacie JAGGER, Brazzaville, Congo - Brazzaville",
+  "phone": "+242055694787",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 233,
+  "name": "Kin Téléphone",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+917568196350",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 234,
+  "name": "Matankumu",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+917568196350",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 235,
+  "name": "Colin iPhone RDC",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242066656394",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 236,
+  "name": "Shop Access Success",
+  "address": "Ave Alfassa, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 237,
+  "name": "Restaurant KERE",
+  "address": "Ave Alfassa, Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 238,
+  "name": "Basilique Sainte Anne du Congo",
+  "address": "N2, Brazzaville, Congo - Brazzaville",
+  "phone": "+393475588451",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 239,
+  "name": "The Corniche",
+  "address": "Parc Zoologique et Botanique de Brazzaville - Zoolandia, Bd du Maréchal Lyautey, Brazzaville, Congo - Brazzaville",
+  "phone": "+242056359048",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 240,
+  "name": "National Museum of the Democratic Republic of the Congo",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 241,
+  "name": "Jardin Zoologique",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 242,
+  "name": "Brazzaville",
+  "address": "Ponton, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 243,
+  "name": "Maya Maya International Airport",
+  "address": "N1, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066210161",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 244,
+  "name": "Palace of the Nation",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 245,
+  "name": "Shisha Cafe",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242050799227",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 246,
+  "name": "Paroisse Sacré Coeur",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242069270202",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 247,
+  "name": "Pool",
+  "address": "20 Rue de Pavie, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066063535",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 248,
+  "name": "Odzala-Kokoua National Park",
+  "address": "255 Ave du Cardinal Emile Biayenda Ex, Ave Foch, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066086868",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 249,
+  "name": "Paroisse du Sacré-coeur",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242055342879",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 250,
+  "name": "Grand hôtel de kintelé",
+  "address": "Centre-Ville, Corniche, Av. Amilcar Cabral, Brazzaville, Congo - Brazzaville",
+  "phone": "+242050506060",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 251,
+  "name": "Kintele Congress Center and Hotel",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242068943918",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 252,
+  "name": "Cathedral of St Peter and Paul Bonadibong",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 253,
+  "name": "Sanctuaire Sainte-Anne-de-Beaupré",
+  "address": "AVENUE DE L,O.U.A ROND POINT TERINKYO, Brazzaville, Congo - Brazzaville",
+  "phone": "+242069787319",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 254,
+  "name": "Ubong Cave",
+  "address": "N1, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066551637",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 255,
+  "name": "Palace of the Parliament of Dauphine",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242066656394",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 256,
+  "name": "Le Château des Ducs",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242066656394",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 257,
+  "name": "Sangha-Mbaéré",
+  "address": "N1, Brazzaville, Congo - Brazzaville",
+  "phone": "+242066551637",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 258,
+  "name": "Maritime Region",
+  "address": "Av. de l'Amitié, Brazzaville, Congo - Brazzaville",
+  "phone": "+242069787319",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 259,
+  "name": "Hoshinoura Seaside Park",
+  "address": "BP 2141, N1, Brazzaville, Congo - Brazzaville",
+  "phone": "+242222811900",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 260,
+  "name": "DoubleTree By Hilton Pointe-Noire",
+  "address": "146 Av. Ngueli Ngueli, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 261,
+  "name": "Atlantic Palace Hotel",
+  "address": "301 Ave De Gaule en Face Credit du Congo, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 262,
+  "name": "Hotel Palm Beach Congo - Pointe noire",
+  "address": "Mutech Réseaux, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 263,
+  "name": "Elaïs Hôtel",
+  "address": "47 Av. Dr Denis Loemba, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242053200000",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 264,
+  "name": "Résidence Saint Jacques",
+  "address": "1212 Av. Charles de Gaulle, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066700700",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 265,
+  "name": "Kactus Lodge",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055002000",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 266,
+  "name": "Kactus Lodge",
+  "address": "Proche du Consulat d'Italie CentreVille, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055537274",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 267,
+  "name": "Villa Madiba",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055118484",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 268,
+  "name": "Residence emeraude",
+  "address": "En face de l'aeroport de Pointe-Noire, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 269,
+  "name": "Atlas Hotel",
+  "address": "Aeroport, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 270,
+  "name": "Residence le Lys",
+  "address": "la pointe Indienne, 99324 Loango, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242064977168",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 271,
+  "name": "Hôtel Chez Wou",
+  "address": "Djéno Pointe Noire, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 272,
+  "name": "Hotel Le Guest House",
+  "address": "Nkouikou Avant Le Marche, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 273,
+  "name": "Hotel Le Prince",
+  "address": "Allant Vers le Camp Ijet, Mpita, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 274,
+  "name": "Residence Chanty Sur Mer",
+  "address": "Bd Dr Jacques Bouiti, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 275,
+  "name": "Hotel Residence La Villa 1",
+  "address": "Fouks/Avenue de Matende en Face de Pharmacie Six Cadrans, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242053593788",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 276,
+  "name": "Residence Emeraude",
+  "address": "201 Avenue Dr Jacques Bouity, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242057133333",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 277,
+  "name": "Malonda Lodge",
+  "address": "Av. Emmanuel Dadet, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055442775",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 278,
+  "name": "Résidence ARCHANGE",
+  "address": "Av. de l'Indépendance, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 279,
+  "name": "Hotel Le Prince",
+  "address": "Avenue de Pemba Rue Mpakassa KM4, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 280,
+  "name": "Residence Chanty Sur Mer",
+  "address": "6V2P+FH7، Avenue Andre Grenard Matsoua, Quartier Mbouka, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 281,
+  "name": "Le Raphia Guest House",
+  "address": "Camp 31 Juillet, DVS+ Chain, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068707843",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 282,
+  "name": "Hilary Hotel",
+  "address": "Ngoyo, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 283,
+  "name": "Residence Emeraude",
+  "address": "Avenue Touloukanou, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055531662",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 284,
+  "name": "L'Orchidée Hotel",
+  "address": "Rte de la frontière, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 285,
+  "name": "INDIA PALACE HOTEL",
+  "address": "513 Rte de la frontière, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 286,
+  "name": "Hotel Saint Jean",
+  "address": "Route de la Frontière, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 287,
+  "name": "Malonda Lodge",
+  "address": "Och En Face Restaurant Noely, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 288,
+  "name": "Yes Club",
+  "address": "Côté Sauvage, Derrière la Gare, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068181765",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 289,
+  "name": "Residence Villa 2",
+  "address": "Och Bakadila, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 290,
+  "name": "Residence Archange",
+  "address": "75 rue Mouhete Quartier Songolo, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 291,
+  "name": "Residence Hyatt",
+  "address": "Avenue Matsoua Route Fong Tie Tie, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 292,
+  "name": "Résidence ROBERTA",
+  "address": "Avenue Ma Loango. Descente Road Point Roy, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 293,
+  "name": "Hotel Nana",
+  "address": "77, Rue Mouhete, Quartier Base Agip, Songolo, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 294,
+  "name": "HÔTEL DU CENTRE",
+  "address": "Av. de l'aéroport, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 295,
+  "name": "Hotel Logis Manthey",
+  "address": "Avenue Tchindongola (aeroport Agostina Neto), Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 296,
+  "name": "The 9 Houses",
+  "address": "route raffinerie coraf arret abia ba guete, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 297,
+  "name": "Hotel HongKONG",
+  "address": "Centre Ville Avenue, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 298,
+  "name": "Royal Park Hotel",
+  "address": "3 rue Michel Poaty, Mpita, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242064748829",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 299,
+  "name": "Mayombe Arena Hôtel",
+  "address": "Av. Okamamoue, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055425104",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 300,
+  "name": "Résidence NLI",
+  "address": "City Center, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 301,
+  "name": "Residence Villa 1",
+  "address": "Rue Limbou, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066153443",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 302,
+  "name": "L'Eden Hotel",
+  "address": "Rue du Warf, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 303,
+  "name": "Hotel Ndoko",
+  "address": "Rue Dimbatala, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 304,
+  "name": "Residence Exaunel Hotel",
+  "address": "144 Av. Charles de Gaulle, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 305,
+  "name": "Residence Kimia",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 306,
+  "name": "Hotel La Constance",
+  "address": "Avenue Marien Ngouabi Km4, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 307,
+  "name": "Residence Baptista",
+  "address": "La Base, Route de l'aeroport, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 308,
+  "name": "Residence Pemba",
+  "address": "Quatier Siafoumou Vers la clinique Dr Mongo, Siafoumou, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 309,
+  "name": "Hôtel résidence Pemba",
+  "address": "Avenue Emeraude, Centre Ville, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 310,
+  "name": "Coben Palace",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068559626",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 311,
+  "name": "Tchitenda",
+  "address": "Djeno, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055575151",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 312,
+  "name": "Pondichery",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242053434634",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 313,
+  "name": "Diamond House Hotel",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242065080829",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 314,
+  "name": "La Datcha",
+  "address": "Route de la frontiere à Tchimbamba en face du centre de santé intégré, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+243999359393",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 315,
+  "name": "Residence Bel \u0026 Dieu Tchimbamba",
+  "address": "73 avenue Schoelcher, Grand Marche, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 316,
+  "name": "Résidence Odysée",
+  "address": "Rond Point Tractafric, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 317,
+  "name": "Jobel Hotel",
+  "address": "Av. de l'Eméraude, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068830505",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 318,
+  "name": "Auberge Maison des Hôtes",
+  "address": "Route de l'Aeroport, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 319,
+  "name": "Ngalambi DVS+",
+  "address": "Congo - Brazzaville, Pointe Noire 306, avenue Nuéli-Nguéli",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 320,
+  "name": "Residence Le Baptista",
+  "address": "Djeno, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055575151",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 321,
+  "name": "Jobourgaise",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 322,
+  "name": "Hotel Le Parisse",
+  "address": "Derrière La Citronnelle, Avenue Bouvandji, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 323,
+  "name": "MAKOTONGO",
+  "address": "13 Rue NTOMBO, Pointe-Noire (quartier SIAFOUMOU), Congo - Brazzaville",
+  "phone": "+41794256732",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 324,
+  "name": "Alfred hotel",
+  "address": "Route de la frontiere à Tchimbamba en face du centre de santé intégré, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+243999359393",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 325,
+  "name": "Saint Marcel",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 326,
+  "name": "La Providence Hotel",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 327,
+  "name": "Residence Mumbai",
+  "address": "Congo - Brazzaville, Pointe Noire 306, avenue Nuéli-Nguéli",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 328,
+  "name": "Hotel Relais de l'Aéroport",
+  "address": "Derrière La Citronnelle, Avenue Bouvandji, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 329,
+  "name": "Ty_Breizh Lodge",
+  "address": "14 Av. Barthélémy Boganda, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242069204010",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 330,
+  "name": "Bienvenue Chez Les Ch'tis",
+  "address": "BP 4469, 23 Av. de l'Eméraude, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242069980006",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 331,
+  "name": "Maison Meublée de l'Aéroport",
+  "address": "Rue Kondi, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+250788305552",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 332,
+  "name": "Hôtel Azur le Gilbert's",
+  "address": "35 Av. Fayette Tchitembo, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242053202073",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 333,
+  "name": "La Brasserie de la mer",
+  "address": "39 Rue MBENA Situé entre TRACTAFRIC et la banque BEAC, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066672222",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 334,
+  "name": "Restaurant Chez Denise le piano bar",
+  "address": "scab congo, situe en face de la nouvelle direction de, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242053270707",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 335,
+  "name": "La Citronnelle",
+  "address": "Av. Linguissi Tchicaya, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242050556262",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 336,
+  "name": "La Paillote",
+  "address": "Av. Moé Vangoula, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055534455",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 337,
+  "name": "Restaurant \"RISTORANTE ITALIA\"",
+  "address": "17 Av. Jacques Opangault, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242053000005",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 338,
+  "name": "Chez Wou (Chinois)",
+  "address": "Bd du Général Charles de Gaulle, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055645025",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 339,
+  "name": "Jaipur Restaurant",
+  "address": "72 Avenue Charles de Gaulle BP1480, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242056818102",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 340,
+  "name": "L'Arbalète",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242064194848",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 341,
+  "name": "Le Kactus",
+  "address": "Av. Denis NGOMA, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055573826",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 342,
+  "name": "N'ICE CREAM",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 343,
+  "name": "BURGUNDY",
+  "address": "Galerie Indigo Market, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242067823130",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 344,
+  "name": "UMA by Elaïs",
+  "address": "242, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242069000488",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 345,
+  "name": "Le Derrick",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055347058",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 346,
+  "name": "Le Trou Normand",
+  "address": "Av. Schoelcher, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242040448075",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 347,
+  "name": "Si Bon Cafe",
+  "address": "Av. Dr Denis Loemba, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066789311",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 348,
+  "name": "Restaurant le Cercle",
+  "address": "2344, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242050055005",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 349,
+  "name": "The place 2 be",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242053060808",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 350,
+  "name": "La Perla",
+  "address": "Av. Moe Prat, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 351,
+  "name": "Chez Mathilde",
+  "address": "Rdpt du 31 juillet, Av. Jacques Opangault, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055157272",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 352,
+  "name": "Restaurant le Cercle",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 353,
+  "name": "Le Pacha",
+  "address": "Bd du Général Charles de Gaulle, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 354,
+  "name": "Jaipur Snacks Bar",
+  "address": "Av. Amilcar Cabral, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 355,
+  "name": "LA TABERNA DE CARINA",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 356,
+  "name": "Caicos Restaurant Congo",
+  "address": "Bd Dr Jacques Bouiti, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242053963603",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 357,
+  "name": "IL PEPE NERO, RESIDENCE LA VILLA",
+  "address": "Av. Ngueli Ngueli, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242056986666",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 358,
+  "name": "Restaurant Bar Valentina",
+  "address": "Av. Germain Bicoumat, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055420966",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 359,
+  "name": "Brooklyn Bistrot",
+  "address": "Av. Fayette Tchitembo, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242057474704",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 360,
+  "name": "l'amorita pasta bar",
+  "address": "Rue Dimbatala, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 361,
+  "name": "Le Comptoir",
+  "address": "Av. Mangoungou, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 362,
+  "name": "NAZO'S",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066626420",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 363,
+  "name": "Kwetu",
+  "address": "Av. de la Révolution, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242067754942",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 364,
+  "name": "Auberge Restaurant",
+  "address": "Av. Jacques Opangault, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242064194848",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 365,
+  "name": "Bar Restaurant Alicia",
+  "address": "242, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066710994",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 366,
+  "name": "Villa Antonetti",
+  "address": "Av. Alphonse Demosso, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068603686",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 367,
+  "name": "Oregano pâtissière",
+  "address": "Av. Denis NGOMA, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055292204",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 368,
+  "name": "Central Bar",
+  "address": "Mpita, Pointe, Noire, Congo - Brazzaville",
+  "phone": "+242066280138",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 369,
+  "name": "Restaurant TMS",
+  "address": "Rue Limbou, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055811000",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 370,
+  "name": "Pizzeria Fez",
+  "address": "Unnamed Road, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242044291065",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 371,
+  "name": "Restaurant GOD'S FAVOUR",
+  "address": "Av. Massafi, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242057135908",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 372,
+  "name": "Sous Les Manguiers",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 373,
+  "name": "Le tribord",
+  "address": "Mutech Réseaux, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242056438413",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 374,
+  "name": "CHANTY PLUS",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066424523",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 375,
+  "name": "RESTAURANT MAKSI",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242053666868",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 376,
+  "name": "Snack Nour",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242053747429",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 377,
+  "name": "Royal Spice",
+  "address": "Av. de l'Eméraude, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068637474",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 378,
+  "name": "Restaurant Chez Michel",
+  "address": "Rdpt de la Gendarmerie, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242065758622",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 379,
+  "name": "Les délices de Tasha_Yummy",
+  "address": "Bd du 13 août 1963, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242069248909",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 380,
+  "name": "Restaurant Le Patio",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 381,
+  "name": "Restaurant-bar Allyada",
+  "address": "Avenue Charles François, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242065471248",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 382,
+  "name": "Wali kitchen",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242065080829",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 383,
+  "name": "Armine QUEEN",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 384,
+  "name": "Degracie's Place: Resto/Bar/Grill",
+  "address": "25 Av. Emmanuel Dadet, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242065383869",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 385,
+  "name": "O'BARBEC",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 386,
+  "name": "Mama Kebab",
+  "address": "Croisement Rue Belolo, Bd Dr Jacques Bouiti, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 387,
+  "name": "le jorker",
+  "address": "Mutech Réseaux, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242069589042",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 388,
+  "name": "Oncle Joe",
+  "address": "Av. Emmanuel Dadet, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242064093111",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 389,
+  "name": "Restaurant Yabeto",
+  "address": "Derrière l'hôtel, Av. Jean Marie CONCKO, Elaïs, Congo - Brazzaville",
+  "phone": "+242057600000",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 390,
+  "name": "Bar Et RESTAURNT LA PETANQUE",
+  "address": "co b m, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068065969",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 391,
+  "name": "Yes Club",
+  "address": "Bd de Loango, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 392,
+  "name": "La sentinelle",
+  "address": "Av. Mâ Loango Moé Poaty, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242053017992",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 393,
+  "name": "Mokaby Garden Lounge",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242069980006",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 394,
+  "name": "Cafette Lindsay",
+  "address": "Rue Tchivala, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 395,
+  "name": "Joker Restaurant-Bar",
+  "address": "Av. Moé Vangoula, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055606690",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 396,
+  "name": "Restaurant Et Pizzeria",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068120082",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 397,
+  "name": "L'ETAGE RESTAURANT",
+  "address": "Av. Benoît Loembet, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055537078",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 398,
+  "name": "Class' Kus",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066923877",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 399,
+  "name": "Ristorante miramar",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066777555",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 400,
+  "name": "叶公馆",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055208989",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 401,
+  "name": "Majestic",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055128813",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 402,
+  "name": "El Kabowd",
+  "address": "Av. Linguissi Tchicaya, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 403,
+  "name": "Le fouta",
+  "address": "Rue Massabi, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242064142813",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 404,
+  "name": "Le Shangaï",
+  "address": "Av. Jacques Opangault, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242050428842",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 405,
+  "name": "Le Carré Chicha",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242057120000",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 406,
+  "name": "Restaurant lounge bar chez maman théthé",
+  "address": "Av. de l'Eméraude, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242069826265",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 407,
+  "name": "Chez Eugène",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242040195904",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 408,
+  "name": "La Voile Blanche",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055354409",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 409,
+  "name": "Berdine's Moka",
+  "address": "17 Av. Denis NGOMA, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066074088",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 410,
+  "name": "Télé Pointe-Noire",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242064435609",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 411,
+  "name": "L'acacia",
+  "address": "Rdpt du 31 juillet, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242056277272",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 412,
+  "name": "restaurant du centre d'identification",
+  "address": "Avenue Barthélémy Boganda, Pointe, Noire, Congo - Brazzaville",
+  "phone": "+242066982011",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 413,
+  "name": "Le Cappuccino",
+  "address": "35 Av. Fayette Tchitembo, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242050738505",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 414,
+  "name": "KWIZA BEACH PNR",
+  "address": "Pointe, Noire, Congo - Brazzaville",
+  "phone": "+242050151449",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 415,
+  "name": "Jaipur Sea Lounge Restaurant",
+  "address": "Av. Ngueli Ngueli, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068324264",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 416,
+  "name": "Carnivore Pizza Pasta And More",
+  "address": "Avenue Docteur Jacques Bouity, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242044947140",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 417,
+  "name": "Métropole Resto-Bar",
+  "address": "Avenue de l'Eméraude, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242050306467",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 418,
+  "name": "Restaurant Tchikobo",
+  "address": "Unnamed Road, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055817080",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 419,
+  "name": "Akiera Lounge",
+  "address": "Avenue de Loango, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055202784",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 420,
+  "name": "Scandale Food",
+  "address": "Rue de Ndjeno, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066755555",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 421,
+  "name": "BISTROT CHEZ ALICIA",
+  "address": "143 Av. Moé Vangoula, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242064077030",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 422,
+  "name": "Camysia Kongo",
+  "address": "Rond Point Mpita, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242065587671",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 423,
+  "name": "VICTOIRE FAMILY",
+  "address": "Boulevard du Général Charles de Gaulle, Pointe, Noire, Congo - Brazzaville",
+  "phone": "+242055115613",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 424,
+  "name": "Restaurant La Grande Muraille",
+  "address": "Avenue de Loango, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055202784",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 425,
+  "name": "Kebab Cafe",
+  "address": "centrale PNR, Avenue Charles de Gaulle, en face de la mairie, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242065771008",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 426,
+  "name": "Marie Diallo",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242064314545",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 427,
+  "name": "kiosque canal et Aesy",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068058638",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 428,
+  "name": "HMBusiness center",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242050552389",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 429,
+  "name": "Galerie Indigo Market",
+  "address": "Av. de l'aéroport, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242065881006",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 430,
+  "name": "Nkounkou vigor",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 431,
+  "name": "TEAMWORK SERVICES",
+  "address": "N5, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242065738529",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 432,
+  "name": "Park ''N'' Shop 2",
+  "address": "Avenue in front of Ex CCF, Mirror Tower in City Center, Av. Moé Kaat Matou, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242069172310",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 433,
+  "name": "Zack'm shop",
+  "address": "Lycée Technique commercial OCH, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242069100404",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 434,
+  "name": "Galerie de téléphone",
+  "address": "Grand marcher, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068710974",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 435,
+  "name": "Galerie Indigo Market",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 436,
+  "name": "CELIO",
+  "address": "Rue du Warf, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 437,
+  "name": "City Sport",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055118484",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 438,
+  "name": "ETS PLAZA AUTO",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242044449812",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 439,
+  "name": "Casino Supermarché",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066690378",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 440,
+  "name": "LG Store and Service Center",
+  "address": "146 Av. Ngueli Ngueli, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 441,
+  "name": "Bosch Service Center",
+  "address": "Rond Point Mpita, Av. Marien NGOUABI, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242052021582",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 442,
+  "name": "Optique centrale",
+  "address": "1212 Av. Charles de Gaulle, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066700700",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 443,
+  "name": "Planete Chaussure",
+  "address": "Av. de l'Eméraude, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068830505",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 444,
+  "name": "Consortium culturel waampini",
+  "address": "Rue Kondi, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+250788305552",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 445,
+  "name": "Neptween Congo",
+  "address": "Immeuble Masseke En Face de L'ecole Loukabou, Satguru Travels \u0026 Tours Service, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 446,
+  "name": "Port Autonome de Pointe-Noire",
+  "address": "13 rue Beatrice Tchiloumbou, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242064670012",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 447,
+  "name": "Zoko Village",
+  "address": "47 Av. Dr Denis Loemba, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242053200000",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 448,
+  "name": "Carnivore Pizza Pasta And More",
+  "address": "201 Avenue Dr Jacques Bouity, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242057133333",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 449,
+  "name": "Pointe-Noire",
+  "address": "Av. Massafi, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066602600",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 450,
+  "name": "De-Network",
+  "address": "Proche du Consulat d'Italie CentreVille, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055537274",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 451,
+  "name": "SAMES AFRICA",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 452,
+  "name": "Hôtel Saint Jacques - Centre Ville",
+  "address": "scab congo, situe en face de la nouvelle direction de, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242053270707",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 453,
+  "name": "The Uncle Mez",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 454,
+  "name": "Maison Sans Frontières",
+  "address": "5650, Pointe - Noire, Congo - Brazzaville",
+  "phone": "+242067040515",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 455,
+  "name": "DoubleTree By Hilton Pointe-Noire",
+  "address": "Av. Fayette Tchitembo, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242057474704",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 456,
+  "name": "Le Derrick",
+  "address": "N1, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242064973319",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 457,
+  "name": "Hotel Palm Beach Congo - Pointe noire",
+  "address": "Ngoyo, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055090519",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 458,
+  "name": "Residence le Lys",
+  "address": "pointe Noire Mongo MPoukou, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068932073",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 459,
+  "name": "L'Orchidée Hotel",
+  "address": "Av. Amilcar Cabral, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242050825309",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 460,
+  "name": "Atlantic Palace Hotel",
+  "address": "Avenue Charles de Gaulle, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055189728",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 461,
+  "name": "Ead Pnr",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 462,
+  "name": "Hotel Logis Manthey",
+  "address": "+242, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242050431818",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 463,
+  "name": "Résidence Saint Jacques",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242050055005",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 464,
+  "name": "Elaïs Hôtel",
+  "address": "Bd du Général Charles de Gaulle, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 465,
+  "name": "Gaspard",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068482348",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 466,
+  "name": "Montessori School \"Home Des Enfants\" Pointe-Noire",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 467,
+  "name": "Dépôt Ciment Cimaf",
+  "address": "1234 Rdpt Lumumba, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242069731716",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 468,
+  "name": "Marché de la Frontière",
+  "address": "72 Avenue Charles de Gaulle BP1480, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242056818102",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 469,
+  "name": "La Pyramide",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066538047",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 470,
+  "name": "Ponton Plage",
+  "address": "Bd du Général Charles de Gaulle, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055645025",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 471,
+  "name": "La Citronnelle",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 472,
+  "name": "Le Kactus",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242050799227",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 473,
+  "name": "Pointe-Noire",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055002000",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 474,
+  "name": "Villa Madiba",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242057750199",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 475,
+  "name": "Akwaba Tours And Travel",
+  "address": "Avenue Docteur Jacques Bouity, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055338959",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 476,
+  "name": "DoubleTree By Hilton Pointe-Noire",
+  "address": "Ponton, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 477,
+  "name": "Atlantic Palace Hotel",
+  "address": "Mobile, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 478,
+  "name": "Habitation Sous Le Vent",
+  "address": "Av. de l'aéroport, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 479,
+  "name": "Le sanctuaire de Notre Dame des Larmes",
+  "address": "Bd du 13 août 1963, Noire, Congo - Brazzaville",
+  "phone": "+242066713629",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 480,
+  "name": "Mukiwa Beach Club",
+  "address": "Av. Linguissi Tchicaya, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068142308",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 481,
+  "name": "Mukiwa Beach Club",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242050750505",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 482,
+  "name": "Le sanctuaire de Notre Dame des Larmes",
+  "address": "Rue du Warf, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 483,
+  "name": "Pointe-Noire Interpretation and Observation Centre",
+  "address": "Avenue Dr Jacques Bouity, Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 484,
+  "name": "Pointe-Noire",
+  "address": "scab congo, situe en face de la nouvelle direction de, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242053270707",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 485,
+  "name": "Restaurant Chez Denise le piano bar",
+  "address": "Av. de l'Eméraude, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242068830505",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 486,
+  "name": "L'Orchidée Hotel",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055118484",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 487,
+  "name": "Pierre Savorgnan de Brazza Memorial",
+  "address": "Djeno, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055575151",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 488,
+  "name": "Zongo Falls",
+  "address": "Av. Massafi, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242064010504",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 489,
+  "name": "Odzala-Kokoua National Park",
+  "address": "Avenue Docteur Jacques Bouity, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242044947140",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 490,
+  "name": "Pointe",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 491,
+  "name": "Jaipur Restaurant",
+  "address": "39 Rue MBENA Situé entre TRACTAFRIC et la banque BEAC, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066672222",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 492,
+  "name": "Twiga Hotel",
+  "address": "Djeno, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055812294",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 493,
+  "name": "Pointe noire",
+  "address": "Djeno, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055812294",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 494,
+  "name": "Zoo de Guadeloupe au Parc des Mamelles",
+  "address": "Av. Massafi, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066602600",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 495,
+  "name": "Pointe Noire Lighthouse",
+  "address": "1212 Av. Charles de Gaulle, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242066700700",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 496,
+  "name": "Canadian Museum of History",
+  "address": "Av. Denis NGOMA, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055573826",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 497,
+  "name": "Pélican Safari",
+  "address": "47 Av. Dr Denis Loemba, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242053200000",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 498,
+  "name": "Pointe-Noire",
+  "address": "201 Avenue Dr Jacques Bouity, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242057133333",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 499,
+  "name": "KM Hotel",
+  "address": "Avant l'Hôpital Général, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 500,
+  "name": "Grand Hôtel de Dolisie",
+  "address": "Derriere le Lycée Général, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 501,
+  "name": "La Dolisienne",
+  "address": "N 6 Rue Mbinda, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 502,
+  "name": "Milka Nahor Hotel",
+  "address": "Avant la préfecture, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 503,
+  "name": "Hotel Les Lacs des Amours",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 504,
+  "name": "Hotel Gabriella 2",
+  "address": "43 Rue Fort Lamy, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 505,
+  "name": "Hotel Gabriella 1",
+  "address": "Blanche Gomes N1, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 506,
+  "name": "Hotel La Renaissance",
+  "address": "Avenue Felix Eboué, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 507,
+  "name": "Hotel Le Mabidi",
+  "address": "65 Av. Félix Eboué, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 508,
+  "name": "Le Chaillu",
+  "address": "1 Avenue Félix Eboue, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 509,
+  "name": "Hotel le Capidol",
+  "address": "Av. de la République, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 510,
+  "name": "Hotel le Safari",
+  "address": "Derriere la Morgue Municipal, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 511,
+  "name": "Hotel Yannis",
+  "address": "Dolisie en Face Gare Routière, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 512,
+  "name": "Villa Pola",
+  "address": "13 Rue Patrice Lumumba, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 513,
+  "name": "Mess Gaps Dolisie",
+  "address": "11111, Dolisie, Congo - Brazzaville",
+  "phone": "+242044229890",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 514,
+  "name": "Chez Maman Do",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 515,
+  "name": "Pinaret Hotel Dolisie",
+  "address": "Unnamed Road, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 516,
+  "name": "BAMBOU BAR RESTAURANT",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 517,
+  "name": "Mirabelle",
+  "address": "Rue Alfassa, Dolisie, Congo - Brazzaville",
+  "phone": "+242069491440",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 518,
+  "name": "La réussite",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 519,
+  "name": "Marché",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 520,
+  "name": "Boutique",
+  "address": "Unnamed Road, Dolisie, Congo - Brazzaville",
+  "phone": "+242055880918",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 521,
+  "name": "RESTAURANT PAUL MBOUNGOU",
+  "address": "Av. Félix Eboué, Dolisie, Congo - Brazzaville",
+  "phone": "+242040702424",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 522,
+  "name": "restaurant chez la veuve nzahoult",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 523,
+  "name": "A la congolaise pâtisserie",
+  "address": "Unnamed Road, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 524,
+  "name": "PK150",
+  "address": "79 Rue Bacongo, Quartier, Dolisie, Congo - Brazzaville",
+  "phone": "+242068018244",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 525,
+  "name": "Badame Resort \u0026 Business Park",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 526,
+  "name": "La Croissanterie",
+  "address": "Félix Eboué Ave, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 527,
+  "name": "Serenity Bar",
+  "address": "rond point tsila, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 528,
+  "name": "La Dolisienne",
+  "address": "Av. Stéphane Tchitchelle, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242056984141",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 529,
+  "name": "Le relais de dolisie - Chez Wou",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 530,
+  "name": "MPORI-HOTEL",
+  "address": "Av. Denis NGOMA, Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055573826",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 531,
+  "name": "Hôtel Nonine",
+  "address": "Avenue Felix Eboué, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 532,
+  "name": "KM Hotel",
+  "address": "Rond-point Tsila niari, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 533,
+  "name": "KM Hotel",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242064314545",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 534,
+  "name": "Hôtel Nonine",
+  "address": "Av. de la République, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 535,
+  "name": "KM Hotel",
+  "address": "43 Rue Fort Lamy, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 536,
+  "name": "hotel le Chaillu",
+  "address": "Unnamed Road, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 537,
+  "name": "Villa Pola",
+  "address": "Unnamed Road, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 538,
+  "name": "Dolisie",
+  "address": "Avant l'Hôpital Général, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 539,
+  "name": "Villa POLA",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "+242055385743",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 540,
+  "name": "Grand Marché",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "+242066341515",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 541,
+  "name": "Hotel Le Mabidi",
+  "address": "09 Rue Bangui, quartier, Dolisie, Congo - Brazzaville",
+  "phone": "+242064202087",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 542,
+  "name": "Si Bon Cafe",
+  "address": "Derriere le Lycée Général, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 543,
+  "name": "Glorette Hôtel",
+  "address": "09 Rue Bangui, quartier, Dolisie, Congo - Brazzaville",
+  "phone": "+242064202087",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 544,
+  "name": "Milka Nahor Hotel",
+  "address": "Avant l'Hôpital Général, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 545,
+  "name": "L'Arbalète",
+  "address": "Av. de la République, Dolisie, Congo - Brazzaville",
+  "phone": "+242044293811",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 546,
+  "name": "GLORETTE hotel",
+  "address": "65 Av. Félix Eboué, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 547,
+  "name": "La Perla",
+  "address": "Mont Fleury, Dolisie, Congo - Brazzaville",
+  "phone": "+242044956515",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 548,
+  "name": "ZOE TABERNACLE, Dolisie, 79 Rue Bacongo, Quartier Bacongo",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 549,
+  "name": "Espace ndolo",
+  "address": "RN 1, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 550,
+  "name": "Hôtel du cercle",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 551,
+  "name": "Buffet de la Gare",
+  "address": "N1, Dolisie, Congo - Brazzaville",
+  "phone": "+242052021593",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 552,
+  "name": "Restaurant Christ \u0026 Dina",
+  "address": "Route nationale N° 01, Dolisie, Congo - Brazzaville",
+  "phone": "+242067121515",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 553,
+  "name": "Cimetière du Centre Ville de Dolisie",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 554,
+  "name": "Le Premier Shopping Mall",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+242060005522",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 555,
+  "name": "Brazzaville Mall",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "+917568196350",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 556,
+  "name": "Dolisie",
+  "address": "Brazzaville, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 557,
+  "name": "Park'n Shop",
+  "address": "face Pharmacie JAGGER, Brazzaville, Congo - Brazzaville",
+  "phone": "+242055694787",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 558,
+  "name": "Mallplaza Los Dominicos",
+  "address": "Rue Alfassa, Dolisie, Congo - Brazzaville",
+  "phone": "+242069491440",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 559,
+  "name": "Dolisie",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 560,
+  "name": "Cimetière du Centre Ville de Dolisie",
+  "address": "09 Rue Bangui, quartier, Dolisie, Congo - Brazzaville",
+  "phone": "+242064202087",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 561,
+  "name": "Poto-Poto",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242050799227",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 562,
+  "name": "Hotel de Nkayi",
+  "address": "Nkayi, Congo - Brazzaville",
+  "phone": "+242068909540",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 563,
+  "name": "Residence Foula Hotel",
+  "address": "Nkayi, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 564,
+  "name": "Hôtel Résidence Gloria",
+  "address": "Nkayi, Congo - Brazzaville",
+  "phone": "+242068555619",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 565,
+  "name": "Complexe Amélia",
+  "address": "Nkayi, Congo - Brazzaville",
+  "phone": "+242055536453",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 566,
+  "name": "Nando's Jason Moyo",
+  "address": "Nkayi, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 567,
+  "name": "Slippurinn",
+  "address": "242064435370 restaurantleravi@gmail.com, Nkayi, Congo - Brazzaville",
+  "phone": "242064435370",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 568,
+  "name": "Stavros",
+  "address": "Avenue 31 Juillet, Nkayi, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 569,
+  "name": "Jaguar Land Rover Experience",
+  "address": "Nkayi, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 570,
+  "name": "Il Paradiso",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242055118484",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 571,
+  "name": "Bellagio Hills Hotel and Restaurant",
+  "address": "Unnamed Road, Nkayi, Congo - Brazzaville",
+  "phone": "+242044002905",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 572,
+  "name": "Ah Meng Restaurant",
+  "address": "Unnamed Road, Sibiti, Congo - Brazzaville",
+  "phone": "+242066643985",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 573,
+  "name": "Beckham's B \u0026 M Bar B Que- North Randall",
+  "address": "Nkayi, Congo - Brazzaville",
+  "phone": "+242068012996",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 574,
+  "name": "Grand Hôtel de Dolisie",
+  "address": "1 Avenue Félix Eboue, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 575,
+  "name": "KM Hotel",
+  "address": "N 6 Rue Mbinda, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 576,
+  "name": "La Dolisienne",
+  "address": "Dolisie en Face Gare Routière, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 577,
+  "name": "Hotel Les Lacs des Amours",
+  "address": "43 Rue Fort Lamy, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 578,
+  "name": "Milka Nahor Hotel",
+  "address": "Avenue Felix Eboué, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 579,
+  "name": "Hotel Gabriella 2",
+  "address": "Avant l'Hôpital Général, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 580,
+  "name": "Hotel Gabriella 1",
+  "address": "Avant la préfecture, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 581,
+  "name": "Hotel La Renaissance",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 582,
+  "name": "Hotel Le Mabidi",
+  "address": "Blanche Gomes N1, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 583,
+  "name": "Hotel le Safari",
+  "address": "65 Av. Félix Eboué, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 584,
+  "name": "Le Chaillu",
+  "address": "Derriere la Morgue Municipal, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 585,
+  "name": "Hotel le Capidol",
+  "address": "Av. de la République, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 586,
+  "name": "Hotel Yannis",
+  "address": "13 Rue Patrice Lumumba, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 587,
+  "name": "Villa Pola",
+  "address": "Derriere le Lycée Général, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 588,
+  "name": "BAMBOU BAR RESTAURANT",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 589,
+  "name": "Chez Maman Do",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 590,
+  "name": "RESTAURANT PAUL MBOUNGOU",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 591,
+  "name": "restaurant chez la veuve nzahoult",
+  "address": "Unnamed Road, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 592,
+  "name": "La réussite",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 593,
+  "name": "Marché",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 594,
+  "name": "Boutique",
+  "address": "Rue Alfassa, Dolisie, Congo - Brazzaville",
+  "phone": "+242069491440",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 595,
+  "name": "Mess Gaps Dolisie",
+  "address": "Av. Félix Eboué, Dolisie, Congo - Brazzaville",
+  "phone": "+242040702424",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 596,
+  "name": "Mirabelle",
+  "address": "Unnamed Road, Dolisie, Congo - Brazzaville",
+  "phone": "+242055880918",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 597,
+  "name": "Pinaret Hotel Dolisie",
+  "address": "11111, Dolisie, Congo - Brazzaville",
+  "phone": "+242044229890",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 598,
+  "name": "A la congolaise pâtisserie",
+  "address": "Unnamed Road, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 599,
+  "name": "PK150",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 600,
+  "name": "Badame Resort \u0026 Business Park",
+  "address": "Félix Eboué Ave, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 601,
+  "name": "Serenity Bar",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 602,
+  "name": "Loubomo",
+  "address": "79 Rue Bacongo, Quartier, Dolisie, Congo - Brazzaville",
+  "phone": "+242068018244",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 603,
+  "name": "ZOE TABERNACLE, Dolisie, 79 Rue Bacongo, Quartier Bacongo",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 604,
+  "name": "Ancien Diangala",
+  "address": "Avant l'Hôpital Général, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 605,
+  "name": "Loubomo",
+  "address": "Avant l'Hôpital Général, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 606,
+  "name": "Pho Lang Thang",
+  "address": "09 Rue Bangui, quartier, Dolisie, Congo - Brazzaville",
+  "phone": "+242064202087",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 607,
+  "name": "Flour Drum",
+  "address": "65 Av. Félix Eboué, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 608,
+  "name": "Cookie's Lounge Bar North Strathfield",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 609,
+  "name": "Regal Airport Hotel Hong Kong",
+  "address": "N1, Dolisie, Congo - Brazzaville",
+  "phone": "+242052021593",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 610,
+  "name": "Pik a Pie Bakery",
+  "address": "Av. de la République, Dolisie, Congo - Brazzaville",
+  "phone": "+242044293811",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 611,
+  "name": "Espace ndolo",
+  "address": "Mont Fleury, Dolisie, Congo - Brazzaville",
+  "phone": "+242044956515",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 612,
+  "name": "Hôtel du cercle",
+  "address": "RN 1, Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 613,
+  "name": "Buffet de la Gare",
+  "address": "Route nationale N° 01, Dolisie, Congo - Brazzaville",
+  "phone": "+242067121515",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 614,
+  "name": "Restaurant Christ \u0026 Dina",
+  "address": "Dolisie, Congo - Brazzaville",
+  "phone": "",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ },
+ {
+  "id": 615,
+  "name": "Dolisie",
+  "address": "Pointe-Noire, Congo - Brazzaville",
+  "phone": "+242050799227",
+  "country-code": "CG",
+  "country": "Congo Brazzaville"
+ }
+]

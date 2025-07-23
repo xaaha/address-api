@@ -1,0 +1,3338 @@
+[
+ {
+  "id": 1,
+  "name": "Hilton Garden Inn Mbabane",
+  "address": "M4VP+RMF, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 2,
+  "name": "Mountain View Hotel",
+  "address": "Princess Drive, Mbabane H100, Eswatini",
+  "phone": "+26824042781",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 3,
+  "name": "Mountain inn",
+  "address": "Lusekwane street, Mountain Drive, Mbabane H100, Eswatini",
+  "phone": "+26876036396",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 4,
+  "name": "Silverstone Lodge",
+  "address": "Mhlambanyatsi Rd, Mbabane H100, Eswatini",
+  "phone": "+26824092200",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 5,
+  "name": "The Place Guest House",
+  "address": "M4QR+FHR, Mantsholo St, Mbabane H100, Eswatini",
+  "phone": "+26879445529",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 6,
+  "name": "Mac Atini Guest House",
+  "address": "P42Q+5C3, Mthombo Cres, Mbabane, Eswatini",
+  "phone": "+26824044815",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 7,
+  "name": "Mountain Beauty",
+  "address": "Pine Valley Rd, Mbabane, Eswatini",
+  "phone": "+26876887028",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 8,
+  "name": "Veki's Village",
+  "address": "M49P+X96, Mkhonubovu Street, Mbabane, Eswatini",
+  "phone": "+26824041411",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 9,
+  "name": "Rehoboth Mountain Suites",
+  "address": "H100, Mountain Drive), off, Plot 1006 Lusekwane street, Fonteyn Rd, Mbabane, Eswatini",
+  "phone": "+26876047540",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 10,
+  "name": "City Court Guest House",
+  "address": "M45X+QG6, lilanga street Road, Mbabane, Mbabane, Eswatini",
+  "phone": "+26876839053",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 11,
+  "name": "Otentik Guesthouse",
+  "address": "26HW+9CV, Ndeliwe street Fourth, Piggs Peak, Eswatini",
+  "phone": "+26824371144",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 12,
+  "name": "The Haven Eswatini Guest House",
+  "address": "G92C+R9X, MR3, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 13,
+  "name": "Emafini Country Lodge",
+  "address": "J685+CM5, Buka community Ezulwini, Ezulwini M100, Eswatini",
+  "phone": "+26876459353",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 14,
+  "name": "Eden - Guest House",
+  "address": "J528+2M3, Lobamba, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 15,
+  "name": "Ekasi Apartments",
+  "address": "G884+MW8, Opposite University of Swaziland, Kwaluseni, Eswatini",
+  "phone": "+26825187763",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 16,
+  "name": "Mantenga Lodge",
+  "address": "Corner Du Toit and, Kelly St, Manzini M200, Eswatini",
+  "phone": "+26825055382",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 17,
+  "name": "Run 'n Fire Swaziland",
+  "address": "F9RC+PGG, Manzini, Eswatini",
+  "phone": "+26835407555",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 18,
+  "name": "Thula Du Estate",
+  "address": "Mantenga Drive, Lobamba, Eswatini",
+  "phone": "+26876275896",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 19,
+  "name": "Mdzimba Mountain Lodge",
+  "address": "13 Majaha Close Goje, Ezulwini H106, Eswatini",
+  "phone": "+26876020079",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 20,
+  "name": "The Haven Eswatini Guest House",
+  "address": "V45P+V7G, Nkhaba, Eswatini",
+  "phone": "+26876606755",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 21,
+  "name": "Happy Valley Hotel \u0026 Casino",
+  "address": "V678+C4F, Unnamed Road,, Nkhaba, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 22,
+  "name": "Lidwala Lodge",
+  "address": "J528+2M3, EMvutjini, Somnjalose, Eswatini",
+  "phone": "+26876651039",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 23,
+  "name": "Moli Boutique Hotel",
+  "address": "P5F4+Q4X, Mbabane, Eswatini",
+  "phone": "+26876572812",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 24,
+  "name": "Foresters Arms",
+  "address": "H5CH+WWF, Lobamba, Eswatini",
+  "phone": "+26878511345",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 25,
+  "name": "Malandela's Guest House",
+  "address": "6G5P+CVM, Village Road- Kaphunga Swaziland Kaphunga, Swazi Home Lodge, Manzini M200, Eswatini",
+  "phone": "+26876426780",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 26,
+  "name": "Damicha Guest Lodge",
+  "address": "J58F+87F, Lobamba, Eswatini",
+  "phone": "+26878113890",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 27,
+  "name": "Gallery Hotel Eswatini",
+  "address": "M4JH+GV8, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 28,
+  "name": "Sondzela Backpackers",
+  "address": "173 Tsekwane St, Mbabane, Eswatini",
+  "phone": "+26824046072",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 29,
+  "name": "BK Lodge",
+  "address": "G5HJ+C28, Manzini, Eswatini",
+  "phone": "+26825283943",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 30,
+  "name": "Royal Swazi Spa",
+  "address": "Timbatine Farm Road Mbabane, H201, Eswatini",
+  "phone": "+26824441744",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 31,
+  "name": "The Royal Villas",
+  "address": "H5HP+JRF, Lobamba, Eswatini",
+  "phone": "+26876022110",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 32,
+  "name": "BK Lodge and Conference",
+  "address": "J53C+8WR, Lobamba, Eswatini",
+  "phone": "+26824162632",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 33,
+  "name": "Kapola Boutique Hotel",
+  "address": "M592+XV4, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 34,
+  "name": "Ematjeni Luxury Guesthouse - Eswatini",
+  "address": "H5R9+WQ, Lobamba, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 35,
+  "name": "Mvubu Falls Lodge",
+  "address": "J55C+724, MR103, Lobamba, Eswatini",
+  "phone": "+27814201793",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 36,
+  "name": "Lugogo Sun",
+  "address": "Red Berry Guest House, Mseni Dr, Mbabane, Eswatini",
+  "phone": "+26876023160",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 37,
+  "name": "Lugogo sun",
+  "address": "P44G+PHC, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 38,
+  "name": "Coats Valley Lodge",
+  "address": "167, Lukhalo St, Mbabane, Eswatini",
+  "phone": "+26876080820",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 39,
+  "name": "Mantenga Hill View Boutique",
+  "address": "Eswatini, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 40,
+  "name": "Liz' Cottage",
+  "address": "H100, Portion 57(a portion of portion 50) Nkoyoyo Hhohho District Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 41,
+  "name": "Opulence Lodge",
+  "address": "H5RF+6MW, Lobamba, Eswatini",
+  "phone": "+27117807810",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 42,
+  "name": "Sibane Sami Hotel",
+  "address": "J5H3+JC6, Lobamba, Eswatini",
+  "phone": "+26876276757",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 43,
+  "name": "The Royal Swazi Sun Hotel",
+  "address": "PO B ox5 11, Ezulwini H106, Eswatini",
+  "phone": "+26824162042",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 44,
+  "name": "Rhino Rest Camp",
+  "address": "Malagwane Hill (next to mR3), Mbabane H100, Eswatini",
+  "phone": "+26879445529",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 45,
+  "name": "Timbali Lodge",
+  "address": "P3PW+5RF, Nkoyoyo, Mbabane H100, Eswatini",
+  "phone": "+26824212750",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 46,
+  "name": "Shield Guest House",
+  "address": "Mlilwane Wildlife Sanctuary, Malkerns, Manzini, Lobamba M204, Eswatini",
+  "phone": "+26825283943",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 47,
+  "name": "PANDA GUEST HOUSE",
+  "address": "18 Mantenga Drive, Lobamba, Eswatini",
+  "phone": "+26876289198",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 48,
+  "name": "Swazi Home Lodge",
+  "address": "30 Goje Township, Mdzenga Cl, Lobamba, Eswatini",
+  "phone": "+26824163381",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 49,
+  "name": "eMfuleni Lifestyle",
+  "address": "Kholwane Road Dalriach, Eveni, Mbabane, Eswatini",
+  "phone": "+26876047069",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 50,
+  "name": "African Violet",
+  "address": "MR103, Lobamba Road, Ezulwini, Opposite Woodlands Mbabane L317, Eswatini",
+  "phone": "+26824171791",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 51,
+  "name": "eMfuleni Lifestyle",
+  "address": "J697+H5W, Lobamba, Eswatini",
+  "phone": "+26876206925",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 52,
+  "name": "Lawu Le Ngwenya Guest House",
+  "address": "MR19, Mhlambanyatsi H115, Eswatini",
+  "phone": "+26824674177",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 53,
+  "name": "Malolotja Nature Reserve Log Cabins",
+  "address": "H55Q+RGF, Lobamba, Eswatini",
+  "phone": "+26824161061",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 54,
+  "name": "The Executive - Exclusive Self-Catering Apartments - Ezulwini",
+  "address": "J697+H5W, Lobamba, Eswatini",
+  "phone": "+26876206925",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 55,
+  "name": "Ezulwini Guest House",
+  "address": "MR 3 Highway, Offramp 7 1, Mbabane H100, Eswatini",
+  "phone": "+26876034803",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 56,
+  "name": "Diplomat Lodge",
+  "address": "5 Tivakashi St, Ezulwini H106, Eswatini",
+  "phone": "+26824161049",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 57,
+  "name": "Manzini Lodge",
+  "address": "J5Q5+22, 0 MR3, Malagwane, Mbabane, Eswatini",
+  "phone": "+26876180000",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 58,
+  "name": "Madala Lodge",
+  "address": "M4GJ+MX3, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 59,
+  "name": "Rest Camp Lodge",
+  "address": "Plot 2003, Ngwane Road Extension 16, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 60,
+  "name": "The Exclusive Joint Guest House",
+  "address": "Malagwane Hill Mbabane SZ H100, Mbabane, Eswatini",
+  "phone": "+26824041284",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 61,
+  "name": "Highlands Inn Hotel",
+  "address": "Mkhonubovu Street, Checkers, Mbabane, Mbabane, Eswatini",
+  "phone": "+26876049851",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 62,
+  "name": "Molly's House of Grills",
+  "address": "M4FV+R8V, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 63,
+  "name": "Ramblas Restaurant Mbabane",
+  "address": "Shop UG08 Corporate Place, Swazi Plaza, Mbabane H100, Eswatini",
+  "phone": "+26824047888",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 64,
+  "name": "Coconuts Restaurant",
+  "address": "M4GJ+9JX The Bridge Retail Centre, Sozisa Road, Mbabane, Eswatini",
+  "phone": "+26824111000",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 65,
+  "name": "Sibebe Rock Spur",
+  "address": "M4JH+XC2, Mbabane, Eswatini",
+  "phone": "+26824111716",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 66,
+  "name": "eDish Bistro",
+  "address": "Somhlolo Road, Mbabane, Eswatini",
+  "phone": "+26824045505",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 67,
+  "name": "268 JAMS",
+  "address": "M4FR+8F6, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 68,
+  "name": "Yoon’s Kitchen",
+  "address": "M4CQ+9JH, Sozisa Road, Mbabane H100, Eswatini",
+  "phone": "+26824041533",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 69,
+  "name": "China Palace Restaurant",
+  "address": "Mantsholo St, Mbabane, Eswatini",
+  "phone": "+26824044147",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 70,
+  "name": "Nando's Mbabane Drive Thru",
+  "address": "P449+RH2, Mbabane, Eswatini",
+  "phone": "+26879020888",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 71,
+  "name": "Curry Express Restaurant",
+  "address": "M4CV+QG4, Mbabane, Eswatini",
+  "phone": "+26824044440",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 72,
+  "name": "Moyamunye Restaurant",
+  "address": "Main Road, P.O. Box 123, Ezulwini, Mbabane, MR103, Lobamba, Eswatini",
+  "phone": "+26824165337",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 73,
+  "name": "Hungry Lion Mbabane",
+  "address": "M43P+GH9, Mbabane, Eswatini",
+  "phone": "+26876047197",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 74,
+  "name": "Tandoori Restaurant",
+  "address": "J36V+9H Siphocosini, Mbabane H100, Eswatini",
+  "phone": "+26876381897",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 75,
+  "name": "Le casserole",
+  "address": "M4FQ+5VJ, Mbabane, Eswatini",
+  "phone": "+26824046480",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 76,
+  "name": "Café 360",
+  "address": "M4FV+J45, Mbabane, Eswatini",
+  "phone": "+26824042911",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 77,
+  "name": "Farm to Table (Mbabane)",
+  "address": "The Mall, Dr Sishayi, Mbabane, Eswatini",
+  "phone": "+26876083737",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 78,
+  "name": "MoonLite",
+  "address": "Eswatini, Lobamba, MR3, SZ Mnyamatsini, Mbabane 0",
+  "phone": "+26876184103",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 79,
+  "name": "Jazz Friends",
+  "address": "Mhlambanyatsi Rd, Mbabane H100, Eswatini",
+  "phone": "+26824092200",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 80,
+  "name": "Cuba Nora Café",
+  "address": "M574+J48, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 81,
+  "name": "Ocean Basket Swazi Plaza",
+  "address": "Plot 1117, Mbabane H100, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 82,
+  "name": "Sundeck Rooftop Restaurant \u0026 Bar",
+  "address": "P593+VM, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 83,
+  "name": "Mega Lounge",
+  "address": "M4GJ+8P6, The Bridge, Sosiza Road, Checkers, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 84,
+  "name": "KFC Mbabane",
+  "address": "Kholwane Rd, Mbabane H100, Eswatini",
+  "phone": "+26876648486",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 85,
+  "name": "Treesti Fried Chicken",
+  "address": "M4GV+23V, Dr Sishayi, Mbabane, Eswatini",
+  "phone": "+26879482902",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 86,
+  "name": "cocina meals",
+  "address": "M4JV+58V, Gwamile Street, Mbabane, Eswatini",
+  "phone": "+26824049942",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 87,
+  "name": "Yandi's",
+  "address": "M4FQ+28M, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 88,
+  "name": "Galitos/pizza inn",
+  "address": "M583+PPM, Mbabane, Eswatini",
+  "phone": "+26824045352",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 89,
+  "name": "London Fish \u0026 Chips",
+  "address": "M4FV+RPX, Mbabane, Eswatini",
+  "phone": "+26878188974",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 90,
+  "name": "Dream Juice Restaurant",
+  "address": "Mona flat 88, Mbabane H100, Eswatini",
+  "phone": "+26879797786",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 91,
+  "name": "Food Den",
+  "address": "M4FR+CVX, Dr Sishayi, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 92,
+  "name": "Oxtail Pot",
+  "address": "M593+G3M, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 93,
+  "name": "Oxtail pot",
+  "address": "Lot 147 Sheffield Road, Mbabane, Eswatini",
+  "phone": "+26878113890",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 94,
+  "name": "華利餐廳 Hua Li Restaurant",
+  "address": "M5P5+83X, Unnamed Road,, Mbabane, Eswatini",
+  "phone": "+26876051375",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 95,
+  "name": "Eswatini vibes",
+  "address": "M487+P9G, MR19, Mbabane, Eswatini",
+  "phone": "+26879725888",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 96,
+  "name": "Jordi's Pies",
+  "address": "The Mall, Mbabane, Eswatini",
+  "phone": "+26824045229",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 97,
+  "name": "Flex Café",
+  "address": "M4CQ+9JH, Sozisa Road, Next to Build-IT, Mbabane, Mbabane, Eswatini",
+  "phone": "+26824066000",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 98,
+  "name": "The Fallow Eatery \u0026 Hangout",
+  "address": "M4CV+HP5, Mbabane, Eswatini",
+  "phone": "+26876449165",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 99,
+  "name": "Authentic Ghanaian Food",
+  "address": "Lot 331 Sheffield Road, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 100,
+  "name": "KFC",
+  "address": "M4FW+X97, Mbabane, Eswatini",
+  "phone": "+26824045986",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 101,
+  "name": "Debonairs / Steers",
+  "address": "M4HV+5F6, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 102,
+  "name": "Humalia motor",
+  "address": "M4GV+JH8, Mbabane, Eswatini",
+  "phone": "+26876157832",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 103,
+  "name": "Futhi's",
+  "address": "M4GV+FMG, Mbabane, Eswatini",
+  "phone": "+26876657451",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 104,
+  "name": "Mychoice fastfood and take away",
+  "address": "M4CR+JJ7, Mbabane, Eswatini",
+  "phone": "+26824042262",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 105,
+  "name": "Pick n Pay Shisanyama",
+  "address": "M4VP+RMF, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 106,
+  "name": "Eveni Butchery \u0026 Car Wash",
+  "address": "M5F3+QF6, Mbabane H100, Eswatini",
+  "phone": "+26878244192",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 107,
+  "name": "The Albert Millin",
+  "address": "four ways building Mbabane, H100, Eswatini",
+  "phone": "+26824049999",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 108,
+  "name": "Eazi Laundromat Mbabane",
+  "address": "M4FR+99P, Dr Sishayi, Mbabane, Eswatini",
+  "phone": "+26824040433",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 109,
+  "name": "Preshy's fruits and veg salads",
+  "address": "M4XC+J39, Engen Sidwashini Bus Stop, MR3, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 110,
+  "name": "The Hive Restaurant",
+  "address": "120 Dzeliwe Street, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 111,
+  "name": "Lounge Investments",
+  "address": "Swazi Plaza, Shop UG 11, Corporate Place, Mbabane, Eswatini",
+  "phone": "+26879476759",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 112,
+  "name": "Nonhlanhla's fish and chips",
+  "address": "M4HV+R7X, Gwamile Street, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 113,
+  "name": "Precious Dee",
+  "address": "M4FR+8R8, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 114,
+  "name": "Sugar Snap Café",
+  "address": "M4CQ+9JH Next to Build-IT, Sozisa Road, Mbabane, Eswatini",
+  "phone": "+26876334964",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 115,
+  "name": "Shamrock Butchery",
+  "address": "M4CR+WVC, Mbabane, Eswatini",
+  "phone": "+26876707421",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 116,
+  "name": "Portuguese Club",
+  "address": "M4HV+9C5, Gwamile Street, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 117,
+  "name": "eDladleni Restaurant",
+  "address": "Shop No. 11, Corporate place, Mbabane, Swaziland, Mbabane, Eswatini",
+  "phone": "+26878025985",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 118,
+  "name": "Hilton Garden Inn Mbabane",
+  "address": "M4FR+Q9X, Dr Sishayi, Mbabane, Eswatini",
+  "phone": "+26834500042",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 119,
+  "name": "Kuanza Views Eateries",
+  "address": "8888 Church St, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 120,
+  "name": "The Taj Sizzler",
+  "address": "Puma Complex, Sozisa Road, Mbabane, Eswatini",
+  "phone": "+26876875483",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 121,
+  "name": "Pink Lotus",
+  "address": "Shoprite Swazi Plaza, Sozisa Road, Mbabane H100, Eswatini",
+  "phone": "+26824043329",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 122,
+  "name": "Mbabane New Mall",
+  "address": "M3QH+QQC, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 123,
+  "name": "SWAZI PLAZA",
+  "address": "M4FR+579, Dr Sishayi, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 124,
+  "name": "Woodlands Shopping Centre",
+  "address": "Total sports, Swazi Plaza, Shop No. A18 opposite, Mbabane, Eswatini",
+  "phone": "+26876888886",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 125,
+  "name": "Corner Plaza",
+  "address": "Woodlands Shopping Center, Mbabane H100, Eswatini",
+  "phone": "+26878629049",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 126,
+  "name": "The Gables Shopping Centre",
+  "address": "H56P+8WP, MR103, Ezulwini, Eswatini",
+  "phone": "+26824171173",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 127,
+  "name": "Pick n Pay Mbabane - The Mall",
+  "address": "Dr Sishayi, Mbabane, Eswatini",
+  "phone": "+26824043869",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 128,
+  "name": "Jet Mbabane Swazi Plaza",
+  "address": "J52G+P5X, Ezulwini, Lobamba, Eswatini",
+  "phone": "+26824161310",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 129,
+  "name": "New Mall",
+  "address": "M4CQ+QFG, Mbabane, Eswatini",
+  "phone": "+26876779738",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 130,
+  "name": "G.E.HOUSE WARES PRODUCT'S .",
+  "address": "Swazi Plaza, Dr Sishayi, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 131,
+  "name": "Fashion world, Swazi plaza",
+  "address": "Shop No-s1. 17,Swazi Plaza, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 132,
+  "name": "Veki's Village",
+  "address": "M4JQ+W2F, Fiddes St, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 133,
+  "name": "The Place Guest House",
+  "address": "103 Mail Road H107, Lobamba, Eswatini",
+  "phone": "+26876905865",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 134,
+  "name": "Sibebe Rock",
+  "address": "R24J+X6J, Ngwenya, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 135,
+  "name": "Mlilwane Wildlife Sanctuary",
+  "address": "9QH3+MPQ, Siphofaneni, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 136,
+  "name": "King Sobhuza II Memorial Park",
+  "address": "P5QF+G24, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 137,
+  "name": "Malolotja National Park",
+  "address": "M4QR+FHR, Mantsholo St, Mbabane H100, Eswatini",
+  "phone": "+26879445529",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 138,
+  "name": "Sheba's Breast Mountain",
+  "address": "H624+F8J, Lobamba, Eswatini",
+  "phone": "+26824161489",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 139,
+  "name": "Mkhaya Game Reserve",
+  "address": "Lusekwane street, Mountain Drive, Mbabane H100, Eswatini",
+  "phone": "+26876036396",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 140,
+  "name": "Mbuluzi Game Reserve",
+  "address": "Timbatine Farm Road Mbabane, H201, Eswatini",
+  "phone": "+26824441744",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 141,
+  "name": "Malolotja Falls",
+  "address": "Somhlolo Road, Mbabane, Eswatini",
+  "phone": "+26824045505",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 142,
+  "name": "Bahle Gallery",
+  "address": "F9RC+PGG, Manzini, Eswatini",
+  "phone": "+26878300596",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 143,
+  "name": "Mlawula Nature Reserve",
+  "address": "Next to, traffic circle, Lobamba, Eswatini",
+  "phone": "+26876262992",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 144,
+  "name": "Phophonyane Falls Nature Reserve",
+  "address": "W794+WPF, Kwakheni, Eswatini",
+  "phone": "+26824373975",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 145,
+  "name": "Main Camp Shewula Nature Reserve",
+  "address": "Malandela's Farm. PO Box 93 Malkerns,M204, Eswatini",
+  "phone": "+26825282110",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 146,
+  "name": "Execution rock",
+  "address": "G92G+97W, Mhlakuvane St, Manzini, Eswatini",
+  "phone": "+26878484291",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 147,
+  "name": "SiyeSwatini TransMagnific",
+  "address": "M4CQ+9JH, Sozisa Road, Mbabane H100, Eswatini",
+  "phone": "+26824041533",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 148,
+  "name": "Summerfield Botanical Garden \u0026 Exclusive Resort",
+  "address": "H56M+673, Lobamba, Eswatini",
+  "phone": "+26824162180",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 149,
+  "name": "Songimvelo Game Reserve",
+  "address": "Sozisa Road, Mbabane, Eswatini",
+  "phone": "+26824049977",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 150,
+  "name": "Sudwala Caves",
+  "address": "Dzeliwe Street, Mbabane, Eswatini",
+  "phone": "+26876640001",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 151,
+  "name": "Maguga Dam",
+  "address": "Shop UG08 Corporate Place, Swazi Plaza, Mbabane H100, Eswatini",
+  "phone": "+26824047888",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 152,
+  "name": "Malkerns",
+  "address": "M4WQ+72R, Mbabane, Eswatini",
+  "phone": "+26876722314",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 153,
+  "name": "Manzini Main Market",
+  "address": "Eswatini, Malkerns, Unnamed Road",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 154,
+  "name": "Royal Swazi Spa",
+  "address": "V25Q+HRX, Maphiveni, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 155,
+  "name": "House On Fire",
+  "address": "X78F+H3F, Unnamed Road, Kwakheni, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 156,
+  "name": "Trenchtown Cruise",
+  "address": "RX9X+VFF, Mlawula, Eswatini",
+  "phone": "+26823838885",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 157,
+  "name": "Barberton Museum",
+  "address": "M4HV+CMW, Mbabane, Eswatini",
+  "phone": "+26824041933",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 158,
+  "name": "Total Experience Tours -Eswatini",
+  "address": "PVQH+JV4, MR3, Simunye, Eswatini",
+  "phone": "+26876776772",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 159,
+  "name": "Malelane Gate @ Kruger National Park",
+  "address": "PO B ox 9 06, Mbabane H100, Eswatini",
+  "phone": "+26876894611",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 160,
+  "name": "Nyonyane",
+  "address": "V4M3+CHW, Malolotja Nature Reserve, Region, Nkhaba, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 161,
+  "name": "Hhohho Region",
+  "address": "V45P+Q3C, Nkhaba, Eswatini",
+  "phone": "+26876975704",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 162,
+  "name": "Hawane Resort",
+  "address": "Ngwenya Industrial estates, Ngwenya / Mbabane MR3 highway, Ngwenya H104, Eswatini",
+  "phone": "+26876022730",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 163,
+  "name": "Happy Valley Hotel \u0026 Casino",
+  "address": "5 Tivakashi St, Ezulwini H106, Eswatini",
+  "phone": "+26824161049",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 164,
+  "name": "Mantenga Lodge",
+  "address": "Mhlambanyatsi Rd, Mbabane H100, Eswatini",
+  "phone": "+26824092200",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 165,
+  "name": "Damicha Guest Lodge",
+  "address": "MR103, Lobamba Road, Ezulwini, Opposite Woodlands Mbabane L317, Eswatini",
+  "phone": "+26824171791",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 166,
+  "name": "Lidwala Lodge",
+  "address": "J697+H5W, Lobamba, Eswatini",
+  "phone": "+26876206925",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 167,
+  "name": "Benka LifeStyle Country Cottages",
+  "address": "30 Goje Township, Mdzenga Cl, Lobamba, Eswatini",
+  "phone": "+26824163381",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 168,
+  "name": "Hilton Garden Inn Mbabane",
+  "address": "Swazi-Lizkhar Estate Portion 35 of Farm 51 Ezulwini, H106, Eswatini",
+  "phone": "+26878432954",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 169,
+  "name": "Mdzimba Mountain Lodge",
+  "address": "MR103, Lobamba, Eswatini",
+  "phone": "+26876894317",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 170,
+  "name": "Summerfield Botanical Garden \u0026 Exclusive Resort",
+  "address": "H55Q+RGF, Lobamba, Eswatini",
+  "phone": "+26824161061",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 171,
+  "name": "Malandela's Guest House",
+  "address": "Shadrach Street, Ngwane Park, Manzini, M200 Manzini, M200, Eswatini",
+  "phone": "+26878348669",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 172,
+  "name": "Sondzela Backpackers",
+  "address": "26HW+9CV, Ndeliwe street Fourth, Piggs Peak, Eswatini",
+  "phone": "+26824371144",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 173,
+  "name": "Royal Swazi Spa",
+  "address": "Eswatini, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 174,
+  "name": "Silverstone Lodge",
+  "address": "F59Q+C79, Malkerns, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 175,
+  "name": "Thula Du Estate",
+  "address": "M592+XV4, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 176,
+  "name": "Mountain View Hotel",
+  "address": "P44G+PHC, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 177,
+  "name": "Emafini Country Lodge",
+  "address": "P5F4+Q4X, Mbabane, Eswatini",
+  "phone": "+26876572812",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 178,
+  "name": "Goggas Nest Bnb and Restaurant",
+  "address": "F998+9PR, Ngwane park,Mkhiweni, Manzini, Manzini, Eswatini",
+  "phone": "+26876894143",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 179,
+  "name": "Open House Boutique",
+  "address": "F9RC+PGG, Manzini, Eswatini",
+  "phone": "+26835407555",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 180,
+  "name": "Goggas Nest Bnb and Restaurant",
+  "address": "J528+2M3, Lobamba, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 181,
+  "name": "The Royal Villas",
+  "address": "J685+CM5, Buka community Ezulwini, Ezulwini M100, Eswatini",
+  "phone": "+26876459353",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 182,
+  "name": "The George Hotel",
+  "address": "M4JH+GV8, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 183,
+  "name": "Rehoboth Mountain Suites",
+  "address": "G92C+R9X, MR3, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 184,
+  "name": "Lugogo Sun",
+  "address": "Mkhulamini , Along the MR8 Main Road., Manzini M200, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 185,
+  "name": "Gallery Hotel Eswatini",
+  "address": "Plot 922 Ngwavuma street, Fairview Rd, North M200, Eswatini",
+  "phone": "+26878182830",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 186,
+  "name": "Mac Atini Guest House",
+  "address": "Red Berry Guest House, Mseni Dr, Mbabane, Eswatini",
+  "phone": "+26876023160",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 187,
+  "name": "Mountain inn",
+  "address": "G884+MW8, Opposite University of Swaziland, Kwaluseni, Eswatini",
+  "phone": "+26825187763",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 188,
+  "name": "The Place Guest House",
+  "address": "173 Tsekwane St, Mbabane, Eswatini",
+  "phone": "+26824046072",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 189,
+  "name": "Global Village Guesthouse",
+  "address": "C7MW+9XV, Matsapha, Eswatini",
+  "phone": "+26876076950",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 190,
+  "name": "Otentik Guesthouse",
+  "address": "Corner Du Toit and, Kelly St, Manzini M200, Eswatini",
+  "phone": "+26825055382",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 191,
+  "name": "Teklos Bnb",
+  "address": "167, Lukhalo St, Mbabane, Eswatini",
+  "phone": "+26876080820",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 192,
+  "name": "City Court Guest House",
+  "address": "H100, Portion 57(a portion of portion 50) Nkoyoyo Hhohho District Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 193,
+  "name": "Ekasi Apartments",
+  "address": "Plot 39 Donegal Road Fairview South, M200, Eswatini",
+  "phone": "+26878371180",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 194,
+  "name": "Brookside Lodge",
+  "address": "P3PW+5RF, Nkoyoyo, Mbabane H100, Eswatini",
+  "phone": "+26824212750",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 195,
+  "name": "Sibane Sami Hotel",
+  "address": "Kholwane Road Dalriach, Eveni, Mbabane, Eswatini",
+  "phone": "+26876047069",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 196,
+  "name": "The Royal Swazi Sun Hotel",
+  "address": "F577+9FR, Malkerns, Eswatini",
+  "phone": "+26825283552",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 197,
+  "name": "Timbali Lodge",
+  "address": "J528+2M3, EMvutjini, Somnjalose, Eswatini",
+  "phone": "+26876651039",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 198,
+  "name": "The Haven Eswatini Guest House",
+  "address": "H5CH+WWF, Lobamba, Eswatini",
+  "phone": "+26878511345",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 199,
+  "name": "Mvubu Falls Lodge",
+  "address": "J58F+87F, Lobamba, Eswatini",
+  "phone": "+26878113890",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 200,
+  "name": "Reilly's Rock Hilltop Lodge",
+  "address": "6G5P+CVM, Village Road- Kaphunga Swaziland Kaphunga, Swazi Home Lodge, Manzini M200, Eswatini",
+  "phone": "+26876426780",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 201,
+  "name": "Mantenga Hill View Boutique",
+  "address": "Malagwane Hill (next to mR3), Mbabane H100, Eswatini",
+  "phone": "+26879445529",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 202,
+  "name": "The Executive - Exclusive Self-Catering Apartments - Ezulwini",
+  "address": "H5HP+JRF, Lobamba, Eswatini",
+  "phone": "+26876022110",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 203,
+  "name": "Vuya Nathi Bed and Breakfast",
+  "address": "13 Majaha Close Goje, Ezulwini H106, Eswatini",
+  "phone": "+26876020079",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 204,
+  "name": "Kapola Boutique Hotel",
+  "address": "Mantenga Drive, Lobamba, Eswatini",
+  "phone": "+26876275896",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 205,
+  "name": "Swazi Home Lodge",
+  "address": "G5HJ+C28, Manzini, Eswatini",
+  "phone": "+26825283943",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 206,
+  "name": "eMfuleni Lifestyle",
+  "address": "J5H3+JC6, Lobamba, Eswatini",
+  "phone": "+26876276757",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 207,
+  "name": "eMfuleni Lifestyle",
+  "address": "J53C+8WR, Lobamba, Eswatini",
+  "phone": "+26824162632",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 208,
+  "name": "Open House Hotel Mbabane",
+  "address": "H5R9+WQ, Lobamba, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 209,
+  "name": "Diplomat Lodge",
+  "address": "J55C+724, MR103, Lobamba, Eswatini",
+  "phone": "+27814201793",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 210,
+  "name": "BK Lodge and Conference",
+  "address": "M4GJ+MX3, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 211,
+  "name": "Esthers Lodge",
+  "address": "Plot 2003, Ngwane Road Extension 16, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 212,
+  "name": "FAIRVIEW GUEST HOUSE",
+  "address": "F6JQ+X2P, Malkerns, Eswatini",
+  "phone": "+265991213245",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 213,
+  "name": "Jamas’s Place Lodge",
+  "address": "Mkhonubovu Street, Checkers, Mbabane, Mbabane, Eswatini",
+  "phone": "+26876049851",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 214,
+  "name": "Cathmar Cottages",
+  "address": "MR 3 Highway, Offramp 7 1, Mbabane H100, Eswatini",
+  "phone": "+26876034803",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 215,
+  "name": "Manzini Lodge",
+  "address": "M49P+X96, Mkhonubovu Street, Mbabane, Eswatini",
+  "phone": "+26824041411",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 216,
+  "name": "Sibebe Resort",
+  "address": "Plot 2044, Phempetfwane Street, Manzini, Eswatini",
+  "phone": "+26825052226",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 217,
+  "name": "Dwaleni Farm Lodge",
+  "address": "F59Q+C79, Malkerns, Eswatini",
+  "phone": "+26876024467",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 218,
+  "name": "Shield Guest House",
+  "address": "M4QR+FHR, Mantsholo St, Mbabane H100, Eswatini",
+  "phone": "+26879445529",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 219,
+  "name": "Madala Lodge",
+  "address": "M4VP+RMF, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 220,
+  "name": "Red Berry Guest House",
+  "address": "P42Q+5C3, Mthombo Cres, Mbabane, Eswatini",
+  "phone": "+26824044815",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 221,
+  "name": "Esilulwini Ld Country Lodge",
+  "address": "H5RF+6MW, Lobamba, Eswatini",
+  "phone": "+27117807810",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 222,
+  "name": "Lawu Le Ngwenya Guest House",
+  "address": "M45X+QG6, lilanga street Road, Mbabane, Mbabane, Eswatini",
+  "phone": "+26876839053",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 223,
+  "name": "Valley View Lodge",
+  "address": "Lusekwane street, Mountain Drive, Mbabane H100, Eswatini",
+  "phone": "+26876036396",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 224,
+  "name": "PANDA GUEST HOUSE",
+  "address": "H100, Mountain Drive), off, Plot 1006 Lusekwane street, Fonteyn Rd, Mbabane, Eswatini",
+  "phone": "+26876047540",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 225,
+  "name": "BK Lodge",
+  "address": "Corner Ngwane \u0026, Du Toit Street, M200, Eswatini",
+  "phone": "+26825052260",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 226,
+  "name": "Mayoloza B n B",
+  "address": "PO B ox5 11, Ezulwini H106, Eswatini",
+  "phone": "+26824162042",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 227,
+  "name": "Sunset Village, Ezulwini",
+  "address": "Unnamed Road, Matsapha, Eswatini",
+  "phone": "+26878088802",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 228,
+  "name": "The Exclusive Joint Guest House",
+  "address": "M45X+QG6, lilanga street Road, Mbabane, Mbabane, Eswatini",
+  "phone": "+26876839053",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 229,
+  "name": "MBARE GUESTHOUSE",
+  "address": "Unnamed Road, Matsapha, Eswatini",
+  "phone": "+26878088802",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 230,
+  "name": "Veki's Town Lodge",
+  "address": "Malagwane Hill Mbabane SZ H100, Mbabane, Eswatini",
+  "phone": "+26824041284",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 231,
+  "name": "Liz' Cottage",
+  "address": "Trelawney Park, Manzini, Manzini, Eswatini",
+  "phone": "+26825058745",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 232,
+  "name": "Opulence Lodge",
+  "address": "Princess Drive, Mbabane H100, Eswatini",
+  "phone": "+26824042781",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 233,
+  "name": "Lugogo sun",
+  "address": "J5Q5+22, 0 MR3, Malagwane, Mbabane, Eswatini",
+  "phone": "+26876180000",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 234,
+  "name": "Isaacs Rehoeboth Guest House",
+  "address": "Pine Valley Rd, Mbabane, Eswatini",
+  "phone": "+26876887028",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 235,
+  "name": "Slik Mbare Guesthouse",
+  "address": "18 Mantenga Drive, Lobamba, Eswatini",
+  "phone": "+26876289198",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 236,
+  "name": "Highlands Inn Hotel",
+  "address": "Mlilwane Wildlife Sanctuary, Malkerns, Manzini, Lobamba M204, Eswatini",
+  "phone": "+26825283943",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 237,
+  "name": "The George Hotel",
+  "address": "Plot 2044, Phempetfwane Street, Manzini, Eswatini",
+  "phone": "+26825052226",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 238,
+  "name": "Open House Boutique",
+  "address": "Unnamed Road, Matsapha, Eswatini",
+  "phone": "+26878088802",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 239,
+  "name": "Gallery Hotel Eswatini",
+  "address": "Trelawney Park, Manzini, Manzini, Eswatini",
+  "phone": "+26825058745",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 240,
+  "name": "Nkonyeni Lodge \u0026 Golf Estate",
+  "address": "Corner Ngwane \u0026, Du Toit Street, M200, Eswatini",
+  "phone": "+26825052260",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 241,
+  "name": "Vuya Nathi Bed and Breakfast",
+  "address": "Portion 35 of Farm Peebles Block 9, Elwandle, Manzini M200, Eswatini",
+  "phone": "+26835555579",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 242,
+  "name": "Manzini Lodge",
+  "address": "13 Majaha Close Goje, Ezulwini H106, Eswatini",
+  "phone": "+26876020079",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 243,
+  "name": "Wide Horizons Mountain Retreat",
+  "address": "F59Q+C79, Malkerns, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 244,
+  "name": "Diplomat Lodge",
+  "address": "J685+CM5, Buka community Ezulwini, Ezulwini M100, Eswatini",
+  "phone": "+26876459353",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 245,
+  "name": "Benka LifeStyle Country Cottages",
+  "address": "978R+FC4, Manzini, Eswatini",
+  "phone": "+26876025772",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 246,
+  "name": "Lidwala Lodge",
+  "address": "Mantenga Drive, Lobamba, Eswatini",
+  "phone": "+26876275896",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 247,
+  "name": "Malandela's Guest House",
+  "address": "H5CH+WWF, Lobamba, Eswatini",
+  "phone": "+26878511345",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 248,
+  "name": "Mdzimba Mountain Lodge",
+  "address": "J58F+87F, Lobamba, Eswatini",
+  "phone": "+26878113890",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 249,
+  "name": "Sondzela Backpackers",
+  "address": "J53C+8WR, Lobamba, Eswatini",
+  "phone": "+26824162632",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 250,
+  "name": "Mantenga Lodge",
+  "address": "G884+MW8, Opposite University of Swaziland, Kwaluseni, Eswatini",
+  "phone": "+26825187763",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 251,
+  "name": "Bushbaby Lodge @ Nkonyeni",
+  "address": "H5HP+JRF, Lobamba, Eswatini",
+  "phone": "+26876022110",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 252,
+  "name": "Mogi Boutique Hotel",
+  "address": "H5RF+6MW, Lobamba, Eswatini",
+  "phone": "+27117807810",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 253,
+  "name": "Damicha Guest Lodge",
+  "address": "9C45+895, Sidvokodvo, Eswatini",
+  "phone": "+26876949342",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 254,
+  "name": "Brookside Lodge",
+  "address": "Shadrach Street, Ngwane Park, Manzini, M200 Manzini, M200, Eswatini",
+  "phone": "+26878348669",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 255,
+  "name": "The Lodge - 3 Star Self-Catering Accommodation - Ezulwini",
+  "address": "C7MW+9XV, Matsapha, Eswatini",
+  "phone": "+26876076950",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 256,
+  "name": "The Exclusive Joint Guest House",
+  "address": "G92C+R9X, MR3, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 257,
+  "name": "Esilulwini Ld Country Lodge",
+  "address": "GC6M+V9V, Lugaganeni, Eswatini",
+  "phone": "+26878297029",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 258,
+  "name": "MBARE GUESTHOUSE",
+  "address": "F998+9PR, Ngwane park,Mkhiweni, Manzini, Manzini, Eswatini",
+  "phone": "+26876894143",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 259,
+  "name": "Mountain inn",
+  "address": "6G5P+CVM, Village Road- Kaphunga Swaziland Kaphunga, Swazi Home Lodge, Manzini M200, Eswatini",
+  "phone": "+26876426780",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 260,
+  "name": "Rest Camp Lodge",
+  "address": "PO B ox5 11, Ezulwini H106, Eswatini",
+  "phone": "+26824162042",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 261,
+  "name": "FAIRVIEW GUEST HOUSE",
+  "address": "Plot 922 Ngwavuma street, Fairview Rd, North M200, Eswatini",
+  "phone": "+26878182830",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 262,
+  "name": "Valley View Lodge",
+  "address": "G5HJ+C28, Manzini, Eswatini",
+  "phone": "+26825283943",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 263,
+  "name": "Slik Mbare Guesthouse",
+  "address": "Plot 39 Donegal Road Fairview South, M200, Eswatini",
+  "phone": "+26878371180",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 264,
+  "name": "Ekupholeni Garden Villas",
+  "address": "M4VP+RMF, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 265,
+  "name": "RCL",
+  "address": "Mkhulamini , Along the MR8 Main Road., Manzini M200, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 266,
+  "name": "The Royal Villas",
+  "address": "F9RC+PGG, Manzini, Eswatini",
+  "phone": "+26835407555",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 267,
+  "name": "Reilly's Rock Hilltop Lodge",
+  "address": "F59Q+C79, Malkerns, Eswatini",
+  "phone": "+26876024467",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 268,
+  "name": "Madonsa Guest House",
+  "address": "18 Mantenga Drive, Lobamba, Eswatini",
+  "phone": "+26876289198",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 269,
+  "name": "Dwaleni Farm Lodge",
+  "address": "30 Goje Township, Mdzenga Cl, Lobamba, Eswatini",
+  "phone": "+26824163381",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 270,
+  "name": "Tum's Water World Hotel",
+  "address": "30 Goje Township, Mdzenga Cl, Lobamba, Eswatini",
+  "phone": "+26824163381",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 271,
+  "name": "Lugogo Sun",
+  "address": "8CC2+XWV, Nkonyeni,, Sidvokodvo, Eswatini",
+  "phone": "+26878024736",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 272,
+  "name": "Rhino Rest Camp",
+  "address": "5 Tivakashi St, Ezulwini H106, Eswatini",
+  "phone": "+26824161049",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 273,
+  "name": "Madala Lodge",
+  "address": "MR103, Lobamba, Eswatini",
+  "phone": "+26876894317",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 274,
+  "name": "Timbali Lodge",
+  "address": "F6JQ+X2P, Malkerns, Eswatini",
+  "phone": "+265991213245",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 275,
+  "name": "Ligwalagwala Camp, Wide Horizons Mountain Retreat",
+  "address": "Corner Du Toit and, Kelly St, Manzini M200, Eswatini",
+  "phone": "+26825055382",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 276,
+  "name": "Rhino Rest Camp",
+  "address": "MR103, Lobamba Road, Ezulwini, Opposite Woodlands Mbabane L317, Eswatini",
+  "phone": "+26824171791",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 277,
+  "name": "The Executive - Exclusive Self-Catering Apartments - Ezulwini",
+  "address": "Mlilwane Wildlife Sanctuary, Malkerns, Manzini, Lobamba M204, Eswatini",
+  "phone": "+26825283943",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 278,
+  "name": "Ezulwini Guest House",
+  "address": "J697+H5W, Lobamba, Eswatini",
+  "phone": "+26876206925",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 279,
+  "name": "Mayoloza B n B",
+  "address": "Swazi-Lizkhar Estate Portion 35 of Farm 51 Ezulwini, H106, Eswatini",
+  "phone": "+26878432954",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 280,
+  "name": "Mdzimba Rock Spur Manzini",
+  "address": "G92H+QH3, Manci Shane St, Manzini, Eswatini",
+  "phone": "+26825054649",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 281,
+  "name": "Shisa Nyama",
+  "address": "MR3, Manzini, Eswatini",
+  "phone": "+26876579733",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 282,
+  "name": "Curry House restaurant",
+  "address": "Shop 1, Ngwane Street,, Manzini H100, Eswatini",
+  "phone": "+26825058700",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 283,
+  "name": "Tee's Bistro",
+  "address": "M200, 171 Ngwane \u0026 Du Street, Office 2, 1st Floor New Manzini City Centre Mall, Opposite George Hotel, Nkoseluhlaza, Eswatini",
+  "phone": "20017121",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 284,
+  "name": "RocoGo Manzini",
+  "address": "G92F+Q6V, First Floor Riverstone Mall Manzini, Manzini, Eswatini",
+  "phone": "+26825058850",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 285,
+  "name": "Gil Vicente Restaurant",
+  "address": "G92H+37Q, Tenbergen St, Manzini, Eswatini",
+  "phone": "+26825055049",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 286,
+  "name": "The pizza Club \u0026 Grill",
+  "address": "Manzini, Eswatini plot 10 scrapyard opposite park hotel Manzini, Eswatini",
+  "phone": "+26876216916",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 287,
+  "name": "COZY Coffee House \u0026 Bistro/Habesha Restaurant",
+  "address": "Bhunu Mall, Cnr Louw \u0026 Nkosehlusaza St, Shop 1, M200, Eswatini",
+  "phone": "+26825059058",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 288,
+  "name": "Nando's Manzini",
+  "address": "Ngwane St, Manzini, Eswatini",
+  "phone": "+26825053874",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 289,
+  "name": "Istanbul Manzini",
+  "address": "F8H7+PXX, Logoba - Manzini - Mbabane Highway, Matsapha, Eswatini",
+  "phone": "+26876077428",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 290,
+  "name": "The waffle palace",
+  "address": "Farm 11, Hhelehhele, Manzini, Eswatini",
+  "phone": "+26878036115",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 291,
+  "name": "Tandoori Express Restaurant \u0026 Take-away",
+  "address": "F9XG+78W, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 292,
+  "name": "Ocean Cuisine",
+  "address": "G844+G24, Matsapha, Eswatini",
+  "phone": "+26825186063",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 293,
+  "name": "Molly's House of Grills",
+  "address": "F9RC+PGG, Manzini, Eswatini",
+  "phone": "+26876138641",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 294,
+  "name": "Debonairs Pizza Manzini",
+  "address": "G977+VG2, Northern Distributor Rd, Kwaluseni, Eswatini",
+  "phone": "+26879036579",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 295,
+  "name": "Twins Pub N Restaurant",
+  "address": "G55P+H36, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 296,
+  "name": "The Pizza Club and Grills",
+  "address": "Ingwenyama St, Manzini, Eswatini",
+  "phone": "+26878579571",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 297,
+  "name": "Hua Hong Chinese Restaurant",
+  "address": "Trelawney Park, Manzini, Manzini, Eswatini",
+  "phone": "+26825058745",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 298,
+  "name": "The Food Hut",
+  "address": "Corner Ngwane \u0026, Du Toit Street, M200, Eswatini",
+  "phone": "+26825052260",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 299,
+  "name": "Yoruba Lounge",
+  "address": "F9PG+VGF, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 300,
+  "name": "Spur Manzini",
+  "address": "F998+3M3, Manzini, Eswatini",
+  "phone": "+26879055055",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 301,
+  "name": "Sinos Bouquet Garni Restaurant",
+  "address": "219 Tenbergen St, Manzini M200, Eswatini",
+  "phone": "+26876022371",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 302,
+  "name": "S.A FOOD PLAZA",
+  "address": "G94M+F9R, Manzini, Eswatini",
+  "phone": "+26878012577",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 303,
+  "name": "Kota Kings",
+  "address": "Lot 2871 Cnr Ngwane Street And Du Tiot Street, Manzini M200, M100, Eswatini",
+  "phone": "2871200100",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 304,
+  "name": "Sisekhaya Restaurant",
+  "address": "G94J+5M6, Manzini, Eswatini",
+  "phone": "+26825052402",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 305,
+  "name": "Panarottis Express Manzini",
+  "address": "F9F8+WWX, Unnamed Road, Manzini, Eswatini",
+  "phone": "+26876228633",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 306,
+  "name": "Hyper Service Restaurant",
+  "address": "Second Ave, Manzini, Eswatini",
+  "phone": "+26878606026",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 307,
+  "name": "Ocean Basket",
+  "address": "G95H+5GQ, Meintues St, Manzini, Eswatini",
+  "phone": "+26876149040",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 308,
+  "name": "Manzini Portuguese Club",
+  "address": "ALCON House, Du Toit St, Manzini M200, Eswatini",
+  "phone": "+26825056637",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 309,
+  "name": "TOPS@SPAR",
+  "address": "786 Nkosehlusaza St, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 310,
+  "name": "cuisine fish n chips",
+  "address": "G92G+57M, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 311,
+  "name": "Café Ndai",
+  "address": "Riverstone Mall, MR3, Manzini, Eswatini",
+  "phone": "+26878187223",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 312,
+  "name": "Lulu'z Café Delitos",
+  "address": "Ngwane St, Manzini, Eswatini",
+  "phone": "+26878572471",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 313,
+  "name": "Honchos Swaziland",
+  "address": "F9RC+PGG, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 314,
+  "name": "Cuisine Fish and Chips",
+  "address": "G93J+3VW, Manci Shane St, Manzini, Eswatini",
+  "phone": "+26878524549",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 315,
+  "name": "Lichaga",
+  "address": "G92F+Q6V, Manzini, Eswatini",
+  "phone": "+26876088875",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 316,
+  "name": "Kentucky Fried Chicken",
+  "address": "F9XG+M6W, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 317,
+  "name": "L-Nile",
+  "address": "Mhlakuvane St, Manzini M200, Eswatini",
+  "phone": "+26835028667",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 318,
+  "name": "Green Chilli, Riverstone Mall",
+  "address": "G93H+H7X, Manzini, Eswatini",
+  "phone": "+26825058580",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 319,
+  "name": "The vibe Butchery",
+  "address": "Cardo Square, Manzini Ngwane Park Swaziland, Eswatini",
+  "phone": "+26876229705",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 320,
+  "name": "Shisa Nyama Lounge",
+  "address": "F9XC+9RW, Manzini, Eswatini",
+  "phone": "+26825059537",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 321,
+  "name": "C'est La Vie",
+  "address": "nkoseluhlaza street manzini, M200, Eswatini",
+  "phone": "+26878090817",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 322,
+  "name": "Choice No 1",
+  "address": "F9RC+PGG, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 323,
+  "name": "The Snack Shack",
+  "address": "Martin St, Manzini, Eswatini",
+  "phone": "+26879700916",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 324,
+  "name": "Foza 4za Suthu",
+  "address": "G94P+F99, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 325,
+  "name": "Cafe 189 Coffee Shop \u0026 Restaurant",
+  "address": "258 Mahleka St, Manzini, Eswatini",
+  "phone": "+26876022554",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 326,
+  "name": "Yasekhaya Braai House",
+  "address": "G92G+H33, Mhlakuvane St, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 327,
+  "name": "The Bush Pizzeria and cafe",
+  "address": "F9XF+FMQ, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 328,
+  "name": "Eatalian Pizzeria Eswatini",
+  "address": "Manci Shane St, Manzini, Eswatini",
+  "phone": "+26878348739",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 329,
+  "name": "Con·Verse Café",
+  "address": "Lifestyle Centre, Manzini M100, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 330,
+  "name": "The Waffle Palace Co.",
+  "address": "G93H+54Q, MR3, Manzini, Eswatini",
+  "phone": "+26876538446",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 331,
+  "name": "The Pizza Club and Grills Ngwane Park",
+  "address": "Cardo Square Ngwane Park, Manzini M200, Eswatini",
+  "phone": "+26879075095",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 332,
+  "name": "Manzini Lifestyle Center",
+  "address": "786 Nkosehluaza street, Manzini, Eswatini",
+  "phone": "+26878197842",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 333,
+  "name": "Galitos",
+  "address": "F9RC+PGG, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 334,
+  "name": "Milky Lane Manzini",
+  "address": "G92H+248, Tenbergen St, Manzini, Eswatini",
+  "phone": "+26878374027",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 335,
+  "name": "The XChange Lounge \u0026 Shisanyama",
+  "address": "G94P+73C, Manzini, Eswatini",
+  "phone": "+26876782387",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 336,
+  "name": "The George Hotel",
+  "address": "G94M+GQF, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 337,
+  "name": "Umcwembe Braai",
+  "address": "G92H+G88, Manzini, Eswatini",
+  "phone": "+26879723248",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 338,
+  "name": "The Venue",
+  "address": "9 Manci Shane St, Manzini, Eswatini",
+  "phone": "+26876216916",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 339,
+  "name": "Thyme @ The Hub",
+  "address": "527 Ngwane St, Manzini, Eswatini",
+  "phone": "+26825053930",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 340,
+  "name": "Open House Boutique",
+  "address": "G92C+MX2, MR3, Manzini, Eswatini",
+  "phone": "+26825055104",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 341,
+  "name": "Futhi's Takeaway",
+  "address": "G92J+W96, Manci Shane St, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 342,
+  "name": "Kae Kae Holiday Park",
+  "address": "G92F+P59, Manzini, Eswatini",
+  "phone": "+26825059620",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 343,
+  "name": "Umfolozi Butchery",
+  "address": "G93H+P6H, Manzini, Eswatini",
+  "phone": "+26825058936",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 344,
+  "name": "Rudi’s Kitchen",
+  "address": "F9RC+PGG, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 345,
+  "name": "Hippo Haunt",
+  "address": "Lot 2871 Cnr Ngwane Street And Du Tiot Street, Manzini M200, M100, Eswatini",
+  "phone": "2871200100",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 346,
+  "name": "Riverstone Mall",
+  "address": "G93H+73G, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 347,
+  "name": "Manzini Lifestyle Center",
+  "address": "F9XG+883, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 348,
+  "name": "Manzini Mall",
+  "address": "G94P+F99, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 349,
+  "name": "Bhunu Mall",
+  "address": "G92F+J2H, Manzini, Eswatini",
+  "phone": "+26825052735",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 350,
+  "name": "Hatzins Centre",
+  "address": "Bhunu Mall, Manzini M200, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 351,
+  "name": "Manzini Central Building",
+  "address": "G95H+3C8, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 352,
+  "name": "The Hub",
+  "address": "F9XF+HMX, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 353,
+  "name": "Moneni Spar",
+  "address": "G94J+3R4, MR3, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 354,
+  "name": "Ngogola Shopping Centre",
+  "address": "F8Q2+PVQ, King Mswati III Ave E, Matsapha, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 355,
+  "name": "Matsamo Shopping Complex",
+  "address": "F9XG+3FV, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 356,
+  "name": "Matsapha Shopping Centre",
+  "address": "G844+MPR, Matsapha, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 357,
+  "name": "OK MINIMARK MANZINI (SZ)",
+  "address": "Ngwane St Shop 30, Manzini Mall Manzini, M200, Eswatini",
+  "phone": "+26825054821",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 358,
+  "name": "Magic Spells Bay",
+  "address": "Dubai mall, Manzini, Eswatini",
+  "phone": "+26879257367",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 359,
+  "name": "The Gables Shopping Centre",
+  "address": "F5GV+FR2, Malkerns, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 360,
+  "name": "ESWATINI WASTE CENTER",
+  "address": "H56P+8WP, MR103, Ezulwini, Eswatini",
+  "phone": "+26824171173",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 361,
+  "name": "ESWATINI WASTE CENTER",
+  "address": "PRESIDENT CENTRE BUILDING, Ngwane St, Manzini, Eswatini",
+  "phone": "+26825052587",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 362,
+  "name": "Oasis Centre",
+  "address": "G853+C83, Matsapha, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 363,
+  "name": "Agora Shopping Center",
+  "address": "G852+2P5, Matsapha, Eswatini",
+  "phone": "+27115140404",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 364,
+  "name": "Manzini Main Market",
+  "address": "F9RC+PGG, Manzini, Eswatini",
+  "phone": "+26878300596",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 365,
+  "name": "King Sobhuza II Memorial Park",
+  "address": "P5QF+G24, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 366,
+  "name": "Old Stone Church Museum",
+  "address": "F9X8+X9X, Second Ave, Manzini, Eswatini",
+  "phone": "+26878606026",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 367,
+  "name": "Manzini Lifestyle Center",
+  "address": "G92G+97W, Mhlakuvane St, Manzini, Eswatini",
+  "phone": "+26878484291",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 368,
+  "name": "Sibebe Rock",
+  "address": "H624+F8J, Lobamba, Eswatini",
+  "phone": "+26824161489",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 369,
+  "name": "Mbuluzi Game Reserve",
+  "address": "PVQH+JV4, MR3, Simunye, Eswatini",
+  "phone": "+26876776772",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 370,
+  "name": "Malolotja Canopy Tour",
+  "address": "M4CQ+9JH, Sozisa Road, Mbabane H100, Eswatini",
+  "phone": "+26824041533",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 371,
+  "name": "Matsamo Cultural Village",
+  "address": "Shop UG08 Corporate Place, Swazi Plaza, Mbabane H100, Eswatini",
+  "phone": "+26824047888",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 372,
+  "name": "Malelane Gate @ Kruger National Park",
+  "address": "Next to, traffic circle, Lobamba, Eswatini",
+  "phone": "+26876262992",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 373,
+  "name": "Songimvelo Game Reserve",
+  "address": "W794+WPF, Kwakheni, Eswatini",
+  "phone": "+26824373975",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 374,
+  "name": "Mthethomusha Game Reserve",
+  "address": "H56M+673, Lobamba, Eswatini",
+  "phone": "+26824162180",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 375,
+  "name": "Thula Seats",
+  "address": "D133 Gables, Ezulwini H100, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 376,
+  "name": "Malandela's Guest House",
+  "address": "P O Box 172 Malkerns Valley, MR18, Malkerns M204, Eswatini",
+  "phone": "17218204",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 377,
+  "name": "Mbabane",
+  "address": "V25Q+HRX, Maphiveni, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 378,
+  "name": "Pumbaa Wildlife Park \u0026 Accommodation",
+  "address": "Ngwenya Industrial estates, Ngwenya / Mbabane MR3 highway, Ngwenya H104, Eswatini",
+  "phone": "+26876022730",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 379,
+  "name": "Big Bend",
+  "address": "M4JQ+W2F, Fiddes St, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 380,
+  "name": "Tindlovu Boskombuis Afsaal",
+  "address": "G55P+H36, Manzini, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 381,
+  "name": "Nhlangano",
+  "address": "PO B ox 9 06, Mbabane H100, Eswatini",
+  "phone": "+26876894611",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 382,
+  "name": "Simunye",
+  "address": "Corner Ngwane \u0026, Du Toit Street, M200, Eswatini",
+  "phone": "+26825052260",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 383,
+  "name": "Piggs Peak",
+  "address": "24WG+HXH, MR20, Bulembu, Eswatini",
+  "phone": "+26834022376",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 384,
+  "name": "Randell's Ranch Museum",
+  "address": "G92F+J2H, Manzini, Eswatini",
+  "phone": "+26825052735",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 385,
+  "name": "Queen Rose Hiking Trail",
+  "address": "X78F+H3F, Unnamed Road, Kwakheni, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 386,
+  "name": "Africa Spear Safaris",
+  "address": "R24J+X6J, Ngwenya, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 387,
+  "name": "Stopforth House",
+  "address": "RX9X+VFF, Mlawula, Eswatini",
+  "phone": "+26823838885",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 388,
+  "name": "Sibebe Rock Spur",
+  "address": "9QH3+MPQ, Siphofaneni, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 389,
+  "name": "Barberton Tourist Information",
+  "address": "Eswatini, Malkerns, Unnamed Road",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 390,
+  "name": "Lawson’s Birding",
+  "address": "V45P+Q3C, Nkhaba, Eswatini",
+  "phone": "+26876975704",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 391,
+  "name": "Kaapschehoop",
+  "address": "103 Mail Road H107, Lobamba, Eswatini",
+  "phone": "+26876905865",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 392,
+  "name": "Mabuda Guest Farm",
+  "address": "Buckswood Hilltops Hilltop Farm, Siteki, Eswatini",
+  "phone": "+26876751776",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 393,
+  "name": "The Labassin House of Grills",
+  "address": "HWPX+474, Siteki, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 394,
+  "name": "Maxis Siteki",
+  "address": "GWWX+777, Unnamed Road, Siteki, Eswatini",
+  "phone": "+26878200516",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 395,
+  "name": "Maxi's Restaurant",
+  "address": "Phinduvuke Mall Siteki Siteki, L300, Eswatini",
+  "phone": "+26833600284",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 396,
+  "name": "Futis Chicken",
+  "address": "HW5Q+5WF, SITEKI, Mall L300, Eswatini",
+  "phone": "+26823434379",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 397,
+  "name": "The Green Shed @ Mabuda Guest Farm",
+  "address": "HW2V+6VF, Siteki, Eswatini",
+  "phone": "+26823434379",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 398,
+  "name": "Shoprite Siteki",
+  "address": "Bhunu Mall, Manzini M200, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 399,
+  "name": "Bhunu Mall",
+  "address": "GWWW+2WG, Siteki, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 400,
+  "name": "Matsamo Shopping Complex",
+  "address": "Simunye Plaza, Swaziland, Eswatini",
+  "phone": "+26823838950",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 401,
+  "name": "Siteki Hotel",
+  "address": "G853+C83, Matsapha, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 402,
+  "name": "Siteki Cash \u0026 Carry",
+  "address": "GWXW+FF3, Siteki, Eswatini",
+  "phone": "+26823436573",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 403,
+  "name": "Simunye Boxer Superstores",
+  "address": "Old Vukuzenzele Store, Jacaranda Street, Siteki, Eswatini",
+  "phone": "+26823436240",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 404,
+  "name": "Buckswood Hilltops",
+  "address": "Buckswood Hilltops Hilltop Farm, Siteki, Eswatini",
+  "phone": "+26876751776",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 405,
+  "name": "Mbuluzi Game Reserve",
+  "address": "PVQH+JV4, MR3, Simunye, Eswatini",
+  "phone": "+26876776772",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 406,
+  "name": "King Sobhuza II Memorial Park",
+  "address": "2WCR+GJX, Ndzevane, Eswatini",
+  "phone": "+26823030318",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 407,
+  "name": "Mlilwane Wildlife Sanctuary",
+  "address": "P5QF+G24, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 408,
+  "name": "Mkhaya Game Reserve",
+  "address": "H624+F8J, Lobamba, Eswatini",
+  "phone": "+26824161489",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 409,
+  "name": "Malolotja National Park",
+  "address": "9QH3+MPQ, Siphofaneni, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 410,
+  "name": "Malolotja Canopy Tour",
+  "address": "GWXW+FF3, Siteki, Eswatini",
+  "phone": "+26823436573",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 411,
+  "name": "Sheba's Breast Mountain",
+  "address": "24 Fiddes St, Mbabane, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 412,
+  "name": "Nsangwini",
+  "address": "R24J+X6J, Ngwenya, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 413,
+  "name": "Mlawula Nature Reserve",
+  "address": "V4M3+CHW, Malolotja Nature Reserve, Region, Nkhaba, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 414,
+  "name": "Malolotja Falls",
+  "address": "X78F+H3F, Unnamed Road, Kwakheni, Eswatini",
+  "phone": "",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 415,
+  "name": "Matsamo Cultural Village",
+  "address": "103 Mail Road H107, Lobamba, Eswatini",
+  "phone": "+26876905865",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 416,
+  "name": "Bhubesi Camp",
+  "address": "RX9X+VFF, Mlawula, Eswatini",
+  "phone": "+26823838885",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ },
+ {
+  "id": 417,
+  "name": "Siteki Hotel",
+  "address": "V45P+Q3C, Nkhaba, Eswatini",
+  "phone": "+26876975704",
+  "country-code": "SZ",
+  "country": "Swaziland"
+ }
+]

@@ -1,0 +1,6546 @@
+[
+ {
+  "id": 1,
+  "name": "Hotel Continental Altamira",
+  "address": "2da avenida, Las Delicias de Sabana Grande, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127629961",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 2,
+  "name": "Melia Caracas",
+  "address": "Avenida Venezuela, Con Calle Mohedano, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582122006922",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 3,
+  "name": "JW Marriott Hotel Caracas",
+  "address": "C. La Guairita, Caracas 1061, Miranda, Venezuela",
+  "phone": "+582123194111",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 4,
+  "name": "Hotel Tamanaco Caracas",
+  "address": "Av. del Hotel, Catia La Mar 1162, La Guaira, Venezuela",
+  "phone": "+582123358700",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 5,
+  "name": "Hotel Eurobuilding",
+  "address": "Esquina Ferrenquin a La Cruz, Av. Este 0, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+582125078834",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 6,
+  "name": "Melia Caracas",
+  "address": "Calle Mohedano, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582129535403",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 7,
+  "name": "Cumberland Hotels",
+  "address": "José Angel lamas y El Bosque, Av. Principal de La Castellana, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582122748200",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 8,
+  "name": "Hotel Alex",
+  "address": "Av. La Industria, Esquina Campo Elias a Puente Anauco, Hotel Waldorf PB, Urbanización La Candelaria, Caracas, Caracas 1010, Venezuela",
+  "phone": "+582125073300",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 9,
+  "name": "Waldorf Hotel Boutique",
+  "address": "Avenida Tamanaco, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582126283111",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 10,
+  "name": "The Hotel",
+  "address": "Avenida Principal de las Mercedes, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582129097111",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 11,
+  "name": "Venezuela Marriott Hotel Playa Grande",
+  "address": "Av. Caroní, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582129510240",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 12,
+  "name": "Cayena-caracas",
+  "address": "F4V9+WPG, Caracas 1059, Distrito Capital, Venezuela",
+  "phone": "+582127626459",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 13,
+  "name": "Hotel Continental Altamira",
+  "address": "F3XX+CVW, Caracas 1015, Distrito Capital, Venezuela",
+  "phone": "+584143829444",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 14,
+  "name": "Pestana Caracas",
+  "address": "F3M2+P2V, Av. O'Higgins, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "+582124725510",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 15,
+  "name": "Hotel El Arroyo",
+  "address": "H427+QMM, San Antonio de Galipan 1164, Distrito Capital, Venezuela",
+  "phone": "+584142397881",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 16,
+  "name": "Altamira Village Hotel \u0026 Suite",
+  "address": "F4P7+P67, C. Humboldt, Caracas 1041, Distrito Capital, Venezuela",
+  "phone": "+582126684031",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 17,
+  "name": "Renaissance Caracas La Castellana Hotel",
+  "address": "F4RJ+23X, Av. Casanova, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582129511922",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 18,
+  "name": "Hotel Chacao \u0026 Suites",
+  "address": "1050, Av Este 2, Caracas, Distrito Capital, Venezuela",
+  "phone": "+582125743812",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 19,
+  "name": "Hotel Lincoln suites",
+  "address": "G33M+FVX, Caracas 1012, Distrito Capital, Venezuela",
+  "phone": "+584242150799",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 20,
+  "name": "Hotel CCT Caracas",
+  "address": "M. Vargas, Residencias Santa Fe, Avenida Jose Maria Vargas, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 21,
+  "name": "Lidotel Centro Lido",
+  "address": "Plaza Altamira Sur, Av. del Ávila, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122633533",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 22,
+  "name": "Hotel Altamira Suites",
+  "address": "F4QJ+6HC, Av. Guaicaipuro, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582129513066",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 23,
+  "name": "Savoy Hotel Sabana Grande",
+  "address": "F4VC+G5R, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127622922",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 24,
+  "name": "Ole Caribe",
+  "address": "H3PV+X3G, La Guaira 1164, La Guaira, Venezuela",
+  "phone": "+582123374424",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 25,
+  "name": "Cumberland Chacao",
+  "address": "Final Av. las Palmas, calle Coro Alta Florida, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+582127942043",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 26,
+  "name": "Hotel Villa Playa Grande",
+  "address": "F4QM+9V5, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582129513727",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 27,
+  "name": "Hotel Renovación",
+  "address": "Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122631955",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 28,
+  "name": "Eurobuilding Express Maiquetía",
+  "address": "F5VR+PHF, Av. Rómulo Gallegos, Caracas 1071, Caracas Metropolitan District, Venezuela",
+  "phone": "+582122420011",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 29,
+  "name": "Hotel Catimar Puerto Viejo",
+  "address": "Edif. Trinalicia, Avenida Principal de Altavista, Caracas 1030, Distrito Capital, Venezuela",
+  "phone": "+582128600121",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 30,
+  "name": "Apartotel Sabana Grande",
+  "address": "F3WX+WMX, Avenida Lecuna, Caracas 1014, Distrito Capital, Venezuela",
+  "phone": "+582123121526",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 31,
+  "name": "Consorcio Cuarta Avenida",
+  "address": "Urbanización San Bernardino, 1011, Avenida Washington, Caracas, Distrito Capital, Venezuela",
+  "phone": "+582125553000",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 32,
+  "name": "HOTEL PLAYA GRANDE CARIBE",
+  "address": "Calle Venezuela No7 Artigas San Martin Calle Venezuela No 5Artigas San 1020 Caracas, 1020, Distrito Capital, Venezuela",
+  "phone": "7510201020",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 33,
+  "name": "Buena Vista Inn",
+  "address": "F4P5+JHP, Av. Las Acacias, Caracas 1041, Districto Federal, Venezuela",
+  "phone": "+582126613509",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 34,
+  "name": "Posada Bella Vista",
+  "address": "F4V9+9F3, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127817891",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 35,
+  "name": "Hotel Tiburón",
+  "address": "G428+95H, Avenida La Salle, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 36,
+  "name": "Maiquetía",
+  "address": "Carr. de La Unión, Caracas 1083, Miranda, Venezuela",
+  "phone": "+584142723310",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 37,
+  "name": "Hotel Miramar Suites",
+  "address": "Caracas, Distrito Metropolitano de Caracas 1073, Caracas 1071, Distrito Capital, Venezuela",
+  "phone": "10731071",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 38,
+  "name": "Posada Move for Vargas",
+  "address": "F5V2+75M, Frente a la Torre Británica, Av. José Félix Sosa, Caracas, Distrito Capital, Venezuela",
+  "phone": "+582122674284",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 39,
+  "name": "Hotel La Parada",
+  "address": "F4QF+C3R, Caracas 1080, Miranda, Venezuela",
+  "phone": "+582127539980",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 40,
+  "name": "POSADA VILLA DEL CARMEN",
+  "address": "Esquina, Av. Libertador, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+584242164432",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 41,
+  "name": "Hotel Shelter Suites",
+  "address": "F4P7+FMV, Autop. Valle - Coche, Caracas 1041, Distrito Capital, Venezuela",
+  "phone": "+582126614243",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 42,
+  "name": "Verticem Space Hotel Boutique Bar Restaurant",
+  "address": "G523+35P de, 1era Avenida, Caracas 1220, Miranda, Venezuela",
+  "phone": "+582122862015",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 43,
+  "name": "Hotel President Caracas",
+  "address": "Hotel Grand Galaxie, Avenida Oeste 7, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+582128620508",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 44,
+  "name": "Las Quince Letras Macuto, C.A.",
+  "address": "G34M+JHV, Esquina De Conde a Principal, El Conde, Avenida Sur 4, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+582128601171",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 45,
+  "name": "Hotel Paseo Las Mercedes Caracas",
+  "address": "Prol. Av. Las Acacias, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127829210",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 46,
+  "name": "The VIP Caracas",
+  "address": "Edificio Oriental PH 802, Avenida 1, Caracas 1062, Miranda, Venezuela",
+  "phone": "80211062",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 47,
+  "name": "Hotel Humboldt",
+  "address": "Av. México, cruce con Cl. Rafael Domingo Sisco, Edificio Hotel Plaza Mayor Urbanización, Caracas 1030, Distrito Capital, Venezuela",
+  "phone": "+582125764123",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 48,
+  "name": "Novo Hotel",
+  "address": "C. San Gerónimo, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+584241990681",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 49,
+  "name": "Hotel Dubai Suites",
+  "address": "F4HR+9MW, Avenida Principal de las Mercedes, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "+582129936212",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 50,
+  "name": "Hotel Lider",
+  "address": "F3JW+6HJ, Caracas 1040, Distrito Capital, Venezuela",
+  "phone": "+582129098081",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 51,
+  "name": "Hotel Lexington Suites",
+  "address": "Calle Arismendi, Villa Croacia 1167, La Guaira, Venezuela",
+  "phone": "+582127615756",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 52,
+  "name": "Hotel King",
+  "address": "F4RH+2QP, Bulevar de, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582129517387",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 53,
+  "name": "Hotel Alba Caracas Suites",
+  "address": "6 C. Negrín, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127627916",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 54,
+  "name": "Hotel Venecia",
+  "address": "F4WC+GCF, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127623771",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 55,
+  "name": "Hotel Alba Caracas",
+  "address": "F4X7+8WW, Avenida La Salle, Caracas 1052, Distrito Capital, Venezuela",
+  "phone": "+582127817588",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 56,
+  "name": "Hotel Campo Alegre",
+  "address": "Urb. Bello Campo, Av Jose Felix Sosa, con Avenida Santa Ana, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122610136",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 57,
+  "name": "Hotel Yare",
+  "address": "F4RH+RMW, Avenida 3 Las Delicias, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127627378",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 58,
+  "name": "Garden Suites Hotel",
+  "address": "F6V8+QQR, Carretera Via Mariche Urb Miranda, Miranda 1073, Miranda, Venezuela",
+  "phone": "+582125780437",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 59,
+  "name": "Hotel Plaza Palace Sabana Grande",
+  "address": "5ta. Transversal, con Cuarta Avenida, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122669844",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 60,
+  "name": "Montaña Suites",
+  "address": "F4VG+VPV, Calle Los Mangos, entre Libertador y Av. Solano, Edificio Hotel Plaza Palace,, Calle Los Mangos, Caracas, Distrito Capital, Venezuela",
+  "phone": "+582127624821",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 61,
+  "name": "Dallas Suites Hotel",
+  "address": "Av Sur 4, Pilita a Glorieta #85, Edif. Hotel Palas Quinta Crespo a 3 cuadras de Radio Caracas TV y a 1 cuadra de Alcaldía y Sumat, Caracas, Distrito Capital, Venezuela",
+  "phone": "+582124825731",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 62,
+  "name": "Hotel Villa d' Este",
+  "address": "Prolongacion, Avenida Trieste, Caracas, Miranda, Venezuela",
+  "phone": "+582122570032",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 63,
+  "name": "HOTEL PALAS",
+  "address": "Prol. Av. Las Acacias, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+584123229005",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 64,
+  "name": "Bello campo hotel \u0026 suites",
+  "address": "F4VR+PP6, C. Páez, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582122653946",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 65,
+  "name": "Hotel Plaza Venezuela",
+  "address": "Av.México con Sur 25, Av. México, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+582125035000",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 66,
+  "name": "Hotel Las Americas Sabana Grande",
+  "address": "F4W9+36R, Caracas 1052, Distrito Capital, Venezuela",
+  "phone": "+582127827033",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 67,
+  "name": "Hotel Tampa Sabana Grande",
+  "address": "F4G4+F3J, terminal la bandera, Caracas, Distrito Capital, Venezuela",
+  "phone": "+582126614994",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 68,
+  "name": "Hotel Tamanaco Caracas",
+  "address": "F3XJ+48X, Av. Baralt, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+584242592166",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 69,
+  "name": "CasaBlanca Posada y Restaurant",
+  "address": "F3J6+QJH, Av. José Antonio Páez, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "+582124511616",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 70,
+  "name": "Hotel Paseo Las Mercedes",
+  "address": "F5W2+HP3, Av. Luis Roche, Caracas, Miranda, Venezuela",
+  "phone": "+582127711000",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 71,
+  "name": "Caracas Hotels",
+  "address": "Avenida Loyola, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 72,
+  "name": "Hotel Coliseo",
+  "address": "F2JP+JMH, Calle6, Caracas 1000, Distrito Capital, Venezuela",
+  "phone": "+582124722048",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 73,
+  "name": "Hotel Boulevard Suite Sabana Grande",
+  "address": "P.º Ávila, 1050, La Guaira, Venezuela",
+  "phone": "+582125359120",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 74,
+  "name": "Hotel Plaza Mayor C.A",
+  "address": "Distribuidor Santa Fe, Autop. Prados del Este, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "+582129936644",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 75,
+  "name": "Terminus Hotel Sabana Grande",
+  "address": "G522+55V, Trans. 3, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582123194300",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 76,
+  "name": "Hotel Grand Galaxie",
+  "address": "J467+H6W, Macuto 1164, La Guaira, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 77,
+  "name": "Hotel El Conde",
+  "address": "Carretera Los Guayabitos - Oripoto - El Hatillo, Caracas 1083, Miranda, Venezuela",
+  "phone": "+584143664430",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 78,
+  "name": "Hotel Milenio",
+  "address": "F4W9+W8W, Avenida Valparaiso, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127930411",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 79,
+  "name": "Hotel Altamira",
+  "address": "1071 Av. José Félix Sosa, Caracas 1071, Miranda, Venezuela",
+  "phone": "10711071",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 80,
+  "name": "Hotel Crillon Suites",
+  "address": "Calle 10, Catia La Mar 1162, Vargas, Venezuela",
+  "phone": "+584141142228",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 81,
+  "name": "Hotel Beethoven",
+  "address": "Ferretería Lo Pilato, Avenida Principal El Ejercito Cruce, Con C. 5, Catia La Mar 1162, La Guaira, Venezuela",
+  "phone": "+582123511887",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 82,
+  "name": "Primera Avenida Suites",
+  "address": "Avenida principal de Playa Grande, Calle 1, Catia La Mar 1162, La Guaira, Venezuela",
+  "phone": "+582123511054",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 83,
+  "name": "Le Petit In",
+  "address": "H2WC+VP3, Maiquetía 1162, La Guaira, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 84,
+  "name": "Hotel California Suites",
+  "address": "Av. Este 2 entre, Av. Sur, Catia La Mar 1160, La Guaira, Venezuela",
+  "phone": "+584122535911",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 85,
+  "name": "Hotel Liana",
+  "address": "F4V9+WG2, Av. Las Acacias, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127931646",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 86,
+  "name": "Hotel Lima",
+  "address": "Maiquetía 1162, Vargas, Venezuela",
+  "phone": "+584142113221",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 87,
+  "name": "Hotel El Paseo",
+  "address": "F4WF+C3C, Blvr. de Sabana Grande, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 88,
+  "name": "Candida",
+  "address": "Avenida el hotel con calle 4 Urbanización, Catia La Mar 1162, La Guaira, Venezuela",
+  "phone": "+582123520118",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 89,
+  "name": "Hotel Avila",
+  "address": "Calle Principal, Catia La Mar 1162, La Guaira, Venezuela",
+  "phone": "+584144159948",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 90,
+  "name": "Hotel Altavista",
+  "address": "Hotel Renovación, Av Este 2, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+582125710133",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 91,
+  "name": "Hotel Limón",
+  "address": "Av. La Armada, Urb Av. Diez De Marzo, Maiquetía, Vargas, Venezuela",
+  "phone": "+582127000700",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 92,
+  "name": "Hotel Dallas",
+  "address": "F5X5+F2V, Avenida 4, Caracas 1060, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 93,
+  "name": "Hotel La Floresta",
+  "address": "Urb Puerto Viejo, 2da Calle, Catia La Mar, La Guaira, Venezuela",
+  "phone": "+582123519097",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 94,
+  "name": "Posada Lomas de Galipan",
+  "address": "con Av Sta Lucia, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582129529833",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 95,
+  "name": "Hotel El Marqués",
+  "address": "Av Sur con calle 3 Urb, Catia La Mar 1162, La Guaira, Venezuela",
+  "phone": "+584127290901",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 96,
+  "name": "Casa Infnito",
+  "address": "Final Av. Intercomunal de Macuto, Macuto 1164, La Guaira, Venezuela",
+  "phone": "+582126202000",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 97,
+  "name": "Hotel Kursaal",
+  "address": "2da Avenida Las Delicias, Av Francisco Solano Lopez, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127621971",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 98,
+  "name": "Aladdin Hotel",
+  "address": "Avenida 1 con, Transversal 1 Los Palos Grandes, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122093111",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 99,
+  "name": "Residencias Santa Fe",
+  "address": "F4WC+6V7, Bulevar de, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127628575",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 100,
+  "name": "Hotel Montserrat",
+  "address": "Centro Ciudad Comercial Tamanaco, Torre D, Nivel Lobby, Avenida La Estancia, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582127008000",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 101,
+  "name": "Hotel Dal Bo Hostel",
+  "address": "Av. Tamanaco, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122121177",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 102,
+  "name": "Cuatricentenario Caracas",
+  "address": "F4VW+8MJ, Avenida Francisco de Miranda, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582129566900",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 103,
+  "name": "Restaurant El Alazan de Altamira",
+  "address": "G42X+GJF, Avenida 4, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122658302",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 104,
+  "name": "Rest. La Casa Bistro",
+  "address": "Av. San Juan Bosco, Caracas 1060, Miranda, Venezuela",
+  "phone": "+584241773757",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 105,
+  "name": "Aprile Restaurant",
+  "address": "entre Calle Caroni y New York, Av. Río de Janeiro, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582129933321",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 106,
+  "name": "Moreno Restaurante",
+  "address": "tercera avenida de los palos grandes, entre 3ra y, 4 Transversal, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122853103",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 107,
+  "name": "Barako",
+  "address": "F4MQ+935, C. París, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 108,
+  "name": "El Cine Restaurant",
+  "address": "4ta Trans. 4, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122850208",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 109,
+  "name": "Anonimo Restaurante",
+  "address": "G42X+VHW, Transversal 5, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582122645775",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 110,
+  "name": "Pacifico",
+  "address": "con 5ta transversal Hotel Altamira Village, Av. Luis Roche, Caracas, Venezuela",
+  "phone": "+582122611237",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 111,
+  "name": "Rest. Maute Grill",
+  "address": "Qta. El Portal Av. Río de Janeiro, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582129910892",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 112,
+  "name": "El Tinajero de los Helechos",
+  "address": "C5FF+8XM, Calle Comercio, Caracas 1083, Miranda, Venezuela",
+  "phone": "+584142934657",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 113,
+  "name": "San Pietro",
+  "address": "Caracas 1040, Capital District, Venezuela",
+  "phone": "+582127937246",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 114,
+  "name": "Rest. Tarzilandia",
+  "address": "Av. Las Acacias, Caracas 1050, Miranda, Venezuela",
+  "phone": "+582127827665",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 115,
+  "name": "Rest. Aranjuez",
+  "address": "Caracas 1071, Miranda, Venezuela",
+  "phone": "+582122564098",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 116,
+  "name": "Rest. Lasserre",
+  "address": "F4JV+H24, C. París, Caracas 1080, Miranda, Venezuela",
+  "phone": "+584126871038",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 117,
+  "name": "Casa Veroes",
+  "address": "C4Q4+MXW, Caracas 1080, Miranda, Venezuela",
+  "phone": "+582129781364",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 118,
+  "name": "Taiko Sushi Bar",
+  "address": "F4XW+2G4, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122642121",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 119,
+  "name": "Restaurant 360",
+  "address": "G522+799, Trans. 3, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "522+79931060",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 120,
+  "name": "Puerkos Restaurant",
+  "address": "Esq. Candilito a Urapal. Local M-091, Mezzanina CC Casa Bera, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+584126330155",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 121,
+  "name": "Tapas Restaurant El Caserío",
+  "address": "Av. Andrés Bello, Caracas 1060, Miranda, Venezuela",
+  "phone": "+584120495171",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 122,
+  "name": "Rest. Mokambo",
+  "address": "Av. Intercomunal La Trinidad - El Hatillo C.C. Trinidad Tepuy Caracas, 1081, Miranda, Venezuela",
+  "phone": "+584242210706",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 123,
+  "name": "Restaurant 360",
+  "address": "F4XX+HGR, C. San Felipe, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582122630806",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 124,
+  "name": "Catar",
+  "address": "Centro Comercial Galería, Avenida Sur, Caracas 1012, Distrito Capital, Venezuela",
+  "phone": "+584126206809",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 125,
+  "name": "Puerkos Restaurant",
+  "address": "1010 caracas, 1010, Miranda, Venezuela",
+  "phone": "10101010",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 126,
+  "name": "Rest. Mokambo",
+  "address": "G35Q+89J, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+582125612483",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 127,
+  "name": "La Gallinita Restaurant",
+  "address": "Cristal Palace Trans. 2, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582122851125",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 128,
+  "name": "Caracas Steakhouse",
+  "address": "F4XW+G72, Caracas 1060, Miranda, Venezuela",
+  "phone": "+584242094927",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 129,
+  "name": "Brasas Restaurant Santa Mónica",
+  "address": "Avenida Blandín, Centro Comercial Mata de Coco, Local LC-04, Nivel PB Caracas, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122669828",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 130,
+  "name": "Ajíes",
+  "address": "C.C. Bello Campo, Sótano, C. Independencia, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122676715",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 131,
+  "name": "La Rustichella Restaurant",
+  "address": "Altamira Village, Caracas, Caracas, Miranda, Venezuela",
+  "phone": "+584241875316",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 132,
+  "name": "The Rocks Caracas",
+  "address": "Qta. Toscanella, C. Madrid, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "+582129913338",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 133,
+  "name": "La Gorda (comida criolla)",
+  "address": "F47R+FV6, Calle Madrid de, Caracas 1080, Miranda, Venezuela",
+  "phone": "+582129912202",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 134,
+  "name": "Restaurante Da Gaby y Tony",
+  "address": "Calle Madrid Piso 8, Torre THE BOX, con C. New York, Caracas 1060, Miranda, Venezuela",
+  "phone": "+584242042697",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 135,
+  "name": "Rest. Terraza SteakHouse",
+  "address": "entre calles Caroní y Nueva York, C. Madrid, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582129929664",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 136,
+  "name": "Patagonia Restaurant",
+  "address": "F5X2+GWJ, Trans. 1, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582122093483",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 137,
+  "name": "La Huerta Sabana Grande",
+  "address": "Avenida Principal de Las Mercedes, con C. Nueva York, Caracas, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 138,
+  "name": "360 Restaurante",
+  "address": "G522+XH3, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122613601",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 139,
+  "name": "La Vinateria",
+  "address": "Avenida José Antonio Páez, El Paraíso, Caracas Caracas Metropolitan District, 1020, Miranda, Venezuela",
+  "phone": "+584242013606",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 140,
+  "name": "IL Gelso Ristorante",
+  "address": "C5J9+XC6, Caracas 1083, Miranda, Venezuela",
+  "phone": "+582129634446",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 141,
+  "name": "Yantares Restaurant",
+  "address": "F4MQ+37M, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "+582129937222",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 142,
+  "name": "El Rancho de Tranquilino",
+  "address": "3era transversal con, Cuarta Avenida, Caracas 1810, Miranda, Venezuela",
+  "phone": "+584241285333",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 143,
+  "name": "Restaurant Batacazo",
+  "address": "F3M7+WMP, Av. José Antonio Páez, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "+582124612441",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 144,
+  "name": "Carso Bar",
+  "address": "Urapal, Alcabala a, Av. Nte. 15, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "+582125738819",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 145,
+  "name": "La Cacerola",
+  "address": "Entre Calle Nicolás Copérnico y Nueva York C. Nueva York, Caracas 1080, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 146,
+  "name": "Tutto Pasta",
+  "address": "Cuadra Gastronómica, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122857019",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 147,
+  "name": "MO Cafe Restaurant",
+  "address": "F5P5+XQX, Avenida Francisco de Miranda, Caracas 1064, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 148,
+  "name": "Vistarroyo Restaurant",
+  "address": "F4WX+HC6, Av. Eugenio Mendoza, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582122611874",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 149,
+  "name": "Restaurant La Isabella",
+  "address": "Primera Avenida de Los Palos Grandes con Tercera Trasversal, Caracas 1060, Miranda, Venezuela",
+  "phone": "+584141355534",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 150,
+  "name": "Araxi Burger Grill \u0026 Gourmet",
+  "address": "F4WC+C5G, Av Francisco Solano Lopez, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127630937",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 151,
+  "name": "LUPE Mexican Food",
+  "address": "F3XV+Q8J, Av. Este 10 Bis, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "+582125770261",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 152,
+  "name": "RoofTop Bar \u0026 Restaurant",
+  "address": "C.C. Altamira Village, Av. Luis Roche, con, local PB 04 Transversal 5, Caracas 1060, Miranda, Venezuela",
+  "phone": "+584141172555",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 153,
+  "name": "Come a Casa",
+  "address": "G532+5J9, Caracas 1060, Miranda, Venezuela",
+  "phone": "+584127005557",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 154,
+  "name": "Coco Thai Restaurant and Lounge",
+  "address": "RESTAURANTE ATRIO, Calle 2 De Mayo, Caracas 1083, Miranda, Venezuela",
+  "phone": "+584241552547",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 155,
+  "name": "Restaurant Caracas",
+  "address": "212 Av. Orinoco, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582129940616",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 156,
+  "name": "Damasco Restaurant",
+  "address": "F3J6+RM6, Av. Paez con Calle Araguaney, Caracas, Distrito Capital, Venezuela",
+  "phone": "+582124513045",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 157,
+  "name": "Baku's restaurant",
+  "address": "F4HQ+WH5, Caracas 1080, Miranda, Venezuela",
+  "phone": "+582123008843",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 158,
+  "name": "El Cine City",
+  "address": "y, Edif. Multicentro Empresarial, Av. Andrés Bello entre Av. Francisco de Miranda, 1A Transversal, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122851003",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 159,
+  "name": "Zona Burger",
+  "address": "Av Norte 11 Esquina Platanal a Desamparados Edif Granor Local E Caracas, 1010, Distrito Capital, Venezuela",
+  "phone": "+582125627826",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 160,
+  "name": "Marrakech",
+  "address": "G534+WC9, Av. Trans. 6, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582122868692",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 161,
+  "name": "Rest. Urrutia",
+  "address": "45 Calle Los Apamates, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127630448",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 162,
+  "name": "D.O.C Bar Restaurant",
+  "address": "F4XV+8QJ, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+584242130102",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 163,
+  "name": "Babel Restaurant",
+  "address": "Av paez del paraiso qta fantacia parte alta local 2 Caracas, 1020, Distrito Capital, Venezuela",
+  "phone": "+584242768870",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 164,
+  "name": "Rest. Buddha Bar",
+  "address": "Chacao, avenida Guaicaipuro centro Metropolitano nivel superior local 39 Caracas, 1060, Miranda, Venezuela",
+  "phone": "+582122666695",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 165,
+  "name": "Pika's",
+  "address": "F4H5+PWW, C. Teresa Carreno, Caracas 1041, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 166,
+  "name": "ATRIO Restaurante",
+  "address": "Av. 1, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122831707",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 167,
+  "name": "Menta \u0026 Romero",
+  "address": "G522+XFW, Transversal 5, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582129568383",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 168,
+  "name": "Restaurante Da Guido",
+  "address": "F4JQ+9MC, C. Nicolás Copérnico, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "+582123008573",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 169,
+  "name": "Restaurante La Estancia",
+  "address": "Ave. Principal de La Castellana Centro Letonia, Nivel Galeria, Local F-09 Caracas 1060, Venezuela., Caracas 1060, Miranda, Venezuela",
+  "phone": "0910601060",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 170,
+  "name": "Rest. Alto",
+  "address": "C.C. Sambil, Nivel Diversión Caracas, 1040, Miranda, Venezuela",
+  "phone": "+582122645125",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 171,
+  "name": "Vizio",
+  "address": "F53H+4RH, Caracas 1073, Distrito Capital, Venezuela",
+  "phone": "+582129861990",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 172,
+  "name": "Restaurante Valparaíso",
+  "address": "Caracas 1080, Miranda, Venezuela",
+  "phone": "+584123694066",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 173,
+  "name": "Olio Restaurante",
+  "address": "con 7am. Avenida de, 4ta Transversal, Caracas, Miranda, Venezuela",
+  "phone": "+584143106100",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 174,
+  "name": "White, Comedor",
+  "address": "C46G+78X, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "+582129621727",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 175,
+  "name": "Restaurant La Cita",
+  "address": "F3RG+H6H, Avenida Los Liberales, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 176,
+  "name": "Focaccia",
+  "address": "F4Q9+PCP, Caracas 1041, Distrito Capital, Venezuela",
+  "phone": "+582127531373",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 177,
+  "name": "La Fontana de Ulpiano Ristorante",
+  "address": "F4RP+66V, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582129512797",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 178,
+  "name": "Belle Vue",
+  "address": "G422+RMF, Av Este 2, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 179,
+  "name": "KamiSushi Restaurant",
+  "address": "F4RP+MJG, Avenida Francisco de Miranda, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582129541071",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 180,
+  "name": "Restaurant El Barquero",
+  "address": "G545+H2Q, Caracas 1060, Miranda, Venezuela",
+  "phone": "+584123473237",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 181,
+  "name": "Rest. Bambú",
+  "address": "F5X2+GVF, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122093493",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 182,
+  "name": "MORANDI",
+  "address": "F4VH+92W, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127616643",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 183,
+  "name": "Rest. Palms",
+  "address": "La Glorieta, Av. Sur 4 esquina pilita a, Caracas, Distrito Capital, Venezuela",
+  "phone": "+582124839119",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 184,
+  "name": "La Volta Ccs",
+  "address": "F4MQ+8X4, C. Madrid, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "+582129937793",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 185,
+  "name": "Salvaje Caracas",
+  "address": "C4Q5+J3P de, Avenida Principal, Caracas 1080, Miranda, Venezuela",
+  "phone": "+584242453402",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 186,
+  "name": "Antigua Bistró Italiano",
+  "address": "Caracas 1064, Miranda, Venezuela",
+  "phone": "+582122668290",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 187,
+  "name": "Hereford Grill",
+  "address": "Avenida Los Chaguaramos, Caracas 1050, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 188,
+  "name": "Segreto Caracas",
+  "address": "Calle Santa Rosalía, a 25 m de la Plaza Bolívar, Caracas 1083, Miranda, Venezuela",
+  "phone": "+582129637476",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 189,
+  "name": "El Tizón Restaurant",
+  "address": "Av Paseo Colón, Parque Los Caobos, Fuente, Ajíes Café caracas, 1010, Distrito Capital, Venezuela",
+  "phone": "+584141046507",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 190,
+  "name": "La Oficina, Restaurant",
+  "address": "F4MV+XWX, Caracas 1064, Miranda, Venezuela",
+  "phone": "+582129594303",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 191,
+  "name": "Barriott",
+  "address": "Avenida Los Chaguaramos, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+584129632829",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 192,
+  "name": "Tarabish Restaurant",
+  "address": "Altamira Village Caracas, Caracas 1060, Miranda, Venezuela",
+  "phone": "+584149171929",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 193,
+  "name": "Arepa Factory",
+  "address": "F4H5+XJP, Caracas 1041, Distrito Capital, Venezuela",
+  "phone": "+582126622755",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 194,
+  "name": "Bar Restaurant CARACAS 1800",
+  "address": "Calle Madrid con Monterrey (Quinta Luisa, Las Mercedes), Caracas, C. Monterrey, Caracas, Distrito Capital, Venezuela",
+  "phone": "+584129225510",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 195,
+  "name": "Azotea Gastrobar",
+  "address": "Cuadra gastronómica, Urb, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122850649",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 196,
+  "name": "Restaurant Azahar",
+  "address": "Calle Madrid con Monterrey (Quinta Luisa, Las Mercedes), Caracas, C. Monterrey, Caracas, Distrito Capital, Venezuela",
+  "phone": "+584129225510",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 197,
+  "name": "Ávila Tei",
+  "address": "Edificio Don Fernando, PB Av. Casanova, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+584126039270",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 198,
+  "name": "Caracas Street Food",
+  "address": "Edificio Don Fernando, PB Av. Casanova, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+584126039270",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 199,
+  "name": "Rest. Altamar",
+  "address": "G432+V2P, Caracas 1011, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 200,
+  "name": "La Candelita Restaurant.",
+  "address": "F4VG+8RV, Av Francisco Solano Lopez, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127620614",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 201,
+  "name": "Mr. Morrison Bar Restaurant",
+  "address": "G432+V2P, Caracas 1011, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 202,
+  "name": "Arrecife",
+  "address": "F4MR+G3H, Av. La Trinidad, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "+582129935647",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 203,
+  "name": "Casa Mall",
+  "address": "CC, Caracas 0212, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 204,
+  "name": "Tolón Fashion Mall",
+  "address": "Trans. 361 E, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "+584241335635",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 205,
+  "name": "Caracas Mall",
+  "address": "C5Q7+XHQ, Avenida Principal Los Naranjos, \u0026 Av. El Paují, Caracas 1083, Miranda, Venezuela",
+  "phone": "+582129860820",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 206,
+  "name": "El Recreo Shopping Mall",
+  "address": "G34V+7WC, ESQUINA CRUZ A CANDILITO, Av. Nte. 13, Caracas, Distrito Capital, Venezuela",
+  "phone": "+582125784043",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 207,
+  "name": "Santa Monica Plaza Shopping Mall",
+  "address": "F48M+WGM, Caracas 1080, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 208,
+  "name": "Valle Arriba Mall",
+  "address": "Av. Casanova, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127068906",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 209,
+  "name": "Plaza Shopping Center",
+  "address": "F4JQ+9JV, Avenida Principal de las Mercedes, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "+582123008866",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 210,
+  "name": "Paseo El Hatillo - La Lagunita",
+  "address": "F4C5+QFH, Districto, Av. Francisco Lazo Martí, Caracas, Distrito Capital, Venezuela",
+  "phone": "+584140108466",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 211,
+  "name": "Galerias Los Naranjos",
+  "address": "C5W9+QJ2, Caracas 1083, Distrito Capital, Venezuela",
+  "phone": "+582129860541",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 212,
+  "name": "Alto Prado Shopping Center",
+  "address": "Centro Comecial Paseo El Hatillo, Avenida Sur, Caracas 1083, Miranda, Venezuela",
+  "phone": "+582122115211",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 213,
+  "name": "c.c Unicentro",
+  "address": "G42G+Q4C, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+584241388777",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 214,
+  "name": "Los Chaguaramos Shopping Mall",
+  "address": "F5VM+RRR, Av. Rómulo Gallegos, Caracas 1071, Miranda, Venezuela",
+  "phone": "+582122383575",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 215,
+  "name": "Centro comercial awack center",
+  "address": "Calle El Comercio CC Awak Center. Urb. Bella Vista Vía, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "+582124722526",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 216,
+  "name": "Centro Comercial Sebucán",
+  "address": "F4W9+JJR, Av. Las Acacias, Caracas 1052, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 217,
+  "name": "Centro Plaza",
+  "address": "F5C6+RQX, Caracas 1061, Miranda, Venezuela",
+  "phone": "+582129877223",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 218,
+  "name": "Galeria El Hatillo",
+  "address": "G34P+VF6, Av. Urdaneta, Caracas 1012, Distrito Capital, Venezuela",
+  "phone": "+582125644030",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 219,
+  "name": "California Suites \u0026 Mall",
+  "address": "norte, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "+582129793101",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 220,
+  "name": "MALL PLAZA",
+  "address": "F4V8+R2G, Caracas 1052, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 221,
+  "name": "Centro Polo",
+  "address": "Torre La Primera, Caracas 1060, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 222,
+  "name": "Santa Monica Mall",
+  "address": "F4W7+VHC, Pl. Venezuela, Caracas 1052, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 223,
+  "name": "Galerias Rosal Plaza",
+  "address": "de, 2da Avenida, Districto Federal, con Calle 1, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 224,
+  "name": "C.C. Miami Mall",
+  "address": "G372+7Q5, Caracas 1030, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 225,
+  "name": "Expresso Chacaito Mall",
+  "address": "F3G2+747, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 226,
+  "name": "Metrocenter Mall",
+  "address": "Entre Calle 50 y Calle 50 de Montalban II, Calle 51, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "5050511020",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 227,
+  "name": "San Martin Shopping Center",
+  "address": "C4WH+PP6, Av. América, Caracas 1080, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 228,
+  "name": "Candelaria Center",
+  "address": "G34W+F67, Av. Urdaneta, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "+582125781420",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 229,
+  "name": "Manzanares Plaza Shopping Mall",
+  "address": "F3WH+WXM, Avenida Oeste 16, Caracas 1014, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 230,
+  "name": "Centro Comercial del Este",
+  "address": "F3RG+52V, Calle Madariaga, Caracas 1020, Districto Federal, Venezuela",
+  "phone": "+582124812246",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 231,
+  "name": "Centro Comercial Caracas Mall",
+  "address": "1080 C.C. Santa Rosa de Lima Planta Baja Local 04 Clle A,B Urb, Caracas 1080, Miranda, Venezuela",
+  "phone": "1080041080",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 232,
+  "name": "City Market Shopping Mall",
+  "address": "C5W9+PFC, Caracas 1083, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 233,
+  "name": "Centro Comercial Galerías Perico",
+  "address": "G378+XM6, Caracas 1030, Distrito Capital, Venezuela",
+  "phone": "+584123284547",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 234,
+  "name": "Centro Comercial Plaza Broadway Sabana Grande",
+  "address": "Avenida Prados Del Este, Caracas 1080, Distrito Capital, cúcuta, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 235,
+  "name": "Boleita Outlet Center",
+  "address": "centro comercial city market niv plaza loc 141, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+584123251130",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 236,
+  "name": "Capitol Square C.C",
+  "address": "51 Escaleras de Queseras, Caracas 1000, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 237,
+  "name": "Minicentro Tanino Plaza",
+  "address": "G34V+9WX, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "+584241811337",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 238,
+  "name": "Caracas Mall",
+  "address": "C4MF+JQQ, C. Bolívar, Caracas 1080, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 239,
+  "name": "C.C. Plaza Las Américas Segunda Etapa",
+  "address": "Centro Comercial City Market, Sábana Grande Nivel Plaza, Local B-103, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+584128374491",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 240,
+  "name": "Galerias Magic Center",
+  "address": "G33M+R87, Caracas 1012, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 241,
+  "name": "C.C Paradise Galleries",
+  "address": "Oficentro Padre Sierra, Av Este 2, Caracas 1012, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 242,
+  "name": "Jirafei center ️‍ ️‍",
+  "address": "F4VC+WW2, Bulevar de, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 243,
+  "name": "Centro Comercial El Marqués",
+  "address": "Caracas 1080, Miranda, Venezuela",
+  "phone": "+582129797424",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 244,
+  "name": "C. C. Millennium",
+  "address": "G38G+2WQ, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 245,
+  "name": "Centro Comercial Plaza Prado",
+  "address": "6 Calle Negrín, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 246,
+  "name": "Centro Ciudad Comercial Tamanaco",
+  "address": "F38W+X3C, Calle Cajigal, Caracas 1090, Distrito Capital, Venezuela",
+  "phone": "+582126717245",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 247,
+  "name": "Minicentro Colinas",
+  "address": "P.º Enrique Eraso, Caracas 1080, Miranda, Venezuela",
+  "phone": "+584120124619",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 248,
+  "name": "Plaza las Américas",
+  "address": "Av. Principal Las Mercedes, con Avenida Jalisco, Caracas 1080, Miranda, Venezuela",
+  "phone": "+582129938463",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 249,
+  "name": "Santa Rita Mall",
+  "address": "44 Av. Este 0, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 250,
+  "name": "Multi Center Star",
+  "address": "C. Acuario, Caracas 1061, Miranda, Venezuela",
+  "phone": "+582129856627",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 251,
+  "name": "Unicentro El Marqués",
+  "address": "AV ESTE CON SUR 19 CC PARQUE CARACAS PB LOCAL 2 MINT 2 URB, Caracas, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 252,
+  "name": "Centro Plaza",
+  "address": "F44J+WJF, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 253,
+  "name": "CC La Mansion",
+  "address": "F4RC+JPW, Avenida Venezuela, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127068905",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 254,
+  "name": "Centro Comercial Liberty",
+  "address": "F4RP+FX4, Avenida Francisco de Miranda, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 255,
+  "name": "Lider Mall",
+  "address": "G28X+334, C. 3 La Laguna, Caracas 1030, Distrito Capital, Venezuela",
+  "phone": "28+33431030",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 256,
+  "name": "Centro Comercial Espacio Plaza Venezuela",
+  "address": "F5XH+GPP, Av Principal de Boleíta, Caracas 1071, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 257,
+  "name": "C. C. Galerías Capitolio",
+  "address": "F59J+446, Avenida Mara, Caracas Metropolitan District 1071, Distrito Capital, Venezuela",
+  "phone": "+582122572760",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 258,
+  "name": "Procar Mall",
+  "address": "F4VR+6XG, Avenida Guaicaipuro, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582124155333",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 259,
+  "name": "Galerías Prado de María El Cementerio",
+  "address": "F3JP+FRF, Av. Los Samanes con tercera transversal, El Cementerio, Caracas, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 260,
+  "name": "CC Los Samanes",
+  "address": "F4V8+J7R, Caracas 1052, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 261,
+  "name": "Centro Comercial Multiplaza Victoria",
+  "address": "G33J+QQW, Av. Baralt, Caracas 1012, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 262,
+  "name": "Boleita Center Rómulo Gallegos",
+  "address": "F43V+R5V, Avenida 1, Caracas 1080, Miranda, Venezuela",
+  "phone": "+582129456079",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 263,
+  "name": "Metropolitan Mall",
+  "address": "F3PR+G7V, Av. Nueva Granada, Caracas 1041, Distrito Capital, Venezuela",
+  "phone": "+582126321238",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 264,
+  "name": "Centro Comercial La Laguna",
+  "address": "C2MP+FMW, Av. Ppal de La Hacienda, Caracas 1000, Distrito Capital, Venezuela",
+  "phone": "+582124340825",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 265,
+  "name": "Macaracuay Plaza Shopping Mall",
+  "address": "a corazon de jesus, Avenida universidad esquina coliseo, Caracas 1030, Distrito Capital, Venezuela",
+  "phone": "+584148783259",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 266,
+  "name": "CENTRO COMERCIAL PARQUE CARACAS",
+  "address": "F3JW+6HJ, Caracas 1040, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 267,
+  "name": "Los Campitos Comercial Center",
+  "address": "F4MQ+628, Avenida Principal de las Mercedes, Caracas 1080, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 268,
+  "name": "C.C Galleries El Recreo",
+  "address": "F5PH+9HF, Avenida Francisco de Miranda, Caracas 1071, Miranda, Venezuela",
+  "phone": "+582122254337",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 269,
+  "name": "C.C. Santa Paula",
+  "address": "F4VF+GMM, Bulevar de, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+584123716642",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 270,
+  "name": "Lido Mall",
+  "address": "F3J6+768, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 271,
+  "name": "Centro comercial piñateria",
+  "address": "21 Av Caurimare, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 272,
+  "name": "Centro Automercado",
+  "address": "F54C+XCX, Caracas 1061, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 273,
+  "name": "Plaza Caracas",
+  "address": "1070 Calle unicentro el Marquez CC el marques Nivel 7 local 215 urb, Caracas 1070, Miranda, Venezuela",
+  "phone": "107072151070",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 274,
+  "name": "Sambil La Candelaria",
+  "address": "F5W8+3WR, Caracas 1070, Miranda, Venezuela",
+  "phone": "+582122800900",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 275,
+  "name": "C. C. El Valle",
+  "address": "10.496389,-66.833807 Caracas, Distrito Capital, Venezuela",
+  "phone": "1049638966833807",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 276,
+  "name": "Concresa Shopping Mall",
+  "address": "F2CR+V22, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 277,
+  "name": "Salida Metro Mercaderes",
+  "address": "F5WQ+5MV, Calle Cuyuní, Caracas 1071, Distrito Capital, Venezuela",
+  "phone": "+582122718108",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 278,
+  "name": "Centro comercial Market Play",
+  "address": "C4V5+XPV, Caracas 1080, Miranda, Venezuela",
+  "phone": "+584168288144",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 279,
+  "name": "Mini Center Paris",
+  "address": "Zona rental Plaza Venezuela Salida, Autop. Francisco Fajardo, Caracas 1052, Distrito Capital, Venezuela",
+  "phone": "+584241037317",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 280,
+  "name": "C. C. Paseo Las Mercedes",
+  "address": "G33Q+VW9, Av Este 2, Caracas 1012, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 281,
+  "name": "Sovereign Center referendum",
+  "address": "Avenida La Estancia, C/C C. Ernesto Blohm, 1090, Miranda, Venezuela",
+  "phone": "+584124171128",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 282,
+  "name": "Sexsite Caracas",
+  "address": "F3F3+XMP, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "+582124715138",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 283,
+  "name": "Centro Comercial Candilito",
+  "address": "Calle Sur 4, Esquina la Bolsa a Padre Sierra Edificio Plaza Capitolio Caracas 1012, Caracas 1012, Distrito Capital, Venezuela",
+  "phone": "410121012",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 284,
+  "name": "monster pc ve",
+  "address": "Av. Principal de El Cafetal, Caracas 1061, Miranda, Venezuela",
+  "phone": "+582127203041",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 285,
+  "name": "C.C. Galerías Baruta",
+  "address": "Final C. Imboca, Caracas 1071, Miranda, Venezuela",
+  "phone": "+582122344654",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 286,
+  "name": "centro comercial placa tun",
+  "address": "F4RH+HW3, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 287,
+  "name": "West Mall",
+  "address": "G33R+6HW Av Universidad, esquina Perico, C.C Galerías Perico. Caracas Caracas, 1010, Distrito Capital, Venezuela",
+  "phone": "+582125729232",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 288,
+  "name": "Centro Comercial Santa Rosa de Lima",
+  "address": "Centro Comercial Salva Mall, Zona Rental, Pl. Venezuela, Caracas 1040, Distrito Capital, Venezuela",
+  "phone": "+584143062098",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 289,
+  "name": "Centro Comercial Plaza Paez",
+  "address": "Centro Comercial City Market, Blvr. de Sabana Grande, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+584143224151",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 290,
+  "name": "Sovereign Center referendum",
+  "address": "F4VC+P2V, Av. Casanova, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 291,
+  "name": "Mini Centro Comercial Quinta Crespo Plaza",
+  "address": "Calle Manzanares, Caracas 1080, Miranda, Venezuela",
+  "phone": "+584125967735",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 292,
+  "name": "Prosein Los Naranjos",
+  "address": "F4RJ+6HV, Caracas 1060, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 293,
+  "name": "Centro Comercial Candoral",
+  "address": "Frente a EPA, Av San Martin, Calle 100, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "+582124518543",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 294,
+  "name": "Centro Comercial El Lago",
+  "address": "G33W+R4J, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 295,
+  "name": "Centro Comercial Páez",
+  "address": "Caracas 1012, Capital District, Venezuela",
+  "phone": "+582124827646",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 296,
+  "name": "Terras Plaza",
+  "address": "F4QJ+JJX, Avenida Pichincha, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+584125413823",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 297,
+  "name": "ISIS dayerlin",
+  "address": "F4H5+F24, Av Teresa de la Parra, Caracas 1041, Distrito Capital, Venezuela",
+  "phone": "+582126613976",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 298,
+  "name": "centro comercial zona rental",
+  "address": "Chacaíto, Av Principal del Bosque, Caracas 1050, Miranda, Venezuela",
+  "phone": "+582129513970",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 299,
+  "name": "Mini Centro Plaza Bolivar",
+  "address": "F3JW+6HJ, Caracas 1040, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 300,
+  "name": "Torre La Primera",
+  "address": "G437+MXJ, Av. Andrés Bello, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 301,
+  "name": "Centro Comercial Santa Fe",
+  "address": "F2JW+F6C, Caracas 1000, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 302,
+  "name": "C.C Bicentenario",
+  "address": "F4JQ+G55, Calle California, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "+582129932656",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 303,
+  "name": "El Laguito",
+  "address": "Hacienda La Vega, Av. O'Higgins, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "+582124424818",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 304,
+  "name": "East Park",
+  "address": "G33P+RJJ, esquinas de San Jacinto a Traposos, Caracas, Distrito Capital, Avenida Universidad, Caracas, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 305,
+  "name": "Simón Bolívar Birthplace House",
+  "address": "F5V6+76M, Avenida Francisco de Miranda, Caracas 1071, Miranda, Venezuela",
+  "phone": "+582122732867",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 306,
+  "name": "National Pantheon",
+  "address": "F4X2+C56, Zona Cultural de Parque Central. Nivel Lecuna, Av. Bolívar, Caracas, Distrito Capital, Venezuela",
+  "phone": "+582125738289",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 307,
+  "name": "Contemporary Art Museum",
+  "address": "29-11 Transversal 8, Caracas 1071, Miranda, Venezuela",
+  "phone": "291181071",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 308,
+  "name": "Avila National Park",
+  "address": "G37P+7WH, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+582125061145",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 309,
+  "name": "Hacienda La Vega",
+  "address": "F37X+9M5, Caracas 1090, Distrito Capital, Venezuela",
+  "phone": "+582126090361",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 310,
+  "name": "Parque Los Caobos",
+  "address": "F4C2+CRW, P.º Los Próceres, Caracas 1090, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 311,
+  "name": "Paseo Los Proceres",
+  "address": "Parque Los Caobos, P.º Colón, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 312,
+  "name": "Centro de Arte Los Galpones",
+  "address": "G48R+JVC, Subida Sabas Nieves, Caracas, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 313,
+  "name": "Los Chorros Park",
+  "address": "F4RH+HH9, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 314,
+  "name": "Expanzoo",
+  "address": "G32X+J8W, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 315,
+  "name": "Museum of Fine Arts",
+  "address": "F4R5+7RR, Caracas 1053, Bolívar, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 316,
+  "name": "National Art Gallery",
+  "address": "Avenida Tamanaco, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582126283111",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 317,
+  "name": "Children's Museum of Caracas",
+  "address": "F38X+964, P.º Los Próceres, Caracas 1090, Distrito Capital, Venezuela",
+  "phone": "+584123685699",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 318,
+  "name": "Plaza Bolívar Caracas",
+  "address": "Calle bolívar 12 - el hatillo, Caracas, el hatillo 1083, Miranda, Venezuela",
+  "phone": "+582129635577",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 319,
+  "name": "Ecological gardens Topotepuy",
+  "address": "Residencias Monte Pino, Carr. Baruta - El Placer, Caracas 1080, Miranda, Venezuela",
+  "phone": "+584120100525",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 320,
+  "name": "Caricuao Zoo",
+  "address": "1050, Capital District, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 321,
+  "name": "Iglesia Católica La Chiquinquirá",
+  "address": "Centro Artesanal Los Guajiros, Final Av Casanova, C. Chacaíto, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+584143163565",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 322,
+  "name": "Mercado Municipal de Chacao",
+  "address": "1073, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 323,
+  "name": "Hacienda La Trinidad Parque Cultural",
+  "address": "1060 Avenida Principal de las Mercedes, Caracas 1080, Miranda, Venezuela",
+  "phone": "10601080",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 324,
+  "name": "Museo Bolivariano",
+  "address": "Centro Comecial Paseo El Hatillo, Avenida Sur, Caracas 1083, Miranda, Venezuela",
+  "phone": "+582122115211",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 325,
+  "name": "IGLESIA NUESTRA SEÑORA DE LA CHIQUINQUIRA",
+  "address": "Av. Playa Los Cocos, Caraballeda 1165, La Guaira, Venezuela",
+  "phone": "+584142210512",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 326,
+  "name": "Plaza Francia",
+  "address": "F4X4+M47, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 327,
+  "name": "San Pedro Church",
+  "address": "Iglesia San Pedro, Avenida, Caracas 1041, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 328,
+  "name": "Fuente Venezuela",
+  "address": "G42F+W86, Av. Los Samanes, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 329,
+  "name": "Vive Parapente",
+  "address": "G422+CJ4, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 330,
+  "name": "Caracas",
+  "address": "F4Q8+WCX, Caracas 1041, Distrito Capital, Venezuela",
+  "phone": "+584168258312",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 331,
+  "name": "La Candelaria Parish",
+  "address": "G34P+F9G, Avenida Sur, Caracas 1012, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 332,
+  "name": "Sabana Grande",
+  "address": "Av. Luis Roche, Caracas 1060, Miranda, Venezuela",
+  "phone": "+584122504204",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 333,
+  "name": "Centro Cultural Trasnocho Cultural",
+  "address": "G33M+PQ4, Esquina San Francisco, Avenida Universidad, Caracas, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 334,
+  "name": "Paseo El Hatillo - La Lagunita",
+  "address": "G523+FMJ, Trans. 3, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582122852475",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 335,
+  "name": "Chacao",
+  "address": "URBANIZACION UBICADA ENTRE Y, Avenida Rafael Rangel Sur, 1080, Miranda, Venezuela",
+  "phone": "+582129433133",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 336,
+  "name": "Altamira",
+  "address": "Y Urdaneta, Mercado Municipal de Chacao, Av Mohedano Entre, 1060 Av. Ávila, Caracas 1060, Miranda, Venezuela",
+  "phone": "10601060",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 337,
+  "name": "Santa Teresa Parish",
+  "address": "G42F+MC9, Av. Andrés Bello, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582127300102",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 338,
+  "name": "Centro Artesanal Los Guajiros Sabana Grande",
+  "address": "G34M+GRJ, Esquina de Principal, lado Oeste de la Plaza Bolívar, Av. Este 0, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+582128064311",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 339,
+  "name": "Pico Naiguatá",
+  "address": "Reloj de Sol de San Jacinto, Av Este 2, Caracas 1012, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 340,
+  "name": "Cerro El Ávila",
+  "address": "C48X+XHR, Caracas 1080, Miranda, Venezuela",
+  "phone": "+582129631242",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 341,
+  "name": "Chacao Municipality",
+  "address": "C2JJ+3MH, Av. Ppal de La Hacienda, Caracas 1000, Distrito Capital, Venezuela",
+  "phone": "+582124319166",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 342,
+  "name": "Hannsi House - Craft Center",
+  "address": "F5V5+M6Q, Ruta de Campo, Caracas 1071, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 343,
+  "name": "La Hacienda",
+  "address": "G423+66R, Plaza de los Museos, Bellas Artes, Av. Libertador, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582125780275",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 344,
+  "name": "Ciudad Universitaria de Caracas",
+  "address": "F3XW+PX4, Av. Bolívar, Caracas 1015, Distrito Capital, Venezuela",
+  "phone": "+582125754022",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 345,
+  "name": "Proceres",
+  "address": "Edificio Casa del Profesor, Av. Las Acacias, Caracas 1041, Distrito Capital, Venezuela",
+  "phone": "+584265008580",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 346,
+  "name": "Capital District",
+  "address": "Caracas 1083, Miranda, Venezuela",
+  "phone": "+584122414303",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 347,
+  "name": "Melia Caracas",
+  "address": "G423+22R, Caracas 1014, Districto Federal, Venezuela",
+  "phone": "+582125734398",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 348,
+  "name": "La jungla Ccs",
+  "address": "G32X+H34, Avenida México, entre las estaciones Bellas Artes y Parque Carabobo del Metro de Caracas, frente a Puente Brión, Caracas, Distrito Capital, Venezuela",
+  "phone": "+582125768707",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 349,
+  "name": "Metro Bellas Artes. Esquina Puente Brion",
+  "address": "G477+4CP, Final Av. Principal de Maripérez, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582129015555",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 350,
+  "name": "Obra de arte Territorio Mineral",
+  "address": "G54F+WWX, Avenida Principal de Los Chorros, Caracas 1071, Miranda, Venezuela",
+  "phone": "+582122732840",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 351,
+  "name": "Hospital Clínico Universitario",
+  "address": "Centro Salud Caracas, Avenida Sorocaima, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 352,
+  "name": "Hospital José Gregorio Hernández",
+  "address": "G37W+FH2, Calle Paraiso, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 353,
+  "name": "Hospital San Juan De Dios",
+  "address": "G435+W83, Av. Andrés Bello, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 354,
+  "name": "Caracas Hospital Of Clinics",
+  "address": "Avenida Panteón con Avenida Alameda, Urb. San Bernandino Av. Panteón, Caracas 1011, Districto Federal, Venezuela",
+  "phone": "+582125086111",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 355,
+  "name": "Hospital Miguel Perez Carreño",
+  "address": "G28W+G2P, Caracas 1030, Distrito Capital, Venezuela",
+  "phone": "+582128622910",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 356,
+  "name": "Hospital de Clínicas Caracas",
+  "address": "F2JW+2G7, Calle La Industria, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "+582124728471",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 357,
+  "name": "Hospital clinicas caracas",
+  "address": "Caracas 1080, Miranda, Venezuela",
+  "phone": "+584127099392",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 358,
+  "name": "Children's Hospital \"Dr. J. M. de los Ríos\"",
+  "address": "Av. Vollmer, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582125743511",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 359,
+  "name": "Hospital Vargas de Caracas",
+  "address": "F4R4+49Q, Caracas 1053, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 360,
+  "name": "Hospital de ninos",
+  "address": "a Monte Carmelo San, Calle Simeon, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+582128649145",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 361,
+  "name": "Hospital Ana Francisca Pérez de León",
+  "address": "F4JV+93V, Caracas 1080, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 362,
+  "name": "Hospital Dr. Jesús Yerena",
+  "address": "F4RM+VCX, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582129523739",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 363,
+  "name": "Hospital Domingo Luciani",
+  "address": "Edificio El Sapo, Av. Beethoven, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "+582127540453",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 364,
+  "name": "Concepción Palacios Maternity",
+  "address": "C5M5+6M5, C. 1 El Cigarral, Caracas 1083, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 365,
+  "name": "Hospital Padre Machado",
+  "address": "F42Q+87V, Carretera Caracas -Baruta, Caracas 1080, Miranda, Venezuela",
+  "phone": "+584241848422",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 366,
+  "name": "Hospital José María Vargas",
+  "address": "Caracas 1030, Capital District, Venezuela",
+  "phone": "+582128726444",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 367,
+  "name": "Perez de Leon Hospital",
+  "address": "F5GX+MX9, carretera petare santa lucia sector mesuca, Caracas, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 368,
+  "name": "Marternidad Santa Ana",
+  "address": "F5R8+X8V, A Avenida, Caracas 1071, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 369,
+  "name": "Hospital Dr. Perez Carreño",
+  "address": "G37Q+RVF, Avenida Este 13, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+582125631332",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 370,
+  "name": "Hospital General Dr. José Ignacio Baldó",
+  "address": "G45H+MG4, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 371,
+  "name": "Hospital General Dr. José Ignacio Baldó",
+  "address": "Av. Principal de El Hatillo, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "+582129496411",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 372,
+  "name": "Cdi Ciudadela Bolivariana De Catia Luis Robert Rodriguez",
+  "address": "F5Q7+FQC Edf. Rescarven, Av Central, Caracas 1071, Distrito Capital, Venezuela",
+  "phone": "+582126009700",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 373,
+  "name": "atencion Medica Primaria",
+  "address": "Caracas 1073, Miranda, Venezuela",
+  "phone": "+584122340349",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 374,
+  "name": "Peripheral Hospital Car",
+  "address": "F3GJ+VX2, Caracas 1040, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 375,
+  "name": "Hospital de maricos",
+  "address": "F3HX+JH7, Caracas 1041, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 376,
+  "name": "Hospital Dr. Francisco A. Risquez",
+  "address": "F42G+RP2, Caracas 1080, Miranda, Venezuela",
+  "phone": "+582129776499",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 377,
+  "name": "Consulta Externa Hospital Dr Miguel Perez Carreño IVSS",
+  "address": "Av. Andrés Bello, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "+582125094411",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 378,
+  "name": "Maternal and Child Hospital Hugo Chávez of El Valle",
+  "address": "F29H+292, Calle 13, Caracas 1000, Districto Federal, Venezuela",
+  "phone": "29+292131000",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 379,
+  "name": "Hospital Padre Machado",
+  "address": "G38M+92M, Dos Pilitas a Portillo, Caracas, Caracas, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 380,
+  "name": "Casa Juliet",
+  "address": "G384+263, Caracas 1030, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 381,
+  "name": "IVSS Maternidad Santa Ana",
+  "address": "Calle A-1, Edif. Policlinica Metropolitana, Urb. Caurimare, Caracas 1061, Miranda, Venezuela",
+  "phone": "+582129080100",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 382,
+  "name": "SRI El Conde",
+  "address": "F2CW+85Q, 2da Avenida, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "+582124435143",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 383,
+  "name": "Hospital Médico Quirúrgico \"Dr Ricardo Baquero Gonzales\" Periférico de Catia",
+  "address": "F5GH+G72, Caracas 1071, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 384,
+  "name": "Complejo Hospitalario El Algodonal",
+  "address": "C3PH+V3G, Caracas 1090, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 385,
+  "name": "Hospital Pediatrico Luisa Caseres de Arismendi",
+  "address": "F5MF+V3H, Avenida Principal de Los Cortijos, Caracas 1071, Miranda, Venezuela",
+  "phone": "+584120005544",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 386,
+  "name": "Dr. Hugo Navas - Clínica de Várices del Hospital de Clínicas Caracas",
+  "address": "C4XH+WV3, Caracas 1080, Miranda, Venezuela",
+  "phone": "+582129792266",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 387,
+  "name": "IVSS Pediatric Hospital Dr. Elias Toro",
+  "address": "Estacionamiento del Hospital Domingo Luciani, Caracas, 1073, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 388,
+  "name": "Venezuelan Red Cross",
+  "address": "F3R9+Q3C, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 389,
+  "name": "Clinica Especialistas Unidos",
+  "address": "F34J+F28, C. 16, Caracas 1070, Distrito Capital, Venezuela",
+  "phone": "34+28161070",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 390,
+  "name": "HOSPITAL DUPONT",
+  "address": "Esquina Reducto a Municipal Avenida Baralt, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+584242093763",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 391,
+  "name": "Clínica Nueva Caracas Plaza Sucre",
+  "address": "Caracas, Esq. La Gloria, Casa Casa Nro. 72, Piso PB, Urbanización La Pastora,, Venezuela",
+  "phone": "+582128621365",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 392,
+  "name": "Clínica Popular El Valle",
+  "address": "F4VF+397, C. Negrín, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 393,
+  "name": "Clinica Caurimare",
+  "address": "F4J5+83F, Caracas 1041, Distrito Capital, Venezuela",
+  "phone": "+582123937836",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 394,
+  "name": "Clinico Maternity Center Leopoldo Aguerrevere",
+  "address": "Avenida Panteón con Avenida Eraso, Edif. Centro Caracas Oficina 1-E, Urb. Venezuela Zona Postal 1010, Caracas, Distrito Capital, Venezuela",
+  "phone": "+582125766620",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 395,
+  "name": "Unidad de columna caracas",
+  "address": "F392+8HW, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 396,
+  "name": "Army Military Hospital Dr. Vicente Salias",
+  "address": "G25V+334, Av. El Cuartel Urdaneta, Caracas 1030, Distrito Capital, Venezuela",
+  "phone": "+582128704614",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 397,
+  "name": "Centro Medico UNICATIA",
+  "address": "G36P+F7M, Av. Nte. 2, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 398,
+  "name": "Centro Médico de Caracas",
+  "address": "Final Avenida Loyola, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "+582124063264",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 399,
+  "name": "Hospital Dr. Jesús Mata de Gregorio",
+  "address": "F5JV+7G9, Gran Cacique Guaicaipuro Jefe de Jefes, Caracas 1073, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 400,
+  "name": "centro medico docente la trinidad",
+  "address": "F5JP+VX6, Caracas 1073, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 401,
+  "name": "Zona metropolitana Hospital Perez Carreño",
+  "address": "G463+VJ7, Avenida Mariscal Sucre, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 402,
+  "name": "Hospital Psiquiátrico",
+  "address": "C3P8+Q93, Avenida Lecuna, Caracas 1090, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 403,
+  "name": "Hospital Ortopedico Infantil",
+  "address": "G39V+G3H, Calle Cotiza, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 404,
+  "name": "Clinica Santa Paula",
+  "address": "Planta Baja de la Clinica Atias, Av El Cortijo, con Av. Roosevelt, Caracas, Distrito Capital, Venezuela",
+  "phone": "+582126680036",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 405,
+  "name": "Hospital Italiano de Venezuela",
+  "address": "1060 caracas, 1060, Distrito Capital, Venezuela",
+  "phone": "10601060",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 406,
+  "name": "Hospital Ortopédico infantil",
+  "address": "F5F4+PXP, Caracas 1061, Miranda, Venezuela",
+  "phone": "+582129811000",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 407,
+  "name": "Clinica Ccct",
+  "address": "F3F3+4CR, C. San José, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "+584125656211",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 408,
+  "name": "BSN medical Venezuela, C.A.",
+  "address": "G474+F5Q, Calle Sur, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 409,
+  "name": "Centro Medico Caracas",
+  "address": "F5WV+HMG, Caracas 1071, Miranda, Venezuela",
+  "phone": "+582122420430",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 410,
+  "name": "Clínica El Marqués",
+  "address": "G523+3MP, Av. Andrés Bello, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 411,
+  "name": "La Guayanita",
+  "address": "F4PW+97Q, Caracas 1064, Distrito Capital, Venezuela",
+  "phone": "+582129596444",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 412,
+  "name": "Clinica Santa Sofia",
+  "address": "Urbanización Grupo Médico, piso 2 oficina 209 Torre de Consultorios, Av. Circunvalacion del Sol, Caracas 1060, Miranda, Venezuela",
+  "phone": "22091060",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 413,
+  "name": "ipasme",
+  "address": "Torre Credicard, Av Principal del Bosque, Caracas 1060, Distrito Capital, Venezuela",
+  "phone": "+582127007800",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 414,
+  "name": "RESONANCIA ATIAS",
+  "address": "F33J+HRF, Caracas 1090, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 415,
+  "name": "Hospital oncológico Luis razzeti",
+  "address": "F2MM+7HG, Caracas 1000, Distrito Capital, Venezuela",
+  "phone": "+584146950385",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 416,
+  "name": "Centro Medical Uno",
+  "address": "Av. Circunvalación del Sol, Sector F, Urbanización Santa Paula, Caracas 1061, Miranda, Venezuela",
+  "phone": "+582126555600",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 417,
+  "name": "corporacion sepia",
+  "address": "G452+XCW, Av. Panteón, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 418,
+  "name": "Clinica Popular Lebrun",
+  "address": "Caracas 1030, Capital District, Venezuela",
+  "phone": "+582128706543",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 419,
+  "name": "Hospital Materno Infantil de Petare",
+  "address": "G3F9+8X6, Caracas 1010, Districto Federal, Venezuela",
+  "phone": "+582128600988",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 420,
+  "name": "Policlínica CABISOGUARNAC",
+  "address": "Av. Eraso, Plaza El Estanque Urb, Caracas 1011, Miranda, Venezuela",
+  "phone": "+582125559111",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 421,
+  "name": "IVSS Especialidades Médicas Horacio Almeida",
+  "address": "G52F+9PP, 2da Avenida Montecristo, Caracas 1071, Miranda, Venezuela",
+  "phone": "+582122394870",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 422,
+  "name": "Outpatient Center Dr. Julio Borges Iribaren",
+  "address": "F33V+JFX, P.º Los Próceres, Caracas 1090, Distrito Capital, Venezuela",
+  "phone": "+582126055494",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 423,
+  "name": "SISCA",
+  "address": "C4JV+FPP, C. Centro Medico La Trinidad, Caracas 1080, Miranda, Venezuela",
+  "phone": "+582125086881",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 424,
+  "name": "Hospital Pediatrico Dr Julio Criollo Rivas",
+  "address": "G383+5Q7, C. Real de Los Magallanes, Caracas 1030, Distrito Capital, Venezuela",
+  "phone": "+582128721610",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 425,
+  "name": "Cardiologia",
+  "address": "C4XH+WV3, Caracas 1080, Miranda, Venezuela",
+  "phone": "+582129072222",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 426,
+  "name": "Residencia Socio Asistencia Aranda",
+  "address": "de, Avenida caurimare principal, Av Caurimare, Caracas 1080, Distrito Capital, Venezuela",
+  "phone": "+582127516419",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 427,
+  "name": "Centro de Parálisis Cerebral",
+  "address": "G442+P5M, Avenida Quito, Caracas 1011, Caracas 1011, Av. Vollmer, Caracas 1050, Distrito Capital, Venezuela",
+  "phone": "442+5101110111050",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 428,
+  "name": "Malariología",
+  "address": "F36P+6VW, Caracas 1090, Distrito Capital, Venezuela",
+  "phone": "+582126725506",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 429,
+  "name": "Cdi Maternidad",
+  "address": "G34R+6P4, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "+582125616937",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 430,
+  "name": "Clinica Ana Cecilia, C.A.",
+  "address": "G343+34R, C. Colombia, Caracas 1030, Distrito Capital, Venezuela",
+  "phone": "+584122135153",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 431,
+  "name": "hospital",
+  "address": "Caracas 1000, Avenida Ppal El Algodonal, 1000, Distrito Capital, Venezuela",
+  "phone": "10001000",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 432,
+  "name": "Centro clinico Tanamo",
+  "address": "G432+P79, Avenida Oeste, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "+582125714380",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 433,
+  "name": "Complejo Hemato Oncologico y Radiocirugia Domingo Luciani",
+  "address": "Urb, Avenida Panteón con Avenida Alameda, Av. Panteón, Caracas 1011, Distrito Capital, Venezuela",
+  "phone": "+584142609353",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 434,
+  "name": "C.D.I. La California Sur",
+  "address": "F2MG+7V, Caracas 1000, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 435,
+  "name": "Clínica Leopoldo Aguerrevere",
+  "address": "F3WX+QF2, Av. Este 10 Bis, Caracas 1014, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 436,
+  "name": "Hospital San Jose De Caracas",
+  "address": "G375+925, C. El Cristo, Caracas 1030, Distrito Capital, Venezuela",
+  "phone": "+582128702771",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 437,
+  "name": "CENTRO AMBULATORIO DR. JULIO IRIBARREN BORGES",
+  "address": "F3CR+GRJ, Caracas 1090, Distrito Capital, Venezuela",
+  "phone": "+582126711308",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 438,
+  "name": "Unidad Sanitaria Norte",
+  "address": "Av. Cajigal, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+582125510982",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 439,
+  "name": "Policlínica Metropolitana",
+  "address": "F3HJ+4RV, Caracas 1040, Distrito Capital, Venezuela",
+  "phone": "+582126313240",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 440,
+  "name": "Lino De Clemente La Trinidad Baruta",
+  "address": "F35P+8H9, C. 5, Caracas 1090, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 441,
+  "name": "Servicio Interno de Medicamentos del Hospital Dr. Julio Criollo Rivas",
+  "address": "Calle La Guayanita Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 442,
+  "name": "Mujer Cala centro clinico integral de la mujer",
+  "address": "G38V+CRR, Calle Cotiza, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "+582125519443",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 443,
+  "name": "Children's Orthopedic Hospital",
+  "address": "18 Avenida Principal de Macaracuay, Caracas 1071, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 444,
+  "name": "Salud Care",
+  "address": "C. Elice, Caracas 1060, Miranda, Venezuela",
+  "phone": "+582125761868",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 445,
+  "name": "Clinics Rescarven Santa Cecilia",
+  "address": "C3RF+CCQ, Calle Zea, Caracas 1090, Distrito Capital, Venezuela",
+  "phone": "+582126813906",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 446,
+  "name": "Hospital Cardiológico Infantil Latinoamericano",
+  "address": "Los Magallanes de Catia, Caracas 1030, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 447,
+  "name": "San Rafael",
+  "address": "C. Londres, Caracas 1060, Miranda, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 448,
+  "name": "Clinica Virgen Milagrosa",
+  "address": "F3PH+QHV, Rtno a El Peaje, Caracas 1020, Distrito Capital, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 449,
+  "name": "Centro Médico Docente La Trinidad",
+  "address": "Av. Principal El Algodonal, Caracas 1000, Distrito Capital, Venezuela",
+  "phone": "+584142874816",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 450,
+  "name": "Clinica Popular Mesuca",
+  "address": "Av. Principal El Algodonal, Caracas 1000, Distrito Capital, Venezuela",
+  "phone": "+584142874816",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 451,
+  "name": "Inter Maracaibo Hotel",
+  "address": "Av. 1B Sector Cotorrera El Milagro, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582614000000",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 452,
+  "name": "Hotel Kristoff",
+  "address": "# 68-48, 8th Avenue, 68th Sector Santa Rita., Maracaibo 4002, Zulia, Venezuela",
+  "phone": "68488684002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 453,
+  "name": "Tibisay Hotel Del Lago",
+  "address": "Av 9B, \u0026 C. 74, Maracaibo, Zulia, Venezuela",
+  "phone": "+584146897019",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 454,
+  "name": "Hotel El Paseo",
+  "address": "Desarrollos Hoteleros del Zulia C.A Circunvalacion #2, Zona Industrial Maracaibo, 4004, Zulia, Venezuela",
+  "phone": "+582614116800",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 455,
+  "name": "Hotel Maracaibo Cumberland",
+  "address": "Calle 100, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+584146901138",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 456,
+  "name": "El Gran Hotel Delicias",
+  "address": "Dr. Portillo, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582614125000",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 457,
+  "name": "Crowne Plaza Maruma Hotel \u0026 Casino",
+  "address": "Calle 86 A, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617222224",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 458,
+  "name": "Hotel Aeropuerto",
+  "address": "Avenida El Milagro, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582617944222",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 459,
+  "name": "Hotel Jolie",
+  "address": "M9CH+6VF, Avenida 15 Las Delicias, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617976111",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 460,
+  "name": "Apart Hotel Inter Inn Residence",
+  "address": "M99J+764, Andrés Bello, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582617982139",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 461,
+  "name": "Oceanía Hotel Boutique",
+  "address": "Sector, Calle Libertad, Av Las Cabillas, Cabimas 4013, Zulia, Venezuela",
+  "phone": "+584126574963",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 462,
+  "name": "Apart Hotel President",
+  "address": "M87P+694, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 463,
+  "name": "Posada Oleary",
+  "address": "Circunvalación Nº2, Frente al C.C. San Miguel, Maracaibo-Venezuela, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617874141",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 464,
+  "name": "Hotel Euro América",
+  "address": "Avenida 15 (Delicias, con C. 73, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "15734001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 465,
+  "name": "Hotel Doral",
+  "address": "Circunvalación Nº2, Frente al C.C. San Miguel, Maracaibo-Venezuela, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617874141",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 466,
+  "name": "Hotel Costa Real",
+  "address": "J9X9+WPQ, Av. 28 La Limpia, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617159815",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 467,
+  "name": "Hotel Santa Bárbara",
+  "address": "Av. 3g entre calle 71 y 72. Sector Bellas Artes, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "371724001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 468,
+  "name": "Hotel Millenium Suite",
+  "address": "P946+H62, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617572811",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 469,
+  "name": "Apart Hotel Suite Golden Monky",
+  "address": "CG3G+6X7 Diagonal a la Plaza León de Cabimas, Av. Andres Bello, Cabimas 4013, Zulia, Venezuela",
+  "phone": "+582642415692",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 470,
+  "name": "Hotel Shariff",
+  "address": "77 C. 77, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "77774001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 471,
+  "name": "Casa Maracaibo",
+  "address": "Calle 111, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "+584246776837",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 472,
+  "name": "Hotel Shariff",
+  "address": "J84V+X2H, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "+582617362811",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 473,
+  "name": "Hotel Maracaibo Suites, C.A.",
+  "address": "Av. Padilla, Calle 93# 2A-12 Sector Santa Lucía. Diag. al Hospital Central y a lado del, O LEARY, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "932124001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 474,
+  "name": "Hotel Euro c.a",
+  "address": "Av 11 # 68-50 entre calle 68 y 69., 68-50 Avenida 11, Maracaibo, Zulia, Venezuela",
+  "phone": "1168506869685011",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 475,
+  "name": "ApartaHotel ROIS",
+  "address": "Calle 75, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246280122",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 476,
+  "name": "Hotel Cabimas Internacional",
+  "address": "Calle 78 Dr. Portillo, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+584246074538",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 477,
+  "name": "Mi Vaquita Steak House \u0026 Bar",
+  "address": "con Calle 79, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617921615",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 478,
+  "name": "Osteria Restaurante Italiano",
+  "address": "Av. 11 entre calles 75 y 76, Avenida 11, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "117576114002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 479,
+  "name": "Da Vinci Ristorante",
+  "address": "M97V+8H2, Avenida 3Y, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617921292",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 480,
+  "name": "Catalina gastropub \u0026 cafe",
+  "address": "M9GR+437, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582617972384",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 481,
+  "name": "Asaos Grill",
+  "address": "M987+MX3, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 482,
+  "name": "Two4One",
+  "address": "76-22, Avenida3-H, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "762234002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 483,
+  "name": "Canel Maracaibo",
+  "address": "C.C. Terraza 77, 2do piso, local 32 C. 77, Maracaibo, Zulia, Venezuela",
+  "phone": "+584126641074",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 484,
+  "name": "Trinchera House",
+  "address": "Av. 3G entre calles 75 y 76, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "375764001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 485,
+  "name": "Yal-La Restaurant",
+  "address": "M96H+WMQ Grano de Oro, Calle 78, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617629346",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 486,
+  "name": "Restaurant Don Lechon",
+  "address": "Avenida 15G, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584120770234",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 487,
+  "name": "Siesta Key Social Cocktails \u0026 Food",
+  "address": "Avenida 15 Las, Av. Las Delicias, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+584246470324",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 488,
+  "name": "Sabor Zuliano",
+  "address": "M98M+MF2, Calle 75, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 489,
+  "name": "Sybaris Restaurant",
+  "address": "M998+5R2, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617834357",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 490,
+  "name": "República 78 restaurante",
+  "address": "M97V+9W9, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 491,
+  "name": "Ruta 76",
+  "address": "M9GW+CPH, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 492,
+  "name": "Mr.Woods",
+  "address": "72 C. 72 Gilberto Correa, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "72724002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 493,
+  "name": "Albahaca Restaurante",
+  "address": "C. 64 A, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246396230",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 494,
+  "name": "Lola Fusion Restaurant",
+  "address": "M9GH+3G3, Av. 15, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "9+33154002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 495,
+  "name": "Babilonia Restaurant",
+  "address": "M96Q+7WG, Av 9B, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 496,
+  "name": "La Forchetta Restaurante",
+  "address": "Avenida 11 con Calle 72, Maracaibo, Zulia, Venezuela",
+  "phone": "+582617989858",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 497,
+  "name": "Ancora Restaurant",
+  "address": "46 Calle 59, Maracaibo 4002 Calle 59, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "46594002594002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 498,
+  "name": "Restaurant Koto",
+  "address": "M98R+VJH, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 499,
+  "name": "Sal Marina",
+  "address": "M96Q+436, Avenida 11, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "96+436114001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 500,
+  "name": "Mamlake",
+  "address": "Dr. Portillo, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 501,
+  "name": "Once Seis Ocho",
+  "address": "Avenida 20, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584127896658",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 502,
+  "name": "Oma Gourmet",
+  "address": "M989+VFV, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617514220",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 503,
+  "name": "SUCCO",
+  "address": "M9RJ+FHV, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 504,
+  "name": "Búhos Café Restaurante",
+  "address": "con Avenida 13, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 505,
+  "name": "V House Grill \u0026 Bar",
+  "address": "Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584246297494",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 506,
+  "name": "Restaurant Florencia",
+  "address": "Calle 73, con Av. 12, Maracaibo 2006, Zulia, Venezuela",
+  "phone": "73122006",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 507,
+  "name": "Avenida 4 Restobar",
+  "address": "M998+6Q6, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617528245",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 508,
+  "name": "Cazadores",
+  "address": "LA CACEROLA, Avenida 10, con C. 67, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "10674002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 509,
+  "name": "Sahjten Maracaibo",
+  "address": "Instagram @sobrebrasas_, Av 4 bella vista, con Calle 69, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246052137",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 510,
+  "name": "Restaurant El Cebu",
+  "address": "M9FQ+9W9, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582617610734",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 511,
+  "name": "Xochimilco",
+  "address": "3h C. 74, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582614171792",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 512,
+  "name": "Kabala Restaurant",
+  "address": "M97V+R38, Av. Bella Vista, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617926793",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 513,
+  "name": "Cinema Restaurant",
+  "address": "M98J+3VG, C. 76, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246401416",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 514,
+  "name": "Picaña Grill Maracaibo",
+  "address": "Calle 74 entre Avs 3H y, Avenida 3Y, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "74334001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 515,
+  "name": "OMG Maracaibo",
+  "address": "Entre Bella Vista y Santa Rita, Av. Cecilio Acosta, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246258705",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 516,
+  "name": "MaracaiboToGo",
+  "address": "3h C. 74, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584126587614",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 517,
+  "name": "Viticos Restaurante",
+  "address": "Terraza 77 Centro Comercial, Maracaibo 4002, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "7740024001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 518,
+  "name": "Los Corrales",
+  "address": "M98Q+XF2, Av. Bella Vista, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582617921193",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 519,
+  "name": "Restaurant El Arabito",
+  "address": "8a C. 67, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584141670404",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 520,
+  "name": "Piamonte restaurant",
+  "address": "CALLE 72 CON AV 16 , SECTOR PARAISO MARACAIBO (4001) - Zulia, C. 72 Gilberto Correa, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "72164001724001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 521,
+  "name": "Señor Chang",
+  "address": "Roxi, C. 80, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617937629",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 522,
+  "name": "Incontro Trattoria",
+  "address": "M98W+QFV, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582614171688",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 523,
+  "name": "Katamaran",
+  "address": "Avenida 13 Entre calles 69 y 68. Casa Nro 68-114, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "136968681144002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 524,
+  "name": "Vittorio's",
+  "address": "1077 C. Bella Vista, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "10774002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 525,
+  "name": "Chops",
+  "address": "con C. 77, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584126664859",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 526,
+  "name": "Tomatos Pizzeria La Lago",
+  "address": "con Dr. Portillo, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617914250",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 527,
+  "name": "Cuentatrez",
+  "address": "Calle 77, Avenida 3F, Maracaibo, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 528,
+  "name": "Boca Buffet \u0026 Bistro",
+  "address": "Av. 3E, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584146030657",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 529,
+  "name": "ALL GRILL, LUNCH AND DINNER",
+  "address": "M999+MGF, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584123303111",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 530,
+  "name": "Muerde La Carne Restaurante",
+  "address": "M97H+97C, C. 77, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "97+97774005",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 531,
+  "name": "Altopiano",
+  "address": "Avenida 9, Con C. 67, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 532,
+  "name": "Dubai Resto Bar",
+  "address": "M9GP+XR3, C. 67, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584126608807",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 533,
+  "name": "¡QUÉ BÁRBARO!",
+  "address": "Calle 68, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584126920082",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 534,
+  "name": "Bistro 70",
+  "address": "4001, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "40014001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 535,
+  "name": "Don Shawarma",
+  "address": "C. 77, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246066020",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 536,
+  "name": "Del Calor Al Sabor",
+  "address": "70 Calle 70, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "70704001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 537,
+  "name": "Bar Restaurante El Mandarin",
+  "address": "M97X+X5V, Calle 79, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617937685",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 538,
+  "name": "Bibas",
+  "address": "M9GR+WV7, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246981208",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 539,
+  "name": "Bar Restaurante Ocean City",
+  "address": "Mara, av 21 con calle 67 local 21-28 local Don shawarma Sector Indio, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "216721284005",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 540,
+  "name": "COW",
+  "address": "M99P+CRV, Avenida 10, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582617973977",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 541,
+  "name": "Fein Kaffee",
+  "address": "M98M+F4J, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246139835",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 542,
+  "name": "Fazenda",
+  "address": "M9HV+3W4, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246447890",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 543,
+  "name": "Atipical GastroBar",
+  "address": "M9HP+C95, Avenida 10, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "9+95104002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 544,
+  "name": "Sushi House",
+  "address": "M99R+M38, Av. Santa Rita, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582617985647",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 545,
+  "name": "La Negra",
+  "address": "67 C. 67, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "67674002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 546,
+  "name": "Hijole Restaurante",
+  "address": "M99J+MPV, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 547,
+  "name": "DeLima Limon",
+  "address": "M98G+WJ6, Andrés Bello, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617515081",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 548,
+  "name": "Tasca Asturias",
+  "address": "Torre Tendencia, Avenida El Milagro, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246230974",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 549,
+  "name": "Cevicheria67",
+  "address": "M9GH+2CR, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617973915",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 550,
+  "name": "Tavuk Arabian grill",
+  "address": "Calle 62 entre av 4 bella vista y santa Rita Local 8-80 sector las Mecedes, Sector N, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "6248804005",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 551,
+  "name": "Burger House",
+  "address": "M989+CF9, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617835170",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 552,
+  "name": "Real Burger (Maracaibo)",
+  "address": "M9HV+4X6, Avenida 21, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "9+46214002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 553,
+  "name": "Faenza Pizzeria",
+  "address": "C. 67, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 554,
+  "name": "Fratello",
+  "address": "Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584141644012",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 555,
+  "name": "PESCADISIMO",
+  "address": "M9CX+F5Q, Av. 3D, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 556,
+  "name": "Restaurant ABC",
+  "address": "M98P+QFC, Calle 75, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584146731150",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 557,
+  "name": "31 Trentuno Ristorante",
+  "address": "M9FV+WMW, Avenida 3G, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 558,
+  "name": "Candilejas Santa Rita",
+  "address": "Av. Bella Vista, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+584146557966",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 559,
+  "name": "Sobre Brasas",
+  "address": "M9GR+QCC, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 560,
+  "name": "La Cacerola",
+  "address": "66 y 66A Av 10 Sector La Estrella, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "6666104001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 561,
+  "name": "Gula Coffee \u0026 Bistro Maracaibo",
+  "address": "M98P+FMG, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582617984184",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 562,
+  "name": "Furama",
+  "address": "M98W+G52, Avenida 3G, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617931602",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 563,
+  "name": "Pastelitos QUE BUENOS SON (Tierra Negra)",
+  "address": "entee av, 17 y 18 C. 77, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "1718774005",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 564,
+  "name": "Golden House",
+  "address": "M999+3MM, Avenida 21, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617592628",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 565,
+  "name": "Restaurant Century",
+  "address": "Calle 72 entre Av. 9B y 10 Residencias Claret Torre 1 Local 5, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "72910154002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 566,
+  "name": "4 Estaciones",
+  "address": "M97M+RQR, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 567,
+  "name": "Bake My Day",
+  "address": "Calle 69, con Av 9B, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+584149681595",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 568,
+  "name": "Palma Real",
+  "address": "11 Calle 68, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "11684002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 569,
+  "name": "Restaurant OKing",
+  "address": "Av. 20 entre calle 72 y 71 al lado de la antigua 4D, Maracaibo 4005, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "207271440054005",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 570,
+  "name": "Empanadas de maiz Mar y Tierra",
+  "address": "Avenida 11 Entre Calles 75 y 76, Zulia, Venezuela",
+  "phone": "+584246077959",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 571,
+  "name": "Sham",
+  "address": "M97M+PP3, Avenida 13, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617972470",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 572,
+  "name": "La Pizzeria Restaurante",
+  "address": "Calle 80 entre Av. Bella Vista, 4 y Avenida 3Y, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "80434001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 573,
+  "name": "Fish 72",
+  "address": "M99V+P7J, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 574,
+  "name": "Empanadas La Fermandera",
+  "address": "Av. 12 Calle 69, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "12694002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 575,
+  "name": "Capitán Camaron",
+  "address": "Calle 75 entre Av. 10 y 11, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "7510114002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 576,
+  "name": "Koto Sushi",
+  "address": "Av.11 entre 69 y, C. 69A, Maracaibo, Zulia, Venezuela",
+  "phone": "+584246399669",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 577,
+  "name": "North Center Mall",
+  "address": "M9PF+4Q5, Av. Las Delicias, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584146029989",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 578,
+  "name": "Mall Paseo San Francisco",
+  "address": "Av. Fuerzas Armadas, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 579,
+  "name": "Galerias Mall",
+  "address": "Centro Comercial South Center, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "+582614195844",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 580,
+  "name": "Doral Center Mall",
+  "address": "H966+GP3, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 581,
+  "name": "Maracaibo Sambil Mall",
+  "address": "Av. Fuerzas Armadas, Centro comercial Doral Center Mall, Local Mlpa61, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246533184",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 582,
+  "name": "Delicias Square Mall",
+  "address": "Avenida Guajira, Zona Industrial Norte, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617400900",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 583,
+  "name": "Centro Comercial Ovni Center",
+  "address": "M8CW+JGV, Av. 28 La Limpia, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584146052232",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 584,
+  "name": "Punta de Mata Mall",
+  "address": "Avenida El Milagro, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246797036",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 585,
+  "name": "C.C. Lago Mall",
+  "address": "M88M+XR9, Calle 82C, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584120643356",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 586,
+  "name": "Centro Comecial South Center",
+  "address": "(Av. 5), Avenida San Francisco, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "+582617934553",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 587,
+  "name": "Ferre Mall",
+  "address": "J9W8+CWF, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+584249695636",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 588,
+  "name": "Aventura Mall",
+  "address": "M97G+698, Av. 19, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "97+698194005",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 589,
+  "name": "C.C. Blue Center",
+  "address": "M99G+GM3, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 590,
+  "name": "Paragüita mall",
+  "address": "M9VH+686, C. C., Maracaibo, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 591,
+  "name": "DC Grand Bazaar",
+  "address": "M97V+X2C, Av. Bella Vista, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 592,
+  "name": "CIMA Maracaibo Mall",
+  "address": "Babilon Centro Sur - Metrosol Maracaibo, Avenida Circunvalación 02, Avenida Circunvalacion 2, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 593,
+  "name": "C.C. Riviera Mall",
+  "address": "M99J+HF3, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 594,
+  "name": "Centro Comercial Centro Plaza",
+  "address": "La Curva, Av 28 La Limpia Centro Comercial Limpia Plaza PB Local #7 Sector, Av. 28 La Limpia, Maracaibo, Zulia, Venezuela",
+  "phone": "+584146190896",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 595,
+  "name": "Simón Bolívar Mall",
+  "address": "M9FR+JJ2, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 596,
+  "name": "Centro Comercial Ciudadela Plaza",
+  "address": "M9XG+937, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246414204",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 597,
+  "name": "bazar center",
+  "address": "P93C+VMR, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 598,
+  "name": "Plaza San felipe 2",
+  "address": "Av Fuerzas Armadas C.C. North Center 2da etapa Planta baja Local 10, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584246123097",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 599,
+  "name": "Bunker Center",
+  "address": "M9CH+2PF, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582619350577",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 600,
+  "name": "Centro Comercial Plaza Oeste",
+  "address": "AV 13A, CON C. 85, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 601,
+  "name": "CC.PASEO",
+  "address": "J9H5+V9J, Calle 100, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "95+91004001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 602,
+  "name": "Color Center Maracaibo, C.A.",
+  "address": "15 Av. Las Delicias, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246039707",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 603,
+  "name": "Centro comercial Plaza Celta",
+  "address": "H9JH+G5M, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 604,
+  "name": "Plaza 75 Centro comercial",
+  "address": "76 Avenida3-H, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584262621512",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 605,
+  "name": "Centro Comercial Las Delicias",
+  "address": "M73P+Q3P, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 606,
+  "name": "Plaza 72",
+  "address": "Local PA-1, Acedo Plaza, Av. 5 de Julio, CC, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "+584146155981",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 607,
+  "name": "CENTRO COMERCIAL CURVA PLAZA",
+  "address": "J9RJ+RGP Parada La Limpia, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584122335284",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 608,
+  "name": "Hyperled South Center",
+  "address": "MCM4+C7C, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584146454570",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 609,
+  "name": "Olivos Plaza",
+  "address": "M97V+RP8, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 610,
+  "name": "C.C San Onofre",
+  "address": "M9PF+RXW, Av. Las Delicias, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582617435586",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 611,
+  "name": "C C Paseo 72",
+  "address": "Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582614155460",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 612,
+  "name": "Plaza Francisco de Miranda",
+  "address": "Sector 18 de Octubre, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 613,
+  "name": "centro comercial law center",
+  "address": "J9QJ+JV3, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617212536",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 614,
+  "name": "CENTRO COMERCIAL URACOA",
+  "address": "North Center Mall, Av. Paúl Moreno, 2da etapa, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584121210079",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 615,
+  "name": "Verdureria",
+  "address": "Unnamed Road, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 616,
+  "name": "Centro Comercial Caribe Zulia",
+  "address": "C. 171, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 617,
+  "name": "Edificio Centro Comercial Plaza 75",
+  "address": "CC Delicias Plaza, Av. Las Delicias, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+584147253488",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 618,
+  "name": "Centro Comercial Gran Ruby",
+  "address": "P95H+3XG, Av. 12, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584146128651",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 619,
+  "name": "San Martín",
+  "address": "J9RJ+QMR, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 620,
+  "name": "Comercial America",
+  "address": "H9MC+RC7, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "+582617351902",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 621,
+  "name": "Centro comercial \"Divino Niño\"",
+  "address": "M98M+W77, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 622,
+  "name": "centr comercial gran bazar",
+  "address": "Centro comercial Metro Sol, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 623,
+  "name": "Centro Comercial Flamingo Beach",
+  "address": "M97H+7WW, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 624,
+  "name": "Centro Comercial La Paragua",
+  "address": "C.C. Gran Bazar Maracaibo, Planta baja local ML-342-343, Zulia, Venezuela",
+  "phone": "+584121604359",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 625,
+  "name": "Papeleria y Tecnologia Kasu",
+  "address": "PLANTA BAJA, CENTRO COMERCIAL CIUDADELA PLAZA. MINILOCAL 1, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+584146249134",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 626,
+  "name": "C.C. Rafael Urdaneta .",
+  "address": "Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 627,
+  "name": "CENTRO COMERCIAL BUSINESS 72",
+  "address": "Local 3-14, Av 20 Con Calle 69 CC Las Tejas, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "31420694001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 628,
+  "name": "Cc Terraza 77 Zona 3 Gourmet",
+  "address": "M99J+8G3, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 629,
+  "name": "EDIFICIO CORAL",
+  "address": "Mall Delicias Plaza, Av. Las Delicias, Maracaibo, Zulia, Venezuela",
+  "phone": "+582617437902",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 630,
+  "name": "C.C Akrai Center",
+  "address": "M9RG+J44, Av. Las Delicias, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 631,
+  "name": "Crystal Bridge Mall",
+  "address": "doral center mall local mlpa 18, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584146358680",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 632,
+  "name": "walletsfive",
+  "address": "M9GW+9QF, Avenida, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584141698101",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 633,
+  "name": "Boodoo Living C.C. Villa Ines",
+  "address": "M98V+3W4, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617947404",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 634,
+  "name": "Centro Comercial Terraza 77",
+  "address": "local 113a, cc delicias plaza, nivel 1 Av. Las Delicias, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "11314001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 635,
+  "name": "Centro Empresarial Plaza",
+  "address": "M97V+2FV, Av. Bella Vista, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+584126717009",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 636,
+  "name": "C.C. Bulevar Delicias",
+  "address": "Av. 3F, con C. 77, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 637,
+  "name": "Centro Comercial Camoruco",
+  "address": "M94V+2RR, Av. Bella Vista, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246485258",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 638,
+  "name": "@metroexpress",
+  "address": "J9VM+53J, C. 95, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "9+53954005",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 639,
+  "name": "Mercado Los Cactus",
+  "address": "43-260 C. 171, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "432601714004",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 640,
+  "name": "Gotham game",
+  "address": "M99W+XVG, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 641,
+  "name": "Joyeria Plaza",
+  "address": "J9VQ+R6G, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 642,
+  "name": "JYRTECH",
+  "address": "Av. 13 entre calles 72 y 71, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "1372714002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 643,
+  "name": "KE\u0026CO SOLUCIONES",
+  "address": "M9VG+2W4, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 644,
+  "name": "Vilca Import, C.A.",
+  "address": "C.C. Doral Center Mall Stand Planta Baja 07, Maracaibo, Zulia, Venezuela",
+  "phone": "+584246307174",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 645,
+  "name": "Befercom",
+  "address": "M78R+XFJ, Calle 3, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+584149632815",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 646,
+  "name": "Lae center",
+  "address": "P9MH+MJJ, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 647,
+  "name": "All Packs Maracaibo.",
+  "address": "M98R+FW8, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 648,
+  "name": "RACA",
+  "address": "H97G+HX6, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 649,
+  "name": "MARCO INSTALACIONES",
+  "address": "81 Avenida 8, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 650,
+  "name": "Metrosol Maracaibo",
+  "address": "Avenida 3Y, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 651,
+  "name": "LB Sala de Belleza y Estética",
+  "address": "M93V+XXG, con, Avenida, Carabobo, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 652,
+  "name": "Cosmos",
+  "address": "M989+MMR, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 653,
+  "name": "MRW",
+  "address": "M9GJ+RMH, Avenida 13, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 654,
+  "name": "Shawarma Fadi",
+  "address": "Diagonal a la Basilica y Plaza Nuestra Señora del Rosario, Richar Gonzalez Av. 12, Maracaibo, Zulia, Venezuela",
+  "phone": "+582617238933",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 655,
+  "name": "Centro Comercial Delicias Norte Primera Etapa",
+  "address": "la popular sector 13, Zulia, Venezuela",
+  "phone": "+584141686122",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 656,
+  "name": "Luces medical spa",
+  "address": "J9XV+JMH, Avenida 3C, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 657,
+  "name": "Joyas Del Norte",
+  "address": "M99Q+X7W, Av 9B, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 658,
+  "name": "Tu Helado, Lago Mall",
+  "address": "H9G9+845, Avenida 24, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "99+845244004",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 659,
+  "name": "C.C. Law Center",
+  "address": "M99H+MQ6, C. 72 Gilberto Correa, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 660,
+  "name": "Centro Comercial Plaza Lago",
+  "address": "Circunvalacion 2 Av. 28 La Limpia, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 661,
+  "name": "Soun Center",
+  "address": "M9RF+RP6, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617422234",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 662,
+  "name": "Acedo Plaza Shopping Mall",
+  "address": "M8QC+GGF, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584246885601",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 663,
+  "name": "Centro Civico de Terrible Twos Maracaibo",
+  "address": "M99J+JC4, C. 72 Gilberto Correa, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246143038",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 664,
+  "name": "Diamante Center",
+  "address": "Plaza 75, Avenida 3Y, Calle 75, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "753754002",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 665,
+  "name": "ROMER",
+  "address": "Av 58 Circunvalacion 2 Centro Comercial Sannio Local Nro 3 San Rafael, Maracaibo, Zulia, Venezuela",
+  "phone": "+582617879000",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 666,
+  "name": "MRW - IRAMA 24140",
+  "address": "H948+W6R, Calle 19, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 667,
+  "name": "Estampados y Bordados",
+  "address": "M8WJ+64J, Avenida 85, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "8+64854005",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 668,
+  "name": "Nike Mall Delicias",
+  "address": "Unnamed Road, Maracaibo 4004, 4004, Zulia, Venezuela",
+  "phone": "40044004",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 669,
+  "name": "Super Center",
+  "address": "M8HP+XQM, Av. 28 La Limpia, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 670,
+  "name": "Centro Comercial Villa Norte",
+  "address": "H9M3+82J, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "+582619959217",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 671,
+  "name": "SNÖ North Center",
+  "address": "120 Av. 17 los Haticos, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "120174001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 672,
+  "name": "C.C. El Triangulo",
+  "address": "J9PJ+VM8, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "+582613120755",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 673,
+  "name": "Dctecnologiamcbo",
+  "address": "H948+Q5X, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 674,
+  "name": "Natural Nails The Ultimate Spa Center",
+  "address": "M9R2+6P5, Avenida 27, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "92+65274005",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 675,
+  "name": "Centro Técnico De La Belleza XXI",
+  "address": "M9QF+2Q5, Av. Las Delicias, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617441547",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 676,
+  "name": "Extremeaudio",
+  "address": "Avenida Circunvalacion 2, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584246018322",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 677,
+  "name": "Jardín Botánico de Maracaibo",
+  "address": "Avenida 4, con C. 95, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617225640",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 678,
+  "name": "Vereda del Lago",
+  "address": "Parque Vereda del Lago, en la Avenida 2 (El Milagro), Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617932081",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 679,
+  "name": "Paseo del Lago 3",
+  "address": "avenida 12 Venezuela, 12, Maracaibo, Zulia, Venezuela",
+  "phone": "+582617228639",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 680,
+  "name": "Aquatica",
+  "address": "MCP3+87M, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 681,
+  "name": "Puente General Rafael Urdaneta",
+  "address": "2 Avenida El Milagro, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 682,
+  "name": "Plaza Del Buen Maestro",
+  "address": "Avenida 5, C. 95, Maracaibo, Zulia, Venezuela",
+  "phone": "+582617251194",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 683,
+  "name": "Casa de la Capitulación",
+  "address": "Av. 48 Avenida 48, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "48484001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 684,
+  "name": "Zulia Metropolitan Zoo",
+  "address": "HCFJ+W2C, Puente General Rafael Urdaneta, Maracaibo, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 685,
+  "name": "Basílica de Nuestra Señora del Rosario de Chiquinquirá y Cristo de Aranza",
+  "address": "H7QP+7MW, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "+584246334148",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 686,
+  "name": "club platinum vip",
+  "address": "4027, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 687,
+  "name": "Plaza del Rosario de Nuestra Señora de La Chiquinquirá",
+  "address": "MC44+9CG, Avenida El Milagro, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+584247700727",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 688,
+  "name": "Parque La Marina",
+  "address": "MC75+766, Dr. Portillo, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+584127637229",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 689,
+  "name": "Art Center Maracaibo Lia Bermudez",
+  "address": "P9C9+P32, Centro Sambil Nivel Feria, Avenida 16, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "99+32164005",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 690,
+  "name": "San Carlos de la Barra Fortress",
+  "address": "Avenida Guajira, Zona Industrial Norte, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617400900",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 691,
+  "name": "Baralt Theater",
+  "address": "entre y Calle 13, Maracaibo, Zulia, Venezuela",
+  "phone": "+582742529027",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 692,
+  "name": "José Encarnación Romero Stadium",
+  "address": "Avenida 4 (Obispo Lasso) con Calle 95 (Venezuela), Avenida 4, Maracaibo, Venezuela",
+  "phone": "+582617225640",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 693,
+  "name": "Catedral Metropolitana de Maracaibo de los Apóstoles San Pedro y San Pablo.",
+  "address": "Avenida 8 (Páez) con Calle 95 (Venezuela), C. 95, Maracaibo, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 694,
+  "name": "Maracaibo",
+  "address": "J9RR+XP5, C. 95, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617223878",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 695,
+  "name": "Lake Maracaibo",
+  "address": "M9F3+JXQ, Av 22, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 696,
+  "name": "Museo Del Juguete Mario Calderon",
+  "address": "X9PR+GXG, San Bernardo 4030, Zulia, Venezuela",
+  "phone": "+573016229390",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 697,
+  "name": "Cines Unidos Sambil Maracaibo",
+  "address": "J8WQ+R3C, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617880654",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 698,
+  "name": "Maracaibo Sambil Mall",
+  "address": "J9VP+3WX, Casco Central, C. 95, Maracaibo, Zulia, Venezuela",
+  "phone": "+582124849101",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 699,
+  "name": "Maracaibo",
+  "address": "16 Avenida 16, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "16164005",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 700,
+  "name": "Cueva El Samán",
+  "address": "J9QR+P5G, C. 99 ¨Comercio¨, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617230166",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 701,
+  "name": "Calantha Spa",
+  "address": "2 Av. Milagro Nte., Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 702,
+  "name": "Hospital Universitario",
+  "address": "H9G9+HX3, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "+582617613180",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 703,
+  "name": "Central Hospital \"Dr. Urquinaona\"",
+  "address": "Avenida 16 Guajira, via a Ziruma, frente a antiguo Rectorado LUZ, Avenida 16, Maracaibo, Zulia, Venezuela",
+  "phone": "+582617525315",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 704,
+  "name": "Hospital General Del Sur",
+  "address": "Entre Calles 94 Carabobo y 95 Venezuela, Avenida El Milagro, Maracaibo, Zulia, Venezuela",
+  "phone": "+582617231161",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 705,
+  "name": "Hospital Dr Manuel Noriega Trigo",
+  "address": "J9WR+X4C, Avenida 8, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 706,
+  "name": "Hospital coromoto",
+  "address": "Edificio 3C, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617900000",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 707,
+  "name": "Hospital Coromoto",
+  "address": "M9PF+CFC, Calle 59, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617401600",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 708,
+  "name": "Maternidad Castillo Plaza",
+  "address": "M957+RHX, Av. 28 La Limpia, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 709,
+  "name": "Hospital Noriega Trigo",
+  "address": "H9G9+9WW, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 710,
+  "name": "Hospital De Niños ll",
+  "address": "M9C8+GVJ University of Zulia, Avenida 20, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617525710",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 711,
+  "name": "Hospital Clínico",
+  "address": "Calle 127, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+584126632755",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 712,
+  "name": "Policlinica San Francisco",
+  "address": "H9RG+5R5, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 713,
+  "name": "Hospital Adolfo Pons",
+  "address": "Parque Metropolitano de la Salud Francisco Delgado, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 714,
+  "name": "Military Hospital Maracaibo",
+  "address": "H86W+W3W, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 715,
+  "name": "Hospital Chiquinquirá",
+  "address": "M8RJ+3R9, Calle 69, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "8+39694005",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 716,
+  "name": "Hospital Materno Infantil - San Francisco",
+  "address": "M9G9+47G, Avenida Universidad, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617597504",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 717,
+  "name": "Consulta Externa Hospital Universitario",
+  "address": "Urb. Altos Del Sol Amado, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+584120736609",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 718,
+  "name": "EMERGENCIA DE PEDIATRIA DEL HOSPITAL UNIVERSITARIO DE MARACAIBO",
+  "address": "Urbanización La coromoto. Calle 171, 171 Avenida 41, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "171171414004",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 719,
+  "name": "Hogar Clínica San Rafael",
+  "address": "M832+6P6, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 720,
+  "name": "Hospital Madre Rafolds (Abandonado)",
+  "address": "M86W+W2F, C. 83, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 721,
+  "name": "Hospital militar",
+  "address": "CDI, CDI Monte Bello, Calle N, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+584146759294",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 722,
+  "name": "Hospital Madre Rafolds (Abandonado)",
+  "address": "M97V+2HJ, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 723,
+  "name": "Hospital militar",
+  "address": "H87M+FM2, Calle 168, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "87+21684004",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 724,
+  "name": "Meternidad Dr Ernesto Che Guevara",
+  "address": "Av. 22A, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 725,
+  "name": "Ambulatorio Don Bosco",
+  "address": "J9VP+3XP, Bolívar, 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 726,
+  "name": "Ambulatorio 1ro. de mayo",
+  "address": "PF7F+2HF Clinica La Sagrada Familia, C. 83, Maracaibo 4036, Zulia, Venezuela",
+  "phone": "+582663212604",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 727,
+  "name": "Hospital de la Policía",
+  "address": "J8PW+CG2, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 728,
+  "name": "EMERGENCIA DE ADULTO DEL HOSPITAL UNIVERSITARIO DE MARACAIBO",
+  "address": "Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617645123",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 729,
+  "name": "CliniVital",
+  "address": "M8JJ+JVX, Av. 78, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617565138",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 730,
+  "name": "Centro clinico la limpia",
+  "address": "M8GP+379, Calle 79H, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "8+379794005",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 731,
+  "name": "Hospitalización Falcón",
+  "address": "H98G+HJM, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "+582617623896",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 732,
+  "name": "Centro De Referencia Bacteriologica",
+  "address": "M9PF+MVP, Av. Las Delicias, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584146333009",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 733,
+  "name": "Hopital Chequevara",
+  "address": "J84R+6RP, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 734,
+  "name": "Centro Médico La Victoria",
+  "address": "M87R+GQ8, C. 83, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582614005100",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 735,
+  "name": "Centro Medico Santa Barbara. C A",
+  "address": "M9HJ+8WP, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 736,
+  "name": "Foundation Hospital of Pediatrics",
+  "address": "M998+MXM, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 737,
+  "name": "Ambulatorio Padre Pio",
+  "address": "M8FC+675, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 738,
+  "name": "Maternity Hospital Cuatricentenario",
+  "address": "H9HH+P3G, Avenida 25A, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 739,
+  "name": "Polyclinic San Luis",
+  "address": "10°38'02. 71°38'43., Calle 96J, Maracaibo, Zulia, Venezuela",
+  "phone": "10380271384396",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 740,
+  "name": "Hospital Materno Infantil Dr. Raul Leoni (El Marite)",
+  "address": "Urb San Felipe, bloque 13, edificio 1, 4004, Zulia, Venezuela",
+  "phone": "+584146597176",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 741,
+  "name": "Ambulatorio cerros de Marin",
+  "address": "con Avenida 17, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 742,
+  "name": "Hospital Madre Rafolds",
+  "address": "J8PP+WR2, Calle 98, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582617864663",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 743,
+  "name": "Centro Quirúrgico Madre María De San José",
+  "address": "M9MM+CGF, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582617428011",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 744,
+  "name": "Centro Clinico Jesús de Nazareno",
+  "address": "M9MG+XWC, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582616148234",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 745,
+  "name": "Centro Clinico Santa Fé",
+  "address": "J8W4+79H, C. 95P, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "84+79954001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 746,
+  "name": "AME Salud",
+  "address": "M84V+FM6, Avenida Circunvalacion 2, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582227768452",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 747,
+  "name": "Clinica Bahsas",
+  "address": "H9J4+X48, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 748,
+  "name": "Hospital Psiquiátrico",
+  "address": "H9QF+W9H, Avenida 22, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "+582617353061",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 749,
+  "name": "Clinica Centro Dialisis de Occidente",
+  "address": "M7CR+5JH, Calle 5, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 750,
+  "name": "Ambulatorio III La Victoria",
+  "address": "Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 751,
+  "name": "IECLUZ",
+  "address": "3 C. 76, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 752,
+  "name": "Centro Clínico San Miguel",
+  "address": "M7WQ+9VP, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 753,
+  "name": "CDI LA MACANDONA",
+  "address": "Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 754,
+  "name": "Ambulatorio el Silencio",
+  "address": "Avenida 17 Baralt con calle 69A, 69-09 Avenida 17, Maracaibo, Zulia, Venezuela",
+  "phone": "1769690917",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 755,
+  "name": "Medical Center North",
+  "address": "M9CQ+PR9, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 756,
+  "name": "Ambulatorio Panamericano",
+  "address": "M9WF+JM5, Av. Fuerzas Armadas, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584246282055",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 757,
+  "name": "Instituto De Sanidad De Maracaibo",
+  "address": "M998+PJ8, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 758,
+  "name": "IVSS Sabaneta",
+  "address": "G7HJ+RWF, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 759,
+  "name": "Hospital El Marite",
+  "address": "M969+J75, Av. 26, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "969+75264001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 760,
+  "name": "SGS",
+  "address": "3A-09 Avenida 23, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "309234004",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 761,
+  "name": "Centro Medico Sur y Asociados",
+  "address": "Centro de reclusion \"Dr Francisco Delgado Rosales\" antiguo Centro de Arrestos y Detenciones Preventivas El Marite, Avenida 108A, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 762,
+  "name": "Policlinica DR Urbina Nava",
+  "address": "J9QF+4C2, Calle 100, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "9+421004001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 763,
+  "name": "INECA",
+  "address": "J9RG+X9H, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 764,
+  "name": "Oncoamerica",
+  "address": "H87R+3CV, Calle 167, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "87+31674004",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 765,
+  "name": "MMI Centro De Salud",
+  "address": "M8WJ+665, Avenida 84, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "8+665844005",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 766,
+  "name": "Ivss san jacinto",
+  "address": "M9W7+J9R, Troncal6, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+582617576810",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 767,
+  "name": "Centro Medico Baralt",
+  "address": "M8GH+8XF, Avenida 79, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 768,
+  "name": "Ambulatorio Urbano II \"Kleber Ramirez Rojas\"",
+  "address": "Circunvalación Núm. 3, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 769,
+  "name": "Policlínica Amado",
+  "address": "M9G9+46H, Av. Universidad. Diagonal al MACZUL, Prolongacion Cecilio acosta, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "+582614127501",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 770,
+  "name": "AMBULATORIO CORITO",
+  "address": "M8QP+CWW, Av. 78, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584146274290",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 771,
+  "name": "FUNVEMEFA",
+  "address": "Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582617985807",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 772,
+  "name": "Ambulatorio De Sierra Maestra",
+  "address": "Hospital Psiquiatrico, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 773,
+  "name": "Ambulatorio Urbano II \"La Rinconada\"",
+  "address": "M9WQ+MWV, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 774,
+  "name": "Henandent Clinica De Especialidades Dentistad",
+  "address": "Km 3 Vía a Perija, Avenida 48, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "+582612003900",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 775,
+  "name": "Ambulatorio Los Altos III",
+  "address": "J8WP+FQC, Avenida 57, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+584146638945",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 776,
+  "name": "Unidad De Odontologia Y Cirugia Maxilofacial Mario Luzardo",
+  "address": "M82M+343, Calle 95C, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "82+343954001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 777,
+  "name": "San Juan clinic",
+  "address": "J8GP+XF6, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617878024",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 778,
+  "name": "Rehabilitación y Construcción de áreas hospitalarias en Maracaibo",
+  "address": "M9FP+CFF, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 779,
+  "name": "Hospital Veterinario Delicias Norte",
+  "address": "MCC4+H62, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582617291500",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 780,
+  "name": "Ambulatorio Dr. Francisco Gómez Padrón",
+  "address": "Hospital Materno Infantil El Marite, Calle 79A, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 781,
+  "name": "Ambulatorio Los Claveles",
+  "address": "J8WG+Q7X, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 782,
+  "name": "Clinica Rafael Rangel",
+  "address": "Calle 88C, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "+584246047472",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 783,
+  "name": "CDI manzanillo",
+  "address": "Avenida 16 Guajira, via a Ziruma, frente a antiguo Rectorado LUZ. Hospital Universitario de Piso 3., Maracaibo, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 784,
+  "name": "Ambulatorio Urbano II La Totaria",
+  "address": "Prolongación Circunvalación N°2, Sector Plaza de Toros, vía Ciudadela Faria., Avenida 27, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "+582613005000",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 785,
+  "name": "Clinica Del Sueño",
+  "address": "M8JJ+JVX, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 786,
+  "name": "Clinica Zulia",
+  "address": "4005,, Maracaibo, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 787,
+  "name": "Dra Karelys Flores",
+  "address": "54-19 Calle 148, Maracaibo 4104, Zulia, Venezuela",
+  "phone": "54191484104",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 788,
+  "name": "Clinica La Sagrada Familia",
+  "address": "M9FC+48H, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 789,
+  "name": "CDI Los Claveles",
+  "address": "M94R+MJM, C. 85, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617960000",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 790,
+  "name": "Centro Clinico La Sagrada Familia ( Los Puertos)",
+  "address": "Av. Bella Vista, con Calle Falcón, Edif. Bancocaracas, Piso 2 Maracaibo,, Zulia., Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+588008888888",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 791,
+  "name": "Centro de salud La Chinita",
+  "address": "Sector 28 de Deciembre, Maracaibo 4004, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 792,
+  "name": "Instituto Municipal De La Salud San Francisco, Zulia, Venezuela",
+  "address": "P9FJ+FM7, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 793,
+  "name": "Cdi La Macandona",
+  "address": "MCJ2+25C, Av. 3D, Maracaibo 4002, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 794,
+  "name": "CENTRO MEDICO LA LIMPIA",
+  "address": "M959+R77, C. 70, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "959+77704001",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 795,
+  "name": "Alcoholicos Anonimos cine Roxi",
+  "address": "P98C+JJQ, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 796,
+  "name": "CDI El Callao",
+  "address": "J8W5+9J7, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 797,
+  "name": "Unidad De Cardiologia dr Gustavo Batista Arrieta",
+  "address": "J8W5+9J7, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 798,
+  "name": "Fundación Amigos del Niño con Cáncer",
+  "address": "P98C+JJQ, Maracaibo 4005, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 799,
+  "name": "CDI 18 de Octubre",
+  "address": "G8MC+XJ2, Unnamed Road, Maracaibo, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 800,
+  "name": "White Clinic",
+  "address": "Calle 64, con Avenida 3F, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "+582617911660",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 801,
+  "name": "Oncológico Genesis Petit",
+  "address": "M9C8+9J9, Maracaibo 4001, Zulia, Venezuela",
+  "phone": "",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 802,
+  "name": "Hotel Eurobuilding Express Maracay",
+  "address": "2 Avenida Las Delicias, Maracay 2101, Aragua, Venezuela",
+  "phone": "+582432321576",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 803,
+  "name": "Marriott Maracay Golf Resort",
+  "address": "6CR4+478, Av. Bermudez, Maracay 2101, Aragua, Venezuela",
+  "phone": "+582432340921",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 804,
+  "name": "Hotel Eurobuilding Express Maracay",
+  "address": "Edificio Hotel De Golf, Avenida El Canal, Maracay 2102, Aragua, Venezuela",
+  "phone": "+582432446231",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 805,
+  "name": "Marriott Maracay Golf Resort",
+  "address": "Edificio Hotel De Golf, Avenida El Canal, Maracay 2102, Aragua, Venezuela",
+  "phone": "+582432446231",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 806,
+  "name": "Pipo International",
+  "address": "Avenida Las Delicias, Maracay 2101, Aragua, Venezuela",
+  "phone": "+582432001111",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 807,
+  "name": "Hotel Hesperia Maracay",
+  "address": "Avenida Las Delicias, Maracay 2101, Aragua, Venezuela",
+  "phone": "+582432001111",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 808,
+  "name": "Hotel Bermúdez",
+  "address": "Av. Bermudez, Maracay 2101, Aragua, Venezuela",
+  "phone": "+582432332142",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 809,
+  "name": "Hotel Micotti",
+  "address": "64 C. El Piñal Nte., El Limón 2104, Aragua, Venezuela",
+  "phone": "+582432834925",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 810,
+  "name": "Hotel Italo",
+  "address": "2102 Av Principal El Castaño, Maracay 2101, Aragua, Venezuela",
+  "phone": "21022101",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 811,
+  "name": "Posada El Limón",
+  "address": "7CPM+7V6, Avenida Las Delicias, Frente a la Redoma del Toro, Avenida Las Delicias, Maracay 2101, Aragua, Venezuela",
+  "phone": "+582434321300",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 812,
+  "name": "Hotel Mar de Plata",
+  "address": "F69H+FJ7, Ocumare de la Costa 2112, Aragua, Venezuela",
+  "phone": "+582439931560",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 813,
+  "name": "Posada Doña Rosa",
+  "address": "Este Av. Miranda, Maracay 2104, Aragua, Venezuela",
+  "phone": "+582432336953",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 814,
+  "name": "Hotel Princesa Plaza",
+  "address": "Choroní, Km 36 Camino Real La Isleta Los Cerritos., Venezuela",
+  "phone": "+582432465127",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 815,
+  "name": "Posada Aves de la Montaña",
+  "address": "Sector la Esmeralda, Ocumare de la Costa 2112, Aragua, Venezuela",
+  "phone": "+584243166783",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 816,
+  "name": "Hostal Mi Mayita",
+  "address": "Numero 23, Av. Santos Michelena, Maracay 2101, Aragua, Venezuela",
+  "phone": "+582432472101",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 817,
+  "name": "Posada Brisas del Caribe",
+  "address": "F67M+5G3, Ocumare de la Costa 2112, Aragua, Venezuela",
+  "phone": "+582439931016",
+  "country-code": "VE",
+  "country": "Venezuela"
+ },
+ {
+  "id": 818,
+  "name": "Posada Cachapuá",
+  "address": "El castaño Callejon Puente Nuevo N°20 y 21, Maracay 2101, Aragua, Venezuela",
+  "phone": "20212101",
+  "country-code": "VE",
+  "country": "Venezuela"
+ }
+]
