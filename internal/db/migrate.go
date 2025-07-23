@@ -6,6 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
+	"path/filepath"
 
 	// sqlite3 driver
 	_ "github.com/mattn/go-sqlite3"
@@ -22,7 +23,8 @@ type address struct {
 
 // ReadJSON reads json for now
 func ReadJSON() error {
-	jsonByte, err := os.ReadFile("internal/db/Afghanistan.json")
+	file := "internal/db/Afghanistan.json"
+	jsonByte, err := os.ReadFile(file)
 	if err != nil {
 		return err
 	}
@@ -38,6 +40,7 @@ func ReadJSON() error {
 
 	for _, value := range testAddress {
 		fmt.Println(value.Name)
+		fmt.Printf("Inserted %d records from %s\n", len(testAddress), file)
 	}
 
 	return nil
@@ -45,22 +48,25 @@ func ReadJSON() error {
 
 // CreateDBAndTables creates sqlite tables and db
 func CreateDBAndTables() error {
-	db, err := sql.Open("sqlite3", "./test.db")
+	dbLocation := filepath.Join("internal", "db", "data.db")
+	db, err := sql.Open("sqlite3", dbLocation)
 	if err != nil {
 		return err
 	}
-	defer db.Close()
 
-	sqlStmt := `
-	CREATE TABLE IF NOT EXISTS address (
-        id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
-        name TEXT
-				address TEXT
-				phone TEXT
-				country_code TEXT
-				country TEXT
-    );
-	`
+	defer func() {
+		if err = db.Close(); err != nil {
+			fmt.Println("Error closing db: ", err)
+		}
+	}()
+
+	sqlPath := filepath.Join("db", "migrations", "001_create_addresses_table.sql")
+	sqlBytes, err := os.ReadFile(sqlPath)
+	if err != nil {
+		return err
+	}
+
+	sqlStmt := string(sqlBytes)
 	result, err := db.Exec(sqlStmt)
 	if err != nil {
 		return err
