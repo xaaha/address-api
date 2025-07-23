@@ -12,6 +12,8 @@ import (
 	_ "github.com/mattn/go-sqlite3"
 )
 
+// Should handle creating tables and inserting data
+
 type address struct {
 	ID          int    `json:"id"`
 	Name        string `json:"name"`
