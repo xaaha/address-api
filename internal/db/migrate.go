@@ -2,7 +2,6 @@
 package db
 
 import (
-	"database/sql"
 	"encoding/json"
 	"fmt"
 	"os"
@@ -31,9 +30,6 @@ func ReadJSON() error {
 		return err
 	}
 
-	// jsonString := string(jsonByte)
-	// fmt.Println(jsonString)
-
 	var testAddress []address
 	err = json.Unmarshal(jsonByte, &testAddress)
 	if err != nil {
@@ -50,12 +46,10 @@ func ReadJSON() error {
 
 // CreateDBAndTables creates sqlite tables and db
 func CreateDBAndTables() error {
-	dbLocation := filepath.Join("internal", "db", "data.db")
-	db, err := sql.Open("sqlite3", dbLocation)
+	db, err := CreateDB()
 	if err != nil {
 		return err
 	}
-
 	defer func() {
 		if err = db.Close(); err != nil {
 			fmt.Println("Error closing db: ", err)
@@ -63,17 +57,9 @@ func CreateDBAndTables() error {
 	}()
 
 	sqlPath := filepath.Join("db", "migrations", "001_create_addresses_table.sql")
-	sqlBytes, err := os.ReadFile(sqlPath)
-	if err != nil {
+	if err = ExecSQLFile(db, sqlPath); err != nil {
 		return err
 	}
-
-	sqlStmt := string(sqlBytes)
-	result, err := db.Exec(sqlStmt)
-	if err != nil {
-		return err
-	}
-	fmt.Println("Result: ", result)
 
 	return nil
 }

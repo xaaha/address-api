@@ -2,6 +2,7 @@ package db
 
 import (
 	"database/sql"
+	"os"
 	"path/filepath"
 )
 
@@ -14,4 +15,15 @@ func CreateDB() (*sql.DB, error) {
 		return nil, err
 	}
 	return db, nil
+}
+
+func ExecSQLFile(db *sql.DB, path string) error {
+	sqlBytes, err := os.ReadFile(path)
+	if err != nil {
+		return err
+	}
+
+	_, err = db.Exec(string(sqlBytes))
+
+	return err
 }
