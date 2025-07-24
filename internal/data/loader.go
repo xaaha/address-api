@@ -7,7 +7,7 @@ import (
 	"os"
 )
 
-type address struct {
+type Address struct {
 	ID          int    `json:"id"`
 	Name        string `json:"name"`
 	Address     string `json:"address"`
@@ -24,7 +24,7 @@ func ReadJSON() error {
 		return err
 	}
 
-	var testAddress []address
+	var testAddress []Address
 	err = json.Unmarshal(jsonByte, &testAddress)
 	if err != nil {
 		return err
