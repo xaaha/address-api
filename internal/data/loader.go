@@ -3,10 +3,12 @@ package data
 
 import (
 	"encoding/json"
-	"fmt"
+	"io/fs"
 	"os"
+	"path/filepath"
 )
 
+// Address represents the JSON object in address file
 type Address struct {
 	ID          int    `json:"id"`
 	Name        string `json:"name"`
@@ -16,24 +18,27 @@ type Address struct {
 	Country     string `json:"country"`
 }
 
-func ReadJSON() error {
-	// TODO: Loop over dir and read all the files
-	file := "data/Afghanistan.json"
-	jsonByte, err := os.ReadFile(file)
-	if err != nil {
-		return err
-	}
+// ReadJSON reads all json address from the provided directory
+func ReadJSON(dir string) ([]Address, error) {
+	var all []Address
 
-	var testAddress []Address
-	err = json.Unmarshal(jsonByte, &testAddress)
-	if err != nil {
-		return err
-	}
+	err := filepath.WalkDir(dir, func(path string, dirEntry fs.DirEntry, err error) error {
+		if err != nil || dirEntry.IsDir() || filepath.Ext(path) != ".json" {
+			return err
+		}
 
-	for _, value := range testAddress {
-		fmt.Println(value.Name)
-		fmt.Printf("Inserted %d records from %s\n", len(testAddress), file)
-	}
+		data, err := os.ReadFile(path)
+		if err != nil {
+			return err
+		}
 
-	return nil
+		var address []Address
+		if err := json.Unmarshal(data, &address); err != nil {
+			return err
+		}
+
+		all = append(all, address...)
+		return nil
+	})
+	return all, err
 }
