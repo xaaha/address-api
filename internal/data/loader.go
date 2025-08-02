@@ -17,7 +17,7 @@ type Address struct {
 }
 
 func ReadJSON() error {
-	// TODO: Loop over dir and rad all the files
+	// TODO: Loop over dir and read all the files
 	file := "data/Afghanistan.json"
 	jsonByte, err := os.ReadFile(file)
 	if err != nil {
