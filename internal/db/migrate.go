@@ -13,7 +13,9 @@ import (
 // Should handle creating tables and inserting data
 
 // CreateDBAndTables creates sqlite tables and db
-func CreateDBAndTables() error {
+// It does that by creating db and reading, executing sql statement to create table
+// and then inserting addresses to the created tables from the dirPath (jsonFiles)
+func CreateDBAndTables(dirPath string) error {
 	db, err := CreateDB()
 	if err != nil {
 		return err
@@ -29,7 +31,7 @@ func CreateDBAndTables() error {
 		return err
 	}
 
-	addresses, err := data.ReadJSON("data")
+	addresses, err := data.ReadJSON(dirPath)
 	if err != nil {
 		return err
 	}
