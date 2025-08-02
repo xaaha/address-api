@@ -12,6 +12,7 @@ import (
 // Should handle creating tables and inserting data
 
 // CreateDBAndTables creates sqlite tables and db
+// TODO: Update this to read the entire dir
 func CreateDBAndTables() error {
 	db, err := CreateDB()
 	if err != nil {
