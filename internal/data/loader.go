@@ -40,5 +40,6 @@ func ReadJSON(dir string) ([]Address, error) {
 		all = append(all, address...)
 		return nil
 	})
+
 	return all, err
 }
