@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	err := db.CreateDBAndTables()
+	err := db.CreateDBAndTables("data")
 	if err != nil {
 		log.Println(err)
 	}

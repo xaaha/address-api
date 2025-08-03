@@ -3,14 +3,12 @@ package main
 
 import (
 	"fmt"
-
-	"github.com/xaaha/address-api/internal/db"
 )
 
 func main() {
-	// fmt.Println("GO Girls!")
-	err := db.CreateDBAndTables("data")
-	if err != nil {
-		fmt.Println("Error occurred in server/main.go ", err)
-	}
+	fmt.Println("Hello World!")
+	// err := db.CreateDBAndTables("data")
+	// if err != nil {
+	// 	fmt.Println("Error occurred in server/main.go ", err)
+	// }
 }
