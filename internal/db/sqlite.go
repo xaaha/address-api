@@ -30,14 +30,15 @@ func ExecSQLFile(db *sql.DB, path string) error {
 	return err
 }
 
-func InsertAddress(db *sql.DB, addr data.Address) error {
-	sqlStmt := `
- INSERT INTO address(id, name, address, phone, country_code, country)
- VALUES ()
- `
-	_, err := db.Exec(
+func InsertAddress(db *sql.DB, addr data.Address, path string) error {
+	sqlBytes, err := os.ReadFile(path)
+	if err != nil {
+		return err
+	}
+
+	sqlStmt := string(sqlBytes)
+	_, err = db.Exec(
 		sqlStmt,
-		addr.ID,
 		addr.Name,
 		addr.Address,
 		addr.Phone,

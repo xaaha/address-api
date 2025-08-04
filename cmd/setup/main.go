@@ -1,5 +1,5 @@
 // Package setup sets runs the sqlite db migration before
-package setup
+package main
 
 import (
 	"log"
@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	err := db.CreateDBAndTables("data")
+	err := db.CreateDBAndTables("./test")
 	if err != nil {
 		log.Println(err)
 	}

@@ -26,8 +26,8 @@ func CreateDBAndTables(dirPath string) error {
 		}
 	}()
 
-	sqlPath := filepath.Join("db", "migrations", "001_create_addresses_table.sql")
-	if err = ExecSQLFile(db, sqlPath); err != nil {
+	createAddrSQLFile := filepath.Join("db", "migrations", "001_create_addresses_table.sql")
+	if err = ExecSQLFile(db, createAddrSQLFile); err != nil {
 		return err
 	}
 
@@ -36,8 +36,10 @@ func CreateDBAndTables(dirPath string) error {
 		return err
 	}
 
+	insertAddrSQLFile := filepath.Join("db", "migrations", "002_insert_address.sql")
+
 	for _, addr := range addresses {
-		if err = InsertAddress(db, addr); err != nil {
+		if err = InsertAddress(db, addr, insertAddrSQLFile); err != nil {
 			return err
 		}
 	}
