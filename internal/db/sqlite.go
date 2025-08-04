@@ -50,3 +50,40 @@ func InsertAddress(db *sql.DB, addr data.Address, path string) error {
 	)
 	return err
 }
+
+// InsertAddressesInBulk inserts a slice of addresses into the database within a single transaction
+func InsertAddressesInBulk(db *sql.DB, addresses []data.Address, path string) error {
+	tx, err := db.Begin()
+	if err != nil {
+		return err
+	}
+
+	// Defer a rollback in case anything fails.
+	defer tx.Rollback()
+
+	sqlBytes, err := os.ReadFile(path)
+	if err != nil {
+		return err
+	}
+
+	sqlStmt := string(sqlBytes)
+	stmt, err := tx.Prepare(sqlStmt)
+	if err != nil {
+		return err
+	}
+	defer stmt.Close()
+
+	for _, addr := range addresses {
+		_, err = stmt.Exec(
+			addr.Name,
+			addr.Address,
+			addr.Phone,
+			addr.CountryCode,
+			addr.Country,
+		)
+		if err != nil {
+			return err
+		}
+	}
+	return tx.Commit()
+}

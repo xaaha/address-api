@@ -38,10 +38,8 @@ func CreateDBAndTables(dirPath string) error {
 
 	insertAddrSQLFile := filepath.Join("db", "migrations", "002_insert_address.sql")
 
-	for _, addr := range addresses {
-		if err = InsertAddress(db, addr, insertAddrSQLFile); err != nil {
-			return err
-		}
+	if err = InsertAddressesInBulk(db, addresses, insertAddrSQLFile); err != nil {
+		return err
 	}
 
 	fmt.Printf("Inserted %d addresses\n", len(addresses))
