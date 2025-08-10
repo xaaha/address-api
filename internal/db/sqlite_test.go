@@ -24,14 +24,16 @@ func TestCreateDB(t *testing.T) {
 	t.Run("Create DB successfully", func(t *testing.T) {
 		currWd, err := os.Getwd()
 		if err != nil {
-			t.Logf("error on getting working dir")
+			t.Fatalf("failed to get working dir: %v", err)
 		}
 		defer os.Chdir(currWd)
 
 		tempDir := t.TempDir()
 
-		defer os.Chdir(tempDir)
-		if err = os.MkdirAll(filepath.Join("internal", "db"), 00755); err != nil {
+		if err = os.Chdir(tempDir); err != nil {
+			t.Fatalf("failed to chdir to temp dir: %v", err)
+		}
+		if err = os.MkdirAll(filepath.Join("internal", "db"), 0o755); err != nil {
 			t.Fatalf("failed to create folders: %v", err)
 		}
 
