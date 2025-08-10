@@ -2,6 +2,7 @@
 package db
 
 import (
+	"database/sql"
 	"fmt"
 	"path/filepath"
 
@@ -9,6 +10,14 @@ import (
 	_ "github.com/mattn/go-sqlite3"
 	"github.com/xaaha/address-api/internal/data"
 )
+
+// DB defines the contract for internal db work
+type DB interface {
+	CreateDB(dbName string) (*sql.DB, error)
+	ExecSQLFile(db *sql.DB, path string) error
+	ReadJSON(dir string) ([]data.Address, error)
+	InsertAddressesInBulk(db *sql.DB, addresses []data.Address, path string) error
+}
 
 // CreateDBAndTables creates sqlite tables and db
 // It does that by creating db and reading, executing sql statement to create table
