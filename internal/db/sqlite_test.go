@@ -21,29 +21,33 @@ func createTempSQLFile(t *testing.T, content string) string {
 }
 
 func TestCreateDB(t *testing.T) {
-	t.Run("creates db successfully", func(t *testing.T) {
-		tempDir := t.TempDir()
-		oldWd, _ := os.Getwd()
-		defer os.Chdir(oldWd)
-		os.Chdir(tempDir)
+	t.Run("Create DB successfully", func(t *testing.T) {
+		currWd, err := os.Getwd()
+		if err != nil {
+			t.Logf("error on getting working dir")
+		}
+		defer os.Chdir(currWd)
 
-		if err := os.MkdirAll(filepath.Join("internal", "db"), 0o755); err != nil {
+		tempDir := t.TempDir()
+
+		defer os.Chdir(tempDir)
+		if err = os.MkdirAll(filepath.Join("internal", "db"), 00755); err != nil {
 			t.Fatalf("failed to create folders: %v", err)
 		}
 
-		d, err := db.CreateDB()
+		sqlDB, err := db.CreateDB("test.db")
 		if err != nil {
 			t.Fatalf("CreateDB() returned error: %v", err)
 		}
-		if d == nil {
+		if sqlDB == nil {
 			t.Fatal("CreateDB() returned nil db")
 		}
 
-		if _, err := d.Exec(`CREATE TABLE test (id INTEGER);`); err != nil {
+		if _, err := sqlDB.Exec(`CREATE TABLE test (id INTEGER);`); err != nil {
 			t.Fatalf("failed to create table: %v", err)
 		}
 
-		expectedPath := filepath.Join("internal", "db", "data.db")
+		expectedPath := filepath.Join("internal", "db", "test.db")
 		if _, err := os.Stat(expectedPath); err != nil {
 			t.Errorf("expected db file at %s, got error: %v", expectedPath, err)
 		}
