@@ -10,8 +10,6 @@ import (
 	"github.com/xaaha/address-api/internal/data"
 )
 
-// Should handle creating tables and inserting data
-
 // CreateDBAndTables creates sqlite tables and db
 // It does that by creating db and reading, executing sql statement to create table
 // and then inserting addresses to the created tables from the dirPath (jsonFiles)

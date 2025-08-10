@@ -8,8 +8,6 @@ import (
 	"github.com/xaaha/address-api/internal/data"
 )
 
-// Should expose Connect() and return *sql.DB
-
 // CreateDB creates db named data
 func CreateDB() (*sql.DB, error) {
 	dbLocation := filepath.Join("internal", "db", "data.db")
