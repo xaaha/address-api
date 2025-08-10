@@ -9,7 +9,7 @@ import (
 	"github.com/xaaha/address-api/internal/data"
 )
 
-func writeJSONFile(t *testing.T, dir, filename string, v interface{}) string {
+func writeJSONFile(t *testing.T, dir, filename string, v any) string {
 	t.Helper()
 	path := filepath.Join(dir, filename)
 	dataBytes, err := json.Marshal(v)
