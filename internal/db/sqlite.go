@@ -9,8 +9,8 @@ import (
 )
 
 // CreateDB creates db named data
-func CreateDB() (*sql.DB, error) {
-	dbLocation := filepath.Join("internal", "db", "data.db")
+func CreateDB(dbName string) (*sql.DB, error) {
+	dbLocation := filepath.Join("internal", "db", dbName)
 	db, err := sql.Open("sqlite3", dbLocation)
 	if err != nil {
 		return nil, err
