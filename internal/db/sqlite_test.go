@@ -83,7 +83,6 @@ func TestExecSQLFile(t *testing.T) {
 func TestInsertAddress(t *testing.T) {
 	t.Run("inserts one address successfully", func(t *testing.T) {
 		d, _ := sql.Open("sqlite3", ":memory:")
-		// Create schema
 		schema := `CREATE TABLE addresses (
 			id INTEGER PRIMARY KEY AUTOINCREMENT,
 			name TEXT,
@@ -133,7 +132,6 @@ func TestInsertAddress(t *testing.T) {
 func TestInsertAddressesInBulk(t *testing.T) {
 	t.Run("inserts multiple addresses successfully", func(t *testing.T) {
 		d, _ := sql.Open("sqlite3", ":memory:")
-		// Create schema
 		schema := `CREATE TABLE addresses (
 			id INTEGER PRIMARY KEY AUTOINCREMENT,
 			name TEXT,
