@@ -10,8 +10,6 @@ import (
 	"github.com/xaaha/address-api/internal/db"
 )
 
-// TODO: Complete this.
-// we might need to either complete or delete the interface migrate.go
 func TestCreateDBAndTables(t *testing.T) {
 	currWd, err := os.Getwd()
 	if err != nil {
@@ -29,7 +27,7 @@ func TestCreateDBAndTables(t *testing.T) {
 		t.Fatalf("failed to create internal/db dir: %v", err)
 	}
 
-	// Prepare migrations and JSON inside tempDir/db/migrations
+	// migrations inside tempDir/db/migrations
 	migrationsDir := filepath.Join(tempDir, "db", "migrations")
 	os.MkdirAll(migrationsDir, 0755)
 
@@ -49,7 +47,6 @@ func TestCreateDBAndTables(t *testing.T) {
         VALUES (?, ?, ?, ?, ?);
     `), 0644)
 
-	// Sample JSON
 	sampleJSON := `[{
         "ID": 1,
         "Name": "Test Hotel",
@@ -65,7 +62,6 @@ func TestCreateDBAndTables(t *testing.T) {
 		t.Fatalf("CreateDBAndTables() failed: %v", err)
 	}
 
-	// Assert DB has data
 	sqlDB, _ := sql.Open("sqlite3", filepath.Join("internal", "db", "data.db"))
 	defer sqlDB.Close()
 
