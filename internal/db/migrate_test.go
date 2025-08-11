@@ -2,6 +2,7 @@ package db_test
 
 import (
 	"database/sql"
+	"fmt"
 	"os"
 	"path/filepath"
 	"testing"
@@ -12,7 +13,16 @@ import (
 // TODO: Complete this.
 // we might need to either complete or delete the interface migrate.go
 func TestCreateDBAndTables(t *testing.T) {
+	currWd, err := os.Getwd()
+	if err != nil {
+		t.Fatalf("failed to get working dir: %v", err)
+	}
+	defer os.Chdir(currWd)
+
 	tempDir := t.TempDir()
+	if err = os.Chdir(tempDir); err != nil {
+		t.Fatalf("failed to chdir to temp dir: %v", err)
+	}
 
 	// Prepare migrations and JSON inside tempDir/db/migrations
 	migrationsDir := filepath.Join(tempDir, "db", "migrations")
@@ -45,7 +55,7 @@ func TestCreateDBAndTables(t *testing.T) {
     }]`
 	os.WriteFile(filepath.Join(tempDir, "addresses.json"), []byte(sampleJSON), 0644)
 
-	// Run the function
+	fmt.Println("This is temp dir: ", tempDir)
 	if err := db.CreateDBAndTables(tempDir); err != nil {
 		t.Fatalf("CreateDBAndTables() failed: %v", err)
 	}
