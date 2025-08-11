@@ -24,6 +24,11 @@ func TestCreateDBAndTables(t *testing.T) {
 		t.Fatalf("failed to chdir to temp dir: %v", err)
 	}
 
+	internalDBDir := filepath.Join(tempDir, "internal", "db")
+	if err := os.MkdirAll(internalDBDir, 0755); err != nil {
+		t.Fatalf("failed to create internal/db dir: %v", err)
+	}
+
 	// Prepare migrations and JSON inside tempDir/db/migrations
 	migrationsDir := filepath.Join(tempDir, "db", "migrations")
 	os.MkdirAll(migrationsDir, 0755)
