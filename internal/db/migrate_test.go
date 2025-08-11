@@ -22,6 +22,8 @@ func TestCreateDBAndTables(t *testing.T) {
 		t.Fatalf("failed to chdir to temp dir: %v", err)
 	}
 
+	// I have "internal", "db" all over this codebase
+	// TODO: Clean up this before moving forward
 	internalDBDir := filepath.Join(tempDir, "internal", "db")
 	if err := os.MkdirAll(internalDBDir, 0755); err != nil {
 		t.Fatalf("failed to create internal/db dir: %v", err)
