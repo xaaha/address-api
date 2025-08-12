@@ -10,11 +10,12 @@ import (
 	"github.com/xaaha/address-api/internal/data"
 )
 
-// CreateDBAndTables creates sqlite tables and db
-// It does that by creating db and reading, executing sql statement to create table
-// and then inserting addresses to the created tables from the dirPath (jsonFiles)
+// CreateDBAndTables creates sqlite tables and db.
+// It does that by creating db and reading json from `dirPath`, executing sql statement to create table
+// and then inserting addresses to the created tables
 func CreateDBAndTables(dirPath string) error {
-	db, err := CreateDB("data.db")
+	dbLocation := GetDBLocation()
+	db, err := CreateDB(dbLocation)
 	if err != nil {
 		return err
 	}

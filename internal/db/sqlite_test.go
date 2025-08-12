@@ -37,7 +37,8 @@ func TestCreateDB(t *testing.T) {
 			t.Fatalf("failed to create folders: %v", err)
 		}
 
-		sqlDB, err := db.CreateDB("test.db")
+		dbPath := db.GetDBLocation("test.db")
+		sqlDB, err := db.CreateDB(dbPath)
 		if err != nil {
 			t.Fatalf("CreateDB() returned error: %v", err)
 		}
@@ -49,7 +50,7 @@ func TestCreateDB(t *testing.T) {
 			t.Fatalf("failed to create table: %v", err)
 		}
 
-		expectedPath := filepath.Join("internal", "db", "test.db")
+		expectedPath := db.GetDBLocation("test.db")
 		if _, err := os.Stat(expectedPath); err != nil {
 			t.Errorf("expected db file at %s, got error: %v", expectedPath, err)
 		}

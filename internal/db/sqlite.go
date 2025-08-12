@@ -8,10 +8,28 @@ import (
 	"github.com/xaaha/address-api/internal/data"
 )
 
-// CreateDB creates db named data
-func CreateDB(dbName string) (*sql.DB, error) {
-	dbLocation := filepath.Join("internal", "db", dbName)
-	db, err := sql.Open("sqlite3", dbLocation)
+// DBdir returns directory path for the db file
+func DBdir() string {
+	return filepath.Join("internal", "db")
+}
+
+// GetDBLocation returns the sqlite db file path
+// by connecting internal/db/data.db
+func GetDBLocation(dbName ...string) string {
+	defaultName := "data.db"
+
+	if len(dbName) > 0 && dbName[0] != "" {
+		defaultName = dbName[0]
+	}
+
+	dbDir := DBdir()
+
+	return filepath.Join(dbDir, defaultName)
+}
+
+// CreateDB creates db named data on the provided path
+func CreateDB(dbPath string) (*sql.DB, error) {
+	db, err := sql.Open("sqlite3", dbPath)
 	if err != nil {
 		return nil, err
 	}
