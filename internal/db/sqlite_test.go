@@ -33,11 +33,11 @@ func TestCreateDB(t *testing.T) {
 		if err = os.Chdir(tempDir); err != nil {
 			t.Fatalf("failed to chdir to temp dir: %v", err)
 		}
-		if err = os.MkdirAll(filepath.Join("internal", "db"), 0o755); err != nil {
+		if err = os.MkdirAll(db.DBdir(), 0o755); err != nil {
 			t.Fatalf("failed to create folders: %v", err)
 		}
 
-		dbPath := db.GetDBLocation("test.db")
+		dbPath := db.GetDBfilePath("test.db")
 		sqlDB, err := db.CreateDB(dbPath)
 		if err != nil {
 			t.Fatalf("CreateDB() returned error: %v", err)
@@ -50,7 +50,7 @@ func TestCreateDB(t *testing.T) {
 			t.Fatalf("failed to create table: %v", err)
 		}
 
-		expectedPath := db.GetDBLocation("test.db")
+		expectedPath := db.GetDBfilePath("test.db")
 		if _, err := os.Stat(expectedPath); err != nil {
 			t.Errorf("expected db file at %s, got error: %v", expectedPath, err)
 		}

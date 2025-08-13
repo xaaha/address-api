@@ -14,7 +14,7 @@ import (
 // It does that by creating db and reading json from `dirPath`, executing sql statement to create table
 // and then inserting addresses to the created tables
 func CreateDBAndTables(dirPath string) error {
-	dbLocation := GetDBLocation()
+	dbLocation := GetDBfilePath()
 	db, err := CreateDB(dbLocation)
 	if err != nil {
 		return err

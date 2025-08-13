@@ -13,9 +13,9 @@ func DBdir() string {
 	return filepath.Join("internal", "db")
 }
 
-// GetDBLocation returns the sqlite db file path
+// GetDBfilePath returns the sqlite db file path
 // by connecting internal/db/data.db
-func GetDBLocation(dbName ...string) string {
+func GetDBfilePath(dbName ...string) string {
 	defaultName := "data.db"
 
 	if len(dbName) > 0 && dbName[0] != "" {
