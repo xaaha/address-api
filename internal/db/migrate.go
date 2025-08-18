@@ -2,70 +2,46 @@
 package db
 
 import (
-	"database/sql"
-	"encoding/json"
 	"fmt"
-	"os"
+	"path/filepath"
 
 	// sqlite3 driver
 	_ "github.com/mattn/go-sqlite3"
+	"github.com/xaaha/address-api/internal/data"
 )
 
-type address struct {
-	ID          int    `json:"id"`
-	Name        string `json:"name"`
-	Address     string `json:"address"`
-	Phone       string `json:"phone"`
-	CountryCode string `json:"country-code"`
-	Country     string `json:"country"`
-}
+// CreateDBAndTables creates sqlite tables and db.
+// It does that by creating db and reading json from `dirPath`, executing sql statement to create table
+// and then inserting addresses to the created tables
+func CreateDBAndTables(dirPath string) error {
+	dbLocation := GetDBfilePath()
+	db, err := CreateDB(dbLocation)
+	if err != nil {
+		return err
+	}
+	defer func() {
+		if err = db.Close(); err != nil {
+			fmt.Println("Error closing db: ", err)
+		}
+	}()
 
-// ReadJSON reads json for now
-func ReadJSON() error {
-	jsonByte, err := os.ReadFile("internal/db/Afghanistan.json")
+	createAddrSQLFile := filepath.Join("db", "migrations", "001_create_addresses_table.sql")
+	if err = ExecSQLFile(db, createAddrSQLFile); err != nil {
+		return err
+	}
+
+	addresses, err := data.ReadJSON(dirPath)
 	if err != nil {
 		return err
 	}
 
-	// jsonString := string(jsonByte)
-	// fmt.Println(jsonString)
+	insertAddrSQLFile := filepath.Join("db", "migrations", "002_insert_address.sql")
 
-	var testAddress []address
-	err = json.Unmarshal(jsonByte, &testAddress)
-	if err != nil {
+	if err = InsertAddressesInBulk(db, addresses, insertAddrSQLFile); err != nil {
 		return err
 	}
 
-	for _, value := range testAddress {
-		fmt.Println(value.Name)
-	}
-
-	return nil
-}
-
-// CreateDBAndTables creates sqlite tables and db
-func CreateDBAndTables() error {
-	db, err := sql.Open("sqlite3", "./test.db")
-	if err != nil {
-		return err
-	}
-	defer db.Close()
-
-	sqlStmt := `
-	CREATE TABLE IF NOT EXISTS address (
-        id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
-        name TEXT
-				address TEXT
-				phone TEXT
-				country_code TEXT
-				country TEXT
-    );
-	`
-	result, err := db.Exec(sqlStmt)
-	if err != nil {
-		return err
-	}
-	fmt.Println("Result: ", result)
+	fmt.Printf("Inserted %d addresses\n", len(addresses))
 
 	return nil
 }

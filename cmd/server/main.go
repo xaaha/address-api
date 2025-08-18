@@ -1,20 +1,14 @@
-// Package main is the entry point
+// Package main in Server is for server work like db migration and stuff
 package main
 
 import (
-	"log"
-
-	"github.com/xaaha/address-api/internal/db"
+	"fmt"
 )
 
 func main() {
-	// err := db.ReadJSON()
+	fmt.Println("Hello World!")
+	// err := db.CreateDBAndTables("data")
 	// if err != nil {
-	// 	log.Println(err)
+	// 	fmt.Println("Error occurred in server/main.go ", err)
 	// }
-
-	err := db.CreateDBAndTables()
-	if err != nil {
-		log.Println(err)
-	}
 }
