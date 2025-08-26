@@ -1,8 +1,6 @@
 package data
 
 import (
-	"io/fs"
-	"path/filepath"
 	"regexp"
 	"strings"
 )
@@ -37,10 +35,19 @@ func usAddress(addr Address) bool {
 	return zipPattern.MatchString(fullAddress)
 }
 
-func readDir(dirPath string) error {
-	err := filepath.Walk(dirPath, func(path string, info fs.FileInfo, err error) error {
-		if err != nil || dirEntry.IsDir() || filepath.Ext(path) != ".json" {
-			return err
-		}
-	})
-}
+// read the dir
+// what if the dir is not there
+// for each file in the dir, loop (user walk dir)
+// read the file,
+// what if the file is not there
+// then using the json struct read the file array
+// for each file, if the condition matches, remove the item
+// once done move to the next file content.
+
+// func readDir(dirPath string) error {
+// 	err := filepath.Walk(dirPath, func(path string, info fs.FileInfo, err error) error {
+// 		if err != nil || dirEntry.IsDir() || filepath.Ext(path) != ".json" {
+// 			return err
+// 		}
+// 	})
+// }
