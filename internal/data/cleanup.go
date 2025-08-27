@@ -1,6 +1,10 @@
 package data
 
 import (
+	"encoding/json"
+	"io/fs"
+	"os"
+	"path/filepath"
 	"regexp"
 	"strings"
 )
@@ -35,6 +39,49 @@ func usAddress(addr Address) bool {
 	return zipPattern.MatchString(fullAddress)
 }
 
+// rmJunkItem removes the polluted items from the arrAddr
+func rmJunkItem(arrAddr []Address) []Address {
+	cleaned := arrAddr[:0]
+	for _, val := range arrAddr {
+		if !usAddress(val) {
+			cleaned = append(cleaned, val)
+		}
+	}
+	return cleaned
+}
+
+// Cleanup reads the data dir
+func Cleanup(dirPath string) error {
+	return filepath.WalkDir(dirPath, func(path string, dirEntry fs.DirEntry, err error) error {
+		if err != nil || dirEntry.IsDir() || filepath.Ext(path) != ".json" {
+			return err
+		}
+
+		data, err := os.ReadFile(path)
+		if err != nil {
+			return err
+		}
+
+		var address []Address
+		if err = json.Unmarshal(data, &address); err != nil {
+			return err
+		}
+
+		cleanedupArr := rmJunkItem(address)
+
+		newData, err := json.MarshalIndent(cleanedupArr, "", "  ")
+		if err != nil {
+			return err
+		}
+
+		if err := os.WriteFile(path, newData, 0644); err != nil {
+			return err
+		}
+
+		return nil
+	})
+}
+
 // read the dir
 // what if the dir is not there
 // for each file in the dir, loop (user walk dir)
@@ -43,11 +90,3 @@ func usAddress(addr Address) bool {
 // then using the json struct read the file array
 // for each file, if the condition matches, remove the item
 // once done move to the next file content.
-
-// func readDir(dirPath string) error {
-// 	err := filepath.Walk(dirPath, func(path string, info fs.FileInfo, err error) error {
-// 		if err != nil || dirEntry.IsDir() || filepath.Ext(path) != ".json" {
-// 			return err
-// 		}
-// 	})
-// }
