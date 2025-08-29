@@ -29,13 +29,15 @@ func usAddress(addr Address) bool {
 		return true
 	}
 
+	// Match state abbreviations like ", NY " or ", NY," or ", NY 10105"
 	for _, state := range usStates {
-		if strings.Contains(fullAddress, " "+strings.ToLower(state)+" ") {
+		pattern := `\b` + strings.ToLower(state) + `\b`
+		if regexp.MustCompile(pattern).MatchString(fullAddress) {
 			return true
 		}
 	}
 
-	zipPattern := regexp.MustCompile(`\b\d{5}(-\d{4})?\b`)
+	zipPattern := regexp.MustCompile(`\b\d{5}(?:-\d{4})?\b`)
 	return zipPattern.MatchString(fullAddress)
 }
 
@@ -55,6 +57,10 @@ func Cleanup(dirPath string) error {
 	return filepath.WalkDir(dirPath, func(path string, dirEntry fs.DirEntry, err error) error {
 		if err != nil || dirEntry.IsDir() || filepath.Ext(path) != ".json" {
 			return err
+		}
+
+		if filepath.Base(path) == "United States.json" {
+			return nil
 		}
 
 		data, err := os.ReadFile(path)
