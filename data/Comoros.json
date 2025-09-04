@@ -1,1946 +1,1778 @@
 [
- {
-  "id": 1,
-  "name": "Subway",
-  "address": "BP 2122, Route De La Corniche Oasis, Comoros",
-  "phone": "+2693418883",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 2,
-  "name": "The Malt Shop",
-  "address": "Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 3,
-  "name": "The Smokin' Horseshoe",
-  "address": "Oasis, Route Presidential, Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 4,
-  "name": "Subway",
-  "address": "Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 5,
-  "name": "Main Street Pizza Manti",
-  "address": "Rue de la corniche, Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 6,
-  "name": "Sno Cap Lanes",
-  "address": "Unnamed Road, Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 7,
-  "name": "Manti Motel Ice Cream Shop",
-  "address": "Unnamed Road, Moroni, Comoros",
-  "phone": "+2693584766",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 8,
-  "name": "Subway",
-  "address": "Rue de la corniche, Moroni, Comoros",
-  "phone": "+2693250710",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 9,
-  "name": "Coach B's Pizza",
-  "address": "Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 10,
-  "name": "MoCafe",
-  "address": "RN 1, Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 11,
-  "name": "Restaurant LE COMOCO",
-  "address": "Quartier Zilimadjou, RN 1, Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 12,
-  "name": "Subway",
-  "address": "Station Al Bayt, Hankounou, Moroni, Comoros",
-  "phone": "+2697739573",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 13,
-  "name": "Chez Babou",
-  "address": "RN 1, Moroni, Comoros",
-  "phone": "+2694756303",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 14,
-  "name": "Les Saveurs des Îles",
-  "address": "Iconi,Malouzine, Moroni, Comoros",
-  "phone": "+2693455353",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 15,
-  "name": "Wasta Boulangerie snack",
-  "address": "Quartier Zilimadjou, RN 1, Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 16,
-  "name": "New Select Restaurant",
-  "address": "Rue de la corniche, Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 17,
-  "name": "Le COMOCO",
-  "address": "Carefour Yemen, Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 18,
-  "name": "Nassib",
-  "address": "Tennis Club de Moroni, Moroni, Comoros",
-  "phone": "+2694761934",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 19,
-  "name": "LE DS RESTAURANT",
-  "address": "ITSANDRA MORONI, ITSANDRA, Comoros",
-  "phone": "+2693356898",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 20,
-  "name": "Zara Restaurant",
-  "address": "Unnamed Road, Moroni, Comoros",
-  "phone": "+2697739854",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 21,
-  "name": "Le Club-House",
-  "address": "Unnamed Road, Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 22,
-  "name": "Resturant Mawana",
-  "address": "Moroni Oisis, Moroni, Comoros",
-  "phone": "+2693276953",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 23,
-  "name": "Subway",
-  "address": "Unnamed Road, Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 24,
-  "name": "Don Joaquin Street Tacos",
-  "address": "Alliance Française, Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 25,
-  "name": "FarZak House",
-  "address": "RN 1, Moroni, Comoros",
-  "phone": "+2693456463",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 26,
-  "name": "New Mumbai Restaurant",
-  "address": "hamramba،, Moroni, Comoros",
-  "phone": "+2693287582",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 27,
-  "name": "Brochette Claris",
-  "address": "Asgaraly Moroni, asgaraly, Comoros",
-  "phone": "+2693587775",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 28,
-  "name": "Le coelecanthe restaurant et piscine",
-  "address": "Mocafe, Moroni, Comoros",
-  "phone": "+2693525786",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 29,
-  "name": "Cafe Des Artistes",
-  "address": "Rue de la corniche, Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 30,
-  "name": "Timpanogos Cave National Monument",
-  "address": "Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 31,
-  "name": "Fifth Water Hot Springs Trail Start",
-  "address": "Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 32,
-  "name": "Upper Falls Park",
-  "address": "Mtsangani, Moroni, Comoros",
-  "phone": "+2693616010",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 33,
-  "name": "Great Basin Station",
-  "address": "route ambassadeur, Moroni, Comoros",
-  "phone": "+2697732800",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 34,
-  "name": "Mosquée Mssihiri wa Cheik Ahmed",
-  "address": "Rue de la corniche, Moroni, Comoros",
-  "phone": "+2693333829",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 35,
-  "name": "Océanis Hotel",
-  "address": "Riadhui, Domoni, Anjouan, Comoros",
-  "phone": "+2693358200",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 36,
-  "name": "Al Djadid",
-  "address": "Unnamed Rd, Mutsamudu, Comoros",
-  "phone": "+2697710423",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 37,
-  "name": "Comptoir des Iles-Al Quitoir",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711706",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 38,
-  "name": "Hôtel Al Amal",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 39,
-  "name": "Maponge Palace Hotel",
-  "address": "Rue Kaderbay- Madoukani, Mutsamudu, Comoros",
-  "phone": "+2697711054",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 40,
-  "name": "Johanna Livingstone Hotel",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697710440",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 41,
-  "name": "Hotel des Iles",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711818",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 42,
-  "name": "Karama Hôtel",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711809",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 43,
-  "name": "Hôtel Le Papillon (île d'Anjouan)",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711839",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 44,
-  "name": "Medina Hotel",
-  "address": "Alquitoir Missiri, Mutsamudu, Comoros",
-  "phone": "+2693321318",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 45,
-  "name": "Hôtel Le Refuge Kpark",
-  "address": "Chitsangani, Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 46,
-  "name": "Hotel Al amal",
-  "address": "Habambi sur la Plage de Moya, Moya Anjouan, Comoros",
-  "phone": "+2693321433",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 47,
-  "name": "Hotel Le Sultan",
-  "address": "Barakani, Comoros",
-  "phone": "+2697716598",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 48,
-  "name": "Al Quittoir",
-  "address": "Mpagahari, Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 49,
-  "name": "Naoumi Pizza",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2693656147",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 50,
-  "name": "Saurakh Restaurant Mutsamudu",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 51,
-  "name": "LEKARIBU RESTO",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 52,
-  "name": "MAC BOSS",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697710821",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 53,
-  "name": "Le Paradise \"Habomo\"",
-  "address": "Mirontsi, Comoros",
-  "phone": "+2693635655",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 54,
-  "name": "PATISSERIE RAYCHA",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711795",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 55,
-  "name": "Sandwicherie",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 56,
-  "name": "M'kiri wa choni",
-  "address": "Unnamed Road, Mutsamudu, Comoros",
-  "phone": "+2694883832",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 57,
-  "name": "chez aladin",
-  "address": "Unnamed Road, Mutsamudu, Comoros",
-  "phone": "+2693371227",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 58,
-  "name": "OASIS SNACK RESTAURANT",
-  "address": "Chandra, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 59,
-  "name": "Comptoir des Iles-Al Quitoir",
-  "address": "Chironkamba, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 60,
-  "name": "Jolie Bébé hôtel",
-  "address": "Akibani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 61,
-  "name": "Restaurant baobab",
-  "address": "Koni-Djodjo, Comoros",
-  "phone": "+2694694887",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 62,
-  "name": "Restaurant Le Bambou",
-  "address": "Akibani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 63,
-  "name": "Délice des Îles",
-  "address": "Unnamed Road, Mutsamudu, Comoros",
-  "phone": "+2693685359",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 64,
-  "name": "Chababi Snack",
-  "address": "Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 65,
-  "name": "Restaurant le baobabe",
-  "address": "Bandarsalam Moheli, Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 66,
-  "name": "Karama Hôtel",
-  "address": "Nioumachoua, Comoros",
-  "phone": "+2697726038",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 67,
-  "name": "Restaurant Benzalissa",
-  "address": "Riadhui, Domoni, Anjouan, Comoros",
-  "phone": "+2693358200",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 68,
-  "name": "Hôtel Le Papillon (île d'Anjouan)",
-  "address": "+269, Mirontsi, Comoros",
-  "phone": "+2693679172",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 69,
-  "name": "Le Jasmin",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 70,
-  "name": "Resto-Shop",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 71,
-  "name": "Le Florida Hotel Restaurant",
-  "address": "Akibani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 72,
-  "name": "Hotel Al amal",
-  "address": "Moya, Comoros",
-  "phone": "+2693320261",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 73,
-  "name": "Maponge Palace Hotel",
-  "address": "Alquitoir Missiri, Mutsamudu, Comoros",
-  "phone": "+2693321318",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 74,
-  "name": "Restaurant Benzahalissa",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697710440",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 75,
-  "name": "Miari-resto",
-  "address": "Rue Kaderbay- Madoukani, Mutsamudu, Comoros",
-  "phone": "+2697711054",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 76,
-  "name": "Medina Hotel",
-  "address": "Bambao, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 77,
-  "name": "Hotel des Iles",
-  "address": "Chitsangani, Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 78,
-  "name": "Océanis Hotel",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711809",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 79,
-  "name": "KIZZFARSI OFFICIEL",
-  "address": "Fomboni, Comoros",
-  "phone": "+2693461970",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 80,
-  "name": "Hôtel Al Amal",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711706",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 81,
-  "name": "Ali Mohamed Mwegnali269 D'Akibani",
-  "address": "Mawéni, Domoni, Comoros",
-  "phone": "+2694418124",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 82,
-  "name": "Mutsamudu",
-  "address": "Mbambao Mtsanga, Comoros",
-  "phone": "+2694648590",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 83,
-  "name": "Anjouan Découverte",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697712008",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 84,
-  "name": "Al Djadid",
-  "address": "Pajé, Comoros",
-  "phone": "+2697710079",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 85,
-  "name": "Hôtel le Moya Plage",
-  "address": "Rue mosquée de vendredi de chitsangani, Mutsamudu, Comoros",
-  "phone": "+2693320441",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 86,
-  "name": "Moheli Laka Lodge",
-  "address": "Unnamed Rd, Mutsamudu, Comoros",
-  "phone": "+2697710423",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 87,
-  "name": "Milembenni",
-  "address": "Ouani, Comoros",
-  "phone": "+2694295076",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 88,
-  "name": "Auberge les abou",
-  "address": "Ouani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 89,
-  "name": "Grande Mosquée de Fomboni",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 90,
-  "name": "Paradise Village Hotel \u0026 Restaurant",
-  "address": "Ouani, Comoros",
-  "phone": "+2694295076",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 91,
-  "name": "L'oasis Du Vaima",
-  "address": "Ouani, Comoros",
-  "phone": "+2694420309",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 92,
-  "name": "ayouba fils",
-  "address": "Unnamed Road, Ouani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 93,
-  "name": "Akibani Anjouan Comores",
-  "address": "restaurant le bambou, Ouani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 94,
-  "name": "Mpouzini Akibani",
-  "address": "cimetière Chongolada, Rue de, Chandra, Comoros",
-  "phone": "+2694845939",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 95,
-  "name": "Frontière Entre Akibani Et Bandrani",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711839",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 96,
-  "name": "Café matin",
-  "address": "Ouani, Comoros",
-  "phone": "+2693320281",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 97,
-  "name": "Youssouf Ahamadi Abdallah Dit M'paté",
-  "address": "Unnamed Road, Mutsamudu, Comoros",
-  "phone": "+2693668031",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 98,
-  "name": "Grande Mosquée de Fomboni",
-  "address": "Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 99,
-  "name": "Ntingui",
-  "address": "Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 100,
-  "name": "Miringoni",
-  "address": "Mitsamiouli, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 101,
-  "name": "Mitsamiouli",
-  "address": "Rue de la corniche, Moroni, Comoros",
-  "phone": "+2693333829",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 102,
-  "name": "Mwali",
-  "address": "Nioumachoua, Comoros",
-  "phone": "+2693422960",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 103,
-  "name": "Fomboni",
-  "address": "RN1, Voidjou, Moroni, Comoros",
-  "phone": "+2697733333",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 104,
-  "name": "Fomboni",
-  "address": "Nioumachoua, Comoros",
-  "phone": "+2697726038",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 105,
-  "name": "ONG Dahari",
-  "address": "Mtsangani, Moroni, Comoros",
-  "phone": "+2693616010",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 106,
-  "name": "Chomoni",
-  "address": "Hayiraha Road, Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 107,
-  "name": "Ngazidja",
-  "address": "Mitsamiouli, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 108,
-  "name": "Golden Tulip Grande Comore Moroni Resort \u0026 Spa",
-  "address": "Hombo BP 277, Mutsamudu, Comoros",
-  "phone": "+2697714048",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 109,
-  "name": "Beach N'Gouja",
-  "address": "Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 110,
-  "name": "Moheli Laka Lodge",
-  "address": "Djoièzi, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 111,
-  "name": "Vanilla Lodge Mohéli",
-  "address": "99397, Nioumachoua, Comoros",
-  "phone": "+2693563488",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 112,
-  "name": "Le Relais de Singani hôtel",
-  "address": "Fomboni, Comoros",
-  "phone": "+2697720545",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 113,
-  "name": "HOTEL GRANDE PLAINE DJOIEZI MOHELI",
-  "address": "Nioumachoua, Comoros",
-  "phone": "+2697726038",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 114,
-  "name": "Saurakh Restaurant Fomboni",
-  "address": "Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 115,
-  "name": "Miari-resto",
-  "address": "Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 116,
-  "name": "Restaurant Maecha Bora",
-  "address": "Unnamed Road, Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 117,
-  "name": "Restaurant maecha bora annex fomboni",
-  "address": "Fomboni, Comoros",
-  "phone": "+2693461970",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 118,
-  "name": "Chez Bandi Starr",
-  "address": "Salamani, Fomboni, Comoros",
-  "phone": "+2693278608",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 119,
-  "name": "Resto_Gozila",
-  "address": "Fomboni, Comoros",
-  "phone": "+2693773582",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 120,
-  "name": "R.B.B RELAX",
-  "address": "Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 121,
-  "name": "Mano restaurant",
-  "address": "Fomboni, Comoros",
-  "phone": "+2693322118",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 122,
-  "name": "Salamane",
-  "address": "Salamani, Fomboni, Comoros",
-  "phone": "+2693456557",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 123,
-  "name": "SAID ALLAOUI-RESTEAU",
-  "address": "Fomboni, Comoros",
-  "phone": "+2693278608",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 124,
-  "name": "Saurakh Restaurant Nioumachoua",
-  "address": "Djoièzi, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 125,
-  "name": "Le Relais de Singani hôtel",
-  "address": "Wanani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 126,
-  "name": "Grand marché de Fomboni",
-  "address": "Hayiraha Road, Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 127,
-  "name": "La Plage Guesthouse",
-  "address": "Rue de la corniche, Moroni, Comoros",
-  "phone": "+2694488642",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 128,
-  "name": "Moheli Laka Lodge",
-  "address": "RN 5, Ouziouani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 129,
-  "name": "Fomboni",
-  "address": "Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 130,
-  "name": "massiwa diving center",
-  "address": "Nioumachoua, Comoros",
-  "phone": "+2697726038",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 131,
-  "name": "Fomboni",
-  "address": "Avenue, Soihili, Moroni, Comoros",
-  "phone": "+2697735278",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 132,
-  "name": "Mairie de Nyumangama",
-  "address": "Colas, Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 133,
-  "name": "Youssouf Madi Masjid",
-  "address": "718, Mitsamiouli, Comoros",
-  "phone": "+2693338546",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 134,
-  "name": "Retaj Moroni Hotel",
-  "address": "Fomboni, Comoros",
-  "phone": "+2697720545",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 135,
-  "name": "Stade de Mkadaréni",
-  "address": "Unnamed Road, Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 136,
-  "name": "Hotel Les Arcades",
-  "address": "Unnamed Road, Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 137,
-  "name": "Milembenni",
-  "address": "SAGC, Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 138,
-  "name": "Chez Tsiva",
-  "address": "Nioumachoua, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 139,
-  "name": "Kavé-Hoani",
-  "address": "Hayiraha Road, Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 140,
-  "name": "Chindini",
-  "address": "Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 141,
-  "name": "Chomoni",
-  "address": "Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 142,
-  "name": "Itsamia",
-  "address": "Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 143,
-  "name": "Mosquée Mssihiri wa Cheik Ahmed",
-  "address": "Copéran, Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 144,
-  "name": "Le Trou Du Prophète",
-  "address": "Stade Elhadj, Fomboni, Comoros",
-  "phone": "+2693716387",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 145,
-  "name": "Le Relais de Singani hôtel",
-  "address": "Fomboni, Comoros",
-  "phone": "+2693461970",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 146,
-  "name": "Lingoni",
-  "address": "Colas, Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 147,
-  "name": "Domoney",
-  "address": "Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 148,
-  "name": "Domoney",
-  "address": "Fomboni, Comoros",
-  "phone": "+2697720372",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 149,
-  "name": "Bouni",
-  "address": "Fomboni, Comoros",
-  "phone": "+2697720545",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 150,
-  "name": "Iconi",
-  "address": "Moroni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 151,
-  "name": "Itsandra Mdjini",
-  "address": "Mtsangani, Moroni, Comoros",
-  "phone": "+2693616010",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 152,
-  "name": "La Plage Guesthouse",
-  "address": "Mitsamiouli, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 153,
-  "name": "Al Djadid",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697710440",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 154,
-  "name": "Océanis Hotel",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711809",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 155,
-  "name": "Comptoir des Iles-Al Quitoir",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711839",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 156,
-  "name": "Hôtel Al Amal",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711818",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 157,
-  "name": "Johanna Livingstone Hotel",
-  "address": "Habambi sur la Plage de Moya, Moya Anjouan, Comoros",
-  "phone": "+2693321433",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 158,
-  "name": "Maponge Palace Hotel",
-  "address": "Unnamed Rd, Mutsamudu, Comoros",
-  "phone": "+2697710423",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 159,
-  "name": "Hotel Le Sultan",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 160,
-  "name": "Hotel des Iles",
-  "address": "Riadhui, Domoni, Anjouan, Comoros",
-  "phone": "+2693358200",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 161,
-  "name": "Hôtel Le Refuge Kpark",
-  "address": "Barakani, Comoros",
-  "phone": "+2697716598",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 162,
-  "name": "Karama Hôtel",
-  "address": "Alquitoir Missiri, Mutsamudu, Comoros",
-  "phone": "+2693321318",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 163,
-  "name": "Hôtel Le Papillon (île d'Anjouan)",
-  "address": "Chitsangani, Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 164,
-  "name": "Medina Hotel",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711706",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 165,
-  "name": "Hotel Al amal",
-  "address": "Rue Kaderbay- Madoukani, Mutsamudu, Comoros",
-  "phone": "+2697711054",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 166,
-  "name": "Resto-Shop",
-  "address": "Ouani, Comoros",
-  "phone": "+2694295076",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 167,
-  "name": "Délice des Îles",
-  "address": "Ouani, Comoros",
-  "phone": "+2694420309",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 168,
-  "name": "Restaurant Le Bambou",
-  "address": "Riadhui, Domoni, Anjouan, Comoros",
-  "phone": "+2693358200",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 169,
-  "name": "Restaurant baobab",
-  "address": "Unnamed Road, Ouani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 170,
-  "name": "Naoumi Pizza",
-  "address": "restaurant le bambou, Ouani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 171,
-  "name": "Al Djadid",
-  "address": "Ouani, Comoros",
-  "phone": "+2694295076",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 172,
-  "name": "chez aladin",
-  "address": "Mawéni, Domoni, Comoros",
-  "phone": "+2694418124",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 173,
-  "name": "JASMINE GLACE \u0026 RESTAURANT ( MEGALUX )",
-  "address": "Mirontsi, Comoros",
-  "phone": "+2693635655",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 174,
-  "name": "Restaurant le baobabe",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697710821",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 175,
-  "name": "Domino's Pizza in Domino’s Pizza Alpha Mall Amritsar",
-  "address": "+269, Mirontsi, Comoros",
-  "phone": "+2693679172",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 176,
-  "name": "Domino's Pizza",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 177,
-  "name": "Domino's Pizza",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711706",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 178,
-  "name": "Roberta's",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697710440",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 179,
-  "name": "Domino's Pizza",
-  "address": "Rue mosquée de vendredi de chitsangani, Mutsamudu, Comoros",
-  "phone": "+2693320441",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 180,
-  "name": "Domino's Pizza",
-  "address": "Unnamed Road, Mutsamudu, Comoros",
-  "phone": "+2693668031",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 181,
-  "name": "Domino's Pizza",
-  "address": "Bambao, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 182,
-  "name": "Domino's Pizza",
-  "address": "Mbambao Mtsanga, Comoros",
-  "phone": "+2694648590",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 183,
-  "name": "Domino's Pizza Goonellabah",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 184,
-  "name": "Laziz Pizza Purnia",
-  "address": "99397, Démbeni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 185,
-  "name": "Maggiano's Little Italy",
-  "address": "cimetière Chongolada, Rue de, Chandra, Comoros",
-  "phone": "+2694845939",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 186,
-  "name": "Éco-musée du sel",
-  "address": "Hayiraha Road, Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 187,
-  "name": "Mutsamudu",
-  "address": "Fomboni, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 188,
-  "name": "Al Djadid",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711706",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 189,
-  "name": "Océanis Hotel",
-  "address": "Alquitoir Missiri, Mutsamudu, Comoros",
-  "phone": "+2693321318",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 190,
-  "name": "Comptoir des Iles-Al Quitoir",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711809",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 191,
-  "name": "Hôtel Al Amal",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697710440",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 192,
-  "name": "Hotel des Iles",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711818",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 193,
-  "name": "Johanna Livingstone Hotel",
-  "address": "Barakani, Comoros",
-  "phone": "+2697716598",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 194,
-  "name": "Maponge Palace Hotel",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 195,
-  "name": "Hôtel Le Refuge Kpark",
-  "address": "Unnamed Rd, Mutsamudu, Comoros",
-  "phone": "+2697710423",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 196,
-  "name": "Hôtel Le Papillon (île d'Anjouan)",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711839",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 197,
-  "name": "Karama Hôtel",
-  "address": "Riadhui, Domoni, Anjouan, Comoros",
-  "phone": "+2693358200",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 198,
-  "name": "Hotel Le Sultan",
-  "address": "Rue Kaderbay- Madoukani, Mutsamudu, Comoros",
-  "phone": "+2697711054",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 199,
-  "name": "Medina Hotel",
-  "address": "Chitsangani, Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 200,
-  "name": "Hotel Al amal",
-  "address": "Habambi sur la Plage de Moya, Moya Anjouan, Comoros",
-  "phone": "+2693321433",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 201,
-  "name": "La Chan'aile",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 202,
-  "name": "Restaurant baobab mbouyoujoy",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 203,
-  "name": "Resto-Shop",
-  "address": "restaurant le bambou, Ouani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 204,
-  "name": "Saurakh Restaurant Mutsamudu",
-  "address": "Mawéni, Domoni, Comoros",
-  "phone": "+2694418124",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 205,
-  "name": "Restaurant Le Bambou",
-  "address": "Mirontsi, Comoros",
-  "phone": "+2693635655",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 206,
-  "name": "chez aladin",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2693656147",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 207,
-  "name": "Le Paradise \"Habomo\"",
-  "address": "cimetière Chongolada, Rue de, Chandra, Comoros",
-  "phone": "+2694845939",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 208,
-  "name": "Al Quittoir",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711795",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 209,
-  "name": "PATISSERIE RAYCHA",
-  "address": "Ouani, Comoros",
-  "phone": "+2694295076",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 210,
-  "name": "LEKARIBU RESTO",
-  "address": "Chironkamba, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 211,
-  "name": "JASMINE GLACE \u0026 RESTAURANT ( MEGALUX )",
-  "address": "Unnamed Road, Mutsamudu, Comoros",
-  "phone": "+2693685359",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 212,
-  "name": "MAC BOSS",
-  "address": "Koni-Djodjo, Comoros",
-  "phone": "+2694694887",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 213,
-  "name": "Restaurant le baobabe",
-  "address": "Akibani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 214,
-  "name": "Délice des Îles",
-  "address": "Chandra, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 215,
-  "name": "Chababi Snack",
-  "address": "Akibani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 216,
-  "name": "GALAXY",
-  "address": "Nioumachoua, Comoros",
-  "phone": "+2697726038",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 217,
-  "name": "Restaurant Benzahalissa",
-  "address": "+269, Mirontsi, Comoros",
-  "phone": "+2693679172",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 218,
-  "name": "Sandwicherie",
-  "address": "Akibani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 219,
-  "name": "Tsembehou",
-  "address": "Riadhui, Domoni, Anjouan, Comoros",
-  "phone": "+2693358200",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 220,
-  "name": "Comptoir des Iles-Al Quitoir",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711706",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 221,
-  "name": "Le Florida Hotel Restaurant",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697710440",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 222,
-  "name": "Rehema Mouhibou",
-  "address": "Rue mosquée de vendredi de chitsangani, Mutsamudu, Comoros",
-  "phone": "+2693320441",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 223,
-  "name": "Karama Hôtel",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 224,
-  "name": "Le Jasmin",
-  "address": "Pajé, Comoros",
-  "phone": "+2697710079",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 225,
-  "name": "Pension Makany",
-  "address": "Unnamed Rd, Mutsamudu, Comoros",
-  "phone": "+2697710423",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 226,
-  "name": "KIZZFARSI OFFICIEL",
-  "address": "Domoney, Comoros",
-  "phone": "+2693599214",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 227,
-  "name": "Hotel des Iles",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697712008",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 228,
-  "name": "Hôtel Le Papillon (île d'Anjouan)",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697711839",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 229,
-  "name": "Al Djadid",
-  "address": "Unnamed Road, Mutsamudu, Comoros",
-  "phone": "+2693668031",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 230,
-  "name": "Ali Mohamed Mwegnali269 D'Akibani",
-  "address": "Mbambao Mtsanga, Comoros",
-  "phone": "+2694648590",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 231,
-  "name": "Anjouan Découverte",
-  "address": "Bambao, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 232,
-  "name": "ViewHouse Centennial",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 233,
-  "name": "Yummy station",
-  "address": "Ouani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 234,
-  "name": "Tacos and Tequila",
-  "address": "Mpagahari, Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 235,
-  "name": "Bryan’s Dumpling House",
-  "address": "Mrémani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 236,
-  "name": "Moheli Laka Lodge",
-  "address": "Mutsamudu, Comoros",
-  "phone": "+2697710821",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 237,
-  "name": "Park Meadows",
-  "address": "Mutsamudu, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 238,
-  "name": "ayouba fils",
-  "address": "Ouani, Comoros",
-  "phone": "+2694295076",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 239,
-  "name": "Café matin",
-  "address": "Unnamed Road, Ouani, Comoros",
-  "phone": "",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 240,
-  "name": "Frontière Entre Akibani Et Bandrani",
-  "address": "Ouani, Comoros",
-  "phone": "+2693320281",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 241,
-  "name": "Mpouzini Akibani",
-  "address": "Unnamed Road, Mutsamudu, Comoros",
-  "phone": "+2693371227",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 242,
-  "name": "Akibani Anjouan Comores",
-  "address": "Ouani, Comoros",
-  "phone": "+2694420309",
-  "country-code": "KM",
-  "country": "Comoros"
- },
- {
-  "id": 243,
-  "name": "Youssouf Ahamadi Abdallah Dit M'paté",
-  "address": "Unnamed Road, Mutsamudu, Comoros",
-  "phone": "+2694883832",
-  "country-code": "KM",
-  "country": "Comoros"
- }
+  {
+    "id": 2,
+    "name": "The Malt Shop",
+    "address": "Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 3,
+    "name": "The Smokin' Horseshoe",
+    "address": "Oasis, Route Presidential, Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 4,
+    "name": "Subway",
+    "address": "Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 6,
+    "name": "Sno Cap Lanes",
+    "address": "Unnamed Road, Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 7,
+    "name": "Manti Motel Ice Cream Shop",
+    "address": "Unnamed Road, Moroni, Comoros",
+    "phone": "+2693584766",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 9,
+    "name": "Coach B's Pizza",
+    "address": "Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 10,
+    "name": "MoCafe",
+    "address": "RN 1, Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 11,
+    "name": "Restaurant LE COMOCO",
+    "address": "Quartier Zilimadjou, RN 1, Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 13,
+    "name": "Chez Babou",
+    "address": "RN 1, Moroni, Comoros",
+    "phone": "+2694756303",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 14,
+    "name": "Les Saveurs des Îles",
+    "address": "Iconi,Malouzine, Moroni, Comoros",
+    "phone": "+2693455353",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 15,
+    "name": "Wasta Boulangerie snack",
+    "address": "Quartier Zilimadjou, RN 1, Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 17,
+    "name": "Le COMOCO",
+    "address": "Carefour Yemen, Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 19,
+    "name": "LE DS RESTAURANT",
+    "address": "ITSANDRA MORONI, ITSANDRA, Comoros",
+    "phone": "+2693356898",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 20,
+    "name": "Zara Restaurant",
+    "address": "Unnamed Road, Moroni, Comoros",
+    "phone": "+2697739854",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 21,
+    "name": "Le Club-House",
+    "address": "Unnamed Road, Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 22,
+    "name": "Resturant Mawana",
+    "address": "Moroni Oisis, Moroni, Comoros",
+    "phone": "+2693276953",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 23,
+    "name": "Subway",
+    "address": "Unnamed Road, Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 24,
+    "name": "Don Joaquin Street Tacos",
+    "address": "Alliance Française, Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 25,
+    "name": "FarZak House",
+    "address": "RN 1, Moroni, Comoros",
+    "phone": "+2693456463",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 26,
+    "name": "New Mumbai Restaurant",
+    "address": "hamramba،, Moroni, Comoros",
+    "phone": "+2693287582",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 27,
+    "name": "Brochette Claris",
+    "address": "Asgaraly Moroni, asgaraly, Comoros",
+    "phone": "+2693587775",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 28,
+    "name": "Le coelecanthe restaurant et piscine",
+    "address": "Mocafe, Moroni, Comoros",
+    "phone": "+2693525786",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 30,
+    "name": "Timpanogos Cave National Monument",
+    "address": "Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 31,
+    "name": "Fifth Water Hot Springs Trail Start",
+    "address": "Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 32,
+    "name": "Upper Falls Park",
+    "address": "Mtsangani, Moroni, Comoros",
+    "phone": "+2693616010",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 33,
+    "name": "Great Basin Station",
+    "address": "route ambassadeur, Moroni, Comoros",
+    "phone": "+2697732800",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 35,
+    "name": "Océanis Hotel",
+    "address": "Riadhui, Domoni, Anjouan, Comoros",
+    "phone": "+2693358200",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 36,
+    "name": "Al Djadid",
+    "address": "Unnamed Rd, Mutsamudu, Comoros",
+    "phone": "+2697710423",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 37,
+    "name": "Comptoir des Iles-Al Quitoir",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711706",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 38,
+    "name": "Hôtel Al Amal",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 39,
+    "name": "Maponge Palace Hotel",
+    "address": "Rue Kaderbay- Madoukani, Mutsamudu, Comoros",
+    "phone": "+2697711054",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 40,
+    "name": "Johanna Livingstone Hotel",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697710440",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 41,
+    "name": "Hotel des Iles",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711818",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 42,
+    "name": "Karama Hôtel",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711809",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 43,
+    "name": "Hôtel Le Papillon (île d'Anjouan)",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711839",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 44,
+    "name": "Medina Hotel",
+    "address": "Alquitoir Missiri, Mutsamudu, Comoros",
+    "phone": "+2693321318",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 45,
+    "name": "Hôtel Le Refuge Kpark",
+    "address": "Chitsangani, Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 47,
+    "name": "Hotel Le Sultan",
+    "address": "Barakani, Comoros",
+    "phone": "+2697716598",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 48,
+    "name": "Al Quittoir",
+    "address": "Mpagahari, Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 49,
+    "name": "Naoumi Pizza",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2693656147",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 50,
+    "name": "Saurakh Restaurant Mutsamudu",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 51,
+    "name": "LEKARIBU RESTO",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 52,
+    "name": "MAC BOSS",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697710821",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 53,
+    "name": "Le Paradise \"Habomo\"",
+    "address": "Mirontsi, Comoros",
+    "phone": "+2693635655",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 54,
+    "name": "PATISSERIE RAYCHA",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711795",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 55,
+    "name": "Sandwicherie",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 56,
+    "name": "M'kiri wa choni",
+    "address": "Unnamed Road, Mutsamudu, Comoros",
+    "phone": "+2694883832",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 57,
+    "name": "chez aladin",
+    "address": "Unnamed Road, Mutsamudu, Comoros",
+    "phone": "+2693371227",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 58,
+    "name": "OASIS SNACK RESTAURANT",
+    "address": "Chandra, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 59,
+    "name": "Comptoir des Iles-Al Quitoir",
+    "address": "Chironkamba, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 60,
+    "name": "Jolie Bébé hôtel",
+    "address": "Akibani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 61,
+    "name": "Restaurant baobab",
+    "address": "Koni-Djodjo, Comoros",
+    "phone": "+2694694887",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 62,
+    "name": "Restaurant Le Bambou",
+    "address": "Akibani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 63,
+    "name": "Délice des Îles",
+    "address": "Unnamed Road, Mutsamudu, Comoros",
+    "phone": "+2693685359",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 64,
+    "name": "Chababi Snack",
+    "address": "Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 65,
+    "name": "Restaurant le baobabe",
+    "address": "Bandarsalam Moheli, Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 66,
+    "name": "Karama Hôtel",
+    "address": "Nioumachoua, Comoros",
+    "phone": "+2697726038",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 67,
+    "name": "Restaurant Benzalissa",
+    "address": "Riadhui, Domoni, Anjouan, Comoros",
+    "phone": "+2693358200",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 68,
+    "name": "Hôtel Le Papillon (île d'Anjouan)",
+    "address": "+269, Mirontsi, Comoros",
+    "phone": "+2693679172",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 69,
+    "name": "Le Jasmin",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 70,
+    "name": "Resto-Shop",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 71,
+    "name": "Le Florida Hotel Restaurant",
+    "address": "Akibani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 72,
+    "name": "Hotel Al amal",
+    "address": "Moya, Comoros",
+    "phone": "+2693320261",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 73,
+    "name": "Maponge Palace Hotel",
+    "address": "Alquitoir Missiri, Mutsamudu, Comoros",
+    "phone": "+2693321318",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 74,
+    "name": "Restaurant Benzahalissa",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697710440",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 75,
+    "name": "Miari-resto",
+    "address": "Rue Kaderbay- Madoukani, Mutsamudu, Comoros",
+    "phone": "+2697711054",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 76,
+    "name": "Medina Hotel",
+    "address": "Bambao, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 77,
+    "name": "Hotel des Iles",
+    "address": "Chitsangani, Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 78,
+    "name": "Océanis Hotel",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711809",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 79,
+    "name": "KIZZFARSI OFFICIEL",
+    "address": "Fomboni, Comoros",
+    "phone": "+2693461970",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 80,
+    "name": "Hôtel Al Amal",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711706",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 81,
+    "name": "Ali Mohamed Mwegnali269 D'Akibani",
+    "address": "Mawéni, Domoni, Comoros",
+    "phone": "+2694418124",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 82,
+    "name": "Mutsamudu",
+    "address": "Mbambao Mtsanga, Comoros",
+    "phone": "+2694648590",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 83,
+    "name": "Anjouan Découverte",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697712008",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 84,
+    "name": "Al Djadid",
+    "address": "Pajé, Comoros",
+    "phone": "+2697710079",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 86,
+    "name": "Moheli Laka Lodge",
+    "address": "Unnamed Rd, Mutsamudu, Comoros",
+    "phone": "+2697710423",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 87,
+    "name": "Milembenni",
+    "address": "Ouani, Comoros",
+    "phone": "+2694295076",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 88,
+    "name": "Auberge les abou",
+    "address": "Ouani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 89,
+    "name": "Grande Mosquée de Fomboni",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 90,
+    "name": "Paradise Village Hotel \u0026 Restaurant",
+    "address": "Ouani, Comoros",
+    "phone": "+2694295076",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 91,
+    "name": "L'oasis Du Vaima",
+    "address": "Ouani, Comoros",
+    "phone": "+2694420309",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 92,
+    "name": "ayouba fils",
+    "address": "Unnamed Road, Ouani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 93,
+    "name": "Akibani Anjouan Comores",
+    "address": "restaurant le bambou, Ouani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 95,
+    "name": "Frontière Entre Akibani Et Bandrani",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711839",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 96,
+    "name": "Café matin",
+    "address": "Ouani, Comoros",
+    "phone": "+2693320281",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 97,
+    "name": "Youssouf Ahamadi Abdallah Dit M'paté",
+    "address": "Unnamed Road, Mutsamudu, Comoros",
+    "phone": "+2693668031",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 98,
+    "name": "Grande Mosquée de Fomboni",
+    "address": "Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 99,
+    "name": "Ntingui",
+    "address": "Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 100,
+    "name": "Miringoni",
+    "address": "Mitsamiouli, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 102,
+    "name": "Mwali",
+    "address": "Nioumachoua, Comoros",
+    "phone": "+2693422960",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 103,
+    "name": "Fomboni",
+    "address": "RN1, Voidjou, Moroni, Comoros",
+    "phone": "+2697733333",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 104,
+    "name": "Fomboni",
+    "address": "Nioumachoua, Comoros",
+    "phone": "+2697726038",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 105,
+    "name": "ONG Dahari",
+    "address": "Mtsangani, Moroni, Comoros",
+    "phone": "+2693616010",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 106,
+    "name": "Chomoni",
+    "address": "Hayiraha Road, Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 107,
+    "name": "Ngazidja",
+    "address": "Mitsamiouli, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 108,
+    "name": "Golden Tulip Grande Comore Moroni Resort \u0026 Spa",
+    "address": "Hombo BP 277, Mutsamudu, Comoros",
+    "phone": "+2697714048",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 109,
+    "name": "Beach N'Gouja",
+    "address": "Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 110,
+    "name": "Moheli Laka Lodge",
+    "address": "Djoièzi, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 112,
+    "name": "Le Relais de Singani hôtel",
+    "address": "Fomboni, Comoros",
+    "phone": "+2697720545",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 113,
+    "name": "HOTEL GRANDE PLAINE DJOIEZI MOHELI",
+    "address": "Nioumachoua, Comoros",
+    "phone": "+2697726038",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 114,
+    "name": "Saurakh Restaurant Fomboni",
+    "address": "Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 115,
+    "name": "Miari-resto",
+    "address": "Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 116,
+    "name": "Restaurant Maecha Bora",
+    "address": "Unnamed Road, Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 117,
+    "name": "Restaurant maecha bora annex fomboni",
+    "address": "Fomboni, Comoros",
+    "phone": "+2693461970",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 118,
+    "name": "Chez Bandi Starr",
+    "address": "Salamani, Fomboni, Comoros",
+    "phone": "+2693278608",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 119,
+    "name": "Resto_Gozila",
+    "address": "Fomboni, Comoros",
+    "phone": "+2693773582",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 120,
+    "name": "R.B.B RELAX",
+    "address": "Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 121,
+    "name": "Mano restaurant",
+    "address": "Fomboni, Comoros",
+    "phone": "+2693322118",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 122,
+    "name": "Salamane",
+    "address": "Salamani, Fomboni, Comoros",
+    "phone": "+2693456557",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 123,
+    "name": "SAID ALLAOUI-RESTEAU",
+    "address": "Fomboni, Comoros",
+    "phone": "+2693278608",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 124,
+    "name": "Saurakh Restaurant Nioumachoua",
+    "address": "Djoièzi, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 125,
+    "name": "Le Relais de Singani hôtel",
+    "address": "Wanani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 126,
+    "name": "Grand marché de Fomboni",
+    "address": "Hayiraha Road, Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 128,
+    "name": "Moheli Laka Lodge",
+    "address": "RN 5, Ouziouani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 129,
+    "name": "Fomboni",
+    "address": "Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 130,
+    "name": "massiwa diving center",
+    "address": "Nioumachoua, Comoros",
+    "phone": "+2697726038",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 131,
+    "name": "Fomboni",
+    "address": "Avenue, Soihili, Moroni, Comoros",
+    "phone": "+2697735278",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 132,
+    "name": "Mairie de Nyumangama",
+    "address": "Colas, Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 133,
+    "name": "Youssouf Madi Masjid",
+    "address": "718, Mitsamiouli, Comoros",
+    "phone": "+2693338546",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 134,
+    "name": "Retaj Moroni Hotel",
+    "address": "Fomboni, Comoros",
+    "phone": "+2697720545",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 135,
+    "name": "Stade de Mkadaréni",
+    "address": "Unnamed Road, Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 136,
+    "name": "Hotel Les Arcades",
+    "address": "Unnamed Road, Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 137,
+    "name": "Milembenni",
+    "address": "SAGC, Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 138,
+    "name": "Chez Tsiva",
+    "address": "Nioumachoua, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 139,
+    "name": "Kavé-Hoani",
+    "address": "Hayiraha Road, Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 140,
+    "name": "Chindini",
+    "address": "Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 141,
+    "name": "Chomoni",
+    "address": "Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 142,
+    "name": "Itsamia",
+    "address": "Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 143,
+    "name": "Mosquée Mssihiri wa Cheik Ahmed",
+    "address": "Copéran, Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 144,
+    "name": "Le Trou Du Prophète",
+    "address": "Stade Elhadj, Fomboni, Comoros",
+    "phone": "+2693716387",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 145,
+    "name": "Le Relais de Singani hôtel",
+    "address": "Fomboni, Comoros",
+    "phone": "+2693461970",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 146,
+    "name": "Lingoni",
+    "address": "Colas, Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 147,
+    "name": "Domoney",
+    "address": "Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 148,
+    "name": "Domoney",
+    "address": "Fomboni, Comoros",
+    "phone": "+2697720372",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 149,
+    "name": "Bouni",
+    "address": "Fomboni, Comoros",
+    "phone": "+2697720545",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 150,
+    "name": "Iconi",
+    "address": "Moroni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 151,
+    "name": "Itsandra Mdjini",
+    "address": "Mtsangani, Moroni, Comoros",
+    "phone": "+2693616010",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 152,
+    "name": "La Plage Guesthouse",
+    "address": "Mitsamiouli, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 153,
+    "name": "Al Djadid",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697710440",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 154,
+    "name": "Océanis Hotel",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711809",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 155,
+    "name": "Comptoir des Iles-Al Quitoir",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711839",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 156,
+    "name": "Hôtel Al Amal",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711818",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 158,
+    "name": "Maponge Palace Hotel",
+    "address": "Unnamed Rd, Mutsamudu, Comoros",
+    "phone": "+2697710423",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 159,
+    "name": "Hotel Le Sultan",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 160,
+    "name": "Hotel des Iles",
+    "address": "Riadhui, Domoni, Anjouan, Comoros",
+    "phone": "+2693358200",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 161,
+    "name": "Hôtel Le Refuge Kpark",
+    "address": "Barakani, Comoros",
+    "phone": "+2697716598",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 162,
+    "name": "Karama Hôtel",
+    "address": "Alquitoir Missiri, Mutsamudu, Comoros",
+    "phone": "+2693321318",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 163,
+    "name": "Hôtel Le Papillon (île d'Anjouan)",
+    "address": "Chitsangani, Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 164,
+    "name": "Medina Hotel",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711706",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 165,
+    "name": "Hotel Al amal",
+    "address": "Rue Kaderbay- Madoukani, Mutsamudu, Comoros",
+    "phone": "+2697711054",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 166,
+    "name": "Resto-Shop",
+    "address": "Ouani, Comoros",
+    "phone": "+2694295076",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 167,
+    "name": "Délice des Îles",
+    "address": "Ouani, Comoros",
+    "phone": "+2694420309",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 168,
+    "name": "Restaurant Le Bambou",
+    "address": "Riadhui, Domoni, Anjouan, Comoros",
+    "phone": "+2693358200",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 169,
+    "name": "Restaurant baobab",
+    "address": "Unnamed Road, Ouani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 170,
+    "name": "Naoumi Pizza",
+    "address": "restaurant le bambou, Ouani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 171,
+    "name": "Al Djadid",
+    "address": "Ouani, Comoros",
+    "phone": "+2694295076",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 172,
+    "name": "chez aladin",
+    "address": "Mawéni, Domoni, Comoros",
+    "phone": "+2694418124",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 173,
+    "name": "JASMINE GLACE \u0026 RESTAURANT ( MEGALUX )",
+    "address": "Mirontsi, Comoros",
+    "phone": "+2693635655",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 174,
+    "name": "Restaurant le baobabe",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697710821",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 175,
+    "name": "Domino's Pizza in Domino’s Pizza Alpha Mall Amritsar",
+    "address": "+269, Mirontsi, Comoros",
+    "phone": "+2693679172",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 176,
+    "name": "Domino's Pizza",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 177,
+    "name": "Domino's Pizza",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711706",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 178,
+    "name": "Roberta's",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697710440",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 180,
+    "name": "Domino's Pizza",
+    "address": "Unnamed Road, Mutsamudu, Comoros",
+    "phone": "+2693668031",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 181,
+    "name": "Domino's Pizza",
+    "address": "Bambao, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 182,
+    "name": "Domino's Pizza",
+    "address": "Mbambao Mtsanga, Comoros",
+    "phone": "+2694648590",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 183,
+    "name": "Domino's Pizza Goonellabah",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 186,
+    "name": "Éco-musée du sel",
+    "address": "Hayiraha Road, Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 187,
+    "name": "Mutsamudu",
+    "address": "Fomboni, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 188,
+    "name": "Al Djadid",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711706",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 189,
+    "name": "Océanis Hotel",
+    "address": "Alquitoir Missiri, Mutsamudu, Comoros",
+    "phone": "+2693321318",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 190,
+    "name": "Comptoir des Iles-Al Quitoir",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711809",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 191,
+    "name": "Hôtel Al Amal",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697710440",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 192,
+    "name": "Hotel des Iles",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711818",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 193,
+    "name": "Johanna Livingstone Hotel",
+    "address": "Barakani, Comoros",
+    "phone": "+2697716598",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 194,
+    "name": "Maponge Palace Hotel",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 195,
+    "name": "Hôtel Le Refuge Kpark",
+    "address": "Unnamed Rd, Mutsamudu, Comoros",
+    "phone": "+2697710423",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 196,
+    "name": "Hôtel Le Papillon (île d'Anjouan)",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711839",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 197,
+    "name": "Karama Hôtel",
+    "address": "Riadhui, Domoni, Anjouan, Comoros",
+    "phone": "+2693358200",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 198,
+    "name": "Hotel Le Sultan",
+    "address": "Rue Kaderbay- Madoukani, Mutsamudu, Comoros",
+    "phone": "+2697711054",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 199,
+    "name": "Medina Hotel",
+    "address": "Chitsangani, Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 201,
+    "name": "La Chan'aile",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 202,
+    "name": "Restaurant baobab mbouyoujoy",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 203,
+    "name": "Resto-Shop",
+    "address": "restaurant le bambou, Ouani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 204,
+    "name": "Saurakh Restaurant Mutsamudu",
+    "address": "Mawéni, Domoni, Comoros",
+    "phone": "+2694418124",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 205,
+    "name": "Restaurant Le Bambou",
+    "address": "Mirontsi, Comoros",
+    "phone": "+2693635655",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 206,
+    "name": "chez aladin",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2693656147",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 208,
+    "name": "Al Quittoir",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711795",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 209,
+    "name": "PATISSERIE RAYCHA",
+    "address": "Ouani, Comoros",
+    "phone": "+2694295076",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 210,
+    "name": "LEKARIBU RESTO",
+    "address": "Chironkamba, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 211,
+    "name": "JASMINE GLACE \u0026 RESTAURANT ( MEGALUX )",
+    "address": "Unnamed Road, Mutsamudu, Comoros",
+    "phone": "+2693685359",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 212,
+    "name": "MAC BOSS",
+    "address": "Koni-Djodjo, Comoros",
+    "phone": "+2694694887",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 213,
+    "name": "Restaurant le baobabe",
+    "address": "Akibani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 214,
+    "name": "Délice des Îles",
+    "address": "Chandra, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 215,
+    "name": "Chababi Snack",
+    "address": "Akibani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 216,
+    "name": "GALAXY",
+    "address": "Nioumachoua, Comoros",
+    "phone": "+2697726038",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 217,
+    "name": "Restaurant Benzahalissa",
+    "address": "+269, Mirontsi, Comoros",
+    "phone": "+2693679172",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 218,
+    "name": "Sandwicherie",
+    "address": "Akibani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 219,
+    "name": "Tsembehou",
+    "address": "Riadhui, Domoni, Anjouan, Comoros",
+    "phone": "+2693358200",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 220,
+    "name": "Comptoir des Iles-Al Quitoir",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711706",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 221,
+    "name": "Le Florida Hotel Restaurant",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697710440",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 223,
+    "name": "Karama Hôtel",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 224,
+    "name": "Le Jasmin",
+    "address": "Pajé, Comoros",
+    "phone": "+2697710079",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 225,
+    "name": "Pension Makany",
+    "address": "Unnamed Rd, Mutsamudu, Comoros",
+    "phone": "+2697710423",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 226,
+    "name": "KIZZFARSI OFFICIEL",
+    "address": "Domoney, Comoros",
+    "phone": "+2693599214",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 227,
+    "name": "Hotel des Iles",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697712008",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 228,
+    "name": "Hôtel Le Papillon (île d'Anjouan)",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697711839",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 229,
+    "name": "Al Djadid",
+    "address": "Unnamed Road, Mutsamudu, Comoros",
+    "phone": "+2693668031",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 230,
+    "name": "Ali Mohamed Mwegnali269 D'Akibani",
+    "address": "Mbambao Mtsanga, Comoros",
+    "phone": "+2694648590",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 231,
+    "name": "Anjouan Découverte",
+    "address": "Bambao, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 232,
+    "name": "ViewHouse Centennial",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 233,
+    "name": "Yummy station",
+    "address": "Ouani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 234,
+    "name": "Tacos and Tequila",
+    "address": "Mpagahari, Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 235,
+    "name": "Bryan’s Dumpling House",
+    "address": "Mrémani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 236,
+    "name": "Moheli Laka Lodge",
+    "address": "Mutsamudu, Comoros",
+    "phone": "+2697710821",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 237,
+    "name": "Park Meadows",
+    "address": "Mutsamudu, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 238,
+    "name": "ayouba fils",
+    "address": "Ouani, Comoros",
+    "phone": "+2694295076",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 239,
+    "name": "Café matin",
+    "address": "Unnamed Road, Ouani, Comoros",
+    "phone": "",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 240,
+    "name": "Frontière Entre Akibani Et Bandrani",
+    "address": "Ouani, Comoros",
+    "phone": "+2693320281",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 241,
+    "name": "Mpouzini Akibani",
+    "address": "Unnamed Road, Mutsamudu, Comoros",
+    "phone": "+2693371227",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 242,
+    "name": "Akibani Anjouan Comores",
+    "address": "Ouani, Comoros",
+    "phone": "+2694420309",
+    "country-code": "KM",
+    "country": "Comoros"
+  },
+  {
+    "id": 243,
+    "name": "Youssouf Ahamadi Abdallah Dit M'paté",
+    "address": "Unnamed Road, Mutsamudu, Comoros",
+    "phone": "+2694883832",
+    "country-code": "KM",
+    "country": "Comoros"
+  }
 ]

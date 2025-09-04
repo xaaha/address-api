@@ -1,4298 +1,1426 @@
 [
- {
-  "id": 1,
-  "name": "Hôtel Halima فندق حليمة",
-  "address": "ILOT C ZRC N0470 BP 4350, Nouakchott, Mauritania",
-  "phone": "04704350",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 2,
-  "name": "AZALAÏ HOTEL (MARHABA )",
-  "address": "470 ILOT C ZRC, Nouakchott, Mauritania",
-  "phone": "+22245246800",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 3,
-  "name": "Monotel (Dar El Barka)",
-  "address": "Av. Moktar Ould Daddah, Nouakchott, Mauritania",
-  "phone": "+22245298737",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 4,
-  "name": "فندق انواكشوط",
-  "address": "Rte des Ambassades, Nouakchott, Mauritania",
-  "phone": "+22245242333",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 5,
-  "name": "Semiramis Hotel Centre Ville",
-  "address": "10 BP 5219, Rue Mamadou Konate, Nouakchott, Mauritania",
-  "phone": "+22245244395",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 6,
-  "name": "Hôtel Sunset",
-  "address": "18°05'39.0\"N 15°58'44. (BP : 4350), Ilot o 18, Nouakchott, Mauritania",
-  "phone": "1805390155844435018",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 7,
-  "name": "The Best Semiramis Hotel",
-  "address": "Ave Abdel Nasser, Nouakchott, Mauritania",
-  "phone": "+22245295051",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 8,
-  "name": "Hotel Raha /dune",
-  "address": "Rue Abdallaye, Nouakchott, Mauritania",
-  "phone": "+22247341160",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 9,
-  "name": "Casaẞlü Hotel",
-  "address": "Unnamed Rd, Nouadhibou, Mauritania",
-  "phone": "+22245740777",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 10,
-  "name": "The Best Semiramis",
-  "address": "B215 Route de Nouadhibou, Nouakchott, Mauritania",
-  "phone": "+22236304190",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 11,
-  "name": "HOTEL IMAN",
-  "address": "IBT A 629, Nouakchott, Mauritania",
-  "phone": "+22245293336",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 12,
-  "name": "LA PALMA HOTEL فندق لابالما",
-  "address": "Îlot k, 213 rue Limam ould Chrif, Nouakchott, Mauritania",
-  "phone": "+22236701030",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 13,
-  "name": "Hotel Hayat",
-  "address": "Ould Moctar El Hacen،, Rue Moulaye El Hacen Ould Moctar El Hacen، Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 14,
-  "name": "Auberge Samiraa",
-  "address": "32VF+GPQ، Mamadou Lamine Konaté, Nouakchott, Mauritania",
-  "phone": "+22226603862",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 15,
-  "name": "Auberge Triskell Nouakchott",
-  "address": "Ilot K ext.N5. BP. 4350, Nouakchott, Mauritania",
-  "phone": "+22244220214",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 16,
-  "name": "LA PALMA HOTEL فندق لابالما",
-  "address": "N1 Extension, Nouakchott, Mauritania",
-  "phone": "+22245250394",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 17,
-  "name": "Appartement Nouakchott INN",
-  "address": "Av. Moktar Ould Daddah, Nouakchott, Mauritania",
-  "phone": "+22241445223",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 18,
-  "name": "Hôtel alkhaima citycenter",
-  "address": "chambres 3 restaurent et 4 salles de réunions, Travragh Zeina, Tavragh Zeina Tavragh Zeina deux étages 60, Nouakchott, Mauritania",
-  "phone": "+22222787878",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 19,
-  "name": "City HOTEL فندق سيتي",
-  "address": "En face station Elvowze, Nouakchott, Mauritania",
-  "phone": "+22244361840",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 20,
-  "name": "Hotel Hayatt",
-  "address": "Abdel Nasser, Nouakchott, Mauritania",
-  "phone": "+22238821313",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 21,
-  "name": "Transit",
-  "address": "Route de Nouadhibou, Nouakchott, Mauritania",
-  "phone": "+22237415303",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 22,
-  "name": "Nouakchott beach",
-  "address": "Maison d'hôtes LE K, BP 05, Ilot K 504 Nouakchott, Mauritanie, Nouakchott, Mauritania",
-  "phone": "+22241121912",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 23,
-  "name": "Al Salam Resort",
-  "address": "ILOT K Villa 213, Nouakchott, Mauritania",
-  "phone": "+22248312680",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 24,
-  "name": "Hôtel Iman",
-  "address": "Unnamed Road, Nouadhibou, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 25,
-  "name": "Nouakchott Business Hotel",
-  "address": "1273, Nouakchott, Mauritania",
-  "phone": "+22243245900",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 26,
-  "name": "l'escale du nord",
-  "address": "Tevrag Zegna Nouakchott Mauritania (Please ask Boutique Al Couscous Hotel Near to Boutique Al Couscous), Nouakchott, Mauritania",
-  "phone": "+22247998400",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 27,
-  "name": "فندق فلورا",
-  "address": "Av General Desgaules, Tevrag Zeina, Nouakchott, Mauritania",
-  "phone": "+22233638583",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 28,
-  "name": "Hôtel Chinguitty Palace فندق شنقيط بالاس",
-  "address": "Rue Abdallaye, Nouakchott, Mauritania",
-  "phone": "+22241234960",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 29,
-  "name": "Residence La Case de Nouakchott",
-  "address": "CITE CONCORDE, Nouakchott, Mauritania",
-  "phone": "+22233465566",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 30,
-  "name": "33 Palms Resort",
-  "address": "Zra 563, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 31,
-  "name": "Auberge Diaguili",
-  "address": "I Lot c 385, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 32,
-  "name": "Turkuaz Résidence Hôtel",
-  "address": "Gaz de France, Ave du General de Gaulle, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 33,
-  "name": "Royale Suite",
-  "address": "Centre ville, AV.Kennedy, Nouakchott, Mauritania",
-  "phone": "+22245259171",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 34,
-  "name": "Nejem Résidence",
-  "address": "Rue de I Hotel Halima, Nouakchott, Mauritania",
-  "phone": "+22245291112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 35,
-  "name": "HOTEL EL KHEIR فندق الخير",
-  "address": "Ilot A 458, Nouakchott, Mauritania",
-  "phone": "+22246460003",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 36,
-  "name": "Hotel Le Diplomate",
-  "address": "Bustan Malik off Tarika Tiyou Rd after descent from dune to your right Toujounine Bayat Ashara, Nouakchott, Mauritania",
-  "phone": "+22233332751",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 37,
-  "name": "HOTEL IKRAMA فندق اكراما",
-  "address": "Ilot K, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 38,
-  "name": "CHAMBRES D'HOTES NAGA",
-  "address": "175 socogim ps, Carrefour Madrid, Nouakchott, Mauritania",
-  "phone": "+22248614815",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 39,
-  "name": "Hotel Mouna",
-  "address": "Yacoub ould Cheikh Sidya, Nouakchott, Mauritania",
-  "phone": "+22236360299",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 40,
-  "name": "İstanbul Hotel\u0026Restaurant",
-  "address": "Sahraui Rue Abdel Wahab Cheiguer, Nouakchott, Mauritania",
-  "phone": "+22225066565",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 41,
-  "name": "Cave aux variétés",
-  "address": "Not 149 Tevrag Zegna, Nouakchott, Mauritania",
-  "phone": "+22227457406",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 42,
-  "name": "Hotel Medina",
-  "address": "6XG8+377، Unnamed Road, Tiouilit, Mauritania",
-  "phone": "+22247000222",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 43,
-  "name": "Le K - Maison d'hôtes",
-  "address": "Adresse Avenue El Quods, Nouakchott, Mauritania",
-  "phone": "+22243245900",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 44,
-  "name": "Sabah منتجع صباح",
-  "address": "1 Kaedi, Nouakchott, Mauritania",
-  "phone": "+22248614815",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 45,
-  "name": "Keva Hotel",
-  "address": "10 Rue Mamadou Konate, Nouakchott, Mauritania",
-  "phone": "+22244531703",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 46,
-  "name": "Hôtel marhaba atlantic",
-  "address": "10 Rue Mamadou Konate, Nouakchott, Mauritania",
-  "phone": "+22244531703",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 47,
-  "name": "Sidi mouhamed",
-  "address": "Chrif El Haj Sidina, Nouakchott, Mauritania",
-  "phone": "+22241560585",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 48,
-  "name": "Jeloua Hotel",
-  "address": "extension, phase 2, l’ilot K, Nouakchott, Mauritania",
-  "phone": "+22231477112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 49,
-  "name": "Mykonos",
-  "address": "460 ILOT C TVZ, Nouakchott, Mauritania",
-  "phone": "+22245246800",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 50,
-  "name": "Résidence Sahari",
-  "address": "alliance française Réception 33020017, Reception 33020017.Smar City , avenue Daddah Street 43052 près, Nouakchott, Mauritania",
-  "phone": "330200173302001743052",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 51,
-  "name": "Nour El Houda",
-  "address": "Pk 13 Route de Nouadhibou, Nouakchott, Mauritania",
-  "phone": "+22246115503",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 52,
-  "name": "Le Manara",
-  "address": "rue benhmeida, Nouakchott, Mauritania",
-  "phone": "+22236405105",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 53,
-  "name": "Le Maquis Restaurant",
-  "address": "Rte des Ambassades, Nouakchott, Mauritania",
-  "phone": "+22243808080",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 54,
-  "name": "Paparazzi",
-  "address": "Ave du General de Gaulle, Nouakchott, Mauritania",
-  "phone": "+22245240684",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 55,
-  "name": "Restaurant la Marmite",
-  "address": "Rue Abdallaye, Nouakchott, Mauritania",
-  "phone": "+22234332000",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 56,
-  "name": "Restaurant Le Prince",
-  "address": "N2, Nouakchott, Mauritania",
-  "phone": "+22232389843",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 57,
-  "name": "SMASH FOOD",
-  "address": "Nouakchott,Ville, Nouakchott, Mauritania",
-  "phone": "+22242933782",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 58,
-  "name": "Restaurant Nakhletein",
-  "address": "Rue Yasser Arafat،, Nouakchott, Mauritania",
-  "phone": "+22241575983",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 59,
-  "name": "Restaurant Le Tournedos",
-  "address": "Turkish Embassy, Near the, Nouakchott, Mauritania",
-  "phone": "+22241007400",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 60,
-  "name": "Café et Restaurant Moonlight",
-  "address": "Av. Moktar Ould Daddah, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 61,
-  "name": "Restaurant l'entresoi Nouakchott",
-  "address": "N2, Nouakchott, Mauritania",
-  "phone": "+22232156473",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 62,
-  "name": "Timeless",
-  "address": "N2, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 63,
-  "name": "A Casa Portuguesa",
-  "address": "Sidi Koita،, Rue Fodie, Nouakchott, Mauritania",
-  "phone": "+22249243631",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 64,
-  "name": "Restaurant Le Prince",
-  "address": "Rte des Ambassades, Nouakchott, Mauritania",
-  "phone": "+22236261270",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 65,
-  "name": "مطعم بالاسيو Palacio",
-  "address": "Av. Moktar Ould Daddah, Nouakchott, Mauritania",
-  "phone": "+22242879702",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 66,
-  "name": "PRIMO Resto",
-  "address": "Av. Moktar Ould Daddah, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 67,
-  "name": "مطعم سيس 2 Restaurant Cisse",
-  "address": "Nouadhibou Hwy, Nouakchott, Mauritania",
-  "phone": "+22238386668",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 68,
-  "name": "Havana Grill",
-  "address": "Avenue Mokhtar Would, Av. Moktar Ould Daddah, Nouakchott, Mauritania",
-  "phone": "+22222610573",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 69,
-  "name": "Restaurant Granada",
-  "address": "Unnamed Road, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 70,
-  "name": "LASTRADA - Restaurant \u0026 Traiteur",
-  "address": "Av. du Roi Faiçal, Nouakchott, Mauritania",
-  "phone": "+22232386272",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 71,
-  "name": "مطعم فنتازيا",
-  "address": "Carrefour Samia, Nouakchott, Mauritania",
-  "phone": "+22241125510",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 72,
-  "name": "Café l’endroit",
-  "address": "Hotel Aziza, Nouakchott, Mauritania",
-  "phone": "+22233339797",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 73,
-  "name": "Chawarmax",
-  "address": "Rue de I Ambassade du Senegal, Nouakchott, Mauritania",
-  "phone": "+22232187749",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 74,
-  "name": "Roana Café",
-  "address": "طريق الامل، نواكشوط،،, Nouakchott, Mauritania",
-  "phone": "+22232426616",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 75,
-  "name": "Chez Idriss",
-  "address": "Unnamed Road, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 76,
-  "name": "Restaurant Al-Quds (de Jérusalem)",
-  "address": "Rte des Ambassades, Nouakchott, Mauritania",
-  "phone": "+22241953100",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 77,
-  "name": "La Fraich'heure",
-  "address": "Rue Yasser Arafat،, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 78,
-  "name": "Yum Yum Restaurant",
-  "address": "N2, Nouakchott, Mauritania",
-  "phone": "+22236410272",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 79,
-  "name": "So Chicken nouakchott",
-  "address": "Unnamed Road, Nouakchott, Mauritania",
-  "phone": "+22246619341",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 80,
-  "name": "Ibrahima",
-  "address": "The India Gate Restaurant, Avenue Moktar Ould Daddah Near, New Ambassade of Senegal, Nouakchott, Mauritania",
-  "phone": "+22220786110",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 81,
-  "name": "ANATOLİA CAFE RESTAURANT",
-  "address": "Nouakchott Nouazibou street Nest to rim oil station, Opposite to agadir coffe, Nouakchott, Mauritania",
-  "phone": "+22222224439",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 82,
-  "name": "NAF NAF",
-  "address": "Rue de I Ambassade du Senegal, Nouakchott, Mauritania",
-  "phone": "+22249554050",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 83,
-  "name": "مطعم العملاق ALIMLLAK Restaurant",
-  "address": "Rue de I'Espoir, Nouakchott, Mauritania",
-  "phone": "+22246069118",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 84,
-  "name": "Restaurant Les Delices",
-  "address": "Rue Salem Ould Cheikh, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 85,
-  "name": "Al Bacha",
-  "address": "42CH+GJX، طريق صكوك, Nouakchott, Mauritania",
-  "phone": "+22236222202",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 86,
-  "name": "Restaurant Jeinabe",
-  "address": "Îlot k, 213 rue Limam ould Chrif, Nouakchott, Mauritania",
-  "phone": "+22236701030",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 87,
-  "name": "مطعم جامبور - restaurant djambour",
-  "address": "Rue NDB, Nouakchott, Mauritania",
-  "phone": "+22233339494",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 88,
-  "name": "Fayrouz",
-  "address": "Unnamed Road, Nouakchott, Mauritania",
-  "phone": "+22246251313",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 89,
-  "name": "Café Et Restaurant YouTube",
-  "address": "Unnamed Road، نواكشوط،،, Nouakchott, Mauritania",
-  "phone": "+22248358882",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 90,
-  "name": "Royal Grill Nouakchott",
-  "address": "Rue 43027/43040 martyr yasser Arafat،, Avenue Moktar Ould Daddah, Nouakchott, Mauritania",
-  "phone": "4302743040",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 91,
-  "name": "Saveurs D'Italie",
-  "address": "Rue Hassen Ben Youssef, Nouakchott, Mauritania",
-  "phone": "+22248346764",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 92,
-  "name": "Str'eat Burger 49",
-  "address": "avenue mokhtar ould madah, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 93,
-  "name": "San Francisco",
-  "address": "4223+P3، نواكشوط،،, Nouakchott, Mauritania",
-  "phone": "+22249497749",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 94,
-  "name": "Mykonos",
-  "address": "قريب محطة وقود توتال, Nouadhibou Hwy, Nouakchott, Mauritania",
-  "phone": "+22243563296",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 95,
-  "name": "مطعم المغاربة",
-  "address": "Unnamed Road, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 96,
-  "name": "Istanbul Restaurant",
-  "address": "Rue de I Ambassade du Senegal, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 97,
-  "name": "Crispy Chicken",
-  "address": "Av. Moktar Ould Daddah, Nouakchott, Mauritania",
-  "phone": "+22241856328",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 98,
-  "name": "Restaurant ivoirien",
-  "address": "Rte des Ambassades, Nouakchott, Mauritania",
-  "phone": "+22245292997",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 99,
-  "name": "Victoria Restaurantt",
-  "address": "Rue de I Ambassade du Senegal, Nouakchott, Mauritania",
-  "phone": "+22249452684",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 100,
-  "name": "Restaurant Ezeitouna",
-  "address": "N2, Nouakchott, Mauritania",
-  "phone": "+224625691910",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 101,
-  "name": "The India Gate الطعام الهندي",
-  "address": "Unnamed Road،, Nouakchott, Mauritania",
-  "phone": "+22227783333",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 102,
-  "name": "Chez khadi",
-  "address": "Unnamed Road, Nouakchott, Mauritania",
-  "phone": "+22236630818",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 103,
-  "name": "The Nkc Spot",
-  "address": "Avenue Moktar Ould Daddah, Nouakchott, Mauritania",
-  "phone": "+22244505019",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 104,
-  "name": "Restaurant Kasr Al-Baïk",
-  "address": "Rue Fadh Ben Abdel Aziz, Nouakchott, Mauritania",
-  "phone": "+22233336631",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 105,
-  "name": "مطعم باريس RESTAURANT LE PARISIEN",
-  "address": "Av. Moktar Ould Daddah, Nouakchott, Mauritania",
-  "phone": "+22245240770",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 106,
-  "name": "El-Bacha",
-  "address": "Avenue Moktar Ould Daddah،, Nouakchott, Mauritania",
-  "phone": "+22236730101",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 107,
-  "name": "Palacio Nkc",
-  "address": "Av. du Roi Faiçal, Nouakchott, Mauritania",
-  "phone": "+22246769090",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 108,
-  "name": "Suisse restaurant",
-  "address": "Rue du Colonel Viyah،, Nouakchott, Mauritania",
-  "phone": "+22242367614",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 109,
-  "name": "5 O'clock",
-  "address": "Rue Abdallaye, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 110,
-  "name": "مطعم المطار RESTAURANT DE L'AÉROPORT",
-  "address": "N2, Nouakchott, Mauritania",
-  "phone": "+22225001000",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 111,
-  "name": "Marseille Restaurant",
-  "address": "Avenue de France،, Nouakchott, Mauritania",
-  "phone": "+22241414495",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 112,
-  "name": "Café Restaurant Chicago",
-  "address": "Avenue Moktar Ould Daddah, Nouakchott, Mauritania",
-  "phone": "+22245240909",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 113,
-  "name": "محلبة باشا pacha",
-  "address": "Rue Fadh Ben Abdel Aziz, Nouakchott, Mauritania",
-  "phone": "+22237373732",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 114,
-  "name": "Kfc mauritanie restaurant",
-  "address": "côté de l'agence Mauritel، Avenue du Palais des Congrès à, Nouakchott, Mauritania",
-  "phone": "+22245251313",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 115,
-  "name": "Restaurant siby",
-  "address": "MD D 0079, Nouakchott, Mauritania",
-  "phone": "+22234340404",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 116,
-  "name": "RESTAURANT DANA مطعم وكافيه دانا",
-  "address": "Unnamed Road،, Nouakchott, Mauritania",
-  "phone": "+22231777717",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 117,
-  "name": "MAMO PIZZA",
-  "address": "Unnamed Road, Nouakchott, Mauritania",
-  "phone": "+22247690735",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 118,
-  "name": "Halap Restaurant",
-  "address": "Tevragh zeina، avenue cheikh zayed، en face de la CNAM, Nouakchott, Mauritania",
-  "phone": "+22238383807",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 119,
-  "name": "K’fête de l'Institut",
-  "address": "0000, Nouakchott, Mauritania",
-  "phone": "+22246274646",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 120,
-  "name": "Marche Capitale",
-  "address": "3382+VQR، Unnamed Road, Nouakchott - نواكشوط،, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 121,
-  "name": "Galerie AS",
-  "address": "Unnamed Road, Nouakchott - نواكشوط،, Nouakchott, Mauritania",
-  "phone": "+22246131731",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 122,
-  "name": "Jennety Center مركز جنتي",
-  "address": "3373+2XX، Unnamed Road،, Nouakchott, Mauritania",
-  "phone": "+22236378837",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 123,
-  "name": "مغسلة التوفيق",
-  "address": "3384+VM6، Unnamed Road،, Nouakchott, Mauritania",
-  "phone": "+22246562542",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 124,
-  "name": "boutik de guiler",
-  "address": "Carrefour, Nouakchott, Mauritania",
-  "phone": "+22231310077",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 125,
-  "name": "Mauritania Shoop",
-  "address": "Unnamed Road, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 126,
-  "name": "مركز الخير التجاري",
-  "address": "Galerie AS, Nouakchott, Mauritania",
-  "phone": "+22220222212",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 127,
-  "name": "سوق أتاك الخير",
-  "address": "Ave du General de Gaulle, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 128,
-  "name": "بقالة التعاونية 2",
-  "address": "Ave Kennedy, Nouakchott, Mauritania",
-  "phone": "+22246880809",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 129,
-  "name": "City center سيتي سانتر",
-  "address": "ألوان, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 130,
-  "name": "Al-Ameen Commercial Center",
-  "address": "مدرسة جعفر الطيار، K, Nouakchott, Mauritania",
-  "phone": "+22236688239",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 131,
-  "name": "INFOLOG Commercial Center",
-  "address": "Tevragh Zeina، Rue de I Ambassador senegal st, Nouakchott, Mauritania",
-  "phone": "+22220033002",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 132,
-  "name": "سوق نقطة ساخنة - marché des points chauds",
-  "address": "city center, avenue charle de gaulle, Nouakchott, Mauritania",
-  "phone": "+22244236403",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 133,
-  "name": "Mauri Center 2",
-  "address": "ASML Group - El Khaima City Center, Rue Mamadou Konate, Nouakchott, Mauritania",
-  "phone": "+22248101989",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 134,
-  "name": "ESKALE SPORT",
-  "address": "Av. du Roi Faiçal, Nouakchott, Mauritania",
-  "phone": "+22247940056",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 135,
-  "name": "Galerie Sinaa",
-  "address": "Ave du General de Gaulle, Nouakchott, Mauritania",
-  "phone": "+22222702030",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 136,
-  "name": "مركز شريف",
-  "address": "Rue Mohamedel Habib, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 137,
-  "name": "Chinguitty Voyages - Mauritania Tours",
-  "address": "Mosque Ould Abas, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 138,
-  "name": "Nouakchott beach",
-  "address": "B.P 303 Nouakchott -Mauritanie -rue 67-234, Nouakchott, Mauritania",
-  "phone": "30367234",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 139,
-  "name": "Nouakchott",
-  "address": "Cité Plage Road, Nouakchott, Mauritania",
-  "phone": "+22220903300",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 140,
-  "name": "Marche Capitale",
-  "address": "Ave Kennedy, Nouakchott, Mauritania",
-  "phone": "+22246880809",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 141,
-  "name": "TimeForMauritania Tour Operator",
-  "address": "Ilot C, Nouakchott, Mauritania",
-  "phone": "+22246517465",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 142,
-  "name": "Mosque Ould Abas",
-  "address": "Rue Hennoune Ould Bouccif, Nouakchott, Mauritania",
-  "phone": "+22248175553",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 143,
-  "name": "Nouakchott SPA",
-  "address": "Rue Baker Ahmed, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 144,
-  "name": "Terjit Vacances",
-  "address": "Rue Baker Ahmed, Nouakchott, Mauritania",
-  "phone": "+22236317615",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 145,
-  "name": "فندق انواكشوط",
-  "address": "Tevragh Zeina، Rue de I Ambassador senegal st, Nouakchott, Mauritania",
-  "phone": "+22220033002",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 146,
-  "name": "مطعم فنتازيا",
-  "address": "Tevrag Zegna Nouakchott Mauritania (Please ask Boutique Al Couscous Hotel Near to Boutique Al Couscous), Nouakchott, Mauritania",
-  "phone": "+22247998400",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 147,
-  "name": "Big Market",
-  "address": "côté de l'agence Mauritel، Avenue du Palais des Congrès à, Nouakchott, Mauritania",
-  "phone": "+22245251313",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 148,
-  "name": "Monotel (Dar El Barka)",
-  "address": "Rte des Ambassades, Nouakchott, Mauritania",
-  "phone": "+22245242333",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 149,
-  "name": "El Medina",
-  "address": "Boulevard maritime, Nouadhibou, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 150,
-  "name": "Hôtel VALENCIA Nouadhibou",
-  "address": "Unnamed Road, Nouadhibou, Mauritania",
-  "phone": "+22245740606",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 151,
-  "name": "Hôtel Sahel",
-  "address": "Unnamed Road, Nouadhibou, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 152,
-  "name": "HOtel Tasiast",
-  "address": "BP 1441, Nouadhibou, Mauritania",
-  "phone": "+22245743857",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 153,
-  "name": "Hotel Aljazira",
-  "address": "Valencia Hôtel \u0026 Appartements, Boulevard Dubai, Nouadhibou, Mauritania",
-  "phone": "+22242888888",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 154,
-  "name": "El Medina",
-  "address": "556, Boulevard Maritime, Mauritania",
-  "phone": "+22237323250",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 155,
-  "name": "General trading",
-  "address": "N1 Extension, Nouakchott, Mauritania",
-  "phone": "+22245250394",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 156,
-  "name": "Auberge Des Dauphins nouadhibou",
-  "address": "WXP8+84P Dubai, Nouadhibou, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 157,
-  "name": "Hotel \"Mauritalia\"",
-  "address": "Centre ville, AV.Kennedy, Nouakchott, Mauritania",
-  "phone": "+22245259171",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 158,
-  "name": "Hotel Raha /dune",
-  "address": "Dubai Nouadhibou, Nouadhibou, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 159,
-  "name": "Hôtel Prestige",
-  "address": "Cabano n°4, Nouadhibou, Mauritania",
-  "phone": "+22225018005",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 160,
-  "name": "Appartement Nouakchott INN",
-  "address": "Quartier Dubai, Nouadhibou, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 161,
-  "name": "Hotel Cansado",
-  "address": "Unnamed Rd, Nouadhibou, Mauritania",
-  "phone": "+22245740777",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 162,
-  "name": "Apparts Hotel Esma",
-  "address": "WXP8+84P Dubai, Nouadhibou, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 163,
-  "name": "Residence Meimouna",
-  "address": "Chrif El Haj Sidina, Nouakchott, Mauritania",
-  "phone": "+22241560585",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 164,
-  "name": "Residence Dawha",
-  "address": "alliance française Réception 33020017, Reception 33020017.Smar City , avenue Daddah Street 43052 près, Nouakchott, Mauritania",
-  "phone": "330200173302001743052",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 165,
-  "name": "Residence Dubai",
-  "address": "WXG5+7PR، boulebard maritime, Nouadhibou, Mauritania",
-  "phone": "+22245740052",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 166,
-  "name": "Centre de Pêche Sportive et de Loisirs",
-  "address": "Cap Blanc, Nouadhibou, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 167,
-  "name": "Holiday Hôtel",
-  "address": "Nouadhibou Cansado, Nouadhibou, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 168,
-  "name": "HOTEL YEWTY",
-  "address": "5F3W+CPF، Unnamed Road, Kaédi, Mauritania",
-  "phone": "+22226142243",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 169,
-  "name": "Auberge Lakaz - نزل لاكاز كيهيدي",
-  "address": "4FXM+447، Unnamed Road, Kaédi, Mauritania",
-  "phone": "+22244206804",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 170,
-  "name": "Hôtel de ville",
-  "address": "Unnamed Road, Kaédi, Mauritania",
-  "phone": "+22246570376",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 171,
-  "name": "Restaurant Café YEWTY",
-  "address": "Unnamed Road, Kaédi, Mauritania",
-  "phone": "+22241297734",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 172,
-  "name": "مطعم ماشاء الله",
-  "address": "justice kaedi, Face a encien, Kaédi, Mauritania",
-  "phone": "+22246548528",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 173,
-  "name": "Maeche poisson kaedi",
-  "address": "Unnamed Road, Kaédi, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 174,
-  "name": "Inchiri Shop",
-  "address": "Unnamed Road, Nouakchott, Mauritania",
-  "phone": "+22237177117",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 175,
-  "name": "سعد رسلان مول Saad Raslan mall",
-  "address": "Unnamed Road, Kaédi, Mauritania",
-  "phone": "+22246809223",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 176,
-  "name": "Centre de distribution",
-  "address": "Unnamed Road, Kaédi, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 177,
-  "name": "Complex Comercial lemsaver",
-  "address": "Unnamed Road, Nouakchott, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 178,
-  "name": "papeterie Dalilou",
-  "address": "Unnamed Road, Kaédi, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 179,
-  "name": "SuperMarket MALL",
-  "address": "Unnamed Road, Kaédi, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 180,
-  "name": "Casa Das Faias",
-  "address": "6780 S Galena St, Centennial, CO 80112",
-  "phone": "678080112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 181,
-  "name": "Casa Lagar de Pedra",
-  "address": "9799 E Geddes Ave, Centennial, CO 80112",
-  "phone": "979980112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 182,
-  "name": "GreenTree Inn Denver Tech Center",
-  "address": "9231 E Arapahoe Rd, Greenwood Village, CO 80112",
-  "phone": "923180112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 183,
-  "name": "Extended Stay America - Denver - Tech Center South - Inverness",
-  "address": "9719 E Geddes Ave, Centennial, CO 80112",
-  "phone": "971980112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 184,
-  "name": "Quality Inn Denver Tech Center",
-  "address": "7877 S Chester St, Englewood, CO 80112",
-  "phone": "787780112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 185,
-  "name": "Best Western Plus Denver Tech Center Hotel",
-  "address": "9257 E Costilla Ave, Greenwood Village, CO 80112",
-  "phone": "925780112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 186,
-  "name": "Sheraton Denver Tech Center Hotel",
-  "address": "9280 E Costilla Ave, Englewood, CO 80112",
-  "phone": "928080112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 187,
-  "name": "Hyatt House Denver Tech Center",
-  "address": "9650 E Geddes Ave, Centennial, CO 80112",
-  "phone": "965080112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 188,
-  "name": "Staybridge Suites Denver Tech Center, an IHG Hotel",
-  "address": "7150 S Clinton St, Centennial, CO 80112",
-  "phone": "715080112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 189,
-  "name": "Sleep Inn Denver Tech Center",
-  "address": "7007 S Clinton St, Greenwood Village, CO 80112",
-  "phone": "700780112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 190,
-  "name": "Extended Stay America - Denver - Tech Center South - Greenwood Village",
-  "address": "Unnamed Road, Azougui, Mauritania",
-  "phone": "+22248661111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 191,
-  "name": "Fairfield Inn \u0026 Suites by Marriott Denver Tech Center/South",
-  "address": "N 1, Atar, Mauritania",
-  "phone": "+22237212121",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 192,
-  "name": "Extended Stay America - Denver - Tech Center South",
-  "address": "Unnamed Road, Atar, Mauritania",
-  "phone": "+22246473966",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 193,
-  "name": "DoubleTree by Hilton Hotel Denver Tech Center",
-  "address": "610 Genoa Way, Castle Rock, CO 80109",
-  "phone": "61080109",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 194,
-  "name": "Courtyard by Marriott Denver Tech Center",
-  "address": "807-A Wilcox St, Castle Rock, CO 80104",
-  "phone": "80780104",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 195,
-  "name": "RIDTC",
-  "address": "atar - tweirsat, Atar, Mauritania",
-  "phone": "+22227554537",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 196,
-  "name": "Extended Stay America - Denver - Centennial",
-  "address": "8415 E Colfax Ave, Denver, CO 80220",
-  "phone": "841580220",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 197,
-  "name": "TownePlace Suites by Marriott Denver Tech Center",
-  "address": "12033 E 38th Ave, Denver, CO 80239",
-  "phone": "120333880239",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 198,
-  "name": "Extended Stay America - Denver - Tech Center South",
-  "address": "8354 Northfield Blvd, Denver, CO 80238",
-  "phone": "835480238",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 199,
-  "name": "Residence Inn by Marriott Denver South/Park Meadows Mall",
-  "address": "12033 E Colfax Ave, Aurora, CO 80010",
-  "phone": "1203380010",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 200,
-  "name": "RIDTC",
-  "address": "14200 E Colfax Ave, Aurora, CO 80011",
-  "phone": "1420080011",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 201,
-  "name": "Ascent on Main",
-  "address": "3850 Peoria St, Denver, CO 80239",
-  "phone": "385080239",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 202,
-  "name": "Home2 Suites by Hilton Denver South Centennial Airport",
-  "address": "3300 Ouray St, Aurora, CO 80011",
-  "phone": "330080011",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 203,
-  "name": "Hyatt Place Denver-South/Park Meadows",
-  "address": "18600 E 63rd Ave, Denver, CO 80249",
-  "phone": "186006380249",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 204,
-  "name": "Hampton Inn \u0026 Suites Parker",
-  "address": "1020 Park St, Castle Rock, CO 80109",
-  "phone": "102080109",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 205,
-  "name": "Residence Inn by Marriott Denver Highlands Ranch",
-  "address": "9400 E Hampden Ave, Aurora, CO 80014",
-  "phone": "940080014",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 206,
-  "name": "Extended Stay America - Denver - Tech Center - Central",
-  "address": "8211 Southpark Cir, Littleton, CO 80120",
-  "phone": "821180120",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 207,
-  "name": "Hyatt Place Denver Tech Center",
-  "address": "12605 E 16th Ave, Aurora, CO 80045",
-  "phone": "126051680045",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 208,
-  "name": "LaQuinta by Wyndham Parker, CO",
-  "address": "2000 S Colorado Blvd Tower 1 Suite 2000, Denver, CO 80222",
-  "phone": "20001200080222",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 209,
-  "name": "DoubleTree by Hilton Hotel Denver - Aurora",
-  "address": "1873 S Bellaire St #1020, Denver, CO 80222",
-  "phone": "1873102080222",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 210,
-  "name": "Hilton Garden Inn Denver/Highlands Ranch",
-  "address": "10345 Park Meadows Dr, Lone Tree, CO 80124",
-  "phone": "1034580124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 211,
-  "name": "Radisson Hotel Denver - Aurora",
-  "address": "10890 E Colfax Ave, Aurora, CO 80010",
-  "phone": "1089080010",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 212,
-  "name": "Lone tree hotel",
-  "address": "1011 S Abilene St, Aurora, CO 80012",
-  "phone": "101180012",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 213,
-  "name": "Extended Stay America - Denver - Park Meadows",
-  "address": "14095 E Evans Ave, Aurora, CO 80014",
-  "phone": "1409580014",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 214,
-  "name": "Aurora",
-  "address": "2221 S Havana St #138, Aurora, CO 80014",
-  "phone": "222113880014",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 215,
-  "name": "Hilton Garden Inn Denver South Park Meadows Area",
-  "address": "255 N Blackhawk St, Aurora, CO 80011",
-  "phone": "25580011",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 216,
-  "name": "Hilton Garden Inn Denver Tech Center",
-  "address": "13941 E Harvard Ave, Aurora, CO 80014",
-  "phone": "1394180014",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 217,
-  "name": "Marriott",
-  "address": "1405 Plaza Dr, Highlands Ranch, CO 80129",
-  "phone": "140580129",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 218,
-  "name": "Ameristar",
-  "address": "10664 Cabela Dr, Lone Tree, CO 80124",
-  "phone": "1066480124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 219,
-  "name": "Tru by Hilton Denver South Park Meadows",
-  "address": "1612 Wazee St, Denver, CO 80202",
-  "phone": "161280202",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 220,
-  "name": "Denver Marriott Tech Center",
-  "address": "24192 E Prospect Ave, Aurora, CO 80016",
-  "phone": "2419280016",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 221,
-  "name": "Best Western Plus Gateway Inn \u0026 Suites",
-  "address": "10030 Trainstation Cir, Lone Tree, CO 80124",
-  "phone": "1003080124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 222,
-  "name": "TownePlace Suites by Marriott Denver Southeast",
-  "address": "1190 Auraria Pkwy b, Denver, CO 80204",
-  "phone": "119080204",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 223,
-  "name": "Hampton Inn \u0026 Suites Denver/South-RidgeGate",
-  "address": "3699 S Monaco St Pkwy, Denver, CO 80237",
-  "phone": "369980237",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 224,
-  "name": "Hotel marriot",
-  "address": "800 S Abilene St, Aurora, CO 80012",
-  "phone": "80080012",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 225,
-  "name": "Ma \u0026 Pa Denver Hotel",
-  "address": "2914 S Scranton St, Aurora, CO 80014",
-  "phone": "291480014",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 226,
-  "name": "Fairfield Inn \u0026 Suites by Marriott Denver Aurora/Parker",
-  "address": "19308 Cottonwood Dr, Parker, CO 80138",
-  "phone": "1930880138",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 227,
-  "name": "Courtyard by Marriott Denver Aurora",
-  "address": "9741 Park Meadows Dr, Lone Tree, CO 80124",
-  "phone": "974180124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 228,
-  "name": "TownePlace Suites by Marriott Denver South/Lone Tree",
-  "address": "4900 S Syracuse St, Denver, CO 80237",
-  "phone": "490080237",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 229,
-  "name": "InTown Suites Extended Stay Denver CO - Aurora Havana St.",
-  "address": "4900 S Syracuse St, Denver, CO 80237",
-  "phone": "490080237",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 230,
-  "name": "Jet Hotel",
-  "address": "9290 Meridian Blvd, Englewood, CO 80112",
-  "phone": "929080112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 231,
-  "name": "Extended Stay America - Select Suites Denver - Aurora South",
-  "address": "10345 Park Meadows Dr, Lone Tree, CO 80124",
-  "phone": "1034580124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 232,
-  "name": "Extended Stay America - Denver - Aurora North",
-  "address": "7675 E Union Ave, Denver, CO 80237",
-  "phone": "767580237",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 233,
-  "name": "Associated Luxury Hotels",
-  "address": "8752 S Yosemite St, Lone Tree, CO 80124",
-  "phone": "875280124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 234,
-  "name": "Top Star",
-  "address": "3155 S Vaughn Way, Aurora, CO 80014",
-  "phone": "315580014",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 235,
-  "name": "Quality Inn",
-  "address": "1050 Plaza Dr, Highlands Ranch, CO 80126",
-  "phone": "105080126",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 236,
-  "name": "TownPlace Suites Denver South/Lone Tree CO",
-  "address": "13696 E Iliff Pl, Aurora, CO 80014",
-  "phone": "1369680014",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 237,
-  "name": "Denver Marriott South at Park Meadows",
-  "address": "17111 Carlson Dr, Parker, CO 80134",
-  "phone": "1711180134",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 238,
-  "name": "Inn town suite's",
-  "address": "5200 S Quebec St, Greenwood Village, CO 80111",
-  "phone": "520080111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 239,
-  "name": "Hotel",
-  "address": "8300 E Crescent Pkwy, Greenwood Village, CO 80111",
-  "phone": "830080111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 240,
-  "name": "Staybridge Suites Denver South - Highlands Ranch, an IHG Hotel",
-  "address": "93 Centennial Blvd, Highlands Ranch, CO 80129",
-  "phone": "3036835500",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 241,
-  "name": "OYO Hotel Castle Rock CO Downtown",
-  "address": "19010 Cottonwood Dr, Parker, CO 80138",
-  "phone": "1901080138",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 242,
-  "name": "Microtel Inn \u0026 Suites by Wyndham Denver",
-  "address": "6640 S Paris St, Centennial, CO 80112",
-  "phone": "664080112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 243,
-  "name": "AMTRAK Accommodations…",
-  "address": "18595 Mainstreet, Parker, CO 80134",
-  "phone": "1859580134",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 244,
-  "name": "Star Motel",
-  "address": "6565 S Yosemite St, Greenwood Village, CO 80112",
-  "phone": "656580112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 245,
-  "name": "Quality Inn \u0026 Suites Denver Airport - Gateway Park",
-  "address": "9030 Westview Rd, Lone Tree, CO 80124",
-  "phone": "903080124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 246,
-  "name": "Hotels For Sale",
-  "address": "8322 S Valley Hwy, Englewood, CO 80112",
-  "phone": "832280112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 247,
-  "name": "Mon Chalet",
-  "address": "6565 S Yosemite St, Greenwood Village, CO 80112",
-  "phone": "656580112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 248,
-  "name": "Holiday Inn Express \u0026 Suites Denver - Aurora Medical Campus, an IHG Hotel",
-  "address": "6565 S Boston St, Greenwood Village, CO 80111",
-  "phone": "656580111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 249,
-  "name": "Stay Inn",
-  "address": "7877 S Chester St, Englewood, CO 80112",
-  "phone": "787780112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 250,
-  "name": "Sand \u0026 Sage Motel",
-  "address": "9604 E Easter Ave, Englewood, CO 80112",
-  "phone": "960480112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 251,
-  "name": "The Castle Pines Motel",
-  "address": "6565 S Boston St, Greenwood Village, CO 80111",
-  "phone": "656580111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 252,
-  "name": "Holiday Inn Express \u0026 Suites Denver South - Castle Rock, an IHG Hotel",
-  "address": "13253 E Briarwood Ave, Centennial, CO 80112",
-  "phone": "1325380112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 253,
-  "name": "نجم الساحل",
-  "address": "7801 E Orchard Rd, Greenwood Village, CO 80111",
-  "phone": "780180111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 254,
-  "name": "Hotel al waha",
-  "address": "7820 Park Meadows Dr, Lone Tree, CO 80124",
-  "phone": "782080124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 255,
-  "name": "Bab Sahara",
-  "address": "6638 S Nome St, Centennial, CO 80111",
-  "phone": "663880111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 256,
-  "name": "نزل البحر والصحراء",
-  "address": "7900 E Peakview Ave, Greenwood Village, CO 80111",
-  "phone": "790080111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 257,
-  "name": "نزل نجم الشمال",
-  "address": "9604 E Easter Ave, Englewood, CO 80112",
-  "phone": "960480112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 258,
-  "name": "Auberge Dar Salam",
-  "address": "7056 E County Line Rd, Highlands Ranch, CO 80126",
-  "phone": "705680126",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 259,
-  "name": "Auberge et Camping Inimi",
-  "address": "9253 E Costilla Ave, Greenwood Village, CO 80112",
-  "phone": "925380112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 260,
-  "name": "Redfire Restaurant",
-  "address": "7007 S Clinton St, Greenwood Village, CO 80112",
-  "phone": "700780112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 261,
-  "name": "Metropolitan Bar \u0026 Grill",
-  "address": "7625 S Peoria St, Englewood, CO 80112",
-  "phone": "762580112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 262,
-  "name": "ViewHouse Centennial",
-  "address": "8181 E Arapahoe Rd suite E, Greenwood Village, CO 80112",
-  "phone": "818180112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 263,
-  "name": "J. Alexander's Restaurant",
-  "address": "6818 S Yosemite St, Centennial, CO 80112",
-  "phone": "681880112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 264,
-  "name": "The Perfect Landing Restaurant",
-  "address": "6787 S Clinton St, Englewood, CO 80112",
-  "phone": "678780112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 265,
-  "name": "Spitz - Greenwood Village Restaurant - Mediterranean Food, Greek Food, Vegan, Paleo \u0026 More",
-  "address": "9709 E County Line Rd, Centennial, CO 80112",
-  "phone": "970980112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 266,
-  "name": "Las Brisas Restaurant",
-  "address": "7101 S Clinton St, Centennial, CO 80112",
-  "phone": "710180112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 267,
-  "name": "Air Chef",
-  "address": "10111 Inverness Main St, Englewood, CO 80112",
-  "phone": "1011180112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 268,
-  "name": "First Watch",
-  "address": "9636 E Arapahoe Rd, Greenwood Village, CO 80112",
-  "phone": "963680112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 269,
-  "name": "LongHorn Steakhouse",
-  "address": "1262 Mackay St, Montreal, Quebec H3G 2H4, Canada",
-  "phone": "+15145966060",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 270,
-  "name": "Damascus Grill",
-  "address": "768 Franklin St, Dillard, GA 30537",
-  "phone": "76830537",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 271,
-  "name": "The White Chocolate Grill",
-  "address": "11347 Bd Rivière-des-Prairies, Montréal, QC H1C 1P8, Canada",
-  "phone": "11347118",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 272,
-  "name": "GREEK 2 ME",
-  "address": "166 Cowley Rd, Oxford OX4 1UE, United Kingdom",
-  "phone": "+441865466666",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 273,
-  "name": "Star Kitchen",
-  "address": "1107 Memorial Blvd #107, Murfreesboro, TN 37129",
-  "phone": "110710737129",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 274,
-  "name": "Alpha Charlie's Tap \u0026 Tavern",
-  "address": "137-139 Cowley Rd, Oxford OX4 1HU, United Kingdom",
-  "phone": "13713941",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 275,
-  "name": "Cafe MJ 'What O Eat'",
-  "address": "666 Wonderland Rd, London, ON N6H 4K9, Canada",
-  "phone": "+15196016500",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 276,
-  "name": "Addis Ababa Ethiopian Restaurant",
-  "address": "Bulevardul Nicolae Bălcescu 35a, București 010055, Romania",
-  "phone": "35010055",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 277,
-  "name": "Seasons 52",
-  "address": "1019 S Charles St, Baltimore, MD 21230",
-  "phone": "101921230",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 278,
-  "name": "YaYas Euro Bistro in Denver",
-  "address": "1849 N Scottsdale Rd, Tempe, AZ 85281",
-  "phone": "184985281",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 279,
-  "name": "Metropolitan Bar \u0026 Grill",
-  "address": "9545 Reseda Blvd #14, Northridge, CA 91324",
-  "phone": "95451491324",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 280,
-  "name": "Taco Star",
-  "address": "1038 St James St, Winnipeg, MB R3H 0K5, Canada",
-  "phone": "+12042198939",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 281,
-  "name": "YaYas Euro Bistro in Denver",
-  "address": "9747 E 21st St N #121, Wichita, KS 67206",
-  "phone": "97472112167206",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 282,
-  "name": "Pita Fresh",
-  "address": "7365 W Sahara Ave Ste K, Las Vegas, NV 89117",
-  "phone": "736589117",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 283,
-  "name": "Alpha Charlie's Tap \u0026 Tavern",
-  "address": "1063 1st Ave., New York, NY 10022",
-  "phone": "1063110022",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 284,
-  "name": "Cody's Cafe and Bar",
-  "address": "304 N Brand Blvd, Glendale, CA 91203",
-  "phone": "30491203",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 285,
-  "name": "Restaurant National",
-  "address": "188 Avenue A, New York, NY 10009",
-  "phone": "18810009",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 286,
-  "name": "Cheddar's Scratch Kitchen",
-  "address": "1890 Bonanza Dr Suite 112, Park City, UT 84060",
-  "phone": "189011284060",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 287,
-  "name": "Catrina Mexican Grill Burrito",
-  "address": "1626 Selby Ave, St Paul, MN 55104",
-  "phone": "162655104",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 288,
-  "name": "The Z! | Family Kitchen \u0026 Dining Hall at CVA",
-  "address": "1750 Cesar Chavez St Unit D, San Francisco, CA 94124",
-  "phone": "175094124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 289,
-  "name": "Zao Asian Cafe",
-  "address": "5555 Montgomery Blvd NE, Albuquerque, NM 87109",
-  "phone": "555587109",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 290,
-  "name": "Cafe MJ 'What O Eat'",
-  "address": "790 E 2100 S #100, Salt Lake City, UT 84106",
-  "phone": "790210010084106",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 291,
-  "name": "GOLDEN SAIGON Restaurant",
-  "address": "2622 Central Ave SE A, Albuquerque, NM 87106",
-  "phone": "262287106",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 292,
-  "name": "Monaco Inn Restaurant",
-  "address": "3416 Central Ave NE, Albuquerque, NM 87106",
-  "phone": "341687106",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 293,
-  "name": "Taco Star",
-  "address": "702 S Cascade Ave, Colorado Springs, CO 80903",
-  "phone": "70280903",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 294,
-  "name": "GREEK 2 ME",
-  "address": "4587 Austin Bluffs Pkwy, Colorado Springs, CO 80915",
-  "phone": "458780915",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 295,
-  "name": "LongHorn Steakhouse",
-  "address": "6050 N Carefree Cir, Colorado Springs, CO 80922",
-  "phone": "605080922",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 296,
-  "name": "Phở Vy - Aurora",
-  "address": "1950 W 32nd Ave, Denver, CO 80211",
-  "phone": "19503280211",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 297,
-  "name": "Zane's Italian Bistro",
-  "address": "520 W South Boulder Rd, Lafayette, CO 80026",
-  "phone": "52080026",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 298,
-  "name": "First Watch",
-  "address": "4501 Juan Tabo Blvd NE, Albuquerque, NM 87111",
-  "phone": "450187111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 299,
-  "name": "Yahya's Mediterranean Grill \u0026 Pastries",
-  "address": "4845 N Academy Blvd, Colorado Springs, CO 80918",
-  "phone": "484580918",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 300,
-  "name": "Golden Shanghai Restaurant",
-  "address": "954 Manitou Ave, Manitou Springs, CO 80829",
-  "phone": "95480829",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 301,
-  "name": "First Watch",
-  "address": "3054 28th St, Boulder, CO 80304",
-  "phone": "30542880304",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 302,
-  "name": "Star Asian Bistro \u0026 Sushi",
-  "address": "7415 E 41st Ave, Denver, CO 80216",
-  "phone": "74154180216",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 303,
-  "name": "JING Denver",
-  "address": "6831 W 120th Ave, Broomfield, CO 80020",
-  "phone": "683112080020",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 304,
-  "name": "INTUEAT - Denver's Fine Dining Experiences",
-  "address": "503 E 84th Ave, Thornton, CO 80229",
-  "phone": "5038480229",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 305,
-  "name": "AllerDining",
-  "address": "3350 Brighton Blvd #140, Denver, CO 80216",
-  "phone": "335014080216",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 306,
-  "name": "Bubba's 33",
-  "address": "605 N Circle Dr, Colorado Springs, CO 80909",
-  "phone": "60580909",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 307,
-  "name": "Seasons 52",
-  "address": "627 S Broadway, Boulder, CO 80305",
-  "phone": "62780305",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 308,
-  "name": "Ash'Kara",
-  "address": "1050 W 104th Ave #8, Northglenn, CO 80234",
-  "phone": "1050104880234",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 309,
-  "name": "Yummy station",
-  "address": "3801 Quebec St, Denver, CO 80207",
-  "phone": "380180207",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 310,
-  "name": "Beirut Grill 2",
-  "address": "1401 Pearl St, Boulder, CO 80302",
-  "phone": "140180302",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 311,
-  "name": "Phoenician Kabob",
-  "address": "1401 Pearl St, Boulder, CO 80302",
-  "phone": "140180302",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 312,
-  "name": "Mariachi Loco Mexican Grill \u0026 Taqueria",
-  "address": "3970 Buchtel Blvd S #107, Denver, CO 80210",
-  "phone": "397010780210",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 313,
-  "name": "Sbarro",
-  "address": "5390 Greenwood Plaza Blvd, Greenwood Village, CO 80111",
-  "phone": "539080111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 314,
-  "name": "The Bistro  Eat. Drink. Connect.®",
-  "address": "4044 Tejon St, Denver, CO 80211",
-  "phone": "404480211",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 315,
-  "name": "Mika sushi 5",
-  "address": "8000 E 12th Ave apt 18-22, Denver, CO 80220",
-  "phone": "800012182280220",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 316,
-  "name": "Nest at Nurture",
-  "address": "2949 Federal Blvd, Denver, CO 80211",
-  "phone": "294980211",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 317,
-  "name": "Delcontruccion",
-  "address": "7400 E Hampden Ave C6, Denver, CO 80231",
-  "phone": "7400680231",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 318,
-  "name": "Parking",
-  "address": "6901 Tower Rd, Denver, CO 80249",
-  "phone": "690180249",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 319,
-  "name": "Ramen Star",
-  "address": "7824 Park Meadows Dr #300, Lone Tree, CO 80124",
-  "phone": "782430080124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 320,
-  "name": "Bonchon Denver - Buchtel Blvd",
-  "address": "5709 E Colfax Ave, Denver, CO 80220",
-  "phone": "570980220",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 321,
-  "name": "FIFTY300 Restaurant",
-  "address": "9364 Jordan Rd, Parker, CO 80134",
-  "phone": "936480134",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 322,
-  "name": "Boychik",
-  "address": "2005 W 33rd Ave, Denver, CO 80211",
-  "phone": "20053380211",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 323,
-  "name": "Avanti Food and Beverage, Boulder",
-  "address": "1456 Champa St, Denver, CO 80202",
-  "phone": "145680202",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 324,
-  "name": "Taco Star",
-  "address": "19702 E Dorado Ave, Aurora, CO 80015",
-  "phone": "1970280015",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 325,
-  "name": "Under The Sun Pub \u0026 Pizza",
-  "address": "675 S Broadway Suite 300, Denver, CO 80209",
-  "phone": "67530080209",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 326,
-  "name": "Taco Star",
-  "address": "8325 Park Meadows Center Dr, Lone Tree, CO 80124",
-  "phone": "832580124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 327,
-  "name": "Taco Star",
-  "address": "2270 S Parker Rd, Denver, CO 80231",
-  "phone": "227080231",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 328,
-  "name": "Reunion Bakery / Sourdough Bread / Coffee",
-  "address": "1140 W Littleton Blvd, Littleton, CO 80120",
-  "phone": "114080120",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 329,
-  "name": "The Bistro",
-  "address": "7500 S University Blvd, Centennial, CO 80122",
-  "phone": "750080122",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 330,
-  "name": "Oscar's Kabob and Gyros",
-  "address": "5370 Greenwood Plaza Blvd, Greenwood Village, CO 80111",
-  "phone": "537080111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 331,
-  "name": "Ali Baba Grill",
-  "address": "2406 S Parker Rd Ste A, Denver, CO 80231",
-  "phone": "240680231",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 332,
-  "name": "Arabian Nights Cafe",
-  "address": "6818 S Yosemite St, Centennial, CO 80112",
-  "phone": "681880112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 333,
-  "name": "Sahara Cafe",
-  "address": "3535 S Yosemite St, Denver, CO 80237",
-  "phone": "353580237",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 334,
-  "name": "Occidental",
-  "address": "2207 E Colfax Ave, Denver, CO 80206",
-  "phone": "220780206",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 335,
-  "name": "The Simple Greek",
-  "address": "9625 E County Line Rd, Centennial, CO 80112",
-  "phone": "962580112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 336,
-  "name": "Fala-Filo",
-  "address": "9251 E Peakview Ave A, Greenwood Village, CO 80111",
-  "phone": "925180111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 337,
-  "name": "Shuga's",
-  "address": "1412 S Parker Rd A134, Denver, CO 80231",
-  "phone": "141213480231",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 338,
-  "name": "Heart Of Jerusalem Cafe",
-  "address": "6770 S Cornerstar Way Unit A, Aurora, CO 80016",
-  "phone": "677080016",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 339,
-  "name": "Flying Star Cafe",
-  "address": "962 S Monaco St Pkwy, Denver, CO 80224",
-  "phone": "96280224",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 340,
-  "name": "Sahara Middle Eastern Eatery",
-  "address": "1760 S Havana St, Aurora, CO 80012",
-  "phone": "176080012",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 341,
-  "name": "Flying Star Cafe",
-  "address": "2648 S Parker Rd Unit 2, Aurora, CO 80014",
-  "phone": "2648280014",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 342,
-  "name": "O'Falafel Middle Eastern Cuisine",
-  "address": "5975 S Quebec St, Centennial, CO 80111",
-  "phone": "597580111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 343,
-  "name": "Alquds Mediterranean Grill and Grocery",
-  "address": "18374 Cottonwood Dr Suite 110, Parker, CO 80134",
-  "phone": "1837411080134",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 344,
-  "name": "Za'atar | Levantine Inspired Street Food",
-  "address": "Main Level, 10855 E Bethany Dr 1st Floor, Aurora, CO 80014",
-  "phone": "10855180014",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 345,
-  "name": "Zait \u0026 Za'atar: Mediterranean Dhaba",
-  "address": "909 S Oneida St Ste 1b, Denver, CO 80224",
-  "phone": "909180224",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 346,
-  "name": "Nosh",
-  "address": "15775 E Briarwood Cir, Aurora, CO 80016",
-  "phone": "1577580016",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 347,
-  "name": "Au Za'atar",
-  "address": "10203 E Iliff Ave, Denver, CO 80247",
-  "phone": "1020380247",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 348,
-  "name": "Au Za'atar",
-  "address": "2075 S University Blvd A, Denver, CO 80210",
-  "phone": "207580210",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 349,
-  "name": "Cafe Maurice",
-  "address": "6631 S Peoria St Suite 100, Centennial, CO 80111",
-  "phone": "663110080111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 350,
-  "name": "Hedary's Mediterranean Restaurant Las Vegas",
-  "address": "8310 E Belleview Ave, Greenwood Village, CO 80111",
-  "phone": "831080111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 351,
-  "name": "Carousel Restaurant Glendale",
-  "address": "3454 S Broadway, Englewood, CO 80113",
-  "phone": "345480113",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 352,
-  "name": "Les Saj Restaurant",
-  "address": "4670 Peoria St, Denver, CO 80239",
-  "phone": "467080239",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 353,
-  "name": "Zaatar N' More",
-  "address": "8310 E Belleview Ave, Greenwood Village, CO 80111",
-  "phone": "831080111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 354,
-  "name": "Alrayan Market \u0026 Restaurant",
-  "address": "10111 Inverness Main St, Englewood, CO 80112",
-  "phone": "1011180112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 355,
-  "name": "Restaurant Et Cocktail Samara",
-  "address": "8325 Park Meadows Center Dr, Lone Tree, CO 80124",
-  "phone": "832580124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 356,
-  "name": "Za’atar",
-  "address": "5975 S Quebec St, Centennial, CO 80111",
-  "phone": "597580111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 357,
-  "name": "Golden Restaurant \u0026 Bakery",
-  "address": "2222 S Havana St unit B, Aurora, CO 80014",
-  "phone": "222280014",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 358,
-  "name": "Za'atar Bake",
-  "address": "6631 S Peoria St Suite 100, Centennial, CO 80111",
-  "phone": "663110080111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 359,
-  "name": "Dry Creek Shopping Center",
-  "address": "5270 E Arapahoe Rd #5070, Centennial, CO 80122",
-  "phone": "5270507080122",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 360,
-  "name": "Arapahoe Marketplace Shopping Center",
-  "address": "Unnamed Road, Centennial, CO 80112",
-  "phone": "3032531744",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 361,
-  "name": "Park Meadows",
-  "address": "6860-6888 S Clinton Ct, Greenwood Village, CO 80112",
-  "phone": "6860688880112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 362,
-  "name": "Visit Greenwood Village Square",
-  "address": "5320 DTC Blvd, Greenwood Village, CO 80111",
-  "phone": "532080111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 363,
-  "name": "Arapahoe Shopping Center",
-  "address": "8401 Park Meadows Center Dr, Lone Tree, CO 80124",
-  "phone": "840180124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 364,
-  "name": "Willow Creek Shopping Center",
-  "address": "8200 S Quebec St, Centennial, CO 80112",
-  "phone": "820080112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 365,
-  "name": "Vistas at Park Meadows",
-  "address": "8505 E Arapahoe Rd, Greenwood Village, CO 80112",
-  "phone": "850580112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 366,
-  "name": "Village Plaza",
-  "address": "8110 S University Blvd, Centennial, CO 80122",
-  "phone": "811080122",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 367,
-  "name": "Festival Shopping Center",
-  "address": "15700 E Briarwood Cir, Aurora, CO 80016",
-  "phone": "1570080016",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 368,
-  "name": "Cornerstar",
-  "address": "8401 Park Meadows Center Dr, Lone Tree, CO 80124",
-  "phone": "840180124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 369,
-  "name": "Oakbrook Shopping Center",
-  "address": "1900 Eastwood Rd, Wilmington, NC 28403",
-  "phone": "190028403",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 370,
-  "name": "Park Hampden Shopping Center",
-  "address": "3001 White Bear Ave, St Paul, MN 55109",
-  "phone": "300155109",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 371,
-  "name": "Cherry Knolls Shopping Center",
-  "address": "4400 Ashford Dunwoody Rd, Atlanta, GA 30346",
-  "phone": "440030346",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 372,
-  "name": "Maximus Shopping Mall",
-  "address": "3510 W 69th St, Edina, MN 55435",
-  "phone": "35106955435",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 373,
-  "name": "Cottonwood Plaza Shopping Center",
-  "address": "7875 Montgomery Rd, Cincinnati, OH 45236",
-  "phone": "787545236",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 374,
-  "name": "Belleview Promenade",
-  "address": "4976 Premium Outlets Way, Chandler, AZ 85226",
-  "phone": "497685226",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 375,
-  "name": "Shoppes At The Meadows",
-  "address": "72 Pavilion Pkwy, Fayetteville, GA 30214",
-  "phone": "2054538620",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 376,
-  "name": "Highlands Ranch Shopping Center",
-  "address": "6835 Conservation Way, Wilmington, NC 28405",
-  "phone": "683528405",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 377,
-  "name": "Village Center West",
-  "address": "3000 184th St SW, Lynnwood, WA 98037",
-  "phone": "300018498037",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 378,
-  "name": "Mission Viejo Plaza Shopping Center",
-  "address": "239 City Cir #1050, Peachtree City, GA 30269",
-  "phone": "239105030269",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 379,
-  "name": "Buckingham Village Shopping Center",
-  "address": "3805 Edwards Rd, Cincinnati, OH 45209",
-  "phone": "380545209",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 380,
-  "name": "Aurora Highlands Shopping Center",
-  "address": "2600 Edgewood Rd SW, Cedar Rapids, IA 52404",
-  "phone": "260052404",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 381,
-  "name": "Saddle Rock Shopping Center",
-  "address": "2618 S Shackleford Rd, Little Rock, AR 72205",
-  "phone": "261872205",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 382,
-  "name": "Oakbrook Shopping Center",
-  "address": "1595 MN-36, Roseville, MN 55113",
-  "phone": "15953655113",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 383,
-  "name": "Iliff Crossings Shopping Center",
-  "address": "7601-7625 Evergreen Way, Everett, WA 98203",
-  "phone": "7601762598203",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 384,
-  "name": "Market Square at Mississippi and Havana Shopping Center",
-  "address": "1402 SE Everett Mall Way, Everett, WA 98208",
-  "phone": "140298208",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 385,
-  "name": "Village on the Park",
-  "address": "2100 Snelling Ave N, Roseville, MN 55113",
-  "phone": "210055113",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 386,
-  "name": "The Shops At High Point",
-  "address": "15205 N Kierland Blvd #150, Scottsdale, AZ 85254",
-  "phone": "1520515085254",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 387,
-  "name": "Belleview Promenade",
-  "address": "2502 E Camelback Rd, Phoenix, AZ 85016",
-  "phone": "250285016",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 388,
-  "name": "Greenwood Plaza",
-  "address": "7014 E Camelback Rd, Scottsdale, AZ 85251",
-  "phone": "701485251",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 389,
-  "name": "Broadridge Shopping Center",
-  "address": "16243 N Scottsdale Rd, Scottsdale, AZ 85254",
-  "phone": "1624385254",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 390,
-  "name": "Maximus Shopping Mall",
-  "address": "8251 Flying Cloud Dr, Eden Prairie, MN 55344",
-  "phone": "825155344",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 391,
-  "name": "Belleview Square",
-  "address": "E Plaza Ave, Aurora, CO 80016",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 392,
-  "name": "Leetsdale Marketplace Shopping Center",
-  "address": "15279 N Scottsdale Rd Ste 260, Scottsdale, AZ 85254",
-  "phone": "1527926085254",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 393,
-  "name": "Willow Grove Shopping Center",
-  "address": "8401 Park Meadows Center Dr, Lone Tree, CO 80124",
-  "phone": "840180124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 394,
-  "name": "Brentwood Shopping Center",
-  "address": "21001 N Tatum Blvd, Phoenix, AZ 85050",
-  "phone": "2100185050",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 395,
-  "name": "Welshire Plaza",
-  "address": "1150 E Arizona Pl, Aurora, CO 80012",
-  "phone": "115080012",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 396,
-  "name": "Centennial Shopping Center",
-  "address": "201 University Blvd, Denver, CO 80206",
-  "phone": "20180206",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 397,
-  "name": "Saddle Rock Village",
-  "address": "8390 Northfield Blvd, Denver, CO 80238",
-  "phone": "839080238",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 398,
-  "name": "African Mini Mall",
-  "address": "2300 S Chambers Rd Unit I, Aurora, CO 80014",
-  "phone": "230080014",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 399,
-  "name": "Broadway Estates Shopping Mall",
-  "address": "9600 E Arapahoe Rd, Greenwood Village, CO 80112",
-  "phone": "960080112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 400,
-  "name": "Town Center at Aurora",
-  "address": "5135 Chambers Rd, Denver, CO 80239",
-  "phone": "513580239",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 401,
-  "name": "Plaza At Aurora Mall",
-  "address": "1680 S Chambers Rd, Aurora, CO 80017",
-  "phone": "168080017",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 402,
-  "name": "Shoppes At The Meadows",
-  "address": "7301 S Santa Fe Dr #710, Littleton, CO 80120",
-  "phone": "730171080120",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 403,
-  "name": "Eagle Bend Market Place",
-  "address": "4840 Chambers Rd, Denver, CO 80239",
-  "phone": "484080239",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 404,
-  "name": "Arapahoe Crossings",
-  "address": "10101 E Hampden Ave, Denver, CO 80231",
-  "phone": "1010180231",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 405,
-  "name": "Pioneer Hills",
-  "address": "694 Peoria St, Aurora, CO 80011",
-  "phone": "69480011",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 406,
-  "name": "Heritage Green Plaza",
-  "address": "18525 E Smoky Hill Rd, Centennial, CO 80015",
-  "phone": "1852580015",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 407,
-  "name": "Virginia Shops",
-  "address": "6787 S Clinton St, Greenwood Village, CO 80112",
-  "phone": "678780112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 408,
-  "name": "Market at Southpark",
-  "address": "8505 E Arapahoe Rd, Greenwood Village, CO 80112",
-  "phone": "850580112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 409,
-  "name": "Aurora City Place",
-  "address": "2767 S Parker Rd, Aurora, CO 80014",
-  "phone": "276780014",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 410,
-  "name": "Belcaro Shopping Center",
-  "address": "11485 Twenty Mile Rd, Parker, CO 80134",
-  "phone": "1148580134",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 411,
-  "name": "Aurora Plaza",
-  "address": "E Smoky Hill Rd, Aurora, CO 80015",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 412,
-  "name": "Cherry Creek Shopping Center",
-  "address": "1385 Krameria St, Denver, CO 80220",
-  "phone": "138580220",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 413,
-  "name": "Mayfair Plaza Shopping Center",
-  "address": "7445 E Arapahoe Rd, Englewood, CO 80112",
-  "phone": "744580112",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 414,
-  "name": "Shops at Shenandoah Shopping Center",
-  "address": "3000 E 1st Ave, Denver, CO 80206",
-  "phone": "3000180206",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 415,
-  "name": "Heritage Place Shopping Center",
-  "address": "16724-16880 E Iliff Ave, Aurora, CO 80013",
-  "phone": "167241688080013",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 416,
-  "name": "Village Square",
-  "address": "603-797 Peoria St \u0026, E 6th Ave, Aurora, CO 80011",
-  "phone": "603797680011",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 417,
-  "name": "Flatacres Marketcenter",
-  "address": "765 S Colorado Blvd, Denver, CO 80246",
-  "phone": "76580246",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 418,
-  "name": "Helping everyone",
-  "address": "14160 E Ellsworth Ave, Aurora, CO 80012",
-  "phone": "1416080012",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 419,
-  "name": "Clinton Shoppette",
-  "address": "1511 S Holly St, Denver, CO 80222",
-  "phone": "151180222",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 420,
-  "name": "Smoky Hill Shopping Center",
-  "address": "8265 S Holly St, Centennial, CO 80122",
-  "phone": "826580122",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 421,
-  "name": "Parker Commons",
-  "address": "7903 S Broadway, Littleton, CO 80122",
-  "phone": "790380122",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 422,
-  "name": "Hoffman Heights Shopping Center",
-  "address": "5400-5820 S Parker Rd, Aurora, CO 80015",
-  "phone": "5400582080015",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 423,
-  "name": "Wells Plaza",
-  "address": "6400-6700 S Parker Rd, Aurora, CO 80016",
-  "phone": "6400670080016",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 424,
-  "name": "Valley Plaza Shopping Center",
-  "address": "15306 E Alameda Pkwy, Aurora, CO 80017",
-  "phone": "1530680017",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 425,
-  "name": "Christmas in the Rockies Gift Mart",
-  "address": "22691 E Aurora Pkwy, Aurora, CO 80016",
-  "phone": "2269180016",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 426,
-  "name": "Chambers Place Shopping Center",
-  "address": "8374 Willow St, Lone Tree, CO 80124",
-  "phone": "837480124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 427,
-  "name": "Gateway Square",
-  "address": "14517 E Exposition Ave, Aurora, CO 80012",
-  "phone": "1451780012",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 428,
-  "name": "Townsquare At Gateway Village",
-  "address": "14200 E Alameda Ave, Aurora, CO 80012",
-  "phone": "1420080012",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 429,
-  "name": "The Shops at Greenwood Village",
-  "address": "6560 S Broadway, Littleton, CO 80121",
-  "phone": "656080121",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 430,
-  "name": "Beauty Salon",
-  "address": "1842 S Parker Rd, Denver, CO 80231",
-  "phone": "184280231",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 431,
-  "name": "Main Street Shops",
-  "address": "3259 S Parker Rd, Aurora, CO 80014",
-  "phone": "325980014",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 432,
-  "name": "Mall",
-  "address": "7450 S Gartrell Rd, Aurora, CO 80016",
-  "phone": "745080016",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 433,
-  "name": "Shopping Center",
-  "address": "5050 S Federal Blvd, Englewood, CO 80110",
-  "phone": "505080110",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 434,
-  "name": "Plaza At Cherry Creek",
-  "address": "1977 S Federal Blvd, Denver, CO 80219",
-  "phone": "197780219",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 435,
-  "name": "Havana Square",
-  "address": "2350 S Colorado Blvd, Denver, CO 80222",
-  "phone": "235080222",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 436,
-  "name": "Mista",
-  "address": "S Parker Rd, Denver, CO 80247",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 437,
-  "name": "Desert Ridge Marketplace",
-  "address": "7150 Leetsdale Dr, Denver, CO 80224",
-  "phone": "715080224",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 438,
-  "name": "Scottsdale Quarter",
-  "address": "4910 S Yosemite St, Greenwood Village, CO 80111",
-  "phone": "491080111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 439,
-  "name": "Eden Prairie Center",
-  "address": "8852 Maximus Dr, Lone Tree, CO 80124",
-  "phone": "885280124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 440,
-  "name": "Scottsdale Fashion Square",
-  "address": "6905 S Broadway, Centennial, CO 80122",
-  "phone": "690580122",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 441,
-  "name": "The Promenade",
-  "address": "4600 S Syracuse St, Denver, CO 80237",
-  "phone": "460080237",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 442,
-  "name": "Biltmore Fashion Park",
-  "address": "6305 E Hampden Ave, Denver, CO 80222",
-  "phone": "630580222",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 443,
-  "name": "Kierland Commons",
-  "address": "8000 E Belleview Ave, Greenwood Village, CO 80111",
-  "phone": "800080111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 444,
-  "name": "HarMar Mall",
-  "address": "16861 E Iliff Ave, Aurora, CO 80013",
-  "phone": "1686180013",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 445,
-  "name": "Everett Mall",
-  "address": "2353 S Parker Rd, Aurora, CO 80014",
-  "phone": "235380014",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 446,
-  "name": "Cascade Plaza",
-  "address": "1155 S Havana St, Aurora, CO 80247",
-  "phone": "115580247",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 447,
-  "name": "Rosedale Center",
-  "address": "5690 E County Line Rd, Highlands Ranch, CO 80126",
-  "phone": "569080126",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 448,
-  "name": "Westdale Town Center",
-  "address": "6201 S Gun Club Rd, Aurora, CO 80015",
-  "phone": "620180015",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 449,
-  "name": "Shackleford Crossings",
-  "address": "1770 S Buckley Rd, Aurora, CO 80017",
-  "phone": "177080017",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 450,
-  "name": "Rookwood Commons \u0026 Pavilion",
-  "address": "15340 E Hampden Ave, Aurora, CO 80013",
-  "phone": "1534080013",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 451,
-  "name": "Fayette Pavilion",
-  "address": "9255 S Broadway, Highlands Ranch, CO 80129",
-  "phone": "925580129",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 452,
-  "name": "Mayfaire",
-  "address": "9553-9559 S University Blvd, Highlands Ranch, CO 80126",
-  "phone": "9553955980126",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 453,
-  "name": "Kenwood Towne Centre",
-  "address": "8374 Willow St, Lone Tree, CO 80124",
-  "phone": "837480124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 454,
-  "name": "The Avenue Peachtree City",
-  "address": "17721 Cottonwood Dr, Parker, CO 80134",
-  "phone": "1772180134",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 455,
-  "name": "Altair Park",
-  "address": "Pope Trail, Englewood, CO 80111",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 456,
-  "name": "Estancia Lights",
-  "address": "6933 S Espana Way, Aurora, CO 80016",
-  "phone": "693380016",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 457,
-  "name": "Aurora History Museum",
-  "address": "Estrella Pkwy, Goodyear, AZ 85338",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 458,
-  "name": "Observation Platform",
-  "address": "Vernon, BC V1B 3M6, Canada",
-  "phone": "8006899025",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 459,
-  "name": "Butterfly Hill",
-  "address": "15051 E Alameda Pkwy, Aurora, CO 80012",
-  "phone": "1505180012",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 460,
-  "name": "Estrella Star Tower",
-  "address": "884 Altair Dr, Lone Tree, CO 80124",
-  "phone": "88480124",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 461,
-  "name": "Silver Star Provincial Park",
-  "address": "6331 S Fiddlers Green Cir, Greenwood Village, CO 80111",
-  "phone": "633180111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 462,
-  "name": "Black Star Canyon Falls Trailhead",
-  "address": "13333 Black Star Canyon Rd, Silverado, CA 92676",
-  "phone": "1333392676",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 463,
-  "name": "Cedar Rapids Museum of Art",
-  "address": "410 3rd Ave SE, Cedar Rapids, IA 52401",
-  "phone": "410352401",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 464,
-  "name": "Four Mills Nature Reserve",
-  "address": "4 Co Rd 1126, Greer, AZ 85927",
-  "phone": "4112685927",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 465,
-  "name": "Vince Shute Wildlife Sanctuary",
-  "address": "Karagözler, Fevzi Çakmak Cd. No 70, 48300 Fethiye/Muğla, Türkiye",
-  "phone": "+902526142422",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 466,
-  "name": "Fruitlands Museum",
-  "address": "67 St Lawrence Rd, Moogerah QLD 4309, Australia",
-  "phone": "+61437752046",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 467,
-  "name": "The Simple Greek",
-  "address": "Ocaklı Köyü Yolu, 36000 Ocaklı/Kars Merkez/Kars, Türkiye",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 468,
-  "name": "Savory Spice Shop",
-  "address": "Rod. Transamazônica, Carolina - MA, 65980-000, Brazil",
-  "phone": "65980000",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 469,
-  "name": "Seastar Andaman",
-  "address": "Mahdumlar, 54750 Taraklı/Sakarya, Türkiye",
-  "phone": "+905335449327",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 470,
-  "name": "Altindere Valley National Park",
-  "address": "25 Francis St, Perth WA 6000, Australia",
-  "phone": "+61894273111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 471,
-  "name": "Baltimore Woods Nature Center",
-  "address": "Blasiistraße 6, 06484 Quedlinburg, Germany",
-  "phone": "+493946905667",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 472,
-  "name": "Donut Star",
-  "address": "1431 E Williams Field Rd #101, Gilbert, AZ 85295",
-  "phone": "143110185295",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 473,
-  "name": "National Czech \u0026 Slovak Museum \u0026 Library",
-  "address": "Çiriş, Unnamed Road, 33730 Erdemli/Mersin, Türkiye",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 474,
-  "name": "The Adventure Park at Storrs",
-  "address": "Cumhuriyet, Lale Sk. No:7, 17680 Bozcaada/Çanakkale, Türkiye",
-  "phone": "+905322156033",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 475,
-  "name": "Atar Voyages",
-  "address": "Av. del Mar, Pinamar, Provincia de Buenos Aires, Argentina",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 476,
-  "name": "Ushers Ferry Historic Village",
-  "address": "Alsina Centro, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 477,
-  "name": "Atar",
-  "address": "Rainbow St., Amman, Jordan",
-  "phone": "+962799663220",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 478,
-  "name": "Parc Natural de Las Lagunas de La Mata y Torrevieja",
-  "address": "36,, Carrer la Font, 34, 12192 Vilafamés, Castelló, Spain",
-  "phone": "363412192",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 479,
-  "name": "Mevlana Museum",
-  "address": "Alsancak, 35250 Konak/İzmir, Türkiye",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 480,
-  "name": "West Baldy Trailhead",
-  "address": "Dalyan, 48800 Ortaca/Köyceğiz/Muğla, Türkiye",
-  "phone": "+902526141150",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 481,
-  "name": "Farandnear Reservation",
-  "address": "Sailors Bay Rd, Northbridge NSW 2063, Australia",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 482,
-  "name": "Aktur Park",
-  "address": "AC-040, 886 - Vila Acre, Rio Branco - AC, 69909-740, Brazil",
-  "phone": "04088669909740",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 483,
-  "name": "Star Union Spirits",
-  "address": "Yamaçtepe, Burç Ormanı İçi, 27410 Şahinbey/Gaziantep, Türkiye",
-  "phone": "+903423605840",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 484,
-  "name": "Culture Park",
-  "address": "156 Forbes St, Darlinghurst NSW 2010, Australia",
-  "phone": "+61293398744",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 485,
-  "name": "El Pardo Royal Palace",
-  "address": "C. Sancho Ramírez, s/n, 31008 Pamplona, Navarra, Spain",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 486,
-  "name": "UQ Anthropology Museum",
-  "address": "201 E Dallas St, Marfa, TX 79843",
-  "phone": "20179843",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 487,
-  "name": "Casa Vicens Gaudí",
-  "address": "Building F, Monash University, Caulfield campus, 900 Princes Hwy Service Rd, Caulfield East VIC 3145, Australia",
-  "phone": "+61399054217",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 488,
-  "name": "Temple of Apollo",
-  "address": "Juan B. Justo 3885, B8103 Bahía Blanca, Provincia de Buenos Aires, Argentina",
-  "phone": "38858103",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 489,
-  "name": "Risørflekken",
-  "address": "Güngören, Güngören Köyü Yolu No:46, 47510 Midyat/Mardin, Türkiye",
-  "phone": "+904822137513",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 490,
-  "name": "Blytheville Air Force Base Exhibition",
-  "address": "Pres. Figueiredo, Presidente Figueiredo - State of Amazonas, 69735-000, Brazil",
-  "phone": "69735000",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 491,
-  "name": "Trius Winery \u0026 Restaurant",
-  "address": "Ötençay, 31350 Ötençay Köyü/Belen/Belen/Hatay, Türkiye",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 492,
-  "name": "Long Pool Recreation Area",
-  "address": "James and Mary Emelia Mayne Centre Building, University Dr, St Lucia QLD 4072, Australia",
-  "phone": "+61733653046",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 493,
-  "name": "Grand Mosque of Dakar",
-  "address": "1064 216 St, Langley Twp, BC V2Z 1R3, Canada",
-  "phone": "1064216213",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 494,
-  "name": "Parque 21 De Abril",
-  "address": "4705 N Fruit Hill Rd, Spokane, WA 99217",
-  "phone": "470599217",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 495,
-  "name": "Bazalt Kayalıkları Tabiat Anıtı",
-  "address": "İskenderpaşa Merkez, Uzun Sk., 61100 Ortahisar/Trabzon, Türkiye",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 496,
-  "name": "Arbor Crest Wine Cellars",
-  "address": "Largo do Bonfim, s/n - Bonfim, Salvador - BA, 40415-475, Brazil",
-  "phone": "40415475",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 497,
-  "name": "The University of Queensland Art Museum",
-  "address": "1249 Niagara Stone Rd, Niagara-on-the-Lake, ON L0S 1J0, Canada",
-  "phone": "8005828412",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 498,
-  "name": "Chaberton Estate Winery",
-  "address": "Boyabat Sinop TR, 57200, Türkiye",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 499,
-  "name": "ferrowhite museum / workshop",
-  "address": "Loma de Quito, Riobamba, Ecuador",
-  "phone": "+593982312879",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 500,
-  "name": "Trabzon Meydan Parkı",
-  "address": "3711 Idaho St, Blytheville, AR 72315",
-  "phone": "371172315",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 501,
-  "name": "Do Your Thing Coffee",
-  "address": "Av. Malick Sy, Dakar, Senegal",
-  "phone": "+201221268200",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 502,
-  "name": "Bakras Castle",
-  "address": "Michie Building, 9 Chancellors Pl, St Lucia QLD 4067, Australia",
-  "phone": "+61733653111",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 503,
-  "name": "Monash University Museum of Art (MUMA）",
-  "address": "Palacio del Pardo, C. Manuel Alonso, s/n, 28048 Madrid, Spain",
-  "phone": "+34913761500",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 504,
-  "name": "Terjit",
-  "address": "Carrer de les Carolines, 20-26, 08012 Barcelona, Spain",
-  "phone": "202608012",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 505,
-  "name": "Pamplona Planetarium",
-  "address": "300 5th St Suite 135, Peru, IL 61354",
-  "phone": "300513561354",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 506,
-  "name": "National Art School",
-  "address": "Hisar Özgürlük Caddesi Özgürlük Cad, 09270 Didim/Aydın, Türkiye",
-  "phone": "+902562130165",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 507,
-  "name": "Ouadane",
-  "address": "370 1st Ave NE, Cedar Rapids, IA 52401",
-  "phone": "370152401",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 508,
-  "name": "Arrawarra",
-  "address": "Portão 10, Av. Pedro Álvares Cabral, s/n - Vila Mariana, São Paulo - SP, 04094-050, Brazil",
-  "phone": "1004094050",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 509,
-  "name": "Alton, The Star Camping and Caravanning Club Site",
-  "address": "Ferhuniye, Fuar Alanı 4 D, 42060 Selçuklu/Konya, Türkiye",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 510,
-  "name": "Parque Ambiental Chico Mendes",
-  "address": "Pınarbaşı, Atatürk Blv. No:4, 07070 Konyaaltı/Antalya, Türkiye",
-  "phone": "+902422291984",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 511,
-  "name": "Kaunos",
-  "address": "40 Maribyrnong Blvd, Footscray VIC 3011, Australia",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 512,
-  "name": "Gaziantep Metropolitan Municipality Zoo",
-  "address": "1451 Dillon Rd, Ambler, PA 19002",
-  "phone": "145119002",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 513,
-  "name": "Roca Grossa",
-  "address": "156 Center Rd, Shirley, MA 01464",
-  "phone": "15601464",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 514,
-  "name": "Amman Food Tours",
-  "address": "5925 Seminole Valley Trail NE, Cedar Rapids, IA 52411",
-  "phone": "592552411",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 515,
-  "name": "Kordon Alsancak Izmir",
-  "address": "2007 Storrs Rd, Storrs, CT 06268",
-  "phone": "200706268",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 516,
-  "name": "Choum",
-  "address": "Ctra. Nacional, s/n, 03188 Torrevieja, Alicante, Spain",
-  "phone": "+34965721650",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 517,
-  "name": "Bozcaada Yerel Tarih Araştırma Merkez Müzesi",
-  "address": "1400 Inspiration Pl SW, Cedar Rapids, IA 52404",
-  "phone": "140052404",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 518,
-  "name": "Pita Jungle - Gilbert",
-  "address": "213 East 12300 South #H1, Draper, UT 84020",
-  "phone": "21312300184020",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 519,
-  "name": "Beach Pinamar",
-  "address": "Aziziye Mah, Mevlana Cd. No:1, 42030 Karatay/Konya, Türkiye",
-  "phone": "+903323511215",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 520,
-  "name": "Mount Nelson",
-  "address": "4007 Bishop Hill Rd, Marcellus, NY 13108",
-  "phone": "400713108",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 521,
-  "name": "Karagöl Yaylası",
-  "address": "Ortahisar, Burç Sk. No:10, 61030 Trabzon Merkez/Trabzon, Türkiye",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 522,
-  "name": "Kulturkirche St. Blasii",
-  "address": "Merkez Mahallesi, Atatürk Cd. No:41, 61750 Maçka/Trabzon, Türkiye",
-  "phone": "+904625311061",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 523,
-  "name": "EBUL MANUCEHR CAMİİ",
-  "address": "Leamnganusorn Road, Ratsada, Mueang Phuket District, Phuket 83000, Thailand",
-  "phone": "+6676350144",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 524,
-  "name": "Doktorun Yeri kayacı vadisi",
-  "address": "520 W South Boulder Rd, Lafayette, CO 80026",
-  "phone": "52080026",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 525,
-  "name": "Refúgio do Raiz Camping",
-  "address": "1537 Platte St, Denver, CO 80202",
-  "phone": "153780202",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 526,
-  "name": "Boutilimit",
-  "address": "102 Prospect Hill Rd, Harvard, MA 01451",
-  "phone": "10201451",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 527,
-  "name": "State Library of Western Australia",
-  "address": "Piccadilly Circus, London W1D 7ET, United Kingdom",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 528,
-  "name": "Wyndham Vale",
-  "address": "12541 Nett Lake Rd, Orr, MN 55771",
-  "phone": "1254155771",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 529,
-  "name": "Camp Laurence Outdoor Education Centre",
-  "address": "777 S Casino Rd, Mahnomen, MN 56557",
-  "phone": "77756557",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 530,
-  "name": "Christmas Creek",
-  "address": "12 Morris Rd, Ambler, PA 19002",
-  "phone": "2156468866",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 531,
-  "name": "Binna Burra",
-  "address": "9397 Orr-Buyck Rd, Orr, MN 55771",
-  "phone": "939755771",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 532,
-  "name": "Lejwad Hotel",
-  "address": "Unnamed Road, Zouérat, Mauritania",
-  "phone": "+22243104310",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 533,
-  "name": "Auberge restaurant tourine",
-  "address": "شارع المطار, Zouérat, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 534,
-  "name": "REST-CAFE",
-  "address": "Route aireport, Zoueiratt, Mauritania",
-  "phone": "+22241007401",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 535,
-  "name": "Restaurant lastrance",
-  "address": "Unnamed Road, Zouérat, Mauritania",
-  "phone": "+22246576332",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 536,
-  "name": "موريزا كورا",
-  "address": "Unnamed Road, Zouérat, Mauritania",
-  "phone": "",
-  "country-code": "MR",
-  "country": "Mauritania"
- },
- {
-  "id": 537,
-  "name": "PTT de Zouerate",
-  "address": "Unnamed Road, Zouérat, Mauritania",
-  "phone": "+22242044294",
-  "country-code": "MR",
-  "country": "Mauritania"
- }
+  {
+    "id": 1,
+    "name": "Hôtel Halima فندق حليمة",
+    "address": "ILOT C ZRC N0470 BP 4350, Nouakchott, Mauritania",
+    "phone": "04704350",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 2,
+    "name": "AZALAÏ HOTEL (MARHABA )",
+    "address": "470 ILOT C ZRC, Nouakchott, Mauritania",
+    "phone": "+22245246800",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 3,
+    "name": "Monotel (Dar El Barka)",
+    "address": "Av. Moktar Ould Daddah, Nouakchott, Mauritania",
+    "phone": "+22245298737",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 4,
+    "name": "فندق انواكشوط",
+    "address": "Rte des Ambassades, Nouakchott, Mauritania",
+    "phone": "+22245242333",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 5,
+    "name": "Semiramis Hotel Centre Ville",
+    "address": "10 BP 5219, Rue Mamadou Konate, Nouakchott, Mauritania",
+    "phone": "+22245244395",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 6,
+    "name": "Hôtel Sunset",
+    "address": "18°05'39.0\"N 15°58'44. (BP : 4350), Ilot o 18, Nouakchott, Mauritania",
+    "phone": "1805390155844435018",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 7,
+    "name": "The Best Semiramis Hotel",
+    "address": "Ave Abdel Nasser, Nouakchott, Mauritania",
+    "phone": "+22245295051",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 8,
+    "name": "Hotel Raha /dune",
+    "address": "Rue Abdallaye, Nouakchott, Mauritania",
+    "phone": "+22247341160",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 9,
+    "name": "Casaẞlü Hotel",
+    "address": "Unnamed Rd, Nouadhibou, Mauritania",
+    "phone": "+22245740777",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 11,
+    "name": "HOTEL IMAN",
+    "address": "IBT A 629, Nouakchott, Mauritania",
+    "phone": "+22245293336",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 12,
+    "name": "LA PALMA HOTEL فندق لابالما",
+    "address": "Îlot k, 213 rue Limam ould Chrif, Nouakchott, Mauritania",
+    "phone": "+22236701030",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 13,
+    "name": "Hotel Hayat",
+    "address": "Ould Moctar El Hacen،, Rue Moulaye El Hacen Ould Moctar El Hacen، Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 14,
+    "name": "Auberge Samiraa",
+    "address": "32VF+GPQ، Mamadou Lamine Konaté, Nouakchott, Mauritania",
+    "phone": "+22226603862",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 15,
+    "name": "Auberge Triskell Nouakchott",
+    "address": "Ilot K ext.N5. BP. 4350, Nouakchott, Mauritania",
+    "phone": "+22244220214",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 16,
+    "name": "LA PALMA HOTEL فندق لابالما",
+    "address": "N1 Extension, Nouakchott, Mauritania",
+    "phone": "+22245250394",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 17,
+    "name": "Appartement Nouakchott INN",
+    "address": "Av. Moktar Ould Daddah, Nouakchott, Mauritania",
+    "phone": "+22241445223",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 19,
+    "name": "City HOTEL فندق سيتي",
+    "address": "En face station Elvowze, Nouakchott, Mauritania",
+    "phone": "+22244361840",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 20,
+    "name": "Hotel Hayatt",
+    "address": "Abdel Nasser, Nouakchott, Mauritania",
+    "phone": "+22238821313",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 22,
+    "name": "Nouakchott beach",
+    "address": "Maison d'hôtes LE K, BP 05, Ilot K 504 Nouakchott, Mauritanie, Nouakchott, Mauritania",
+    "phone": "+22241121912",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 23,
+    "name": "Al Salam Resort",
+    "address": "ILOT K Villa 213, Nouakchott, Mauritania",
+    "phone": "+22248312680",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 24,
+    "name": "Hôtel Iman",
+    "address": "Unnamed Road, Nouadhibou, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 25,
+    "name": "Nouakchott Business Hotel",
+    "address": "1273, Nouakchott, Mauritania",
+    "phone": "+22243245900",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 27,
+    "name": "فندق فلورا",
+    "address": "Av General Desgaules, Tevrag Zeina, Nouakchott, Mauritania",
+    "phone": "+22233638583",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 28,
+    "name": "Hôtel Chinguitty Palace فندق شنقيط بالاس",
+    "address": "Rue Abdallaye, Nouakchott, Mauritania",
+    "phone": "+22241234960",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 29,
+    "name": "Residence La Case de Nouakchott",
+    "address": "CITE CONCORDE, Nouakchott, Mauritania",
+    "phone": "+22233465566",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 30,
+    "name": "33 Palms Resort",
+    "address": "Zra 563, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 31,
+    "name": "Auberge Diaguili",
+    "address": "I Lot c 385, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 33,
+    "name": "Royale Suite",
+    "address": "Centre ville, AV.Kennedy, Nouakchott, Mauritania",
+    "phone": "+22245259171",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 35,
+    "name": "HOTEL EL KHEIR فندق الخير",
+    "address": "Ilot A 458, Nouakchott, Mauritania",
+    "phone": "+22246460003",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 36,
+    "name": "Hotel Le Diplomate",
+    "address": "Bustan Malik off Tarika Tiyou Rd after descent from dune to your right Toujounine Bayat Ashara, Nouakchott, Mauritania",
+    "phone": "+22233332751",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 37,
+    "name": "HOTEL IKRAMA فندق اكراما",
+    "address": "Ilot K, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 38,
+    "name": "CHAMBRES D'HOTES NAGA",
+    "address": "175 socogim ps, Carrefour Madrid, Nouakchott, Mauritania",
+    "phone": "+22248614815",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 39,
+    "name": "Hotel Mouna",
+    "address": "Yacoub ould Cheikh Sidya, Nouakchott, Mauritania",
+    "phone": "+22236360299",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 40,
+    "name": "İstanbul Hotel\u0026Restaurant",
+    "address": "Sahraui Rue Abdel Wahab Cheiguer, Nouakchott, Mauritania",
+    "phone": "+22225066565",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 41,
+    "name": "Cave aux variétés",
+    "address": "Not 149 Tevrag Zegna, Nouakchott, Mauritania",
+    "phone": "+22227457406",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 42,
+    "name": "Hotel Medina",
+    "address": "6XG8+377، Unnamed Road, Tiouilit, Mauritania",
+    "phone": "+22247000222",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 43,
+    "name": "Le K - Maison d'hôtes",
+    "address": "Adresse Avenue El Quods, Nouakchott, Mauritania",
+    "phone": "+22243245900",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 44,
+    "name": "Sabah منتجع صباح",
+    "address": "1 Kaedi, Nouakchott, Mauritania",
+    "phone": "+22248614815",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 45,
+    "name": "Keva Hotel",
+    "address": "10 Rue Mamadou Konate, Nouakchott, Mauritania",
+    "phone": "+22244531703",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 46,
+    "name": "Hôtel marhaba atlantic",
+    "address": "10 Rue Mamadou Konate, Nouakchott, Mauritania",
+    "phone": "+22244531703",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 47,
+    "name": "Sidi mouhamed",
+    "address": "Chrif El Haj Sidina, Nouakchott, Mauritania",
+    "phone": "+22241560585",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 48,
+    "name": "Jeloua Hotel",
+    "address": "extension, phase 2, l’ilot K, Nouakchott, Mauritania",
+    "phone": "+22231477112",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 49,
+    "name": "Mykonos",
+    "address": "460 ILOT C TVZ, Nouakchott, Mauritania",
+    "phone": "+22245246800",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 52,
+    "name": "Le Manara",
+    "address": "rue benhmeida, Nouakchott, Mauritania",
+    "phone": "+22236405105",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 53,
+    "name": "Le Maquis Restaurant",
+    "address": "Rte des Ambassades, Nouakchott, Mauritania",
+    "phone": "+22243808080",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 55,
+    "name": "Restaurant la Marmite",
+    "address": "Rue Abdallaye, Nouakchott, Mauritania",
+    "phone": "+22234332000",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 56,
+    "name": "Restaurant Le Prince",
+    "address": "N2, Nouakchott, Mauritania",
+    "phone": "+22232389843",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 57,
+    "name": "SMASH FOOD",
+    "address": "Nouakchott,Ville, Nouakchott, Mauritania",
+    "phone": "+22242933782",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 58,
+    "name": "Restaurant Nakhletein",
+    "address": "Rue Yasser Arafat،, Nouakchott, Mauritania",
+    "phone": "+22241575983",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 59,
+    "name": "Restaurant Le Tournedos",
+    "address": "Turkish Embassy, Near the, Nouakchott, Mauritania",
+    "phone": "+22241007400",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 60,
+    "name": "Café et Restaurant Moonlight",
+    "address": "Av. Moktar Ould Daddah, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 61,
+    "name": "Restaurant l'entresoi Nouakchott",
+    "address": "N2, Nouakchott, Mauritania",
+    "phone": "+22232156473",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 62,
+    "name": "Timeless",
+    "address": "N2, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 63,
+    "name": "A Casa Portuguesa",
+    "address": "Sidi Koita،, Rue Fodie, Nouakchott, Mauritania",
+    "phone": "+22249243631",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 64,
+    "name": "Restaurant Le Prince",
+    "address": "Rte des Ambassades, Nouakchott, Mauritania",
+    "phone": "+22236261270",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 65,
+    "name": "مطعم بالاسيو Palacio",
+    "address": "Av. Moktar Ould Daddah, Nouakchott, Mauritania",
+    "phone": "+22242879702",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 66,
+    "name": "PRIMO Resto",
+    "address": "Av. Moktar Ould Daddah, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 67,
+    "name": "مطعم سيس 2 Restaurant Cisse",
+    "address": "Nouadhibou Hwy, Nouakchott, Mauritania",
+    "phone": "+22238386668",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 68,
+    "name": "Havana Grill",
+    "address": "Avenue Mokhtar Would, Av. Moktar Ould Daddah, Nouakchott, Mauritania",
+    "phone": "+22222610573",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 69,
+    "name": "Restaurant Granada",
+    "address": "Unnamed Road, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 71,
+    "name": "مطعم فنتازيا",
+    "address": "Carrefour Samia, Nouakchott, Mauritania",
+    "phone": "+22241125510",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 72,
+    "name": "Café l’endroit",
+    "address": "Hotel Aziza, Nouakchott, Mauritania",
+    "phone": "+22233339797",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 74,
+    "name": "Roana Café",
+    "address": "طريق الامل، نواكشوط،،, Nouakchott, Mauritania",
+    "phone": "+22232426616",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 75,
+    "name": "Chez Idriss",
+    "address": "Unnamed Road, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 76,
+    "name": "Restaurant Al-Quds (de Jérusalem)",
+    "address": "Rte des Ambassades, Nouakchott, Mauritania",
+    "phone": "+22241953100",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 77,
+    "name": "La Fraich'heure",
+    "address": "Rue Yasser Arafat،, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 78,
+    "name": "Yum Yum Restaurant",
+    "address": "N2, Nouakchott, Mauritania",
+    "phone": "+22236410272",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 79,
+    "name": "So Chicken nouakchott",
+    "address": "Unnamed Road, Nouakchott, Mauritania",
+    "phone": "+22246619341",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 80,
+    "name": "Ibrahima",
+    "address": "The India Gate Restaurant, Avenue Moktar Ould Daddah Near, New Ambassade of Senegal, Nouakchott, Mauritania",
+    "phone": "+22220786110",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 81,
+    "name": "ANATOLİA CAFE RESTAURANT",
+    "address": "Nouakchott Nouazibou street Nest to rim oil station, Opposite to agadir coffe, Nouakchott, Mauritania",
+    "phone": "+22222224439",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 84,
+    "name": "Restaurant Les Delices",
+    "address": "Rue Salem Ould Cheikh, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 85,
+    "name": "Al Bacha",
+    "address": "42CH+GJX، طريق صكوك, Nouakchott, Mauritania",
+    "phone": "+22236222202",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 86,
+    "name": "Restaurant Jeinabe",
+    "address": "Îlot k, 213 rue Limam ould Chrif, Nouakchott, Mauritania",
+    "phone": "+22236701030",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 87,
+    "name": "مطعم جامبور - restaurant djambour",
+    "address": "Rue NDB, Nouakchott, Mauritania",
+    "phone": "+22233339494",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 88,
+    "name": "Fayrouz",
+    "address": "Unnamed Road, Nouakchott, Mauritania",
+    "phone": "+22246251313",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 89,
+    "name": "Café Et Restaurant YouTube",
+    "address": "Unnamed Road، نواكشوط،،, Nouakchott, Mauritania",
+    "phone": "+22248358882",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 91,
+    "name": "Saveurs D'Italie",
+    "address": "Rue Hassen Ben Youssef, Nouakchott, Mauritania",
+    "phone": "+22248346764",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 92,
+    "name": "Str'eat Burger 49",
+    "address": "avenue mokhtar ould madah, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 93,
+    "name": "San Francisco",
+    "address": "4223+P3، نواكشوط،،, Nouakchott, Mauritania",
+    "phone": "+22249497749",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 94,
+    "name": "Mykonos",
+    "address": "قريب محطة وقود توتال, Nouadhibou Hwy, Nouakchott, Mauritania",
+    "phone": "+22243563296",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 95,
+    "name": "مطعم المغاربة",
+    "address": "Unnamed Road, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 97,
+    "name": "Crispy Chicken",
+    "address": "Av. Moktar Ould Daddah, Nouakchott, Mauritania",
+    "phone": "+22241856328",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 98,
+    "name": "Restaurant ivoirien",
+    "address": "Rte des Ambassades, Nouakchott, Mauritania",
+    "phone": "+22245292997",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 100,
+    "name": "Restaurant Ezeitouna",
+    "address": "N2, Nouakchott, Mauritania",
+    "phone": "+224625691910",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 101,
+    "name": "The India Gate الطعام الهندي",
+    "address": "Unnamed Road،, Nouakchott, Mauritania",
+    "phone": "+22227783333",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 102,
+    "name": "Chez khadi",
+    "address": "Unnamed Road, Nouakchott, Mauritania",
+    "phone": "+22236630818",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 103,
+    "name": "The Nkc Spot",
+    "address": "Avenue Moktar Ould Daddah, Nouakchott, Mauritania",
+    "phone": "+22244505019",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 104,
+    "name": "Restaurant Kasr Al-Baïk",
+    "address": "Rue Fadh Ben Abdel Aziz, Nouakchott, Mauritania",
+    "phone": "+22233336631",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 105,
+    "name": "مطعم باريس RESTAURANT LE PARISIEN",
+    "address": "Av. Moktar Ould Daddah, Nouakchott, Mauritania",
+    "phone": "+22245240770",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 106,
+    "name": "El-Bacha",
+    "address": "Avenue Moktar Ould Daddah،, Nouakchott, Mauritania",
+    "phone": "+22236730101",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 108,
+    "name": "Suisse restaurant",
+    "address": "Rue du Colonel Viyah،, Nouakchott, Mauritania",
+    "phone": "+22242367614",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 109,
+    "name": "5 O'clock",
+    "address": "Rue Abdallaye, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 110,
+    "name": "مطعم المطار RESTAURANT DE L'AÉROPORT",
+    "address": "N2, Nouakchott, Mauritania",
+    "phone": "+22225001000",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 112,
+    "name": "Café Restaurant Chicago",
+    "address": "Avenue Moktar Ould Daddah, Nouakchott, Mauritania",
+    "phone": "+22245240909",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 113,
+    "name": "محلبة باشا pacha",
+    "address": "Rue Fadh Ben Abdel Aziz, Nouakchott, Mauritania",
+    "phone": "+22237373732",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 116,
+    "name": "RESTAURANT DANA مطعم وكافيه دانا",
+    "address": "Unnamed Road،, Nouakchott, Mauritania",
+    "phone": "+22231777717",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 117,
+    "name": "MAMO PIZZA",
+    "address": "Unnamed Road, Nouakchott, Mauritania",
+    "phone": "+22247690735",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 119,
+    "name": "K’fête de l'Institut",
+    "address": "0000, Nouakchott, Mauritania",
+    "phone": "+22246274646",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 120,
+    "name": "Marche Capitale",
+    "address": "3382+VQR، Unnamed Road, Nouakchott - نواكشوط،, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 121,
+    "name": "Galerie AS",
+    "address": "Unnamed Road, Nouakchott - نواكشوط،, Nouakchott, Mauritania",
+    "phone": "+22246131731",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 122,
+    "name": "Jennety Center مركز جنتي",
+    "address": "3373+2XX، Unnamed Road،, Nouakchott, Mauritania",
+    "phone": "+22236378837",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 123,
+    "name": "مغسلة التوفيق",
+    "address": "3384+VM6، Unnamed Road،, Nouakchott, Mauritania",
+    "phone": "+22246562542",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 124,
+    "name": "boutik de guiler",
+    "address": "Carrefour, Nouakchott, Mauritania",
+    "phone": "+22231310077",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 125,
+    "name": "Mauritania Shoop",
+    "address": "Unnamed Road, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 126,
+    "name": "مركز الخير التجاري",
+    "address": "Galerie AS, Nouakchott, Mauritania",
+    "phone": "+22220222212",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 128,
+    "name": "بقالة التعاونية 2",
+    "address": "Ave Kennedy, Nouakchott, Mauritania",
+    "phone": "+22246880809",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 129,
+    "name": "City center سيتي سانتر",
+    "address": "ألوان, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 130,
+    "name": "Al-Ameen Commercial Center",
+    "address": "مدرسة جعفر الطيار، K, Nouakchott, Mauritania",
+    "phone": "+22236688239",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 133,
+    "name": "Mauri Center 2",
+    "address": "ASML Group - El Khaima City Center, Rue Mamadou Konate, Nouakchott, Mauritania",
+    "phone": "+22248101989",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 136,
+    "name": "مركز شريف",
+    "address": "Rue Mohamedel Habib, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 137,
+    "name": "Chinguitty Voyages - Mauritania Tours",
+    "address": "Mosque Ould Abas, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 138,
+    "name": "Nouakchott beach",
+    "address": "B.P 303 Nouakchott -Mauritanie -rue 67-234, Nouakchott, Mauritania",
+    "phone": "30367234",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 139,
+    "name": "Nouakchott",
+    "address": "Cité Plage Road, Nouakchott, Mauritania",
+    "phone": "+22220903300",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 140,
+    "name": "Marche Capitale",
+    "address": "Ave Kennedy, Nouakchott, Mauritania",
+    "phone": "+22246880809",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 141,
+    "name": "TimeForMauritania Tour Operator",
+    "address": "Ilot C, Nouakchott, Mauritania",
+    "phone": "+22246517465",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 142,
+    "name": "Mosque Ould Abas",
+    "address": "Rue Hennoune Ould Bouccif, Nouakchott, Mauritania",
+    "phone": "+22248175553",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 143,
+    "name": "Nouakchott SPA",
+    "address": "Rue Baker Ahmed, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 144,
+    "name": "Terjit Vacances",
+    "address": "Rue Baker Ahmed, Nouakchott, Mauritania",
+    "phone": "+22236317615",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 148,
+    "name": "Monotel (Dar El Barka)",
+    "address": "Rte des Ambassades, Nouakchott, Mauritania",
+    "phone": "+22245242333",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 149,
+    "name": "El Medina",
+    "address": "Boulevard maritime, Nouadhibou, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 150,
+    "name": "Hôtel VALENCIA Nouadhibou",
+    "address": "Unnamed Road, Nouadhibou, Mauritania",
+    "phone": "+22245740606",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 151,
+    "name": "Hôtel Sahel",
+    "address": "Unnamed Road, Nouadhibou, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 152,
+    "name": "HOtel Tasiast",
+    "address": "BP 1441, Nouadhibou, Mauritania",
+    "phone": "+22245743857",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 153,
+    "name": "Hotel Aljazira",
+    "address": "Valencia Hôtel \u0026 Appartements, Boulevard Dubai, Nouadhibou, Mauritania",
+    "phone": "+22242888888",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 154,
+    "name": "El Medina",
+    "address": "556, Boulevard Maritime, Mauritania",
+    "phone": "+22237323250",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 155,
+    "name": "General trading",
+    "address": "N1 Extension, Nouakchott, Mauritania",
+    "phone": "+22245250394",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 156,
+    "name": "Auberge Des Dauphins nouadhibou",
+    "address": "WXP8+84P Dubai, Nouadhibou, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 157,
+    "name": "Hotel \"Mauritalia\"",
+    "address": "Centre ville, AV.Kennedy, Nouakchott, Mauritania",
+    "phone": "+22245259171",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 158,
+    "name": "Hotel Raha /dune",
+    "address": "Dubai Nouadhibou, Nouadhibou, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 159,
+    "name": "Hôtel Prestige",
+    "address": "Cabano n°4, Nouadhibou, Mauritania",
+    "phone": "+22225018005",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 160,
+    "name": "Appartement Nouakchott INN",
+    "address": "Quartier Dubai, Nouadhibou, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 161,
+    "name": "Hotel Cansado",
+    "address": "Unnamed Rd, Nouadhibou, Mauritania",
+    "phone": "+22245740777",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 162,
+    "name": "Apparts Hotel Esma",
+    "address": "WXP8+84P Dubai, Nouadhibou, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 163,
+    "name": "Residence Meimouna",
+    "address": "Chrif El Haj Sidina, Nouakchott, Mauritania",
+    "phone": "+22241560585",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 165,
+    "name": "Residence Dubai",
+    "address": "WXG5+7PR، boulebard maritime, Nouadhibou, Mauritania",
+    "phone": "+22245740052",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 166,
+    "name": "Centre de Pêche Sportive et de Loisirs",
+    "address": "Cap Blanc, Nouadhibou, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 167,
+    "name": "Holiday Hôtel",
+    "address": "Nouadhibou Cansado, Nouadhibou, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 168,
+    "name": "HOTEL YEWTY",
+    "address": "5F3W+CPF، Unnamed Road, Kaédi, Mauritania",
+    "phone": "+22226142243",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 169,
+    "name": "Auberge Lakaz - نزل لاكاز كيهيدي",
+    "address": "4FXM+447، Unnamed Road, Kaédi, Mauritania",
+    "phone": "+22244206804",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 170,
+    "name": "Hôtel de ville",
+    "address": "Unnamed Road, Kaédi, Mauritania",
+    "phone": "+22246570376",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 171,
+    "name": "Restaurant Café YEWTY",
+    "address": "Unnamed Road, Kaédi, Mauritania",
+    "phone": "+22241297734",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 172,
+    "name": "مطعم ماشاء الله",
+    "address": "justice kaedi, Face a encien, Kaédi, Mauritania",
+    "phone": "+22246548528",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 173,
+    "name": "Maeche poisson kaedi",
+    "address": "Unnamed Road, Kaédi, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 174,
+    "name": "Inchiri Shop",
+    "address": "Unnamed Road, Nouakchott, Mauritania",
+    "phone": "+22237177117",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 175,
+    "name": "سعد رسلان مول Saad Raslan mall",
+    "address": "Unnamed Road, Kaédi, Mauritania",
+    "phone": "+22246809223",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 176,
+    "name": "Centre de distribution",
+    "address": "Unnamed Road, Kaédi, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 177,
+    "name": "Complex Comercial lemsaver",
+    "address": "Unnamed Road, Nouakchott, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 178,
+    "name": "papeterie Dalilou",
+    "address": "Unnamed Road, Kaédi, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 179,
+    "name": "SuperMarket MALL",
+    "address": "Unnamed Road, Kaédi, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 190,
+    "name": "Extended Stay America - Denver - Tech Center South - Greenwood Village",
+    "address": "Unnamed Road, Azougui, Mauritania",
+    "phone": "+22248661111",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 191,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Denver Tech Center/South",
+    "address": "N 1, Atar, Mauritania",
+    "phone": "+22237212121",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 192,
+    "name": "Extended Stay America - Denver - Tech Center South",
+    "address": "Unnamed Road, Atar, Mauritania",
+    "phone": "+22246473966",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 195,
+    "name": "RIDTC",
+    "address": "atar - tweirsat, Atar, Mauritania",
+    "phone": "+22227554537",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 269,
+    "name": "LongHorn Steakhouse",
+    "address": "1262 Mackay St, Montreal, Quebec H3G 2H4, Canada",
+    "phone": "+15145966060",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 272,
+    "name": "GREEK 2 ME",
+    "address": "166 Cowley Rd, Oxford OX4 1UE, United Kingdom",
+    "phone": "+441865466666",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 274,
+    "name": "Alpha Charlie's Tap \u0026 Tavern",
+    "address": "137-139 Cowley Rd, Oxford OX4 1HU, United Kingdom",
+    "phone": "13713941",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 275,
+    "name": "Cafe MJ 'What O Eat'",
+    "address": "666 Wonderland Rd, London, ON N6H 4K9, Canada",
+    "phone": "+15196016500",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 276,
+    "name": "Addis Ababa Ethiopian Restaurant",
+    "address": "Bulevardul Nicolae Bălcescu 35a, București 010055, Romania",
+    "phone": "35010055",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 280,
+    "name": "Taco Star",
+    "address": "1038 St James St, Winnipeg, MB R3H 0K5, Canada",
+    "phone": "+12042198939",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 458,
+    "name": "Observation Platform",
+    "address": "Vernon, BC V1B 3M6, Canada",
+    "phone": "8006899025",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 466,
+    "name": "Fruitlands Museum",
+    "address": "67 St Lawrence Rd, Moogerah QLD 4309, Australia",
+    "phone": "+61437752046",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 477,
+    "name": "Atar",
+    "address": "Rainbow St., Amman, Jordan",
+    "phone": "+962799663220",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 481,
+    "name": "Farandnear Reservation",
+    "address": "Sailors Bay Rd, Northbridge NSW 2063, Australia",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 484,
+    "name": "Culture Park",
+    "address": "156 Forbes St, Darlinghurst NSW 2010, Australia",
+    "phone": "+61293398744",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 487,
+    "name": "Casa Vicens Gaudí",
+    "address": "Building F, Monash University, Caulfield campus, 900 Princes Hwy Service Rd, Caulfield East VIC 3145, Australia",
+    "phone": "+61399054217",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 492,
+    "name": "Long Pool Recreation Area",
+    "address": "James and Mary Emelia Mayne Centre Building, University Dr, St Lucia QLD 4072, Australia",
+    "phone": "+61733653046",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 493,
+    "name": "Grand Mosque of Dakar",
+    "address": "1064 216 St, Langley Twp, BC V2Z 1R3, Canada",
+    "phone": "1064216213",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 497,
+    "name": "The University of Queensland Art Museum",
+    "address": "1249 Niagara Stone Rd, Niagara-on-the-Lake, ON L0S 1J0, Canada",
+    "phone": "8005828412",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 501,
+    "name": "Do Your Thing Coffee",
+    "address": "Av. Malick Sy, Dakar, Senegal",
+    "phone": "+201221268200",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 502,
+    "name": "Bakras Castle",
+    "address": "Michie Building, 9 Chancellors Pl, St Lucia QLD 4067, Australia",
+    "phone": "+61733653111",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 511,
+    "name": "Kaunos",
+    "address": "40 Maribyrnong Blvd, Footscray VIC 3011, Australia",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 527,
+    "name": "State Library of Western Australia",
+    "address": "Piccadilly Circus, London W1D 7ET, United Kingdom",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 532,
+    "name": "Lejwad Hotel",
+    "address": "Unnamed Road, Zouérat, Mauritania",
+    "phone": "+22243104310",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 533,
+    "name": "Auberge restaurant tourine",
+    "address": "شارع المطار, Zouérat, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 534,
+    "name": "REST-CAFE",
+    "address": "Route aireport, Zoueiratt, Mauritania",
+    "phone": "+22241007401",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 535,
+    "name": "Restaurant lastrance",
+    "address": "Unnamed Road, Zouérat, Mauritania",
+    "phone": "+22246576332",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 536,
+    "name": "موريزا كورا",
+    "address": "Unnamed Road, Zouérat, Mauritania",
+    "phone": "",
+    "country-code": "MR",
+    "country": "Mauritania"
+  },
+  {
+    "id": 537,
+    "name": "PTT de Zouerate",
+    "address": "Unnamed Road, Zouérat, Mauritania",
+    "phone": "+22242044294",
+    "country-code": "MR",
+    "country": "Mauritania"
+  }
 ]

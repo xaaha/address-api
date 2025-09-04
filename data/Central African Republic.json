@@ -1,714 +1,514 @@
 [
- {
-  "id": 1,
-  "name": "Hotel Levy's",
-  "address": "Rond Point Des Nations Unies, Av.Boganda, Bangui, Central African Republic",
-  "phone": "+23670036969",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 2,
-  "name": "JM RESIDENCE AV NASSER",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23672556666",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 3,
-  "name": "JM Résidences Centre Ville",
-  "address": "Av. Barthelemy Boganda, Bangui, Central African Republic",
-  "phone": "+23621616619",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 4,
-  "name": "Ledger Plaza Bangui",
-  "address": "Avenue de l'indépendance, Bangui Bangui, Central African Republic",
-  "phone": "+23621610011",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 5,
-  "name": "Quatre saisons hotel",
-  "address": "Rue d'Uzes, Bangui, Central African Republic",
-  "phone": "+23675828940",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 6,
-  "name": "La Couronne Suite",
-  "address": "Bangui, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 7,
-  "name": "National Hotel",
-  "address": "Rue Boulevard Charles De Gaule, Bangui, Central African Republic",
-  "phone": "+8613147876886",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 8,
-  "name": "La Couronne Hotel",
-  "address": "avenue Gamal Abdel Nasser, Bangui, Central African Republic",
-  "phone": "+23675792627",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 9,
-  "name": "Karakandji",
-  "address": "B.P:2715, Rue Joseph, Bangui, Central African Republic",
-  "phone": "+23675547053",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 10,
-  "name": "SAM HOTEL",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23675676793",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 11,
-  "name": "JM Residences",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23672027684",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 12,
-  "name": "Hotel du Centre",
-  "address": "Bangui, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 13,
-  "name": "marché Magalé - কাঠের বাজার",
-  "address": "Bangui, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 14,
-  "name": "Dalumay Store",
-  "address": "، City Center،, Bangui, Central African Republic",
-  "phone": "+23621612169",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 15,
-  "name": "Bangu Shopping",
-  "address": "Av. de I'Independance, Bangui, Central African Republic",
-  "phone": "+23672900900",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 16,
-  "name": "G\u0026W Computer Center",
-  "address": "Ctre Ville, tel +236 70030000, Central African Republic",
-  "phone": "+23670030000",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 17,
-  "name": "LODIAN Tiles Center and Construction Supply",
-  "address": "Rue du Languedoc, Bangui, Central African Republic",
-  "phone": "+23675384912",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 18,
-  "name": "Apo Idon Tourist Center",
-  "address": "Unnamed Road, Bangui, Bangui, Central African Republic",
-  "phone": "+23670020203",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 19,
-  "name": "Burgos Bagsakan Center",
-  "address": "Enface grand Cafe, Av. Barthelemy Boganda, Bangui, Central African Republic",
-  "phone": "+23672883121",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 20,
-  "name": "City Center",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23672440477",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 21,
-  "name": "GENERIKA DRUGSTORE",
-  "address": "RN6, Bangui, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 22,
-  "name": "SUPEX0 MART",
-  "address": "Av. Barthelemy Boganda, Bangui, Central African Republic",
-  "phone": "+23672314747",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 23,
-  "name": "Bangui Windmills",
-  "address": "Rue Joseph, Bangui, Central African Republic",
-  "phone": "+23675422380",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 24,
-  "name": "Cape Bojeador Lighthouse",
-  "address": "Boali, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 25,
-  "name": "Notre-Dame of Bangui Cathedral",
-  "address": "Rue de I'Industrie, Bangui, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 26,
-  "name": "Marché Central",
-  "address": "Av. de I'Independance, Bangui, Central African Republic",
-  "phone": "+23670409999",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 27,
-  "name": "Museo Ilocos Norte",
-  "address": "Av. Barthelemy Boganda, Bangui, Central African Republic",
-  "phone": "+23621616619",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 28,
-  "name": "San Lorenzo Wind Farm",
-  "address": "Av. Barthelemy Boganda, Bangui, Central African Republic",
-  "phone": "+23675506000",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 29,
-  "name": "Burayoc",
-  "address": "rue de, l'industrie, Bangui, Central African Republic",
-  "phone": "+23670979797",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 30,
-  "name": "Saud",
-  "address": "Bangui, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 31,
-  "name": "Burgos",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23675747474",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 32,
-  "name": "Claveria",
-  "address": "Avenue de l'indépendance, Bangui Bangui, Central African Republic",
-  "phone": "+23621610011",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 33,
-  "name": "Bamingui",
-  "address": "Bangui, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 34,
-  "name": "Centennial Park",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23672440477",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 35,
-  "name": "Berbérati",
-  "address": "Berbérati, Central African Republic",
-  "phone": "+23672407497",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 36,
-  "name": "MAIRIE DE BERBERATI",
-  "address": "Berbérati, Central African Republic",
-  "phone": "+23672041070",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 37,
-  "name": "Hôtel palace Georges v",
-  "address": "Berbérati, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 38,
-  "name": "Restaurant Le M'",
-  "address": "Bambari, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 39,
-  "name": "5 FOURCHETTES",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23670601000",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 40,
-  "name": "Le Casablanca",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23675747474",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 41,
-  "name": "Cuisine A",
-  "address": "Rue de l'industrie, Bangui, Central African Republic",
-  "phone": "+23672053434",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 42,
-  "name": "Relais des Chasses",
-  "address": "Public Park, Bangui, Central African Republic",
-  "phone": "+23672710028",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 43,
-  "name": "Restaurant Chez Mère SATE",
-  "address": "1st Arrondissement, Av. de la Victoire, Bangui, Central African Republic",
-  "phone": "+23621616305",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 44,
-  "name": "Hotel Somba",
-  "address": "Av. de la Victoire, Bangui, Central African Republic",
-  "phone": "+23621617240",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 45,
-  "name": "Benihana",
-  "address": "rue de, l'industrie, Bangui, Central African Republic",
-  "phone": "+23670979797",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 46,
-  "name": "Berbérati",
-  "address": "Av. de I'Independance, Bangui, Central African Republic",
-  "phone": "+23672900900",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 47,
-  "name": "Kembé",
-  "address": "Rue de I'Industrie, Bangui, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 48,
-  "name": "Manovo-Gounda-Saint Floris National Park",
-  "address": "Boali, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 49,
-  "name": "Sangha-Mbaéré",
-  "address": "Rue Joseph, Bangui, Central African Republic",
-  "phone": "+23675422380",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 50,
-  "name": "Hotel Levy's",
-  "address": "Rond Point Des Nations Unies, Av.Boganda, Bangui, Central African Republic",
-  "phone": "+23670036969",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 51,
-  "name": "JM Résidences Centre Ville",
-  "address": "B.P:2715, Rue Joseph, Bangui, Central African Republic",
-  "phone": "+23675547053",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 52,
-  "name": "JM RESIDENCE AV NASSER",
-  "address": "Rue d'Uzes, Bangui, Central African Republic",
-  "phone": "+23675828940",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 53,
-  "name": "Ledger Plaza Bangui",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23672556666",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 54,
-  "name": "Quatre saisons hotel",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23675676793",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 55,
-  "name": "La Couronne Suite",
-  "address": "Av. Barthelemy Boganda, Bangui, Central African Republic",
-  "phone": "+23621616619",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 56,
-  "name": "Hotel du Centre",
-  "address": "Bangui, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 57,
-  "name": "Karakandji",
-  "address": "avenue Gamal Abdel Nasser, Bangui, Central African Republic",
-  "phone": "+23675792627",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 58,
-  "name": "La Couronne Hotel",
-  "address": "Bangui, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 59,
-  "name": "National Hotel",
-  "address": "Avenue de l'indépendance, Bangui Bangui, Central African Republic",
-  "phone": "+23621610011",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 60,
-  "name": "JM Residences",
-  "address": "Rue Boulevard Charles De Gaule, Bangui, Central African Republic",
-  "phone": "+8613147876886",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 61,
-  "name": "SAM HOTEL",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23672027684",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 62,
-  "name": "Hotel Levy's",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23675676793",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 63,
-  "name": "SAM Hotel",
-  "address": "Bd du Générale de Gaulle, Bangui, Central African Republic",
-  "phone": "+23672443220",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 64,
-  "name": "KITIKA Hotel",
-  "address": "Av. Barthelemy Boganda, Bangui, Central African Republic",
-  "phone": "+23621616619",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 65,
-  "name": "Quatre Saisons Hôtel",
-  "address": "avenue Gamal Abdel Nasser, Bangui, Central African Republic",
-  "phone": "+23675792627",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 66,
-  "name": "Oubangui Hotel",
-  "address": "Bangui, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 67,
-  "name": "National Hotel",
-  "address": "B.P. 1044 Bangui, Bd du Générale de Gaulle, Bangui, Central African Republic",
-  "phone": "+23677352837",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 68,
-  "name": "JM RESIDENCE AV NASSER",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23672556666",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 69,
-  "name": "Karakandji",
-  "address": "Av. de I'Independance, Bangui, Central African Republic",
-  "phone": "+23670409999",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 70,
-  "name": "Ledger Plaza Bangui",
-  "address": "Avenue de l'indépendance, Bangui Bangui, Central African Republic",
-  "phone": "+23621610011",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 71,
-  "name": "Quatre saisons hotel",
-  "address": "Av. de I'Independance, Bangui, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 72,
-  "name": "Sangha Lodge",
-  "address": "Rond Point Des Nations Unies, Av.Boganda, Bangui, Central African Republic",
-  "phone": "+23670036969",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 73,
-  "name": "Doli Lodge",
-  "address": "Km5, Bangui, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 74,
-  "name": "Résidence Elhadj Mahamatzene",
-  "address": "Djomo, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 75,
-  "name": "Mbaïki",
-  "address": "Bayanga, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 76,
-  "name": "Chinese Restaurant",
-  "address": "Bambari, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 77,
-  "name": "Relais des Chasses",
-  "address": "rue de, l'industrie, Bangui, Central African Republic",
-  "phone": "+23670979797",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 78,
-  "name": "5 FOURCHETTES",
-  "address": "km5, Bangui, bearex, Central African Republic",
-  "phone": "+23675500769",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 79,
-  "name": "ESPACE NIG'S",
-  "address": "Av. de la Victoire, Bangui, Central African Republic",
-  "phone": "+23621617240",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 80,
-  "name": "Restaurant Chez Mère SATE",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23675747474",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 81,
-  "name": "R.C.C.G Ramzi construction commerce général",
-  "address": "Public Park, Bangui, Central African Republic",
-  "phone": "+23672710028",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 82,
-  "name": "CCCG /karinou Airlines",
-  "address": "Ctre Ville, tel +236 70030000, Central African Republic",
-  "phone": "+23670030000",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 83,
-  "name": "Marché Central",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23672440477",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 84,
-  "name": "Mbaïki",
-  "address": "Av. de I'Independance, Bangui, Central African Republic",
-  "phone": "+23672900900",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 85,
-  "name": "Frances Shopping Plaza",
-  "address": "Av. de I'Independance, Bangui, Central African Republic",
-  "phone": "+23670100100",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 86,
-  "name": "Marché Central",
-  "address": "Bangui, Central African Republic",
-  "phone": "+23672440477",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 87,
-  "name": "Boali",
-  "address": "Boali, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 88,
-  "name": "André-Félix National Park",
-  "address": "Rue Joseph, Bangui, Central African Republic",
-  "phone": "+23675422380",
-  "country-code": "CF",
-  "country": "Central African Republic"
- },
- {
-  "id": 89,
-  "name": "Lobaye",
-  "address": "Rue de I'Industrie, Bangui, Central African Republic",
-  "phone": "",
-  "country-code": "CF",
-  "country": "Central African Republic"
- }
+  {
+    "id": 1,
+    "name": "Hotel Levy's",
+    "address": "Rond Point Des Nations Unies, Av.Boganda, Bangui, Central African Republic",
+    "phone": "+23670036969",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 2,
+    "name": "JM RESIDENCE AV NASSER",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23672556666",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 3,
+    "name": "JM Résidences Centre Ville",
+    "address": "Av. Barthelemy Boganda, Bangui, Central African Republic",
+    "phone": "+23621616619",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 5,
+    "name": "Quatre saisons hotel",
+    "address": "Rue d'Uzes, Bangui, Central African Republic",
+    "phone": "+23675828940",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 6,
+    "name": "La Couronne Suite",
+    "address": "Bangui, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 8,
+    "name": "La Couronne Hotel",
+    "address": "avenue Gamal Abdel Nasser, Bangui, Central African Republic",
+    "phone": "+23675792627",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 9,
+    "name": "Karakandji",
+    "address": "B.P:2715, Rue Joseph, Bangui, Central African Republic",
+    "phone": "+23675547053",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 10,
+    "name": "SAM HOTEL",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23675676793",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 11,
+    "name": "JM Residences",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23672027684",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 12,
+    "name": "Hotel du Centre",
+    "address": "Bangui, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 13,
+    "name": "marché Magalé - কাঠের বাজার",
+    "address": "Bangui, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 14,
+    "name": "Dalumay Store",
+    "address": "، City Center،, Bangui, Central African Republic",
+    "phone": "+23621612169",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 16,
+    "name": "G\u0026W Computer Center",
+    "address": "Ctre Ville, tel +236 70030000, Central African Republic",
+    "phone": "+23670030000",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 17,
+    "name": "LODIAN Tiles Center and Construction Supply",
+    "address": "Rue du Languedoc, Bangui, Central African Republic",
+    "phone": "+23675384912",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 18,
+    "name": "Apo Idon Tourist Center",
+    "address": "Unnamed Road, Bangui, Bangui, Central African Republic",
+    "phone": "+23670020203",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 19,
+    "name": "Burgos Bagsakan Center",
+    "address": "Enface grand Cafe, Av. Barthelemy Boganda, Bangui, Central African Republic",
+    "phone": "+23672883121",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 20,
+    "name": "City Center",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23672440477",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 21,
+    "name": "GENERIKA DRUGSTORE",
+    "address": "RN6, Bangui, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 22,
+    "name": "SUPEX0 MART",
+    "address": "Av. Barthelemy Boganda, Bangui, Central African Republic",
+    "phone": "+23672314747",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 23,
+    "name": "Bangui Windmills",
+    "address": "Rue Joseph, Bangui, Central African Republic",
+    "phone": "+23675422380",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 24,
+    "name": "Cape Bojeador Lighthouse",
+    "address": "Boali, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 27,
+    "name": "Museo Ilocos Norte",
+    "address": "Av. Barthelemy Boganda, Bangui, Central African Republic",
+    "phone": "+23621616619",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 28,
+    "name": "San Lorenzo Wind Farm",
+    "address": "Av. Barthelemy Boganda, Bangui, Central African Republic",
+    "phone": "+23675506000",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 30,
+    "name": "Saud",
+    "address": "Bangui, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 31,
+    "name": "Burgos",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23675747474",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 33,
+    "name": "Bamingui",
+    "address": "Bangui, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 34,
+    "name": "Centennial Park",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23672440477",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 35,
+    "name": "Berbérati",
+    "address": "Berbérati, Central African Republic",
+    "phone": "+23672407497",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 36,
+    "name": "MAIRIE DE BERBERATI",
+    "address": "Berbérati, Central African Republic",
+    "phone": "+23672041070",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 37,
+    "name": "Hôtel palace Georges v",
+    "address": "Berbérati, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 38,
+    "name": "Restaurant Le M'",
+    "address": "Bambari, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 39,
+    "name": "5 FOURCHETTES",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23670601000",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 40,
+    "name": "Le Casablanca",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23675747474",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 42,
+    "name": "Relais des Chasses",
+    "address": "Public Park, Bangui, Central African Republic",
+    "phone": "+23672710028",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 48,
+    "name": "Manovo-Gounda-Saint Floris National Park",
+    "address": "Boali, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 49,
+    "name": "Sangha-Mbaéré",
+    "address": "Rue Joseph, Bangui, Central African Republic",
+    "phone": "+23675422380",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 50,
+    "name": "Hotel Levy's",
+    "address": "Rond Point Des Nations Unies, Av.Boganda, Bangui, Central African Republic",
+    "phone": "+23670036969",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 51,
+    "name": "JM Résidences Centre Ville",
+    "address": "B.P:2715, Rue Joseph, Bangui, Central African Republic",
+    "phone": "+23675547053",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 52,
+    "name": "JM RESIDENCE AV NASSER",
+    "address": "Rue d'Uzes, Bangui, Central African Republic",
+    "phone": "+23675828940",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 53,
+    "name": "Ledger Plaza Bangui",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23672556666",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 54,
+    "name": "Quatre saisons hotel",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23675676793",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 55,
+    "name": "La Couronne Suite",
+    "address": "Av. Barthelemy Boganda, Bangui, Central African Republic",
+    "phone": "+23621616619",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 56,
+    "name": "Hotel du Centre",
+    "address": "Bangui, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 57,
+    "name": "Karakandji",
+    "address": "avenue Gamal Abdel Nasser, Bangui, Central African Republic",
+    "phone": "+23675792627",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 58,
+    "name": "La Couronne Hotel",
+    "address": "Bangui, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 61,
+    "name": "SAM HOTEL",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23672027684",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 62,
+    "name": "Hotel Levy's",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23675676793",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 64,
+    "name": "KITIKA Hotel",
+    "address": "Av. Barthelemy Boganda, Bangui, Central African Republic",
+    "phone": "+23621616619",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 65,
+    "name": "Quatre Saisons Hôtel",
+    "address": "avenue Gamal Abdel Nasser, Bangui, Central African Republic",
+    "phone": "+23675792627",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 66,
+    "name": "Oubangui Hotel",
+    "address": "Bangui, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 68,
+    "name": "JM RESIDENCE AV NASSER",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23672556666",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 72,
+    "name": "Sangha Lodge",
+    "address": "Rond Point Des Nations Unies, Av.Boganda, Bangui, Central African Republic",
+    "phone": "+23670036969",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 73,
+    "name": "Doli Lodge",
+    "address": "Km5, Bangui, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 74,
+    "name": "Résidence Elhadj Mahamatzene",
+    "address": "Djomo, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 75,
+    "name": "Mbaïki",
+    "address": "Bayanga, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 76,
+    "name": "Chinese Restaurant",
+    "address": "Bambari, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 78,
+    "name": "5 FOURCHETTES",
+    "address": "km5, Bangui, bearex, Central African Republic",
+    "phone": "+23675500769",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 80,
+    "name": "Restaurant Chez Mère SATE",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23675747474",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 81,
+    "name": "R.C.C.G Ramzi construction commerce général",
+    "address": "Public Park, Bangui, Central African Republic",
+    "phone": "+23672710028",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 82,
+    "name": "CCCG /karinou Airlines",
+    "address": "Ctre Ville, tel +236 70030000, Central African Republic",
+    "phone": "+23670030000",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 83,
+    "name": "Marché Central",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23672440477",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 86,
+    "name": "Marché Central",
+    "address": "Bangui, Central African Republic",
+    "phone": "+23672440477",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 87,
+    "name": "Boali",
+    "address": "Boali, Central African Republic",
+    "phone": "",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 88,
+    "name": "André-Félix National Park",
+    "address": "Rue Joseph, Bangui, Central African Republic",
+    "phone": "+23675422380",
+    "country-code": "CF",
+    "country": "Central African Republic"
+  }
 ]

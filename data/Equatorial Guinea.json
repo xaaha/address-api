@@ -1,2530 +1,2018 @@
 [
- {
-  "id": 1,
-  "name": "ibis Malabo",
-  "address": "Malabo Ii Malabo 2, Malabo, Equatorial Guinea",
-  "phone": "+240333099086",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 2,
-  "name": "Magno Suites Exclusive Hotel \u0026 Restaurant",
-  "address": "QQ3G+C99, Malabo, Equatorial Guinea",
-  "phone": "+240222292441",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 3,
-  "name": "ibis Malabo",
-  "address": "0000, Malabo, Equatorial Guinea",
-  "phone": "+240333096333",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 4,
-  "name": "Colinas Hotel",
-  "address": "Malabo Ii Malabo 2, Malabo, Equatorial Guinea",
-  "phone": "+240333099086",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 5,
-  "name": "Bisila Palace Hotel",
-  "address": "0000, Malabo, Equatorial Guinea",
-  "phone": "+240333096333",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 6,
-  "name": "Grand Hotel Djibloho",
-  "address": "PQG8+78G, Malé, Equatorial Guinea",
-  "phone": "+240222760209",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 7,
-  "name": "National Hotel",
-  "address": "K-19, Malabo, Equatorial Guinea",
-  "phone": "+240555547001",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 8,
-  "name": "hotel yoly",
-  "address": "QQ3H+223, Av. de las Naciones Unidas, Malabo, Equatorial Guinea",
-  "phone": "+240222588977",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 9,
-  "name": "Hotel Anda China Malabo",
-  "address": "PQX9+9WG, Unnamed Road, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 10,
-  "name": "Casa Suite Capir",
-  "address": "QQ5G+JQ8, Malabo, Equatorial Guinea",
-  "phone": "+240555439654",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 11,
-  "name": "Complejo Ligia",
-  "address": "1Enfrente de CERÁMICO 2 Carretera a Sipopo rotonda Guinea circula, a la izquierda Malabo, Equatorial Guinea",
-  "phone": "+240222099838",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 12,
-  "name": "Hotel Bahía",
-  "address": "PQWC+PRM, Malabo, Equatorial Guinea",
-  "phone": "+240222282200",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 13,
-  "name": "Hotel Bahia II",
-  "address": "QQ3M+3F6, Malabo, Equatorial Guinea",
-  "phone": "+240333091895",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 14,
-  "name": "Internet Hostel",
-  "address": "Equatorial Guinea, Ciudad de Malabo Hotel Anda, Malabo II",
-  "phone": "+240222022525",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 15,
-  "name": "Hotel Castillo",
-  "address": "PQJH+GJJ, Malabo, Equatorial Guinea",
-  "phone": "+240222355964",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 16,
-  "name": "Bunki",
-  "address": "QQ33+J2P, Carr. del Aeropuerto, Malabo, Equatorial Guinea",
-  "phone": "+240222796161",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 17,
-  "name": "La Luna",
-  "address": "QQ4G+3JW, Malabo, Equatorial Guinea",
-  "phone": "+240222135462",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 18,
-  "name": "Bidji Binia",
-  "address": "QQ3G+F9X, Av. de Hasán II, Malabo, Equatorial Guinea",
-  "phone": "+240222778179",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 19,
-  "name": "Bon Appetit/ Consty",
-  "address": "PPPQ+M4R, Malabo, Equatorial Guinea",
-  "phone": "+240555534340",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 20,
-  "name": "Restaurante Kalytero",
-  "address": "QQ4J+54C, King Street Boncoro, Malabo, Equatorial Guinea",
-  "phone": "+240222134848",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 21,
-  "name": "Restaurante Imagine",
-  "address": "QQ3H+X2R, Malabo, Equatorial Guinea",
-  "phone": "+240222179956",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 22,
-  "name": "Pizza Place",
-  "address": "24 Bird of Independence, Malabo, Equatorial Guinea",
-  "phone": "+240333093878",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 23,
-  "name": "L'Atelier",
-  "address": "Avenida de la Libertad 322, Malabo, Equatorial Guinea",
-  "phone": "+240222185534",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 24,
-  "name": "Aviator Pub and Café",
-  "address": "QQ4H+RFR, C. de Argelia, Malabo, Equatorial Guinea",
-  "phone": "+240333096096",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 25,
-  "name": "Cafe Kristania",
-  "address": "QQ4J+Q53, Av. de la Independencia, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 26,
-  "name": "Restaurante Ruta47",
-  "address": "PQVM+27R, Unnamed Road, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 27,
-  "name": "DaVinci Resto-Bar",
-  "address": "QQ4M+22C, C. del Botuku Lubá, Malabo, Equatorial Guinea",
-  "phone": "+240222927747",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 28,
-  "name": "El Hard Rock Resto and Pub",
-  "address": "MQRC+WVW, Malabo, Equatorial Guinea",
-  "phone": "+240555119154",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 29,
-  "name": "Restaurante Terraza D'Ambo",
-  "address": "C. de Enrique Nvó, Malabo, Equatorial Guinea",
-  "phone": "+233593171752",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 30,
-  "name": "Restaurante T\u0026J Malabo",
-  "address": "Cerámico, dentro del Complejo Ligia Malabo, Equatorial Guinea",
-  "phone": "+240222099838",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 31,
-  "name": "La Estrella",
-  "address": "QQ2F+R9G, Carretera del Aeropuerto con, Av. de los Parques de África, Malabo, Equatorial Guinea",
-  "phone": "+240222142211",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 32,
-  "name": "China Oriental",
-  "address": "QPHH+996, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 33,
-  "name": "Chez Wou",
-  "address": "QQ3J+678, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 34,
-  "name": "Chez Wou",
-  "address": "PQHQ+PWC, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 35,
-  "name": "Bar Terraza Mamá Cata",
-  "address": "PQF9+WCG, Malabo, Equatorial Guinea",
-  "phone": "+240222446264",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 36,
-  "name": "Red Onion",
-  "address": "Mundo Lavado, Carretera a Sampaka, entrada de, Malabo, Equatorial Guinea",
-  "phone": "+240222744570",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 37,
-  "name": "Polaris restaurante Malabo",
-  "address": "PQQF+R63, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 38,
-  "name": "Restaurante orientel",
-  "address": "lounge-pub, Kristal, Malabo, Equatorial Guinea",
-  "phone": "+240222051627",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 39,
-  "name": "Mama Añes",
-  "address": "QQ3M+4HJ, Malabo, Equatorial Guinea",
-  "phone": "+240222964096",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 40,
-  "name": "BLACK SPOON",
-  "address": "Restaurant Delicia 4 Access, Malabo, Equatorial Guinea",
-  "phone": "+240222176247",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 41,
-  "name": "NOMITA",
-  "address": "PQJC+JQJ, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 42,
-  "name": "El Barco Casino \u0026 Restaurant",
-  "address": "QQ4M+647, C. de Mongomo de Guadalupe, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 43,
-  "name": "IMANI LOUNGE MALABO",
-  "address": "PQR6+8JM, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 44,
-  "name": "Hong Kong Restaurant",
-  "address": "QQ4J+Q53, Av. de la Independencia, Malabo, Equatorial Guinea",
-  "phone": "+240222128324",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 45,
-  "name": "Afrik-del",
-  "address": "PQXG+F85, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 46,
-  "name": "La Taberna de Agustín",
-  "address": "PQVH+JVP, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 47,
-  "name": "Restaurante Babel",
-  "address": "PQH9+R2G, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 48,
-  "name": "Yutaka",
-  "address": "Carr. Principal de Paraiso, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 49,
-  "name": "Pinchos",
-  "address": "QQ29+MM6, Malabo, Equatorial Guinea",
-  "phone": "+240222659250",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 50,
-  "name": "Restaurant Pizzeria Times",
-  "address": "QP2X+QGX, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 51,
-  "name": "Restaurante Carrefour",
-  "address": "PPFJ+62G, Malabo, Equatorial Guinea",
-  "phone": "+240222533422",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 52,
-  "name": "el paraiso",
-  "address": "QQ4H+5CJ, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 53,
-  "name": "OPERA",
-  "address": "QP6W+4WC, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 54,
-  "name": "Tope",
-  "address": "PPHQ+XQ2, Unnamed Road, Malabo, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 55,
-  "name": "Jamoneria San José",
-  "address": "QQ3H+499, C. del Alcalde Abilio Balboa, Malabo, Equatorial Guinea",
-  "phone": "+240555395532",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 56,
-  "name": "El Zampón",
-  "address": "QQ4M+73V, C. de Mongomo de Guadalupe, Malabo, Equatorial Guinea",
-  "phone": "+240222406808",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 57,
-  "name": "Candy Edificio",
-  "address": "QQ2F+GR7, Av. de Hasán II, Malabo, Equatorial Guinea",
-  "phone": "+240222039409",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 58,
-  "name": "El Fogón Del Tío León",
-  "address": "Reparacion e instacion de hornos de gas malabo, Ateneo, Malabo, Equatorial Guinea",
-  "phone": "+240222288271",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 59,
-  "name": "Bar la Valenciana",
-  "address": "QQ29+7M7, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 60,
-  "name": "Bar Restaurante el Camino",
-  "address": "QQ34+H52, Malabo, Equatorial Guinea",
-  "phone": "+240222333334",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 61,
-  "name": "Restaurant Senegalais",
-  "address": "QQ2H+QQ5, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 62,
-  "name": "Marrakech Shisha lounge",
-  "address": "QP2X+24X, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 63,
-  "name": "D'or Restaurante",
-  "address": "QQ2H+63Q, C. de Acacio Mañe Ela, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 64,
-  "name": "Restaurante Río Campo",
-  "address": "QQ2H+4P7, C. del Rey Malabo, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 65,
-  "name": "Restaurante senegales",
-  "address": "QQ24+W3M, Carr. Principal de Paraiso, Malabo, Equatorial Guinea",
-  "phone": "+240555714083",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 66,
-  "name": "RESTAURANTE SONIA'S",
-  "address": "QP3V+HM4, Carr. del Aeropuerto, Malabo, Equatorial Guinea",
-  "phone": "+240222060304",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 67,
-  "name": "Chop And Go",
-  "address": "PQM9+VVF, Avenida Hassan II. Opposite seminario, Malabo, Equatorial Guinea",
-  "phone": "+240555949484",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 68,
-  "name": "Bar Restaurante Entre Amigos",
-  "address": "PRR2+QJ5, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 69,
-  "name": "Magno Suites Exclusive Hotel \u0026 Restaurant",
-  "address": "QQ3G+298, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 70,
-  "name": "Hotel 3 de Agosto",
-  "address": "PQM8+VRC, Malabo, Equatorial Guinea",
-  "phone": "+240222750413",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 71,
-  "name": "Restaurante El Paladar",
-  "address": "Colegio Español - Salesianos, Malabo, Equatorial Guinea",
-  "phone": "+240222255563",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 72,
-  "name": "Miramar - Acropole",
-  "address": "0000, Malabo, Equatorial Guinea",
-  "phone": "+240333096333",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 73,
-  "name": "Pizzeria italiana",
-  "address": "PQR8+V59, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 74,
-  "name": "HKC",
-  "address": "PP6X+X42, SAMPAKA, ROTONDA MARIACANO Malabo, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 75,
-  "name": "Le Bistrot Café-Restaurante",
-  "address": "PQF6+CHG, Unnamed Road, Malabo, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 76,
-  "name": "Restaurante Beirut",
-  "address": "QQ2H+GQW, Malabo, Equatorial Guinea",
-  "phone": "+240222272123",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 77,
-  "name": "Café Bar",
-  "address": "PQW9+VWC, Malabo, Equatorial Guinea",
-  "phone": "+240555757696",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 78,
-  "name": "Comida Delicioso",
-  "address": "QQ2G+MQW, Calle wayson, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 79,
-  "name": "Galambo - Comida Rápida - Edificio Muankaban",
-  "address": "QQ2G+X8V, Street Mongomo, Malabo, Equatorial Guinea",
-  "phone": "+240222259704",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 80,
-  "name": "Bocadillos Mama Bea",
-  "address": "QQ3H+499, C. del Alcalde Abilio Balboa, Malabo, Equatorial Guinea",
-  "phone": "+240222772207",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 81,
-  "name": "Restaurante Esther",
-  "address": "PP9C+PFF, Malabo, Equatorial Guinea",
-  "phone": "+240222143919",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 82,
-  "name": "Restaurante Ureka Place",
-  "address": "QQ3M+QQ3, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 83,
-  "name": "Caba Markt - Restaurante",
-  "address": "PQPC+WWV, Unnamed Road, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 84,
-  "name": "Bahía de Venus",
-  "address": "QQ4G+GXQ, Paseo de los Cocoteros, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 85,
-  "name": "Toscana",
-  "address": "QQ24+V2V, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 86,
-  "name": "Dulces Delicias G.E",
-  "address": "PPQF+46V, Malabo, Equatorial Guinea",
-  "phone": "+240555455820",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 87,
-  "name": "Baraeso",
-  "address": "QQ3H+J2J, C. de Enrique Nvó, Malabo, Equatorial Guinea",
-  "phone": "+240551888888",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 88,
-  "name": "Restaurante CHB",
-  "address": "QQ4H+34P, Bird of Independence, Malabo, Equatorial Guinea",
-  "phone": "+240555903603",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 89,
-  "name": "Ricos Rellenos",
-  "address": "QQ3G+924, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 90,
-  "name": "Restaurante Tamarite",
-  "address": "QQ2G+8VG, Malabo, Equatorial Guinea",
-  "phone": "+240222175175",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 91,
-  "name": "Candy Vista Puerto",
-  "address": "PPR9+8J5, Unnamed Road, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 92,
-  "name": "Sabores M Malabo",
-  "address": "KM 4, Carretera del Aeropuerto, Apdo 970, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 93,
-  "name": "Restaurant Bar Delicial",
-  "address": "QQ2G+VG8, Malabo, Equatorial Guinea",
-  "phone": "+240222207296",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 94,
-  "name": "La gastronomía a alcancé de todos",
-  "address": "Calle Rubio, km-5, malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 95,
-  "name": "The Next Level Restaurante",
-  "address": "PQPM+H3R, Unnamed Road, Malabo, Malabo, Equatorial Guinea",
-  "phone": "+240222237616",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 96,
-  "name": "Lounge Bar Restaurante GQ",
-  "address": "QQ3J+XVJ, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 97,
-  "name": "Hotel-Restaurante Elik Melén2 - Luquito",
-  "address": "QQ2H+7R2, Rey Malabo, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 98,
-  "name": "Catering MK Service",
-  "address": "QQ2J+G2Q, M. Sanidad, C. del Rey Malabo, Malabo, Equatorial Guinea",
-  "phone": "+240222139168",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 99,
-  "name": "Restaurante César",
-  "address": "PQJ7+VHM, Malabo, Equatorial Guinea",
-  "phone": "+240222020669",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 100,
-  "name": "Cafetería y Restaurante Malvaloca",
-  "address": "PQJ7+VHM, Malabo, Equatorial Guinea",
-  "phone": "+240222020669",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 101,
-  "name": "Restaurante Ligia",
-  "address": "QQ3F+2XM, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 102,
-  "name": "HKC - Semu",
-  "address": "PQF7+H64, Unnamed Road, Malabo, Equatorial Guinea",
-  "phone": "+240222136155",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 103,
-  "name": "Candy terraza restaurante el Hard rock 2",
-  "address": "QQ3J+7GX, C. de Acacio Mañé, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 104,
-  "name": "KITEA",
-  "address": "QQ3J+XVJ, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 105,
-  "name": "Centro Comercial Tomos",
-  "address": "QQ3J+XVJ, Malabo, Equatorial Guinea",
-  "phone": "+23568163332",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 106,
-  "name": "Multi servicios MAYRA",
-  "address": "QQ4G+2V6, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 107,
-  "name": "عيسى ادريس",
-  "address": "PQQP+F7M, C. Semu, Malabo, Equatorial Guinea",
-  "phone": "+240222735201",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 108,
-  "name": "Galérie JM Hnos",
-  "address": "PQJM+WG9, Malabo, Equatorial Guinea",
-  "phone": "+240222017820",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 109,
-  "name": "Pinto",
-  "address": "QQ3G+RQC, Av. de la Independencia, Malabo, Equatorial Guinea",
-  "phone": "+240551984532",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 110,
-  "name": "Ventage Mall",
-  "address": "QQ3J+MHM, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 111,
-  "name": "Immeuble Sina",
-  "address": "PPQF+27F, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 112,
-  "name": "Martínez Hermanos - Ventas al Mayor (Semu)",
-  "address": "QQ3H+499, C. del Alcalde Abilio Balboa, Malabo, Equatorial Guinea",
-  "phone": "+240555514867",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 113,
-  "name": "Cuattro.S.L.",
-  "address": "Frente a la antigua embajada de Venezuela, Santa Maria 3, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 114,
-  "name": "Tienda Nono",
-  "address": "Edificio BGFBank, Malabo, Equatorial Guinea",
-  "phone": "+240555755664",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 115,
-  "name": "Solfage",
-  "address": "QQ4H+46Q, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 116,
-  "name": "Edificio Abou",
-  "address": "PQWF+C7J, Av. de los Parques de África, Malabo, Equatorial Guinea",
-  "phone": "+240222583428",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 117,
-  "name": "Mini Mercado La Finca",
-  "address": "738 Santa Maria III Al lado de Policia Entrada de Feguifut a Inseso Santa María III, Malabo, Equatorial Guinea",
-  "phone": "+240222934050",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 118,
-  "name": "Unicasa",
-  "address": "PQR8+X7P, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 119,
-  "name": "Chucks",
-  "address": "QQ3J+RFQ, Malabo, Equatorial Guinea",
-  "phone": "+240222383131",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 120,
-  "name": "T Lo Regalo Malabo",
-  "address": "QQ4G+4P8, C. del Alcalde Abilio Balboa, Malabo, Equatorial Guinea",
-  "phone": "+240222249881",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 121,
-  "name": "Unicasa",
-  "address": "QQ2J+Q28, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 122,
-  "name": "Abacería",
-  "address": "QQ3J+XVJ, Ubicación de Cosme teodoro obama Ncogo nzang, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 123,
-  "name": "Comercial Anita",
-  "address": "QQ3H+492, C. del Alcalde Abilio Balboa, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 124,
-  "name": "Comercial sunil",
-  "address": "PQXG+4P6, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 125,
-  "name": "VECTOR MERCANTILE",
-  "address": "QQ3J+XVJ, Malabo, Equatorial Guinea",
-  "phone": "+240555434420",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 126,
-  "name": "Ciber Banapá",
-  "address": "San valentine Behind a college call Nfum Nsok, Malabo, Equatorial Guinea",
-  "phone": "+240222056209",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 127,
-  "name": "Mangharam 2",
-  "address": "QQ4G+7XV, C. Ebebiyin, Malabo, Equatorial Guinea",
-  "phone": "+240333099937",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 128,
-  "name": "L'Oriental",
-  "address": "PQCG+4G5, Malabo, Equatorial Guinea",
-  "phone": "+240333090162",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 129,
-  "name": "Equa Beauty",
-  "address": "PPXH+W38, Malabo II, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 130,
-  "name": "Mercamar",
-  "address": "PRR6+82G, Unnamed Road, Malabo, Equatorial Guinea",
-  "phone": "+240333090162",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 131,
-  "name": "TIENDA DE POPOS",
-  "address": "PQHC+CPX, Unnamed Road, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 132,
-  "name": "Mercado Central de Malabo",
-  "address": "lado del campo macuandja, Guinea Ecuatorial /Ela Nguema/ calle patricio lumumba/al, Equatorial Guinea",
-  "phone": "+240333096004",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 133,
-  "name": "Pegasos express",
-  "address": "Edificio de SO.NA.VI, Calle principal de Semu, Malabo, Equatorial Guinea",
-  "phone": "+240555357050",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 134,
-  "name": "SERVICICIO DE MANTENIMIENTO Y CONSERVACION DE CARRETERAS.GE",
-  "address": "INES Rey Malabo, Avenida Hassan II Frente, Malabo, Equatorial Guinea",
-  "phone": "+240555535901",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 135,
-  "name": "BABYGRAVE",
-  "address": "QP4J+7P, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 136,
-  "name": "Tienda Elegance Malabo",
-  "address": "PQPM+WF4, Unnamed Road, Malabo, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 137,
-  "name": "Perfumes Zina",
-  "address": "QQ3H+HQ8, C. de Nigeria, Malabo, Equatorial Guinea",
-  "phone": "+240333095644",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 138,
-  "name": "Global Market",
-  "address": "PPMV+CWF, Unnamed Road, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 139,
-  "name": "Ventage Office Store",
-  "address": "PQQM+9CG, Unnamed Road, Malabo, Equatorial Guinea",
-  "phone": "+240333040511",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 140,
-  "name": "Guinaco",
-  "address": "QQ6X+6MJ, Malabo, Equatorial Guinea",
-  "phone": "+240555746217",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 141,
-  "name": "comercial naresh",
-  "address": "QP3P+R7, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 142,
-  "name": "Reccma home",
-  "address": "PQRH+868, Campo- yaounde frente de antiguo comisaria, Malabo, Equatorial Guinea",
-  "phone": "+240222599895",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 143,
-  "name": "Caba Market",
-  "address": "QQ3J+XVJ, Malabo, Equatorial Guinea",
-  "phone": "+240222322910",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 144,
-  "name": "Mangharam",
-  "address": "Carretera Buena Esperanza - Basupu, Fishtown, Malabo, Equatorial Guinea",
-  "phone": "+240222683001",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 145,
-  "name": "Papeleria Eden Malabo",
-  "address": "QQ3H+VFP, Calle Enrique Nvo, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 146,
-  "name": "SEMU Mercado",
-  "address": "QQ3M+PCP, C. de Mongomo de Guadalupe, Malabo, Equatorial Guinea",
-  "phone": "+240222242085",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 147,
-  "name": "IPRO SL SHOP",
-  "address": "QQ34+H52, Malabo, Equatorial Guinea",
-  "phone": "+240333090162",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 148,
-  "name": "Supermercado Santy",
-  "address": "QQ3J+Q9M, Malabo, Equatorial Guinea",
-  "phone": "+240333098586",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 149,
-  "name": "AJM Market",
-  "address": "SANTA MARIA 3, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 150,
-  "name": "Ventage Casa",
-  "address": "PQR5+439, Unnamed Road, Malabo, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 151,
-  "name": "Cosmética Dharini",
-  "address": "QP58+5C7, Malabo International Airport, Malabo, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 152,
-  "name": "Guinaco",
-  "address": "PQG5+M93, Malabo, Equatorial Guinea",
-  "phone": "+240222101013",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 153,
-  "name": "ATR s.l",
-  "address": "PQMM+64M, Malabo, Equatorial Guinea",
-  "phone": "+240222740805",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 154,
-  "name": "Fashion Muan",
-  "address": "Galaxy, Sin código Hotel Carmen, Malabo, Equatorial Guinea",
-  "phone": "+240222151910",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 155,
-  "name": "CADOSBE SHIP CHANDLER EQUATORIAL GUINEA S.L",
-  "address": "QQ2J+Q23, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 156,
-  "name": "Pizzeria italiana",
-  "address": "QQ3J+62R, Malabo, Equatorial Guinea",
-  "phone": "+240222271611",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 157,
-  "name": "CASA BONITA",
-  "address": "QQ4G+5Q8, Balboa Calle Mayor, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 158,
-  "name": "Muankaban (Minimercado)",
-  "address": "PQVM+774, Unnamed Road, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 159,
-  "name": "Happyboxbykara",
-  "address": "QQ3G+5V9, Av. de las Naciones Unidas, Malabo, Equatorial Guinea",
-  "phone": "+240333094447",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 160,
-  "name": "Tamara",
-  "address": "PQXH+JJ5, Malabo, Equatorial Guinea",
-  "phone": "+240333092334",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 161,
-  "name": "The Computer Store GE",
-  "address": "QQ2H+X32, Av. de la Libertad, Malabo, Equatorial Guinea",
-  "phone": "+240333092597",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 162,
-  "name": "Disca Minimarket",
-  "address": "PQRJ+R8W, Malabo, Equatorial Guinea",
-  "phone": "+240555045465",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 163,
-  "name": "Buy and Shell",
-  "address": "QQ3H+G3W, Calle Abilio Balboa, Malabo, Equatorial Guinea",
-  "phone": "+240333099176",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 164,
-  "name": "Supermercado Martínez Hermanos - Edificio Muankaban",
-  "address": "PPHQ+XP3, Unnamed Road, Malabo, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 165,
-  "name": "Aimex s.a",
-  "address": "QQ2W+6J8, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 166,
-  "name": "Boutiquin Realidad.",
-  "address": "buena esperanza 1, s7 Malabo Malabo, Equatorial Guinea",
-  "phone": "+240222224703",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 167,
-  "name": "Aimex",
-  "address": "21 Av. del 3 de Agosto, Malabo, Equatorial Guinea",
-  "phone": "+240222036833",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 168,
-  "name": "NAMAS S.L",
-  "address": "QQ4V+7HX, C. de Hipólito Micha Eworo, Malabo, Equatorial Guinea",
-  "phone": "+240222021999",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 169,
-  "name": "La casa mista jacin",
-  "address": "205 Paseo de los Cocoteros, Malabo, Equatorial Guinea",
-  "phone": "+240333098345",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 170,
-  "name": "LUMECO SL - Semu Malabo",
-  "address": "QQ4G+5P4, C. Ebebiyin, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 171,
-  "name": "Heton",
-  "address": "PQW5+65V, Malabo, Equatorial Guinea",
-  "phone": "+240555369443",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 172,
-  "name": "Toscana",
-  "address": "2 C. del Pdte. Nasser, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 173,
-  "name": "Mini Commercial Computer Plus",
-  "address": "QQ4H+3FM, Malabo, Equatorial Guinea",
-  "phone": "+240222693994",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 174,
-  "name": "Dulces de Guinea",
-  "address": "PLANTA A LA IZQUIERDA TODO RECTO, MINISTERIO DE OBRAS, Malabo, Equatorial Guinea",
-  "phone": "+240222075717",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 175,
-  "name": "Kukis pasteleria \u0026 panaderia",
-  "address": "QQ2W+FRJ, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 176,
-  "name": "Sastreria La Juventud",
-  "address": "PQVM+XMR, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 177,
-  "name": "Junior Fit Malabo",
-  "address": "PQXJ+F34, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 178,
-  "name": "Supermercado Martínez Hermanos",
-  "address": "QQ3J+XVJ, Barrio Paraiso Malabo, Malabo, Equatorial Guinea",
-  "phone": "+240555360880",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 179,
-  "name": "Alliance in motion global",
-  "address": "Calle Rubio, km-5, malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 180,
-  "name": "Mundo sabores",
-  "address": "QQ3M+48M, C. del Rey Malabo, Malabo, Equatorial Guinea",
-  "phone": "+240333092597",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 181,
-  "name": "Apsara hogar",
-  "address": "Av. de Hasán II, Malabo, Equatorial Guinea",
-  "phone": "+240551308249",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 182,
-  "name": "CVB",
-  "address": "PQJC+GWF, Unnamed Road, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 183,
-  "name": "Abaseria de alcaide",
-  "address": "C. Semu, Malabo, Equatorial Guinea",
-  "phone": "+240555059327",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 184,
-  "name": "Ocean Print. Think Ink",
-  "address": "Rotonda Aráb, Malabo 2 de SEMU II Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 185,
-  "name": "Malabo National Park",
-  "address": "Bar Estadio Timbabe, Malabo, Equatorial Guinea",
-  "phone": "+240222111155",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 186,
-  "name": "Supernova Slu",
-  "address": "PQJJ+VW6, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 187,
-  "name": "Lumeco - SL",
-  "address": "QQ2J+RR3, C. del Rey Malabo, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 188,
-  "name": "Mini papeleria destiny malabo",
-  "address": "QQ4J+2VV, Malabo, Equatorial Guinea",
-  "phone": "+240222277198",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 189,
-  "name": "Mirinda",
-  "address": "Nº 581 y 569, C. del Alcalde Abilio Balboa, Malabo, Equatorial Guinea",
-  "phone": "+240222999888",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 190,
-  "name": "Supermercado Martínez Hermanos",
-  "address": "nº 1005 C. del Rey Malabo, Malabo, Equatorial Guinea",
-  "phone": "+240333096254",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 191,
-  "name": "GOLDEN OFFICE S.L",
-  "address": "Mencado center, Malabo, Equatorial Guinea",
-  "phone": "+240222309043",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 192,
-  "name": "Panaderia santa maria 3",
-  "address": "PQV5+RGF, B/ Paraiso, Malabo, Malabo, Equatorial Guinea",
-  "phone": "+240222772965",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 193,
-  "name": "Malabo National Park",
-  "address": "QQ4M+R3Q, Av. De la Independencia s/n, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 194,
-  "name": "España Cultural",
-  "address": "QQ2F+W8X, Carr. del Aeropuerto, Malabo, Equatorial Guinea",
-  "phone": "+240333092186",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 195,
-  "name": "Malabo",
-  "address": "24 Bird of Independence, Malabo, Equatorial Guinea",
-  "phone": "+240333093878",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 196,
-  "name": "Aviator Pub and Café",
-  "address": "Avenida de la Libertad 322, Malabo, Equatorial Guinea",
-  "phone": "+240222185534",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 197,
-  "name": "Finca Sampaka",
-  "address": "PPXH+W38, Malabo II, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 198,
-  "name": "Equatorial Guinea",
-  "address": "PQWF+QRX, Malabo, Equatorial Guinea",
-  "phone": "+240222728844",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 199,
-  "name": "centro de salud Madre Bisila",
-  "address": "0000, Malabo, Equatorial Guinea",
-  "phone": "+240333096333",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 200,
-  "name": "Parque Nacional del Monte Alén",
-  "address": "QQ2F+R9G, Carretera del Aeropuerto con, Av. de los Parques de África, Malabo, Equatorial Guinea",
-  "phone": "+240222142211",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 201,
-  "name": "Apartahotel PREGUIS",
-  "address": "US Embassy to Equatorial Guinea, Malabo, Equatorial Guinea",
-  "phone": "+240333095741",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 202,
-  "name": "Café Malabo",
-  "address": "QQ4H+43V, Bird of Independence, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 203,
-  "name": "Sofitel Malabo Sipopo Le Golf",
-  "address": "0000, Malabo, Equatorial Guinea",
-  "phone": "+240333096333",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 204,
-  "name": "Pico Basilé",
-  "address": "PPPQ+M4R, Malabo, Equatorial Guinea",
-  "phone": "+240555534340",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 205,
-  "name": "Magno Suites Exclusive Hotel \u0026 Restaurant",
-  "address": "QQ3H+66W, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 206,
-  "name": "Cafetería y Restaurante Malvaloca",
-  "address": "G4PG+46J, Nsangnam, Equatorial Guinea",
-  "phone": "+240222759537",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 207,
-  "name": "Limbe Wildlife Centre",
-  "address": "Malabo Ii Malabo 2, Malabo, Equatorial Guinea",
-  "phone": "+240333099086",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 208,
-  "name": "Universidad Nacional de Guinea Ecuatorial",
-  "address": "QQ3J+3MX, C. de Bata, Malabo, Equatorial Guinea",
-  "phone": "+240555372199",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 209,
-  "name": "Comfort Suites Highlands Ranch Denver Tech Center Area",
-  "address": "VQ3H+8JG, Calle de Patricio Lumumba, Bata, Equatorial Guinea",
-  "phone": "+240222352005",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 210,
-  "name": "Hyatt Place Denver-South/Park Meadows",
-  "address": "VQWR+5W3, Paseo Maritimo Cuartel militar marina, Bata, Equatorial Guinea",
-  "phone": "+240222352005",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 211,
-  "name": "SpringHill Suites by Marriott Denver Tech Center",
-  "address": "VQHP+VFC, Bata, Equatorial Guinea",
-  "phone": "+240222254473",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 212,
-  "name": "Holiday Inn \u0026 Suites Denver Tech Center-Centennial, an IHG Hotel",
-  "address": "CALLE LUMU MATINDI S/N Bata, Bata, Equatorial Guinea",
-  "phone": "+240222926357",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 213,
-  "name": "Hilton Denver Inverness",
-  "address": "RP5V+59W, Unnamed Road, Bata, Bata, Equatorial Guinea",
-  "phone": "+240222675972",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 214,
-  "name": "Hampton Inn \u0026 Suites Denver/South-RidgeGate",
-  "address": "Paseo Maritimo, Bata, Equatorial Guinea",
-  "phone": "+240333088156",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 215,
-  "name": "DoubleTree by Hilton Hotel Denver Tech Center",
-  "address": "VQHP+F5C, Bata, Equatorial Guinea",
-  "phone": "+240555975721",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 216,
-  "name": "Garlic Knot Pizza \u0026 Pasta",
-  "address": "VQ98+9PH, Bata, Equatorial Guinea",
-  "phone": "+240555555574",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 217,
-  "name": "Noodles and Company",
-  "address": "QPHG+26V, Bata, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 218,
-  "name": "AllerDining",
-  "address": "VP2X+38M, P.º Marítimo de Bata, Bata, Equatorial Guinea",
-  "phone": "+240222039354",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 219,
-  "name": "Noodles and Company",
-  "address": "VQ78+X3M, Bata, Equatorial Guinea",
-  "phone": "+240222513807",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 220,
-  "name": "Anthony's Pizza \u0026 Pasta",
-  "address": "P.º Marítimo de Bata, Bata, Equatorial Guinea",
-  "phone": "+240222066066",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 221,
-  "name": "Bata Shoes",
-  "address": "VQ55+VC4, Bata, Equatorial Guinea",
-  "phone": "+240222222222",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 222,
-  "name": "BATA SHOE STORE",
-  "address": "VQ99+C55, Bata, Equatorial Guinea",
-  "phone": "+240333082956",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 223,
-  "name": "Bata Shoes store LALAMUSA",
-  "address": "RQXX+556, Bata, Equatorial Guinea",
-  "phone": "+240222380480",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 224,
-  "name": "Malabo National Park",
-  "address": "Paseo Maritimo, Bata, Equatorial Guinea",
-  "phone": "+240333088156",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 225,
-  "name": "St. Elizabeth’s Cathedral",
-  "address": "VQCC+569, P.º Marítimo de Bata, Bata, Equatorial Guinea",
-  "phone": "+240222787844",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 226,
-  "name": "Parque Nacional del Monte Alén",
-  "address": "QQ4M+R3Q, Av. De la Independencia s/n, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 227,
-  "name": "Cape Bojeador Lighthouse",
-  "address": "PPXH+W38, Malabo II, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 228,
-  "name": "Spanish Cultural Centre of Bata",
-  "address": "123, 515216, Bata, Equatorial Guinea",
-  "phone": "123515216",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 229,
-  "name": "La Ferme Beach",
-  "address": "QPHG+26V, Bata, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 230,
-  "name": "ibis Bata",
-  "address": "P.º Marítimo de Bata, Bata, Equatorial Guinea",
-  "phone": "+240222066066",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 231,
-  "name": "TamTam Restaurant \u0026 Pastry",
-  "address": "G4PG+46J, Nsangnam, Equatorial Guinea",
-  "phone": "+240222759537",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 232,
-  "name": "Baluarte Watch Tower",
-  "address": "QQ2F+W8X, Carr. del Aeropuerto, Malabo, Equatorial Guinea",
-  "phone": "+240333092186",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 233,
-  "name": "Queen Tuna Park",
-  "address": "CALLE LUMU MATINDI S/N Bata, Bata, Equatorial Guinea",
-  "phone": "+240222926357",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 234,
-  "name": "Bata",
-  "address": "RQ9P+MWV, Bata, Equatorial Guinea",
-  "phone": "+22375425172",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 235,
-  "name": "Restaurant Casablanca",
-  "address": "QQ4G+3JW, Malabo, Equatorial Guinea",
-  "phone": "+240222135462",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 236,
-  "name": "Bidji Binia",
-  "address": "24 Bird of Independence, Malabo, Equatorial Guinea",
-  "phone": "+240333093878",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 237,
-  "name": "Cafe Kristania",
-  "address": "PPPQ+M4R, Malabo, Equatorial Guinea",
-  "phone": "+240555534340",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 238,
-  "name": "Lucy - Ethiopian Restaurant",
-  "address": "QQ3J+M7Q, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 239,
-  "name": "Restaurante Kalytero",
-  "address": "QPHG+26V, Bata, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 240,
-  "name": "Restaurante Imagine",
-  "address": "VQ3H+8JG, Bata, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 241,
-  "name": "Ebebiyin",
-  "address": "VQ78+X3M, Bata, Equatorial Guinea",
-  "phone": "+240222513807",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 242,
-  "name": "La Luna",
-  "address": "PP9X+Q6V, Unnamed Road, Zaragoza de Sampoca, Equatorial Guinea",
-  "phone": "+240555361654",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 243,
-  "name": "Terraza San Miguel Restaurante Bar",
-  "address": "0000, Malabo, Equatorial Guinea",
-  "phone": "+240333096333",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 244,
-  "name": "Restaurante Ruta47",
-  "address": "VP2X+38M, P.º Marítimo de Bata, Bata, Equatorial Guinea",
-  "phone": "+240222039354",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 245,
-  "name": "Restaurant Senegalais",
-  "address": "QQ2G+X8V, Street Mongomo, Malabo, Equatorial Guinea",
-  "phone": "+240222259704",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 246,
-  "name": "Aviator Pub and Café",
-  "address": "PQXG+859, C. del Rey Malabo, Malabo, Equatorial Guinea",
-  "phone": "+240333098507",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 247,
-  "name": "Pizza Place",
-  "address": "QQ4H+RFR, C. de Argelia, Malabo, Equatorial Guinea",
-  "phone": "+240333096096",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 248,
-  "name": "Magno Suites Exclusive Hotel \u0026 Restaurant",
-  "address": "QQ3G+F9X, Av. de Hasán II, Malabo, Equatorial Guinea",
-  "phone": "+240222778179",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 249,
-  "name": "Café Malabo Sampaka, Royal Palm Club Social",
-  "address": "Avenida de la Libertad 322, Malabo, Equatorial Guinea",
-  "phone": "+240222185534",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 250,
-  "name": "Kye ossi",
-  "address": "QQ24+V2V, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 251,
-  "name": "KITEA",
-  "address": "3JM8+8MM, Ebebiyín, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 252,
-  "name": "Centro Comercial Tomos",
-  "address": "PPQF+27F, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 253,
-  "name": "Ventage Mall",
-  "address": "PQRJ+R8W, Malabo, Equatorial Guinea",
-  "phone": "+240555045465",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 254,
-  "name": "Martínez Hermanos - Ventas al Mayor (Semu)",
-  "address": "QQ4G+2V6, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 255,
-  "name": "Mondial center",
-  "address": "PQJM+WG9, Malabo, Equatorial Guinea",
-  "phone": "+240222017820",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 256,
-  "name": "SEMU Mercado",
-  "address": "PQQM+J87, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 257,
-  "name": "Ebebiyin",
-  "address": "4RWP+RC8, Unnamed Road, Ncoaelon, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 258,
-  "name": "Reserva Natural de Río Campo",
-  "address": "G4PG+46J, Nsangnam, Equatorial Guinea",
-  "phone": "+240222759537",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 259,
-  "name": "Mongomo",
-  "address": "QQ4M+R3Q, Av. De la Independencia s/n, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 260,
-  "name": "Wele-Nzas",
-  "address": "PPXH+W38, Malabo II, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 261,
-  "name": "Rumbo Malabo",
-  "address": "J7CX+XFP, Mongomo, Equatorial Guinea",
-  "phone": "+240222571494",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 262,
-  "name": "Grand Hotel Djibloho",
-  "address": "VQHP+F5C, Bata, Equatorial Guinea",
-  "phone": "+240555975721",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 263,
-  "name": "Basilica Hotel",
-  "address": "J79R+MV9, Basilica Hotel Mongomo Basilica Road, Mongomo, Equatorial Guinea",
-  "phone": "+240551694845",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 264,
-  "name": "Aconibe",
-  "address": "0000, Malabo, Equatorial Guinea",
-  "phone": "+240333096333",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 265,
-  "name": "ibis Bata",
-  "address": "CALLE LUMU MATINDI S/N Bata, Bata, Equatorial Guinea",
-  "phone": "+240222926357",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 266,
-  "name": "Galerías I\u0026R",
-  "address": "Paseo Maritimo, Bata, Equatorial Guinea",
-  "phone": "+240333088156",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 267,
-  "name": "Hotel Panáfrica",
-  "address": "J79R+MV9, Mongomo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 268,
-  "name": "Aconibe",
-  "address": "QQ3J+M7Q, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 269,
-  "name": "La Ferme Beach",
-  "address": "QPHG+26V, Bata, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 270,
-  "name": "Restaurante Marítimo",
-  "address": "VQ3H+8JG, Bata, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 271,
-  "name": "TamTam Restaurant \u0026 Pastry",
-  "address": "PQXG+859, C. del Rey Malabo, Malabo, Equatorial Guinea",
-  "phone": "+240333098507",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 272,
-  "name": "Bidji Binia",
-  "address": "MQRC+WVW, Malabo, Equatorial Guinea",
-  "phone": "+240555119154",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 273,
-  "name": "Cafe Kristania",
-  "address": "P.º Marítimo de Bata, Bata, Equatorial Guinea",
-  "phone": "+240222066066",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 274,
-  "name": "Terraza San Miguel Restaurante Bar",
-  "address": "VQ78+X3M, Bata, Equatorial Guinea",
-  "phone": "+240222513807",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 275,
-  "name": "El Rancho Restaurant",
-  "address": "24 Bird of Independence, Malabo, Equatorial Guinea",
-  "phone": "+240333093878",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 276,
-  "name": "Restaurante Ruta47",
-  "address": "VP2X+38M, P.º Marítimo de Bata, Bata, Equatorial Guinea",
-  "phone": "+240222039354",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 277,
-  "name": "Aviator Pub and Café",
-  "address": "0000, Malabo, Equatorial Guinea",
-  "phone": "+240333096333",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 278,
-  "name": "Restaurante Kalytero",
-  "address": "QQ2G+X8V, Street Mongomo, Malabo, Equatorial Guinea",
-  "phone": "+240222259704",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 279,
-  "name": "Restaurante Imagine",
-  "address": "QP5P+H88, Malé, Equatorial Guinea",
-  "phone": "+240666592231",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 280,
-  "name": "Pizza Place",
-  "address": "QQ4H+RFR, C. de Argelia, Malabo, Equatorial Guinea",
-  "phone": "+240333096096",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 281,
-  "name": "L'Atelier",
-  "address": "QQ3G+F9X, Av. de Hasán II, Malabo, Equatorial Guinea",
-  "phone": "+240222778179",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 282,
-  "name": "el paraiso",
-  "address": "QQ24+V2V, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 283,
-  "name": "La Luna",
-  "address": "PPPQ+M4R, Malabo, Equatorial Guinea",
-  "phone": "+240555534340",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 284,
-  "name": "Magno Suites Exclusive Hotel \u0026 Restaurant",
-  "address": "Avenida de la Libertad 322, Malabo, Equatorial Guinea",
-  "phone": "+240222185534",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 285,
-  "name": "KITEA",
-  "address": "Carr. del Aeropuerto, Malabo, Equatorial Guinea",
-  "phone": "+240333099128",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 286,
-  "name": "Centro Comercial Tomos",
-  "address": "PPQF+27F, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 287,
-  "name": "Martínez Hermanos - Ventas al Mayor (Semu)",
-  "address": "PQJM+WG9, Malabo, Equatorial Guinea",
-  "phone": "+240222017820",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 288,
-  "name": "Cuattro.S.L.",
-  "address": "VQ99+C55, Bata, Equatorial Guinea",
-  "phone": "+240333082956",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 289,
-  "name": "Tinapa Shopping Mall",
-  "address": "QQ4G+2V6, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 290,
-  "name": "Kim Mall istanbul",
-  "address": "PQQM+J87, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 291,
-  "name": "España Cultural",
-  "address": "4RWP+RC8, Unnamed Road, Ncoaelon, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 292,
-  "name": "Reserva Natural de Río Campo",
-  "address": "J7CX+XFP, Mongomo, Equatorial Guinea",
-  "phone": "+240222571494",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 293,
-  "name": "Basilica of the Immaculate Conception, Mongomo",
-  "address": "G4PG+46J, Nsangnam, Equatorial Guinea",
-  "phone": "+240222759537",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 294,
-  "name": "Mongomo",
-  "address": "QQ4M+R3Q, Av. De la Independencia s/n, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 295,
-  "name": "Wele-Nzas",
-  "address": "PPXH+W38, Malabo II, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 296,
-  "name": "Monte Alen",
-  "address": "QQ2F+W8X, Carr. del Aeropuerto, Malabo, Equatorial Guinea",
-  "phone": "+240333092186",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 297,
-  "name": "Hotel Basílica",
-  "address": "elik obuc angong, Mongomo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 298,
-  "name": "Hotel Elik Obuc",
-  "address": "J79R+MV9, Basilica Hotel Mongomo Basilica Road, Mongomo, Equatorial Guinea",
-  "phone": "+240551694845",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 299,
-  "name": "Basilica Hotel",
-  "address": "J8J6+JQV, Mongomo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 300,
-  "name": "BAR DJENA MUNDO VERDE (MOKOM ESANGUI)",
-  "address": "QQ4M+73V, C. de Mongomo de Guadalupe, Malabo, Equatorial Guinea",
-  "phone": "+240222406808",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 301,
-  "name": "restaurante Elik Obuc Angong",
-  "address": "QQ2G+X8V, Street Mongomo, Malabo, Equatorial Guinea",
-  "phone": "+240222259704",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 302,
-  "name": "Mongomo",
-  "address": "QQ4M+647, C. de Mongomo de Guadalupe, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 303,
-  "name": "Restaurante Esther",
-  "address": "QQ2G+VG8, Malabo, Equatorial Guinea",
-  "phone": "+240222207296",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 304,
-  "name": "Mama Añes",
-  "address": "J8Q7+9FH, Mongomo, Equatorial Guinea",
-  "phone": "+240222057620",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 305,
-  "name": "Brel Pizzería",
-  "address": "J879+85Q, Mongomo, Acoacán, Equatorial Guinea",
-  "phone": "+240222035596",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 306,
-  "name": "L'Atelier",
-  "address": "J8H9+RX9, Mongomo, Equatorial Guinea",
-  "phone": "+240555406669",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 307,
-  "name": "Bidji Binia",
-  "address": "PPPQ+M4R, Malabo, Equatorial Guinea",
-  "phone": "+240555534340",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 308,
-  "name": "Restaurante Kalytero",
-  "address": "Avenida de la Libertad 322, Malabo, Equatorial Guinea",
-  "phone": "+240222185534",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 309,
-  "name": "Restaurante Imagine",
-  "address": "0000, Malabo, Equatorial Guinea",
-  "phone": "+240333096333",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 310,
-  "name": "Magno Suites Exclusive Hotel \u0026 Restaurant",
-  "address": "24 Bird of Independence, Malabo, Equatorial Guinea",
-  "phone": "+240333093878",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 311,
-  "name": "Snack-Pizzeria Mongomo-Food",
-  "address": "QQ24+V2V, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 312,
-  "name": "Mondial Center",
-  "address": "PQQM+J87, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 313,
-  "name": "Martínez Hermanos - Ventas al Mayor (Semu)",
-  "address": "J7CX+XFP, Mongomo, Equatorial Guinea",
-  "phone": "+240222571494",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 314,
-  "name": "Ventage Mall",
-  "address": "PQJM+WG9, Malabo, Equatorial Guinea",
-  "phone": "+240222017820",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 315,
-  "name": "Basilica of the Immaculate Conception, Mongomo",
-  "address": "QQ4G+2V6, Malabo, Equatorial Guinea",
-  "phone": "",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- },
- {
-  "id": 316,
-  "name": "Ebebiyin",
-  "address": "J7CX+XFP, Mongomo, Equatorial Guinea",
-  "phone": "+240222571494",
-  "country-code": "GQ",
-  "country": "Equatorial Guinea"
- }
+  {
+    "id": 1,
+    "name": "ibis Malabo",
+    "address": "Malabo Ii Malabo 2, Malabo, Equatorial Guinea",
+    "phone": "+240333099086",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 2,
+    "name": "Magno Suites Exclusive Hotel \u0026 Restaurant",
+    "address": "QQ3G+C99, Malabo, Equatorial Guinea",
+    "phone": "+240222292441",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 3,
+    "name": "ibis Malabo",
+    "address": "0000, Malabo, Equatorial Guinea",
+    "phone": "+240333096333",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 4,
+    "name": "Colinas Hotel",
+    "address": "Malabo Ii Malabo 2, Malabo, Equatorial Guinea",
+    "phone": "+240333099086",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 5,
+    "name": "Bisila Palace Hotel",
+    "address": "0000, Malabo, Equatorial Guinea",
+    "phone": "+240333096333",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 6,
+    "name": "Grand Hotel Djibloho",
+    "address": "PQG8+78G, Malé, Equatorial Guinea",
+    "phone": "+240222760209",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 7,
+    "name": "National Hotel",
+    "address": "K-19, Malabo, Equatorial Guinea",
+    "phone": "+240555547001",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 9,
+    "name": "Hotel Anda China Malabo",
+    "address": "PQX9+9WG, Unnamed Road, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 10,
+    "name": "Casa Suite Capir",
+    "address": "QQ5G+JQ8, Malabo, Equatorial Guinea",
+    "phone": "+240555439654",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 12,
+    "name": "Hotel Bahía",
+    "address": "PQWC+PRM, Malabo, Equatorial Guinea",
+    "phone": "+240222282200",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 13,
+    "name": "Hotel Bahia II",
+    "address": "QQ3M+3F6, Malabo, Equatorial Guinea",
+    "phone": "+240333091895",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 15,
+    "name": "Hotel Castillo",
+    "address": "PQJH+GJJ, Malabo, Equatorial Guinea",
+    "phone": "+240222355964",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 16,
+    "name": "Bunki",
+    "address": "QQ33+J2P, Carr. del Aeropuerto, Malabo, Equatorial Guinea",
+    "phone": "+240222796161",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 17,
+    "name": "La Luna",
+    "address": "QQ4G+3JW, Malabo, Equatorial Guinea",
+    "phone": "+240222135462",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 19,
+    "name": "Bon Appetit/ Consty",
+    "address": "PPPQ+M4R, Malabo, Equatorial Guinea",
+    "phone": "+240555534340",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 20,
+    "name": "Restaurante Kalytero",
+    "address": "QQ4J+54C, King Street Boncoro, Malabo, Equatorial Guinea",
+    "phone": "+240222134848",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 21,
+    "name": "Restaurante Imagine",
+    "address": "QQ3H+X2R, Malabo, Equatorial Guinea",
+    "phone": "+240222179956",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 22,
+    "name": "Pizza Place",
+    "address": "24 Bird of Independence, Malabo, Equatorial Guinea",
+    "phone": "+240333093878",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 26,
+    "name": "Restaurante Ruta47",
+    "address": "PQVM+27R, Unnamed Road, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 27,
+    "name": "DaVinci Resto-Bar",
+    "address": "QQ4M+22C, C. del Botuku Lubá, Malabo, Equatorial Guinea",
+    "phone": "+240222927747",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 28,
+    "name": "El Hard Rock Resto and Pub",
+    "address": "MQRC+WVW, Malabo, Equatorial Guinea",
+    "phone": "+240555119154",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 30,
+    "name": "Restaurante T\u0026J Malabo",
+    "address": "Cerámico, dentro del Complejo Ligia Malabo, Equatorial Guinea",
+    "phone": "+240222099838",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 32,
+    "name": "China Oriental",
+    "address": "QPHH+996, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 33,
+    "name": "Chez Wou",
+    "address": "QQ3J+678, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 34,
+    "name": "Chez Wou",
+    "address": "PQHQ+PWC, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 35,
+    "name": "Bar Terraza Mamá Cata",
+    "address": "PQF9+WCG, Malabo, Equatorial Guinea",
+    "phone": "+240222446264",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 37,
+    "name": "Polaris restaurante Malabo",
+    "address": "PQQF+R63, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 38,
+    "name": "Restaurante orientel",
+    "address": "lounge-pub, Kristal, Malabo, Equatorial Guinea",
+    "phone": "+240222051627",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 39,
+    "name": "Mama Añes",
+    "address": "QQ3M+4HJ, Malabo, Equatorial Guinea",
+    "phone": "+240222964096",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 40,
+    "name": "BLACK SPOON",
+    "address": "Restaurant Delicia 4 Access, Malabo, Equatorial Guinea",
+    "phone": "+240222176247",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 41,
+    "name": "NOMITA",
+    "address": "PQJC+JQJ, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 43,
+    "name": "IMANI LOUNGE MALABO",
+    "address": "PQR6+8JM, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 45,
+    "name": "Afrik-del",
+    "address": "PQXG+F85, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 46,
+    "name": "La Taberna de Agustín",
+    "address": "PQVH+JVP, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 47,
+    "name": "Restaurante Babel",
+    "address": "PQH9+R2G, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 49,
+    "name": "Pinchos",
+    "address": "QQ29+MM6, Malabo, Equatorial Guinea",
+    "phone": "+240222659250",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 50,
+    "name": "Restaurant Pizzeria Times",
+    "address": "QP2X+QGX, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 51,
+    "name": "Restaurante Carrefour",
+    "address": "PPFJ+62G, Malabo, Equatorial Guinea",
+    "phone": "+240222533422",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 52,
+    "name": "el paraiso",
+    "address": "QQ4H+5CJ, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 53,
+    "name": "OPERA",
+    "address": "QP6W+4WC, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 54,
+    "name": "Tope",
+    "address": "PPHQ+XQ2, Unnamed Road, Malabo, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 55,
+    "name": "Jamoneria San José",
+    "address": "QQ3H+499, C. del Alcalde Abilio Balboa, Malabo, Equatorial Guinea",
+    "phone": "+240555395532",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 59,
+    "name": "Bar la Valenciana",
+    "address": "QQ29+7M7, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 60,
+    "name": "Bar Restaurante el Camino",
+    "address": "QQ34+H52, Malabo, Equatorial Guinea",
+    "phone": "+240222333334",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 61,
+    "name": "Restaurant Senegalais",
+    "address": "QQ2H+QQ5, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 62,
+    "name": "Marrakech Shisha lounge",
+    "address": "QP2X+24X, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 64,
+    "name": "Restaurante Río Campo",
+    "address": "QQ2H+4P7, C. del Rey Malabo, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 66,
+    "name": "RESTAURANTE SONIA'S",
+    "address": "QP3V+HM4, Carr. del Aeropuerto, Malabo, Equatorial Guinea",
+    "phone": "+240222060304",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 67,
+    "name": "Chop And Go",
+    "address": "PQM9+VVF, Avenida Hassan II. Opposite seminario, Malabo, Equatorial Guinea",
+    "phone": "+240555949484",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 68,
+    "name": "Bar Restaurante Entre Amigos",
+    "address": "PRR2+QJ5, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 69,
+    "name": "Magno Suites Exclusive Hotel \u0026 Restaurant",
+    "address": "QQ3G+298, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 70,
+    "name": "Hotel 3 de Agosto",
+    "address": "PQM8+VRC, Malabo, Equatorial Guinea",
+    "phone": "+240222750413",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 71,
+    "name": "Restaurante El Paladar",
+    "address": "Colegio Español - Salesianos, Malabo, Equatorial Guinea",
+    "phone": "+240222255563",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 72,
+    "name": "Miramar - Acropole",
+    "address": "0000, Malabo, Equatorial Guinea",
+    "phone": "+240333096333",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 73,
+    "name": "Pizzeria italiana",
+    "address": "PQR8+V59, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 74,
+    "name": "HKC",
+    "address": "PP6X+X42, SAMPAKA, ROTONDA MARIACANO Malabo, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 75,
+    "name": "Le Bistrot Café-Restaurante",
+    "address": "PQF6+CHG, Unnamed Road, Malabo, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 76,
+    "name": "Restaurante Beirut",
+    "address": "QQ2H+GQW, Malabo, Equatorial Guinea",
+    "phone": "+240222272123",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 77,
+    "name": "Café Bar",
+    "address": "PQW9+VWC, Malabo, Equatorial Guinea",
+    "phone": "+240555757696",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 78,
+    "name": "Comida Delicioso",
+    "address": "QQ2G+MQW, Calle wayson, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 79,
+    "name": "Galambo - Comida Rápida - Edificio Muankaban",
+    "address": "QQ2G+X8V, Street Mongomo, Malabo, Equatorial Guinea",
+    "phone": "+240222259704",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 80,
+    "name": "Bocadillos Mama Bea",
+    "address": "QQ3H+499, C. del Alcalde Abilio Balboa, Malabo, Equatorial Guinea",
+    "phone": "+240222772207",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 81,
+    "name": "Restaurante Esther",
+    "address": "PP9C+PFF, Malabo, Equatorial Guinea",
+    "phone": "+240222143919",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 82,
+    "name": "Restaurante Ureka Place",
+    "address": "QQ3M+QQ3, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 83,
+    "name": "Caba Markt - Restaurante",
+    "address": "PQPC+WWV, Unnamed Road, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 85,
+    "name": "Toscana",
+    "address": "QQ24+V2V, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 86,
+    "name": "Dulces Delicias G.E",
+    "address": "PPQF+46V, Malabo, Equatorial Guinea",
+    "phone": "+240555455820",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 88,
+    "name": "Restaurante CHB",
+    "address": "QQ4H+34P, Bird of Independence, Malabo, Equatorial Guinea",
+    "phone": "+240555903603",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 89,
+    "name": "Ricos Rellenos",
+    "address": "QQ3G+924, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 90,
+    "name": "Restaurante Tamarite",
+    "address": "QQ2G+8VG, Malabo, Equatorial Guinea",
+    "phone": "+240222175175",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 91,
+    "name": "Candy Vista Puerto",
+    "address": "PPR9+8J5, Unnamed Road, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 92,
+    "name": "Sabores M Malabo",
+    "address": "KM 4, Carretera del Aeropuerto, Apdo 970, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 93,
+    "name": "Restaurant Bar Delicial",
+    "address": "QQ2G+VG8, Malabo, Equatorial Guinea",
+    "phone": "+240222207296",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 94,
+    "name": "La gastronomía a alcancé de todos",
+    "address": "Calle Rubio, km-5, malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 95,
+    "name": "The Next Level Restaurante",
+    "address": "PQPM+H3R, Unnamed Road, Malabo, Malabo, Equatorial Guinea",
+    "phone": "+240222237616",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 96,
+    "name": "Lounge Bar Restaurante GQ",
+    "address": "QQ3J+XVJ, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 97,
+    "name": "Hotel-Restaurante Elik Melén2 - Luquito",
+    "address": "QQ2H+7R2, Rey Malabo, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 98,
+    "name": "Catering MK Service",
+    "address": "QQ2J+G2Q, M. Sanidad, C. del Rey Malabo, Malabo, Equatorial Guinea",
+    "phone": "+240222139168",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 99,
+    "name": "Restaurante César",
+    "address": "PQJ7+VHM, Malabo, Equatorial Guinea",
+    "phone": "+240222020669",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 100,
+    "name": "Cafetería y Restaurante Malvaloca",
+    "address": "PQJ7+VHM, Malabo, Equatorial Guinea",
+    "phone": "+240222020669",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 101,
+    "name": "Restaurante Ligia",
+    "address": "QQ3F+2XM, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 102,
+    "name": "HKC - Semu",
+    "address": "PQF7+H64, Unnamed Road, Malabo, Equatorial Guinea",
+    "phone": "+240222136155",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 104,
+    "name": "KITEA",
+    "address": "QQ3J+XVJ, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 105,
+    "name": "Centro Comercial Tomos",
+    "address": "QQ3J+XVJ, Malabo, Equatorial Guinea",
+    "phone": "+23568163332",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 106,
+    "name": "Multi servicios MAYRA",
+    "address": "QQ4G+2V6, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 107,
+    "name": "عيسى ادريس",
+    "address": "PQQP+F7M, C. Semu, Malabo, Equatorial Guinea",
+    "phone": "+240222735201",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 108,
+    "name": "Galérie JM Hnos",
+    "address": "PQJM+WG9, Malabo, Equatorial Guinea",
+    "phone": "+240222017820",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 110,
+    "name": "Ventage Mall",
+    "address": "QQ3J+MHM, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 111,
+    "name": "Immeuble Sina",
+    "address": "PPQF+27F, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 112,
+    "name": "Martínez Hermanos - Ventas al Mayor (Semu)",
+    "address": "QQ3H+499, C. del Alcalde Abilio Balboa, Malabo, Equatorial Guinea",
+    "phone": "+240555514867",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 114,
+    "name": "Tienda Nono",
+    "address": "Edificio BGFBank, Malabo, Equatorial Guinea",
+    "phone": "+240555755664",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 115,
+    "name": "Solfage",
+    "address": "QQ4H+46Q, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 118,
+    "name": "Unicasa",
+    "address": "PQR8+X7P, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 119,
+    "name": "Chucks",
+    "address": "QQ3J+RFQ, Malabo, Equatorial Guinea",
+    "phone": "+240222383131",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 120,
+    "name": "T Lo Regalo Malabo",
+    "address": "QQ4G+4P8, C. del Alcalde Abilio Balboa, Malabo, Equatorial Guinea",
+    "phone": "+240222249881",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 121,
+    "name": "Unicasa",
+    "address": "QQ2J+Q28, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 123,
+    "name": "Comercial Anita",
+    "address": "QQ3H+492, C. del Alcalde Abilio Balboa, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 124,
+    "name": "Comercial sunil",
+    "address": "PQXG+4P6, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 125,
+    "name": "VECTOR MERCANTILE",
+    "address": "QQ3J+XVJ, Malabo, Equatorial Guinea",
+    "phone": "+240555434420",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 126,
+    "name": "Ciber Banapá",
+    "address": "San valentine Behind a college call Nfum Nsok, Malabo, Equatorial Guinea",
+    "phone": "+240222056209",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 127,
+    "name": "Mangharam 2",
+    "address": "QQ4G+7XV, C. Ebebiyin, Malabo, Equatorial Guinea",
+    "phone": "+240333099937",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 128,
+    "name": "L'Oriental",
+    "address": "PQCG+4G5, Malabo, Equatorial Guinea",
+    "phone": "+240333090162",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 129,
+    "name": "Equa Beauty",
+    "address": "PPXH+W38, Malabo II, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 130,
+    "name": "Mercamar",
+    "address": "PRR6+82G, Unnamed Road, Malabo, Equatorial Guinea",
+    "phone": "+240333090162",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 131,
+    "name": "TIENDA DE POPOS",
+    "address": "PQHC+CPX, Unnamed Road, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 134,
+    "name": "SERVICICIO DE MANTENIMIENTO Y CONSERVACION DE CARRETERAS.GE",
+    "address": "INES Rey Malabo, Avenida Hassan II Frente, Malabo, Equatorial Guinea",
+    "phone": "+240555535901",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 135,
+    "name": "BABYGRAVE",
+    "address": "QP4J+7P, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 136,
+    "name": "Tienda Elegance Malabo",
+    "address": "PQPM+WF4, Unnamed Road, Malabo, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 138,
+    "name": "Global Market",
+    "address": "PPMV+CWF, Unnamed Road, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 139,
+    "name": "Ventage Office Store",
+    "address": "PQQM+9CG, Unnamed Road, Malabo, Equatorial Guinea",
+    "phone": "+240333040511",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 140,
+    "name": "Guinaco",
+    "address": "QQ6X+6MJ, Malabo, Equatorial Guinea",
+    "phone": "+240555746217",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 141,
+    "name": "comercial naresh",
+    "address": "QP3P+R7, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 143,
+    "name": "Caba Market",
+    "address": "QQ3J+XVJ, Malabo, Equatorial Guinea",
+    "phone": "+240222322910",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 144,
+    "name": "Mangharam",
+    "address": "Carretera Buena Esperanza - Basupu, Fishtown, Malabo, Equatorial Guinea",
+    "phone": "+240222683001",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 145,
+    "name": "Papeleria Eden Malabo",
+    "address": "QQ3H+VFP, Calle Enrique Nvo, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 147,
+    "name": "IPRO SL SHOP",
+    "address": "QQ34+H52, Malabo, Equatorial Guinea",
+    "phone": "+240333090162",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 148,
+    "name": "Supermercado Santy",
+    "address": "QQ3J+Q9M, Malabo, Equatorial Guinea",
+    "phone": "+240333098586",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 149,
+    "name": "AJM Market",
+    "address": "SANTA MARIA 3, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 150,
+    "name": "Ventage Casa",
+    "address": "PQR5+439, Unnamed Road, Malabo, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 151,
+    "name": "Cosmética Dharini",
+    "address": "QP58+5C7, Malabo International Airport, Malabo, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 152,
+    "name": "Guinaco",
+    "address": "PQG5+M93, Malabo, Equatorial Guinea",
+    "phone": "+240222101013",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 153,
+    "name": "ATR s.l",
+    "address": "PQMM+64M, Malabo, Equatorial Guinea",
+    "phone": "+240222740805",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 154,
+    "name": "Fashion Muan",
+    "address": "Galaxy, Sin código Hotel Carmen, Malabo, Equatorial Guinea",
+    "phone": "+240222151910",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 155,
+    "name": "CADOSBE SHIP CHANDLER EQUATORIAL GUINEA S.L",
+    "address": "QQ2J+Q23, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 156,
+    "name": "Pizzeria italiana",
+    "address": "QQ3J+62R, Malabo, Equatorial Guinea",
+    "phone": "+240222271611",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 157,
+    "name": "CASA BONITA",
+    "address": "QQ4G+5Q8, Balboa Calle Mayor, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 158,
+    "name": "Muankaban (Minimercado)",
+    "address": "PQVM+774, Unnamed Road, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 160,
+    "name": "Tamara",
+    "address": "PQXH+JJ5, Malabo, Equatorial Guinea",
+    "phone": "+240333092334",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 162,
+    "name": "Disca Minimarket",
+    "address": "PQRJ+R8W, Malabo, Equatorial Guinea",
+    "phone": "+240555045465",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 163,
+    "name": "Buy and Shell",
+    "address": "QQ3H+G3W, Calle Abilio Balboa, Malabo, Equatorial Guinea",
+    "phone": "+240333099176",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 164,
+    "name": "Supermercado Martínez Hermanos - Edificio Muankaban",
+    "address": "PPHQ+XP3, Unnamed Road, Malabo, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 165,
+    "name": "Aimex s.a",
+    "address": "QQ2W+6J8, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 166,
+    "name": "Boutiquin Realidad.",
+    "address": "buena esperanza 1, s7 Malabo Malabo, Equatorial Guinea",
+    "phone": "+240222224703",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 170,
+    "name": "LUMECO SL - Semu Malabo",
+    "address": "QQ4G+5P4, C. Ebebiyin, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 171,
+    "name": "Heton",
+    "address": "PQW5+65V, Malabo, Equatorial Guinea",
+    "phone": "+240555369443",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 172,
+    "name": "Toscana",
+    "address": "2 C. del Pdte. Nasser, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 173,
+    "name": "Mini Commercial Computer Plus",
+    "address": "QQ4H+3FM, Malabo, Equatorial Guinea",
+    "phone": "+240222693994",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 175,
+    "name": "Kukis pasteleria \u0026 panaderia",
+    "address": "QQ2W+FRJ, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 176,
+    "name": "Sastreria La Juventud",
+    "address": "PQVM+XMR, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 177,
+    "name": "Junior Fit Malabo",
+    "address": "PQXJ+F34, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 178,
+    "name": "Supermercado Martínez Hermanos",
+    "address": "QQ3J+XVJ, Barrio Paraiso Malabo, Malabo, Equatorial Guinea",
+    "phone": "+240555360880",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 179,
+    "name": "Alliance in motion global",
+    "address": "Calle Rubio, km-5, malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 180,
+    "name": "Mundo sabores",
+    "address": "QQ3M+48M, C. del Rey Malabo, Malabo, Equatorial Guinea",
+    "phone": "+240333092597",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 182,
+    "name": "CVB",
+    "address": "PQJC+GWF, Unnamed Road, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 183,
+    "name": "Abaseria de alcaide",
+    "address": "C. Semu, Malabo, Equatorial Guinea",
+    "phone": "+240555059327",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 185,
+    "name": "Malabo National Park",
+    "address": "Bar Estadio Timbabe, Malabo, Equatorial Guinea",
+    "phone": "+240222111155",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 186,
+    "name": "Supernova Slu",
+    "address": "PQJJ+VW6, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 187,
+    "name": "Lumeco - SL",
+    "address": "QQ2J+RR3, C. del Rey Malabo, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 188,
+    "name": "Mini papeleria destiny malabo",
+    "address": "QQ4J+2VV, Malabo, Equatorial Guinea",
+    "phone": "+240222277198",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 189,
+    "name": "Mirinda",
+    "address": "Nº 581 y 569, C. del Alcalde Abilio Balboa, Malabo, Equatorial Guinea",
+    "phone": "+240222999888",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 190,
+    "name": "Supermercado Martínez Hermanos",
+    "address": "nº 1005 C. del Rey Malabo, Malabo, Equatorial Guinea",
+    "phone": "+240333096254",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 191,
+    "name": "GOLDEN OFFICE S.L",
+    "address": "Mencado center, Malabo, Equatorial Guinea",
+    "phone": "+240222309043",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 192,
+    "name": "Panaderia santa maria 3",
+    "address": "PQV5+RGF, B/ Paraiso, Malabo, Malabo, Equatorial Guinea",
+    "phone": "+240222772965",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 194,
+    "name": "España Cultural",
+    "address": "QQ2F+W8X, Carr. del Aeropuerto, Malabo, Equatorial Guinea",
+    "phone": "+240333092186",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 195,
+    "name": "Malabo",
+    "address": "24 Bird of Independence, Malabo, Equatorial Guinea",
+    "phone": "+240333093878",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 197,
+    "name": "Finca Sampaka",
+    "address": "PPXH+W38, Malabo II, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 198,
+    "name": "Equatorial Guinea",
+    "address": "PQWF+QRX, Malabo, Equatorial Guinea",
+    "phone": "+240222728844",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 199,
+    "name": "centro de salud Madre Bisila",
+    "address": "0000, Malabo, Equatorial Guinea",
+    "phone": "+240333096333",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 201,
+    "name": "Apartahotel PREGUIS",
+    "address": "US Embassy to Equatorial Guinea, Malabo, Equatorial Guinea",
+    "phone": "+240333095741",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 202,
+    "name": "Café Malabo",
+    "address": "QQ4H+43V, Bird of Independence, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 203,
+    "name": "Sofitel Malabo Sipopo Le Golf",
+    "address": "0000, Malabo, Equatorial Guinea",
+    "phone": "+240333096333",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 204,
+    "name": "Pico Basilé",
+    "address": "PPPQ+M4R, Malabo, Equatorial Guinea",
+    "phone": "+240555534340",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 205,
+    "name": "Magno Suites Exclusive Hotel \u0026 Restaurant",
+    "address": "QQ3H+66W, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 206,
+    "name": "Cafetería y Restaurante Malvaloca",
+    "address": "G4PG+46J, Nsangnam, Equatorial Guinea",
+    "phone": "+240222759537",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 207,
+    "name": "Limbe Wildlife Centre",
+    "address": "Malabo Ii Malabo 2, Malabo, Equatorial Guinea",
+    "phone": "+240333099086",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 210,
+    "name": "Hyatt Place Denver-South/Park Meadows",
+    "address": "VQWR+5W3, Paseo Maritimo Cuartel militar marina, Bata, Equatorial Guinea",
+    "phone": "+240222352005",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 211,
+    "name": "SpringHill Suites by Marriott Denver Tech Center",
+    "address": "VQHP+VFC, Bata, Equatorial Guinea",
+    "phone": "+240222254473",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 212,
+    "name": "Holiday Inn \u0026 Suites Denver Tech Center-Centennial, an IHG Hotel",
+    "address": "CALLE LUMU MATINDI S/N Bata, Bata, Equatorial Guinea",
+    "phone": "+240222926357",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 213,
+    "name": "Hilton Denver Inverness",
+    "address": "RP5V+59W, Unnamed Road, Bata, Bata, Equatorial Guinea",
+    "phone": "+240222675972",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 214,
+    "name": "Hampton Inn \u0026 Suites Denver/South-RidgeGate",
+    "address": "Paseo Maritimo, Bata, Equatorial Guinea",
+    "phone": "+240333088156",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 215,
+    "name": "DoubleTree by Hilton Hotel Denver Tech Center",
+    "address": "VQHP+F5C, Bata, Equatorial Guinea",
+    "phone": "+240555975721",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 216,
+    "name": "Garlic Knot Pizza \u0026 Pasta",
+    "address": "VQ98+9PH, Bata, Equatorial Guinea",
+    "phone": "+240555555574",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 217,
+    "name": "Noodles and Company",
+    "address": "QPHG+26V, Bata, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 219,
+    "name": "Noodles and Company",
+    "address": "VQ78+X3M, Bata, Equatorial Guinea",
+    "phone": "+240222513807",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 221,
+    "name": "Bata Shoes",
+    "address": "VQ55+VC4, Bata, Equatorial Guinea",
+    "phone": "+240222222222",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 222,
+    "name": "BATA SHOE STORE",
+    "address": "VQ99+C55, Bata, Equatorial Guinea",
+    "phone": "+240333082956",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 223,
+    "name": "Bata Shoes store LALAMUSA",
+    "address": "RQXX+556, Bata, Equatorial Guinea",
+    "phone": "+240222380480",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 224,
+    "name": "Malabo National Park",
+    "address": "Paseo Maritimo, Bata, Equatorial Guinea",
+    "phone": "+240333088156",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 227,
+    "name": "Cape Bojeador Lighthouse",
+    "address": "PPXH+W38, Malabo II, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 228,
+    "name": "Spanish Cultural Centre of Bata",
+    "address": "123, 515216, Bata, Equatorial Guinea",
+    "phone": "123515216",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 229,
+    "name": "La Ferme Beach",
+    "address": "QPHG+26V, Bata, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 231,
+    "name": "TamTam Restaurant \u0026 Pastry",
+    "address": "G4PG+46J, Nsangnam, Equatorial Guinea",
+    "phone": "+240222759537",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 232,
+    "name": "Baluarte Watch Tower",
+    "address": "QQ2F+W8X, Carr. del Aeropuerto, Malabo, Equatorial Guinea",
+    "phone": "+240333092186",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 233,
+    "name": "Queen Tuna Park",
+    "address": "CALLE LUMU MATINDI S/N Bata, Bata, Equatorial Guinea",
+    "phone": "+240222926357",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 234,
+    "name": "Bata",
+    "address": "RQ9P+MWV, Bata, Equatorial Guinea",
+    "phone": "+22375425172",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 235,
+    "name": "Restaurant Casablanca",
+    "address": "QQ4G+3JW, Malabo, Equatorial Guinea",
+    "phone": "+240222135462",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 236,
+    "name": "Bidji Binia",
+    "address": "24 Bird of Independence, Malabo, Equatorial Guinea",
+    "phone": "+240333093878",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 237,
+    "name": "Cafe Kristania",
+    "address": "PPPQ+M4R, Malabo, Equatorial Guinea",
+    "phone": "+240555534340",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 238,
+    "name": "Lucy - Ethiopian Restaurant",
+    "address": "QQ3J+M7Q, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 239,
+    "name": "Restaurante Kalytero",
+    "address": "QPHG+26V, Bata, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 240,
+    "name": "Restaurante Imagine",
+    "address": "VQ3H+8JG, Bata, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 241,
+    "name": "Ebebiyin",
+    "address": "VQ78+X3M, Bata, Equatorial Guinea",
+    "phone": "+240222513807",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 243,
+    "name": "Terraza San Miguel Restaurante Bar",
+    "address": "0000, Malabo, Equatorial Guinea",
+    "phone": "+240333096333",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 245,
+    "name": "Restaurant Senegalais",
+    "address": "QQ2G+X8V, Street Mongomo, Malabo, Equatorial Guinea",
+    "phone": "+240222259704",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 246,
+    "name": "Aviator Pub and Café",
+    "address": "PQXG+859, C. del Rey Malabo, Malabo, Equatorial Guinea",
+    "phone": "+240333098507",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 250,
+    "name": "Kye ossi",
+    "address": "QQ24+V2V, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 251,
+    "name": "KITEA",
+    "address": "3JM8+8MM, Ebebiyín, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 252,
+    "name": "Centro Comercial Tomos",
+    "address": "PPQF+27F, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 253,
+    "name": "Ventage Mall",
+    "address": "PQRJ+R8W, Malabo, Equatorial Guinea",
+    "phone": "+240555045465",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 254,
+    "name": "Martínez Hermanos - Ventas al Mayor (Semu)",
+    "address": "QQ4G+2V6, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 255,
+    "name": "Mondial center",
+    "address": "PQJM+WG9, Malabo, Equatorial Guinea",
+    "phone": "+240222017820",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 256,
+    "name": "SEMU Mercado",
+    "address": "PQQM+J87, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 257,
+    "name": "Ebebiyin",
+    "address": "4RWP+RC8, Unnamed Road, Ncoaelon, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 258,
+    "name": "Reserva Natural de Río Campo",
+    "address": "G4PG+46J, Nsangnam, Equatorial Guinea",
+    "phone": "+240222759537",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 260,
+    "name": "Wele-Nzas",
+    "address": "PPXH+W38, Malabo II, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 261,
+    "name": "Rumbo Malabo",
+    "address": "J7CX+XFP, Mongomo, Equatorial Guinea",
+    "phone": "+240222571494",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 262,
+    "name": "Grand Hotel Djibloho",
+    "address": "VQHP+F5C, Bata, Equatorial Guinea",
+    "phone": "+240555975721",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 263,
+    "name": "Basilica Hotel",
+    "address": "J79R+MV9, Basilica Hotel Mongomo Basilica Road, Mongomo, Equatorial Guinea",
+    "phone": "+240551694845",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 264,
+    "name": "Aconibe",
+    "address": "0000, Malabo, Equatorial Guinea",
+    "phone": "+240333096333",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 265,
+    "name": "ibis Bata",
+    "address": "CALLE LUMU MATINDI S/N Bata, Bata, Equatorial Guinea",
+    "phone": "+240222926357",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 266,
+    "name": "Galerías I\u0026R",
+    "address": "Paseo Maritimo, Bata, Equatorial Guinea",
+    "phone": "+240333088156",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 267,
+    "name": "Hotel Panáfrica",
+    "address": "J79R+MV9, Mongomo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 268,
+    "name": "Aconibe",
+    "address": "QQ3J+M7Q, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 269,
+    "name": "La Ferme Beach",
+    "address": "QPHG+26V, Bata, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 270,
+    "name": "Restaurante Marítimo",
+    "address": "VQ3H+8JG, Bata, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 271,
+    "name": "TamTam Restaurant \u0026 Pastry",
+    "address": "PQXG+859, C. del Rey Malabo, Malabo, Equatorial Guinea",
+    "phone": "+240333098507",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 272,
+    "name": "Bidji Binia",
+    "address": "MQRC+WVW, Malabo, Equatorial Guinea",
+    "phone": "+240555119154",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 274,
+    "name": "Terraza San Miguel Restaurante Bar",
+    "address": "VQ78+X3M, Bata, Equatorial Guinea",
+    "phone": "+240222513807",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 275,
+    "name": "El Rancho Restaurant",
+    "address": "24 Bird of Independence, Malabo, Equatorial Guinea",
+    "phone": "+240333093878",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 277,
+    "name": "Aviator Pub and Café",
+    "address": "0000, Malabo, Equatorial Guinea",
+    "phone": "+240333096333",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 278,
+    "name": "Restaurante Kalytero",
+    "address": "QQ2G+X8V, Street Mongomo, Malabo, Equatorial Guinea",
+    "phone": "+240222259704",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 279,
+    "name": "Restaurante Imagine",
+    "address": "QP5P+H88, Malé, Equatorial Guinea",
+    "phone": "+240666592231",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 282,
+    "name": "el paraiso",
+    "address": "QQ24+V2V, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 283,
+    "name": "La Luna",
+    "address": "PPPQ+M4R, Malabo, Equatorial Guinea",
+    "phone": "+240555534340",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 285,
+    "name": "KITEA",
+    "address": "Carr. del Aeropuerto, Malabo, Equatorial Guinea",
+    "phone": "+240333099128",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 286,
+    "name": "Centro Comercial Tomos",
+    "address": "PPQF+27F, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 287,
+    "name": "Martínez Hermanos - Ventas al Mayor (Semu)",
+    "address": "PQJM+WG9, Malabo, Equatorial Guinea",
+    "phone": "+240222017820",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 288,
+    "name": "Cuattro.S.L.",
+    "address": "VQ99+C55, Bata, Equatorial Guinea",
+    "phone": "+240333082956",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 289,
+    "name": "Tinapa Shopping Mall",
+    "address": "QQ4G+2V6, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 290,
+    "name": "Kim Mall istanbul",
+    "address": "PQQM+J87, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 291,
+    "name": "España Cultural",
+    "address": "4RWP+RC8, Unnamed Road, Ncoaelon, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 292,
+    "name": "Reserva Natural de Río Campo",
+    "address": "J7CX+XFP, Mongomo, Equatorial Guinea",
+    "phone": "+240222571494",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 293,
+    "name": "Basilica of the Immaculate Conception, Mongomo",
+    "address": "G4PG+46J, Nsangnam, Equatorial Guinea",
+    "phone": "+240222759537",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 295,
+    "name": "Wele-Nzas",
+    "address": "PPXH+W38, Malabo II, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 296,
+    "name": "Monte Alen",
+    "address": "QQ2F+W8X, Carr. del Aeropuerto, Malabo, Equatorial Guinea",
+    "phone": "+240333092186",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 297,
+    "name": "Hotel Basílica",
+    "address": "elik obuc angong, Mongomo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 298,
+    "name": "Hotel Elik Obuc",
+    "address": "J79R+MV9, Basilica Hotel Mongomo Basilica Road, Mongomo, Equatorial Guinea",
+    "phone": "+240551694845",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 299,
+    "name": "Basilica Hotel",
+    "address": "J8J6+JQV, Mongomo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 301,
+    "name": "restaurante Elik Obuc Angong",
+    "address": "QQ2G+X8V, Street Mongomo, Malabo, Equatorial Guinea",
+    "phone": "+240222259704",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 303,
+    "name": "Restaurante Esther",
+    "address": "QQ2G+VG8, Malabo, Equatorial Guinea",
+    "phone": "+240222207296",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 304,
+    "name": "Mama Añes",
+    "address": "J8Q7+9FH, Mongomo, Equatorial Guinea",
+    "phone": "+240222057620",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 305,
+    "name": "Brel Pizzería",
+    "address": "J879+85Q, Mongomo, Acoacán, Equatorial Guinea",
+    "phone": "+240222035596",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 306,
+    "name": "L'Atelier",
+    "address": "J8H9+RX9, Mongomo, Equatorial Guinea",
+    "phone": "+240555406669",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 307,
+    "name": "Bidji Binia",
+    "address": "PPPQ+M4R, Malabo, Equatorial Guinea",
+    "phone": "+240555534340",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 309,
+    "name": "Restaurante Imagine",
+    "address": "0000, Malabo, Equatorial Guinea",
+    "phone": "+240333096333",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 310,
+    "name": "Magno Suites Exclusive Hotel \u0026 Restaurant",
+    "address": "24 Bird of Independence, Malabo, Equatorial Guinea",
+    "phone": "+240333093878",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 311,
+    "name": "Snack-Pizzeria Mongomo-Food",
+    "address": "QQ24+V2V, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 312,
+    "name": "Mondial Center",
+    "address": "PQQM+J87, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 313,
+    "name": "Martínez Hermanos - Ventas al Mayor (Semu)",
+    "address": "J7CX+XFP, Mongomo, Equatorial Guinea",
+    "phone": "+240222571494",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 314,
+    "name": "Ventage Mall",
+    "address": "PQJM+WG9, Malabo, Equatorial Guinea",
+    "phone": "+240222017820",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 315,
+    "name": "Basilica of the Immaculate Conception, Mongomo",
+    "address": "QQ4G+2V6, Malabo, Equatorial Guinea",
+    "phone": "",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 316,
+    "name": "Ebebiyin",
+    "address": "J7CX+XFP, Mongomo, Equatorial Guinea",
+    "phone": "+240222571494",
+    "country-code": "GQ",
+    "country": "Equatorial Guinea"
+  }
 ]

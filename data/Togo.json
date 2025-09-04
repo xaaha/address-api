@@ -1,3082 +1,2274 @@
 [
- {
-  "id": 1,
-  "name": "Hôtel SANCTA MARIA",
-  "address": "46FF+GJJ, Rue de Commerce, Lomé, Togo",
-  "phone": "+22896160000",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 2,
-  "name": "Hotel Ambassadors",
-  "address": "Place de L'indépendence Bp.131, Lomé, Togo",
-  "phone": "+22822238600",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 3,
-  "name": "Hôtel 2 Février Lomé",
-  "address": "Rue Dzidzedze (anciennement rue ALU) bp60178, Lomé, Togo",
-  "phone": "+22822210517",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 4,
-  "name": "ONOMO Hotel Lomé",
-  "address": "10BP10433, Lomé, Togo",
-  "phone": "+22822219859",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 5,
-  "name": "Hôtel SANCTA MARIA",
-  "address": "Bd du Mono  Quartier Baguida-Bateauvi, Lomé, Togo",
-  "phone": "+22891415656",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 6,
-  "name": "Bravia Hotel Lome",
-  "address": "Boulevard du mono 08 B.P. 80212 Lomé - TOGO, Lomé, Togo",
-  "phone": "+22822229292",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 7,
-  "name": "Hotel du Golfe",
-  "address": "Zone portuaire lomé, Lomé, Togo",
-  "phone": "+22890781490",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 8,
-  "name": "Hotel Aurore / Restaurant / Bar",
-  "address": "Boulevard Du Mono, Lomé, Togo",
-  "phone": "+22822276590",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 9,
-  "name": "SeaSide Hôtel",
-  "address": "Boulevard Du Mono, Lomé, Togo",
-  "phone": "+22822536300",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 10,
-  "name": "Hotel Petit Brussel",
-  "address": "81737, Lomé, Togo",
-  "phone": "+22892133131",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 11,
-  "name": "AZURIA HÔTEL",
-  "address": "Boulevard Du Mono, Lomé, Togo",
-  "phone": "+22822226903",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 12,
-  "name": "El Doria Hôtel",
-  "address": "Rue Tokpli, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 13,
-  "name": "Hôtel Napoléon Lagune / Restaurant / Bar",
-  "address": "Unnamed Road, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 14,
-  "name": "Hôtel Résidence Océane",
-  "address": "Bè Gapkoto pharmacie Mawulé, Lomé, Togo",
-  "phone": "+22892942325",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 15,
-  "name": "Hôtel Yabisso",
-  "address": "Bè-kpota, Bd Malfakassa, Lomé, Togo",
-  "phone": "+22822270169",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 16,
-  "name": "Marcelo Beach",
-  "address": "5898+FJG, la VILLA PHOEBE Cité BOAD Lomé, Lomé, Togo",
-  "phone": "+22822214244",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 17,
-  "name": "Royal Blue Guest House \u0026 Bar",
-  "address": "Bld de l'aéroport, face Amina Togo Sarl, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 18,
-  "name": "Hôtel Novela Star",
-  "address": "Unnamed Road, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 19,
-  "name": "Marbella Hotel",
-  "address": "Av. Pya, Lomé, Togo",
-  "phone": "+22870555575",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 20,
-  "name": "Royal Blue Guest House \u0026 Bar",
-  "address": "Boulevard Du 30 Aout, cassablanca, Lomé, Togo",
-  "phone": "+22892901111",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 21,
-  "name": "Hotel BKBG",
-  "address": "Camomilles, Lomé, Togo",
-  "phone": "+22893272727",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 22,
-  "name": "Hotel Ghis Palace",
-  "address": "57CR+X8C, Lomé, Togo",
-  "phone": "+22822711371",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 23,
-  "name": "ELOGIA HÔTEL",
-  "address": "657P+WRC, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 24,
-  "name": "LA MAISON BLEUE",
-  "address": "46WX+PV5, Boulevard Felix Houphouet Boigny, Lomé, Togo",
-  "phone": "+22890211125",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 25,
-  "name": "Tcha Tcha",
-  "address": "588G+3QG, Derriere Le Monument de Baguida Baguida, N2, Lomé, Togo",
-  "phone": "+22898539357",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 26,
-  "name": "Pure Plage",
-  "address": "Boulevard Du Mono, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 27,
-  "name": "Rosalie's Suites",
-  "address": "en face d'Akif, Quartier avenou , 2ième rue à gauche après Nsia bank en venant de la ville. Rue, Lomé, Togo",
-  "phone": "+22890056461",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 28,
-  "name": "Résidence Hôteliere Lauria",
-  "address": "Angle Rue Yokele et Ogou Nyekonakpoe, Lomé, Togo",
-  "phone": "+22890274946",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 29,
-  "name": "HOTEL ANHUI",
-  "address": "Rue 341 AGP, Lomé, Togo",
-  "phone": "+22893226262",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 30,
-  "name": "Hotel Otsunami",
-  "address": "Rue de la Pierre brute, Lomé, Togo",
-  "phone": "+22893344949",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 31,
-  "name": "Jess Hotel Lome",
-  "address": "Route de KEGUE, en face du CENTRE HOSPITALIER REGIONAL N34, Lomé, Togo",
-  "phone": "+22892154944",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 32,
-  "name": "Hôtel Ambassadors - Annexe",
-  "address": "04 BP 857 Lomé 04, Lomé, Togo",
-  "phone": "+22890035141",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 33,
-  "name": "Hotel Yabisso",
-  "address": "1581 Boulevard du 13 Janvier , Nyekonapkoe, Lomé, Togo",
-  "phone": "+22822223477",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 34,
-  "name": "HOTEL NAONI",
-  "address": "Zone portuaire 12502, Lomé, Togo",
-  "phone": "+22870864138",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 35,
-  "name": "GRACE LODGE",
-  "address": "2 Rue La Roche, Quartier Ablogamé, Lomé, Togo",
-  "phone": "+22822719516",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 36,
-  "name": "HOTEL MATER DEI",
-  "address": "Eyadema B.P. 3481, Lomé, Togo",
-  "phone": "+22822201818",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 37,
-  "name": "Hotel Residence Lobal",
-  "address": "Avenue du Général de Gaulle, Lomé, Togo",
-  "phone": "+22822212485",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 38,
-  "name": "Hôtel Alizé",
-  "address": "88 Rue d'Assoli, Lomé, Togo",
-  "phone": "+22822207000",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 39,
-  "name": "Keryvonne",
-  "address": "Bd Faure Gnassingbe, Lomé, Togo",
-  "phone": "+22822505050",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 40,
-  "name": "Stone Hotel",
-  "address": "Boulevard du 13 janvier 07 BP 12317, Nyékonakpoè, Lomé, Togo",
-  "phone": "130712317",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 41,
-  "name": "Appart M'Rode Djidjole",
-  "address": "BP 2232 LOME, Lome, Togo",
-  "phone": "+22822276590",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 42,
-  "name": "Hôtel amy's",
-  "address": "Unnamed Road,, Lomé, Togo",
-  "phone": "+22893970425",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 43,
-  "name": "Bougainvillers",
-  "address": "56J8+3HQ, Lomé, Togo",
-  "phone": "+22890376707",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 44,
-  "name": "hôtel tiamo",
-  "address": "00228, Lomé, Togo",
-  "phone": "+22898262424",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 45,
-  "name": "Hotel Marie Antoinette Lome",
-  "address": "4695+9XH, Lomé, Togo",
-  "phone": "+22890662320",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 46,
-  "name": "Stone Hotel",
-  "address": "Sogbossito en face de la station d'essence SOMAYAF 2, Lomé, Togo",
-  "phone": "+22870575707",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 47,
-  "name": "Nomads",
-  "address": "BP00, Lomé, Togo",
-  "phone": "+22898855328",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 48,
-  "name": "La residence",
-  "address": "Avenue Jean Paul 2, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 49,
-  "name": "Royal Hotel",
-  "address": "Route Nationale N2, dans le von, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 50,
-  "name": "Hotel Mivacity",
-  "address": "Rue 176 AFG, Lomé, Togo",
-  "phone": "+22870008662",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 51,
-  "name": "Villa Mariama",
-  "address": "01 Rue 20, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 52,
-  "name": "Guesthouse Rotimex",
-  "address": "von chatelet, Lomé, Togo",
-  "phone": "+22890800707",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 53,
-  "name": "Le Patio",
-  "address": "567G+C6, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 54,
-  "name": "HOTEL AHOEFA",
-  "address": "08BP8956 Rue 55 AFG Avenue Pya ,Djidjole à cote de consulat de la Rep Tchèque, Lomé, Togo",
-  "phone": "08895655",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 55,
-  "name": "Hotel le Galion",
-  "address": "Boulevard Du 30 Aout, Lomé, Togo",
-  "phone": "+22892756030",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 56,
-  "name": "Hôtel M'Rode",
-  "address": "Quartier Adidoadin, Près Du Nouveau Palais De Justice, Lomé, Togo",
-  "phone": "+22890207820",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 57,
-  "name": "IOKA HOTEL \u0026 SUITES LOME",
-  "address": "Rue Mrs Baguida, Lomé, Togo",
-  "phone": "+22893372988",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 58,
-  "name": "HÔTEL EDA-OBA",
-  "address": "3 Boulevard de la Paix, Lomé, Togo",
-  "phone": "+22822215199",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 59,
-  "name": "Hotel LeBenin",
-  "address": "agodeke kpogan, Lomé, Togo",
-  "phone": "+22897200949",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 60,
-  "name": "Hôtel KRIMAS",
-  "address": "Boulevard Du 30 Aout, Lomé, Togo",
-  "phone": "+22899937554",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 61,
-  "name": "Hotel le Pelican",
-  "address": "Rue 15 HDN, Novissi, Lomé, Togo",
-  "phone": "+22893714040",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 62,
-  "name": "Hotel Coco Beach",
-  "address": "Ave De La Liberation, Lome, Togo, Lomé, Togo",
-  "phone": "+22822207939",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 63,
-  "name": "Paradise Hotel",
-  "address": "Rue 15 HDN, Novissi, Lomé, Togo",
-  "phone": "+22893714040",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 64,
-  "name": "Hôtel Saint Manick",
-  "address": "BP:30060, Lomé, Togo",
-  "phone": "+22891101024",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 65,
-  "name": "Hôtel Queen Palace",
-  "address": "5767+799, Bd Malfakassa, Lomé, Togo",
-  "phone": "+22822219859",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 66,
-  "name": "Hotel restaurant BAY OF ANGELS",
-  "address": "voie du grand, Lomé, Togo",
-  "phone": "+22890430101",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 67,
-  "name": "Hotel Ô Balkan",
-  "address": "Avenue Pya prolongé, Totsi-Adidoadin, Lomé, Togo",
-  "phone": "+22822504317",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 68,
-  "name": "Mint Hotel",
-  "address": "Unnamed Road, Lomé, Togo",
-  "phone": "+22899257332",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 69,
-  "name": "Coco Beach Chez Antoine",
-  "address": "Boulevard circulaire côté festival des glaces, Lomé, Togo",
-  "phone": "+22822217217",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 70,
-  "name": "Mercure Sarakawa",
-  "address": "Rue Aledjo Koura, Lomé, Togo",
-  "phone": "+22822266618",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 71,
-  "name": "Hotel ARIANA",
-  "address": "1323, Lomé, Togo",
-  "phone": "+22870269277",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 72,
-  "name": "Astorya Hôtel",
-  "address": "Route de Baguida, (à droite après l'usine de cosmétique et 2ème rue à gauche), Lomé, Togo",
-  "phone": "+22870366464",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 73,
-  "name": "Hotel Le Sphinx",
-  "address": "Rue Homma, Lomé, Togo",
-  "phone": "+22893002319",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 74,
-  "name": "Hotel St Manick",
-  "address": "Route internationale Lomé-Cotonou, Lomé, Togo",
-  "phone": "+22822714971",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 75,
-  "name": "Key Boutique",
-  "address": "Avepozo Beach, Lomé, Togo",
-  "phone": "+22890255320",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 76,
-  "name": "Hôtel Monument de Baguida",
-  "address": "10BP 10433, Lomé, Togo",
-  "phone": "+22870555826",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 77,
-  "name": "Hôtel Bella Vida",
-  "address": "Bd du Mono  Quartier Baguida-Bateauvi, Lomé, Togo",
-  "phone": "+22891415656",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 78,
-  "name": "Hôtel Zind Naaba",
-  "address": "10BP 10433, Lomé, Togo",
-  "phone": "+22870555826",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 79,
-  "name": "Hotel Saint Lazaros Lomé",
-  "address": "la Banque Togolaise pour le Commerce Industrie, Impasse 21, Adoboukomé Juste à côté de, Lomé, Togo",
-  "phone": "+22891391367",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 80,
-  "name": "Residence Theresia",
-  "address": "Rue 98 HDN, 03 BP: 31179, Lomé, Togo",
-  "phone": "980331179",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 81,
-  "name": "Hôtel St MANICK",
-  "address": "10BP:10433, Lomé, Togo",
-  "phone": "+22870555811",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 82,
-  "name": "Hôtel Mirambeau",
-  "address": "Quartier Avépozo Plage, Lomé, Togo",
-  "phone": "+22890367178",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 83,
-  "name": "Hotel Residence Palmier Royal",
-  "address": "Rue 98 HDN, 03 BP: 31179, Lomé, Togo",
-  "phone": "980331179",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 84,
-  "name": "Hôtel Napoléon",
-  "address": "la Banque Togolaise pour le Commerce Industrie, Impasse 21, Adoboukomé Juste à côté de, Lomé, Togo",
-  "phone": "+22891391367",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 85,
-  "name": "Hotel Bamudas",
-  "address": "5857+6HJ, Lomé, Togo",
-  "phone": "+22893686868",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 86,
-  "name": "Hotel Magnificat",
-  "address": "Rue de la Gare, Lomé, Togo",
-  "phone": "+22890057129",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 87,
-  "name": "Marina hôtel résidence du lac",
-  "address": "Unnamed Road, Lomé, Togo",
-  "phone": "+22891386877",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 88,
-  "name": "Alt Munchen",
-  "address": "126 Rue Nima, Lomé, Togo",
-  "phone": "+22823361270",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 89,
-  "name": "La Table Du DG",
-  "address": "1 Rue des Camomilles, Lomé, Togo",
-  "phone": "+22893037777",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 90,
-  "name": "Café LOFT by Iconic",
-  "address": "Boulevard, Jean-Paul 2, Lomé, Togo",
-  "phone": "+22870232523",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 91,
-  "name": "RESTAURANT COTE SUD",
-  "address": "Boulevard Du Mono, Lomé, Togo",
-  "phone": "+22891596350",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 92,
-  "name": "Restaurant Côté Jardin",
-  "address": "5, rue Simon Dogbé Quartier Ocam, Lomé, Togo",
-  "phone": "+22898484904",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 93,
-  "name": "Le Pêcheur",
-  "address": "100 Bd du 13 Janvier, Lomé, Togo",
-  "phone": "+22822208515",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 94,
-  "name": "La route des vins",
-  "address": "Rue Ahoda, Derrière le Collège des Plateaux, Face Croix Rouge, Tokoin Cassablanca, Lomé, Togo",
-  "phone": "+22891935151",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 95,
-  "name": "TBB - The Best Burger Lomé",
-  "address": "Rue L'Ogou, Lomé, Togo",
-  "phone": "+22890040642",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 96,
-  "name": "Dom's Restaurant",
-  "address": "Boulevard Du Mono, Lomé, Togo",
-  "phone": "+22822276321",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 97,
-  "name": "RESTAURANT SÉNÉGALAIS GALE-NENE",
-  "address": "47R4+QJQ, Lomé, Togo",
-  "phone": "+22891821111",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 98,
-  "name": "Restaurant Vivi Royal",
-  "address": "Rue de l'OCAM, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 99,
-  "name": "bar restaurant la casa",
-  "address": "BP. 13692, Lomé, Togo",
-  "phone": "+22822206969",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 100,
-  "name": "Maison S Lomé",
-  "address": "562J+HV Lomé, Togo Boulevard Jean-Paul 2 Nukafu, Togo",
-  "phone": "+22893239184",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 101,
-  "name": "Le Space",
-  "address": "BP. 1268, Lomé, Togo",
-  "phone": "+22822217448",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 102,
-  "name": "Le Beluga",
-  "address": "214 Bd du Haho (3 HDN), Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 103,
-  "name": "La Main à La Pâte",
-  "address": "46J7+576, Ave Nicolas Grunitsky, Lomé, Togo",
-  "phone": "+22898409931",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 104,
-  "name": "Maquis Chic Chez Flo",
-  "address": "Av. de la Paix, Lomé, Togo",
-  "phone": "+22891930909",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 105,
-  "name": "Restaurant Le GALILÉO, Lomé",
-  "address": "46VH+GPV, N1, Lomé, Togo",
-  "phone": "+22870080808",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 106,
-  "name": "Le namiélé",
-  "address": "Be-Hedje, Rue Derriere la direction MOOV, Lomé, Togo",
-  "phone": "+22892424118",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 107,
-  "name": "Chez Fatou",
-  "address": "Rue Nassika, Lomé, Togo",
-  "phone": "+22898543937",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 108,
-  "name": "Maquis Chez Brovi",
-  "address": "R.P.T., Lomé, Togo",
-  "phone": "+22891144925",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 109,
-  "name": "Restaurant Bambule",
-  "address": "Be Château Near Alliance Biblique, Rue Tsviepe, Lomé, Togo",
-  "phone": "+22892255522",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 110,
-  "name": "Le Caliendi - Café Bar Restaurant",
-  "address": "BP. 13948, Lomé, Togo",
-  "phone": "+22822209557",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 111,
-  "name": "Green Field",
-  "address": "47Q9+H69, Lomé, Togo",
-  "phone": "+22899551447",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 112,
-  "name": "Flav-ours PIZZERIA",
-  "address": "sages femme, 511 Lome, tokoin- hôpital, von en face l ecole des, Togo",
-  "phone": "+22890084011",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 113,
-  "name": "7SPICE",
-  "address": "56CQ+PP8, Lomé, Togo",
-  "phone": "+22870807777",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 114,
-  "name": "La Terrazza",
-  "address": "46PM+VWF, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 115,
-  "name": "Dragon d'Or",
-  "address": "BP. 12922, Lomé, Togo",
-  "phone": "+22890011212",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 116,
-  "name": "Chez Oumy",
-  "address": "Rue KOKETI, 55 KTM, Lomé, Togo",
-  "phone": "+22898115356",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 117,
-  "name": "Les Nuits d'Orient",
-  "address": "7414, Lomé, Togo",
-  "phone": "+22898943848",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 118,
-  "name": "Nem 24",
-  "address": "Cascade, Lomé, Togo",
-  "phone": "+22896024904",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 119,
-  "name": "Olympe Café - Bar - Restaurant",
-  "address": "1780 Bd de la Kara, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 120,
-  "name": "Love Africa",
-  "address": "Face grande poste de Lomé Nyekonakpoè, Lomé, Togo",
-  "phone": "+22893525783",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 121,
-  "name": "BAR RESTAURANT ELISA",
-  "address": "TGXX, Lomé, Togo",
-  "phone": "+22897111117",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 122,
-  "name": "24'Vibes",
-  "address": "BP. 2718, Lomé, Togo",
-  "phone": "+22822202240",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 123,
-  "name": "Restaurant du Contournement Chez Alice",
-  "address": "39 Ave Du 24 Janvier, Lomé, Togo",
-  "phone": "+22822218074",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 124,
-  "name": "Le Cercle",
-  "address": "46PM+QQX, Blvd Houphouet Boigny, Lomé, Togo",
-  "phone": "+22822222041",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 125,
-  "name": "BAR-RESTAURANT II",
-  "address": "FACE HOTEL IBIS, Lomé, Togo",
-  "phone": "+22822212485",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 126,
-  "name": "SAN MARCO",
-  "address": "Boulevard, Lomé, Togo",
-  "phone": "+22870543894",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 127,
-  "name": "Marox Bena Grill",
-  "address": "BRETELLE, Lomé, Togo",
-  "phone": "+22822507677",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 128,
-  "name": "RESTAURANT DIVA228",
-  "address": "Rue Dague, Lomé, Togo",
-  "phone": "+22870313384",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 129,
-  "name": "La Part du Boucher",
-  "address": "BP 1380, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 130,
-  "name": "Restaurant GARDEN GRILLE",
-  "address": "Rue Fromager, Lomé, Togo",
-  "phone": "+22891595837",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 131,
-  "name": "Restaurant TREICHVILLLE",
-  "address": "41 Ave Nicolas Grunitsky, Lomé, Togo",
-  "phone": "+22893291818",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 132,
-  "name": "225 restaurant",
-  "address": "46M7+3PQ, Lomé, Togo",
-  "phone": "+22890074444",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 133,
-  "name": "Atieke Poisson Aloko",
-  "address": "11 BP 163, Lomé, Togo",
-  "phone": "+22891848293",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 134,
-  "name": "La Bruschetta",
-  "address": "BP. 7205, Lomé, Togo",
-  "phone": "+22822214097",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 135,
-  "name": "Nopégali Boulevard",
-  "address": "Jean-Paul 2, Lomé, Togo",
-  "phone": "+22890019191",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 136,
-  "name": "Le.Regent",
-  "address": "564R+M6R, Rue Mandiyen, Lomé, Togo",
-  "phone": "+22891510978",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 137,
-  "name": "Festival Des Glaces",
-  "address": "20141, Lomé, Togo",
-  "phone": "+22891879787",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 138,
-  "name": "Restaurant La Pause Gourmande",
-  "address": "04BP 463, Lomé, Togo",
-  "phone": "+22899658185",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 139,
-  "name": "Eski Resto",
-  "address": "46G4+99P, Rue L'Ogou, Lomé, Togo",
-  "phone": "+22890535377",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 140,
-  "name": "Restaurant Abou Kassem",
-  "address": "Rue L'Ogou, Lomé, Togo",
-  "phone": "+22890146331",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 141,
-  "name": "Ma cuisine Bar-resto Moins Cher",
-  "address": "Boulevard Du Mono, Lomé, Togo",
-  "phone": "+22890148850",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 142,
-  "name": "Restaurant Obelix",
-  "address": "46HQ+P34, Rue de L' Entente, Lomé, Togo",
-  "phone": "+22822202513",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 143,
-  "name": "Restaurant Espace Marrakech",
-  "address": "565H+925, Lomé, Togo",
-  "phone": "+22890910711",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 144,
-  "name": "Solim Rose Restaurant",
-  "address": "Signature, Résidence du Bénin Au sein de \"Harmonie, Lomé, Togo",
-  "phone": "+22891977777",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 145,
-  "name": "Restaurant Cuisine AL",
-  "address": "46W7+3FF, Lomé, Togo",
-  "phone": "+22870107320",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 146,
-  "name": "Hype Lomé",
-  "address": "24 Rue du Lac Togo, Lomé, Togo",
-  "phone": "+22822224138",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 147,
-  "name": "Le Green bar",
-  "address": "228 super taco, Lomé, Togo",
-  "phone": "+22898159528",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 148,
-  "name": "RESTAURANT LIBRA",
-  "address": "Rue Koketi, Lomé, Togo",
-  "phone": "+22822222223",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 149,
-  "name": "La Ruandesa",
-  "address": "Face mairie 2ème Arr, Lomé, Togo",
-  "phone": "+22870410876",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 150,
-  "name": "BIG METRO STAR",
-  "address": "Boulevard Du Mono, Lomé, Togo",
-  "phone": "+22890808008",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 151,
-  "name": "Limousine Inn Bar \u0026 Restaurant",
-  "address": "0022891927928, Lomé, Togo",
-  "phone": "0022891927928",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 152,
-  "name": "RESTAURANT LE MALESAN",
-  "address": "Kegue, 16BP270, Lomé, Togo",
-  "phone": "+22893855186",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 153,
-  "name": "MSL",
-  "address": "à coté de la direction, Boulevard Du Mono, Lomé, écobank, Togo",
-  "phone": "+22893333331",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 154,
-  "name": "Les Delices de Mathis Lomé",
-  "address": "80000, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 155,
-  "name": "Escale D",
-  "address": "Rue de l'OCAM, Lomé, Togo",
-  "phone": "+22898612323",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 156,
-  "name": "Home Made Lomé",
-  "address": "Boulevard, Lomé, Togo",
-  "phone": "+22899212868",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 157,
-  "name": "RESTAURANT LA TERRASSE",
-  "address": "81213, Lomé, Togo",
-  "phone": "+22893231173",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 158,
-  "name": "Les Convives DU CHEF",
-  "address": "s Cake, Route pavée face Cité Millenium/Face à Saadé, Lomé, Togo",
-  "phone": "+22870551111",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 159,
-  "name": "TOP LUXE RESTO LOUNGE BAR",
-  "address": "Rue de l'OCAM, Lomé, Togo",
-  "phone": "+22890054138",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 160,
-  "name": "Restaurant le Rocher",
-  "address": "Rue 86 tokoin wuiti, Lomé, Togo",
-  "phone": "+22892681313",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 161,
-  "name": "Ely Resto",
-  "address": "31Homma,, Lomé, Togo",
-  "phone": "+22892060101",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 162,
-  "name": "Kanchan’s Kitchen",
-  "address": "1097 Ave de Calais, Lomé, Togo",
-  "phone": "+22891484841",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 163,
-  "name": "Free Food",
-  "address": "Place de L'indépendence Bp.131, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 164,
-  "name": "Restaurant AHOME",
-  "address": "20 Rue de l'Espérance, Lomé, Togo",
-  "phone": "+22898328884",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 165,
-  "name": "Botafogo",
-  "address": "46J6+7QW, Rue des Bergers, Lomé, Togo",
-  "phone": "+22870396464",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 166,
-  "name": "Pizzavi La Place",
-  "address": "Ave Nicolas Grunitsky, Lomé, Togo",
-  "phone": "+22822201915",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 167,
-  "name": "RESTAURANT LE BISTROT",
-  "address": "Rue de Kourome, Lomé, Togo",
-  "phone": "+22879302925",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 168,
-  "name": "Fifty Fifty",
-  "address": "Ave Nicolas Grunitsky, Lomé, Togo",
-  "phone": "+22892481075",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 169,
-  "name": "AUTRES SAVEURS",
-  "address": "Bd de la Kara, Lomé, Togo",
-  "phone": "+22896701183",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 170,
-  "name": "QG Régal",
-  "address": "Bd du 13 Janvier, Lomé, Togo",
-  "phone": "+22892643866",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 171,
-  "name": "Centre Commercial Moderne ( C.C.M.)",
-  "address": "66R2+MV, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 172,
-  "name": "Le mall de 1000 fr",
-  "address": "66JF+86V, Unnamed Road, Lomé, Togo",
-  "phone": "+22890310307",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 173,
-  "name": "BiG Center",
-  "address": "5882+9P, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 174,
-  "name": "Gran mercat de Lomé",
-  "address": "46GC+8V5, Rue de Kourome, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 175,
-  "name": "le mall de 1000 fr",
-  "address": "65R4+HWX, Lomé, Togo",
-  "phone": "+22892434442",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 176,
-  "name": "Aziz Shopping Complex",
-  "address": "55RH+HF6, Lomé, Togo",
-  "phone": "+22891940939",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 177,
-  "name": "TAZ Center",
-  "address": "46GJ+H9J, Rue du Lac Togo, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 178,
-  "name": "ZEN. LOME LA BELLE",
-  "address": "46X2+WMW, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 179,
-  "name": "Dieu Benis Coifeuse",
-  "address": "46FF+C95, Rue de Commerce, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 180,
-  "name": "Giordano Moretti Outlet",
-  "address": "Rue de Commerce #230 07BP13008, Lomé, Togo",
-  "phone": "2300713008",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 181,
-  "name": "UNIPARK",
-  "address": "65VW+R4H, Route de la CEDEAO Agouê, Lomé, Togo",
-  "phone": "+22891994773",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 182,
-  "name": "SHINING INTERNATIONAL",
-  "address": "46JG+9R4, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 183,
-  "name": "John Busness Center",
-  "address": "5893+6V7, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 184,
-  "name": "Abdou Salam Business Center",
-  "address": "58C2+MX2, Lomé, Togo",
-  "phone": "+22870023058",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 185,
-  "name": "LA SOIF SARL U",
-  "address": "648H+RHM, Lomé, Togo",
-  "phone": "+22823212966",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 186,
-  "name": "Ets Floriane",
-  "address": "BP. 30822, Lomé, Togo",
-  "phone": "+22822263312",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 187,
-  "name": "Ets Pride Shop",
-  "address": "46HG+QVM, Lomé, Togo",
-  "phone": "+22890005820",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 188,
-  "name": "Power tyre center",
-  "address": "573J+9X2, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 189,
-  "name": "Sara Business Center sarl",
-  "address": "bd, Jean-Paul 2, Lomé, Togo",
-  "phone": "+22896609661",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 190,
-  "name": "International Museum of the Gulf of Guinea",
-  "address": "7748, Lomé, Togo",
-  "phone": "+22890104326",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 191,
-  "name": "Musee National",
-  "address": "382 avenue de la Marina, Lomé, Togo",
-  "phone": "+22890139464",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 192,
-  "name": "Akodessewa Fetish Market",
-  "address": "1603, Lomé, Togo",
-  "phone": "+228930260802221818",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 193,
-  "name": "TATA PARK",
-  "address": "Boulevard, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 194,
-  "name": "Fauna Cultura",
-  "address": "Ave 2 Fevrier, Lomé, Togo",
-  "phone": "+22892293445",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 195,
-  "name": "Monument de l'independance",
-  "address": "Adidogomé, Awatame, Lomé, Togo",
-  "phone": "+22892035999",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 196,
-  "name": "Cascade de Womé",
-  "address": "1 Rue des Camomilles, Lomé, Togo",
-  "phone": "+22893037777",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 197,
-  "name": "Centre Culturel Denyigba",
-  "address": "Rue Ahoda, Derrière le Collège des Plateaux, Face Croix Rouge, Tokoin Cassablanca, Lomé, Togo",
-  "phone": "+22891935151",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 198,
-  "name": "CENTRE CULTUREL FRANCAIS",
-  "address": "Rue L'Ogou, Lomé, Togo",
-  "phone": "+22890040642",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 199,
-  "name": "Riding Club Togo",
-  "address": "Zone portuaire lomé, Lomé, Togo",
-  "phone": "+22890781490",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 200,
-  "name": "Palais des congrès",
-  "address": "Zone portuaire 12502, Lomé, Togo",
-  "phone": "+22870864138",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 201,
-  "name": "Lake Togo",
-  "address": "46GG+74H, Lomé, Togo",
-  "phone": "+22892984743",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 202,
-  "name": "Honmè Museum",
-  "address": "60 Boulevard du 13 Janvier BP 30586, Lomé, Togo",
-  "phone": "601330586",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 203,
-  "name": "Harmonie Signature",
-  "address": "46G8+P3V, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 204,
-  "name": "New Robinson Plage TOGO",
-  "address": "BP. 2090, Lomé, Togo",
-  "phone": "+22822210232",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 205,
-  "name": "Maritime Region",
-  "address": "04BP921, Lomé, Togo",
-  "phone": "+22891431431",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 206,
-  "name": "Plateaux Region",
-  "address": "Rue 330 HDN, Lomé, Togo",
-  "phone": "+22893355473",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 207,
-  "name": "Agbodrafo",
-  "address": "BP. 2090, Lomé, Togo",
-  "phone": "+22822210232",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 208,
-  "name": "Philipat",
-  "address": "04BP921, Lomé, Togo",
-  "phone": "+22891431431",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 209,
-  "name": "Dantokpa Market",
-  "address": "Unnamed Road, Lomé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 210,
-  "name": "Wli Waterfalls main office",
-  "address": "BP. 80634, Lomé, Togo",
-  "phone": "+22822200659",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 211,
-  "name": "La Table Du DG",
-  "address": "BP. 12156, Lomé, Togo",
-  "phone": "+22822302436",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 212,
-  "name": "Café LOFT by Iconic",
-  "address": "01BP4804 Lomé-Centre, Lomé, Togo",
-  "phone": "+22897097979",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 213,
-  "name": "Gnassingbé Eyadéma International Airport",
-  "address": "2J4W+9V8, Kpimé Seva, Apédomé, Togo",
-  "phone": "+22891097621",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 214,
-  "name": "Ouidah Museum of History (Portuguese Fort)",
-  "address": "VH88+56W, Unnamed Road, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 215,
-  "name": "Hôtel Central",
-  "address": "248R+F9, Sokode, Togo",
-  "phone": "+22899586968",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 216,
-  "name": "Hôtel LAMIREL",
-  "address": "Unnamed Road, Sokode, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 217,
-  "name": "Balcon Vert",
-  "address": "BP. 811, Sokode, Togo",
-  "phone": "+22825500296",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 218,
-  "name": "Hôtel King Palace Sokode",
-  "address": "24CR+WH4, N1, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 219,
-  "name": "Mon Beau Village",
-  "address": "Sur la nationale N° 1, à la sortie Nord à environ 5km du centre ville, Quartier Kidèoudè, Sokodé, Togo",
-  "phone": "+22892623240",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 220,
-  "name": "HOTEL PARC FAZAO",
-  "address": "X4HV+5XC, Sokode, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 221,
-  "name": "Fraternité",
-  "address": "242C+5C, Sokode, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 222,
-  "name": "Hôtel LA FRATERNITÉ",
-  "address": "X4MQ+G6R، Unnamed Road, Sokode, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 223,
-  "name": "Bar-Auberge RELAIS de la CIGALE",
-  "address": "X4QP+J9V, Sokode, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 224,
-  "name": "HÔTEL ROYAL LA FINESSE",
-  "address": "Rue en face du camp des gardiens de préfecture, Sokodé, Togo",
-  "phone": "+22890950289",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 225,
-  "name": "Hôtel Aleheri",
-  "address": "d'eau, Rue du Château, Sokodé, Togo",
-  "phone": "+22890167227",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 226,
-  "name": "Bel air",
-  "address": "00, Sokodé, Togo",
-  "phone": "+22891131211",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 227,
-  "name": "Nassam's hôtel",
-  "address": "X4GM+X6Q, Unnamed Road, Sokodé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 228,
-  "name": "AKISSIDE",
-  "address": "Unnamed Road, Sokodé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 229,
-  "name": "CAFE-RESTAURANT-BAR LA PAIX",
-  "address": "RUE DE NADA, Sokode, Togo",
-  "phone": "+22898683130",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 230,
-  "name": "Bar Restaurant Chez Navi(Restaurant)",
-  "address": "X4RQ+592, Sokode, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 231,
-  "name": "Restauration/Chez Wass",
-  "address": "kpangalame, N1, Sokode, Togo",
-  "phone": "+22890306699",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 232,
-  "name": "Cafétéria Kratos Sokodé",
-  "address": "Unnamed Road, Sokodé, Togo",
-  "phone": "+22890744219",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 233,
-  "name": "CHEZ LA GROSSE",
-  "address": "X4FV+3GJ, Sokode, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 234,
-  "name": "Bar Resto Claudia",
-  "address": "Unnamed Road, Sokodé, Togo",
-  "phone": "+22891651749",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 235,
-  "name": "Manger",
-  "address": "X47X+F9X, Sokode, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 236,
-  "name": "Foufou Bar - Bon Coin",
-  "address": "X5G5+P56, Sokode, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 237,
-  "name": "RESTAURANT LA BONNE SAVEUR",
-  "address": "105, Sokodé, Togo",
-  "phone": "+22892865864",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 238,
-  "name": "GBO GBOKIRIGBO",
-  "address": "X4PQ+QXQ, Unnamed Road, Sokodé, Togo",
-  "phone": "+22890344333",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 239,
-  "name": "Komah-Plage",
-  "address": "X4PP+GH2, rue CHR, Sokodé, Togo",
-  "phone": "+22892532113",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 240,
-  "name": "FORTUNE HOTSPOT",
-  "address": "246Q+X4, Sokode, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 241,
-  "name": "Bar Restaurant LA FAVELA Sokode",
-  "address": "Unnamed Road, Sokodé, Togo",
-  "phone": "+22890508548",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 242,
-  "name": "Auberge NEW WORLD",
-  "address": "SC/886, Sokodé, Togo",
-  "phone": "+22891484550",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 243,
-  "name": "COMPUTER plus center",
-  "address": "rue de cathédrale, Sokodé, Togo",
-  "phone": "+22891717700",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 244,
-  "name": "Sokode",
-  "address": "N17, Sokode, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 245,
-  "name": "Musée Africart",
-  "address": "X4JQ+P86, Sokode, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 246,
-  "name": "Hotel Jess",
-  "address": "Lomnava 1, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 247,
-  "name": "Hôtel Amédzépé",
-  "address": "Quartier Lom Nava, Kpalimé, Togo",
-  "phone": "+22892935974",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 248,
-  "name": "Hotel Ganiela",
-  "address": "Quartier Kpeta, non loin de INFA de Tové,, Kpalimé, Togo",
-  "phone": "+22824410316",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 249,
-  "name": "Hôtel Chez Fanny",
-  "address": "CMS de Kpalimé, A côté du, Kpalimé, Togo",
-  "phone": "+22824410304",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 250,
-  "name": "Orchidée Hôtel",
-  "address": "Route Missahoe, BP 333 Kpalimé, Missahohe, Togo",
-  "phone": "+22890574282",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 251,
-  "name": "La Paillotte",
-  "address": "route de Missahoé, Kpalimé, Togo",
-  "phone": "+22890801818",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 252,
-  "name": "Hotel Agbeviade",
-  "address": "National n° 2, à l’entrée de la ville, Kpalimé, Togo",
-  "phone": "+22890052852",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 253,
-  "name": "Hôtel Le Geyser",
-  "address": "Novissikomé Route d'Atakpamé, Kpalime, Togo",
-  "phone": "+22893547648",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 254,
-  "name": "Hotel Parc Residence",
-  "address": "WJCC+6V6, Kpalime, Togo",
-  "phone": "+22890103955",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 255,
-  "name": "Maison Ebenezer",
-  "address": "Route de missahoe, a cote du centre artisanal, Kpalime, Togo",
-  "phone": "+22892489647",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 256,
-  "name": "HÔTEL DJIM",
-  "address": "Sur La Route Lassa, Kara, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 257,
-  "name": "Hotel Sarakawa",
-  "address": "3e voie à gauche après le Centre Médical Notre Dame de la Miséricorde de Kpodzi, Route de kpalime-Atakpame Kpodzi kpalime Togo, Kpalime, Togo",
-  "phone": "+22893972979",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 258,
-  "name": "Hotel La Lumiere Kpalimé",
-  "address": "Zomayi Agou-Akplolo, Agou, Togo",
-  "phone": "+22890224101",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 259,
-  "name": "Hotel Royal",
-  "address": "N13 - In Front Of Hotel Le Geyser, Kpalime, Togo",
-  "phone": "+22893549961",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 260,
-  "name": "Auberge Vakpo",
-  "address": "Hotel Ize, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 261,
-  "name": "Hôtel St Daniel, Kpalimé",
-  "address": "Quartier Kpeta, Deuxième maison derrière l'hôtel Chez Fanny, Kpalime, Togo",
-  "phone": "+22891630594",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 262,
-  "name": "ORCHIDEE HÔTEL",
-  "address": "WJ2M+28C, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 263,
-  "name": "Hotel La Detente",
-  "address": "Kpimé Seva, Kpalimé, Togo",
-  "phone": "+22892480834",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 264,
-  "name": "ORCHIDEE HÔTEL",
-  "address": "BP 58, Kpalime, Togo",
-  "phone": "+22892215969",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 265,
-  "name": "Auberge Vakpo",
-  "address": "michemole@yahoo.fr, Kpalime, Togo",
-  "phone": "+22892886880",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 266,
-  "name": "HOTEL SACHA AGOU",
-  "address": "WJJH+MMG, Klouto road, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 267,
-  "name": "Auberge la Montagne Verte",
-  "address": "AGOU GARE ROUTE NATIONALE N°5 NON LOIN DE BUREAU DE LA PREFECTURE, GARE, Togo",
-  "phone": "+22892616220",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 268,
-  "name": "Vakpo",
-  "address": "2J5Q+93H, Kpimé seva, Kpalimé, Togo",
-  "phone": "+22892158324",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 269,
-  "name": "Hôtel Chez Félicia",
-  "address": "WJCF+76R, Kpalime, Togo",
-  "phone": "+22890103955",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 270,
-  "name": "Auberge Les Rochers",
-  "address": "WJFM+R4W, Rte Datakpame, Kpalime, Togo",
-  "phone": "+22890581905",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 271,
-  "name": "Espace Culturel Kékéli",
-  "address": "WJCF+76R, Kpalime, Togo",
-  "phone": "+22890103955",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 272,
-  "name": "Hotel Ize",
-  "address": "WJJH+MMG, Klouto road, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 273,
-  "name": "Hôtel Belle Ville Kpalime",
-  "address": "Quartier Kpeta en face de l’auberge Bon Coin, VJVV+95Q, Kpalimé ,Kpeta, Kpalimé, Togo",
-  "phone": "+22890881490",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 274,
-  "name": "Chez Therese",
-  "address": "BP 2232 LOME, Lome, Togo",
-  "phone": "+22822276590",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 275,
-  "name": "Hôtel Saint Manick",
-  "address": "VJWP+2MV sito, Kpalimé, Togo",
-  "phone": "+22824411010",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 276,
-  "name": "Hotel Kabietou",
-  "address": "Unnamed Road, Kpalimé, Togo",
-  "phone": "+22824401414",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 277,
-  "name": "Hôtel Memphis",
-  "address": "1323, Kpalimé, Togo",
-  "phone": "+22893414080",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 278,
-  "name": "Resto Glory de Kpalimé",
-  "address": "Route Nationale, N5, Kpalimé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 279,
-  "name": "Le Gourmet",
-  "address": "WJ7P+PCH, Unnamed Road, Kpalimé, Togo",
-  "phone": "+22890261169",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 280,
-  "name": "RECA Resto",
-  "address": "WJ5H+WX2, route de Missahoé, Kpalimé, Togo",
-  "phone": "+22892198116",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 281,
-  "name": "Bar Restaurant MERJAH",
-  "address": "le deuxième von à droite après le clinique Clidem en allant vers, 97, route de Kpadapé Quartier Zomayi orabank zomayi, Kpalimé, Togo",
-  "phone": "+22890357381",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 282,
-  "name": "Bar Restaurant Le Plaisir, Non Loin De L'auberge La Grace",
-  "address": "Orabank, Non loin de, Kpalimé, Togo",
-  "phone": "+22890357381",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 283,
-  "name": "Le Bon Vivant Restaurant \"chez Le Belge\"",
-  "address": "Face Hôtel 30 Août, Nationale, N5, Kpalimé, Togo",
-  "phone": "+22890763924",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 284,
-  "name": "Restaurant Glory Chez Deborah",
-  "address": "22, Kpalimé, Togo",
-  "phone": "+22896043121",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 285,
-  "name": "Resto - Bar - Cremerie au fermier",
-  "address": "N13 - In Front Of Hotel Le Geyser, Kpalime, Togo",
-  "phone": "+22893549961",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 286,
-  "name": "Africa Bar",
-  "address": "WJVP+9VF, Kuma Tsame Totsi, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 287,
-  "name": "Static",
-  "address": "WJXP+2FW, Kuma Tsame Totsi, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 288,
-  "name": "Le Perno",
-  "address": "Unnamed Road, Kpalimé, Togo",
-  "phone": "+22891999409",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 289,
-  "name": "Auberge Restaurant Bar AMITIÉ",
-  "address": "ولاية، قبالة فندق أفاني كبيتا طريق الرابط بين العاصمة, Kpalime, Togo",
-  "phone": "+22890763924",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 290,
-  "name": "Bar la récréation",
-  "address": "VJVV+95Q, Kpalime, Togo",
-  "phone": "+22898186406",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 291,
-  "name": "Maquis Akwaba Bar - Restaurant",
-  "address": "Poste, Route Nationale N3, Kpalimé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 292,
-  "name": "La Cantine du Onelove",
-  "address": "WJG9+7MR, Unnamed Road, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 293,
-  "name": "RESTAURANT DAKAFUI",
-  "address": "National n° 2, à l’entrée de la ville, Kpalimé, Togo",
-  "phone": "+22890052852",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 294,
-  "name": "LE BINJAGO",
-  "address": "WJ5J+PR9, Kpalime, Togo",
-  "phone": "+22893482355",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 295,
-  "name": "Restaurant bon goût du grand kloto",
-  "address": "Rue de L'Hôpital, Kpalimé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 296,
-  "name": "Café - Bar - Resto Bébéfé",
-  "address": "Rue du grand marché de Kpalimé, Kpalime, Togo",
-  "phone": "+22890195838",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 297,
-  "name": "Kpalime Fufu",
-  "address": "VJWH+CHV, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 298,
-  "name": "Lidha.m",
-  "address": "Unnamed Road, Kpalimé, Togo",
-  "phone": "+22890243579",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 299,
-  "name": "Cafétériat CORRIDOR",
-  "address": "Moov Africa, Route d'atakpamé En face d'agence, Kpalime, Togo",
-  "phone": "+22870795750",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 300,
-  "name": "Freedom city",
-  "address": "WJFM+WJ8, Kpalime, Togo",
-  "phone": "+22890946667",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 301,
-  "name": "Restaurant du Bon Goût *Chez Tanty Reine*",
-  "address": "akomloarim17@gmail.com, Kpalime, Togo",
-  "phone": "+22893225185",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 302,
-  "name": "BAR RESTAURANT METS DIVERS",
-  "address": "VJRR+6H7, Entrée ville de la Ville de Kpalimé, Route de Lomé, Kpalimé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 303,
-  "name": "Bar restaurant chez yovo",
-  "address": "Quartier Atakpamé, Kpalimé, Togo",
-  "phone": "+22891187392",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 304,
-  "name": "Hôtel Amareve",
-  "address": "91079045, Kpalimé, Togo",
-  "phone": "91079045",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 305,
-  "name": "Agloza Lapino",
-  "address": "33, Kpalimé, Togo",
-  "phone": "+22899133013",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 306,
-  "name": "tatra",
-  "address": "raphael tatra, Kpalime, Togo",
-  "phone": "+22898914277",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 307,
-  "name": "VIANDOLOGIE 2",
-  "address": "WJ7H+8XP, Kpalime, Togo",
-  "phone": "+22890227692",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 308,
-  "name": "CAFETARIA MANASE",
-  "address": "Kpodzi Maria Komé en face de l'Hôpital des SŒURS CATHOLIQUES, Kpalimé, Togo",
-  "phone": "+22892295804",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 309,
-  "name": "Charcuterie COLOMBIA",
-  "address": "ivans plazza, Non loin de, Kpalimé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 310,
-  "name": "Akarim AKOMLO-Santé Naturelle-conseil-touristsguider-in-Kpalimé",
-  "address": "WJ7Q+PCW, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 311,
-  "name": "LES DÉLICES D'AGNIGBAN",
-  "address": "VJVM+JR3, Kpalime, Togo",
-  "phone": "+22891820596",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 312,
-  "name": "Chic de Kloto",
-  "address": "WJ2C+P58, Kpalime, Togo",
-  "phone": "+22870309705",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 313,
-  "name": "Super Degue",
-  "address": "Gagobaessi@gmail.com, Kpalime, Togo",
-  "phone": "+22890137431",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 314,
-  "name": "Bar Restaurant SANS TRACE",
-  "address": "VJXP+P2M, Unnamed Road, Kpalimé, Togo",
-  "phone": "+22898272148",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 315,
-  "name": "KPALIME OASE RESTAURANT",
-  "address": "WJ8Q+2CV, Rue du Marché, Kpalimé, Togo",
-  "phone": "+22896306757",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 316,
-  "name": "Grâce Berlin",
-  "address": "WJJQ+46W, Kpalime, Togo",
-  "phone": "+22892903171",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 317,
-  "name": "Bar restaurant Mandéla",
-  "address": "WJ5J+PR8, Rue du Marché, Kpalimé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 318,
-  "name": "Bar Relais de foot",
-  "address": "WJ5M+PCP, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 319,
-  "name": "CAFE RESTO REMEMBER",
-  "address": "Derrière le Centre artisanal, Kpalimé, Togo",
-  "phone": "+22893744936",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 320,
-  "name": "Hôtel Chez Fanny",
-  "address": "Route nationale 3. Face Police, Kpalimé, Togo",
-  "phone": "+22898703359",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 321,
-  "name": "RESTAURANTE ALMOUSSANE",
-  "address": "1.0040, RN5, KPALIME, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 322,
-  "name": "One Love",
-  "address": "WJ8M+75M, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 323,
-  "name": "Cafetariat De Bel Air, Gbadjadji, Kpalimé, Togo",
-  "address": "Rue de missahoe 239, Kpalimé, Togo",
-  "phone": "+22892489617",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 324,
-  "name": "Restaurant la Madagascar",
-  "address": "WJFJ+C6C, Unnamed Road, Kpalimé, Togo",
-  "phone": "+22896094657",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 325,
-  "name": "Auberge BON COIN",
-  "address": "WJ2J+3MM, Unnamed Road, Kpalimé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 326,
-  "name": "N'tifafa Bar Restaurant Auberge",
-  "address": "11, Kpalimé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 327,
-  "name": "Cafétéria BAMOUSSE",
-  "address": "WJ9F+2X2, Unnamed Road, Kpalimé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 328,
-  "name": "Grand Marché",
-  "address": "1323, Kpalimé, Togo",
-  "phone": "+22893414080",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 329,
-  "name": "Centre Artisanal de Kpalimé",
-  "address": "WJ4M+HC5, Kpalime, Togo",
-  "phone": "+22892403335",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 330,
-  "name": "Carrefour Atilamonou",
-  "address": "route de Yokélé, Kpalimé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 331,
-  "name": "LIZZ-DEE SHOPPING MALL",
-  "address": "648H+RHM, Lomé, Togo",
-  "phone": "+22823212966",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 332,
-  "name": "Ets Chaussures bons prix",
-  "address": "WJF8+8WQ, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 333,
-  "name": "Hotel Jess",
-  "address": "WJHG+982, Kpalime, Togo",
-  "phone": "+22891741885",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 334,
-  "name": "Centre Aklala Batik",
-  "address": "WJ2M+28C, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 335,
-  "name": "Hotel Royal",
-  "address": "route de Missahoé, Kpalimé, Togo",
-  "phone": "+22890801818",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 336,
-  "name": "Kouma konda",
-  "address": "WJ5H+WX2, Kpalime, Togo",
-  "phone": "+22897440564",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 337,
-  "name": "GRAND KLOTO TV",
-  "address": "Quartier Kpeta, non loin de INFA de Tové,, Kpalimé, Togo",
-  "phone": "+22824410316",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 338,
-  "name": "Restaurant MACUMBA",
-  "address": "Totsoanyi, route de Missahoe, Kpalimé, Togo",
-  "phone": "+22892180738",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 339,
-  "name": "Cascade de Womé",
-  "address": "WJ5H+WX2, Kpalime, Togo",
-  "phone": "+22897440564",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 340,
-  "name": "Chateau Viale",
-  "address": "VH88+56W, Unnamed Road, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 341,
-  "name": "Hotel Royal",
-  "address": "WJF8+8WQ, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 342,
-  "name": "Aklala Batik du Togo",
-  "address": "2J4W+9V8, Kpimé Seva, Apédomé, Togo",
-  "phone": "+22891097621",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 343,
-  "name": "Amedzofe",
-  "address": "National n° 2, à l’entrée de la ville, Kpalimé, Togo",
-  "phone": "+22890052852",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 344,
-  "name": "Afegame",
-  "address": "1323, Kpalimé, Togo",
-  "phone": "+22893414080",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 345,
-  "name": "To",
-  "address": "Route de missahoe, a cote du centre artisanal, Kpalime, Togo",
-  "phone": "+22892489647",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 346,
-  "name": "Volta Region",
-  "address": "le deuxième von à droite après le clinique Clidem en allant vers, 97, route de Kpadapé Quartier Zomayi orabank zomayi, Kpalimé, Togo",
-  "phone": "+22890357381",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 347,
-  "name": "Sogakope",
-  "address": "CMS de Kpalimé, A côté du, Kpalimé, Togo",
-  "phone": "+22824410304",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 348,
-  "name": "Akosombo",
-  "address": "route de Missahoé, Kpalimé, Togo",
-  "phone": "+22890801818",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 349,
-  "name": "Volta Region",
-  "address": "Route Missahoe, BP 333 Kpalimé, Missahohe, Togo",
-  "phone": "+22890574282",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 350,
-  "name": "The Trident",
-  "address": "WJ2M+28C, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 351,
-  "name": "Hôtel Luxembourg",
-  "address": "G4P3+GWM, Hiheatro, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 352,
-  "name": "Atakpamé soir",
-  "address": "Unnamed Road, Atakpame, Togo",
-  "phone": "+22893638271",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 353,
-  "name": "Bar restaurant Go Slow",
-  "address": "G4JF+WFX, Atakpame, Togo",
-  "phone": "+22891944102",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 354,
-  "name": "Bar restaurant la cachette",
-  "address": "G49V+G7W, Atakpame, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 355,
-  "name": "Bar Restau Maman Bissé",
-  "address": "G4GH+F5R, Atakpame, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 356,
-  "name": "BAR RESTAURANT LA CONCORDE",
-  "address": "Bp 60, Atakpamé, Togo",
-  "phone": "+22890224403",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 357,
-  "name": "ETS ÉRÓ CHEZ GEORGES",
-  "address": "Falegnameria atakpamé, Atakpame, Togo",
-  "phone": "+22891538587",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 358,
-  "name": "Dieu de L'univers",
-  "address": "G4FM+J79, Atakpame, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 359,
-  "name": "Atakpamé Hotri restaurant King",
-  "address": "G582+78, Atakpame, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 360,
-  "name": "FOUFOU BAR",
-  "address": "G534+27, Atakpame, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 361,
-  "name": "Escale restaurant",
-  "address": "G4FJ+735, Atakpame, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 362,
-  "name": "BAR MARA-CANA",
-  "address": "Carrefour vakpo, Atakpamé, Togo",
-  "phone": "+22890059940",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 363,
-  "name": "New Maquis Miss des Miss Auberge",
-  "address": "Nationale No1 à côté de la poste d'Agbonou, Atakpamé, Togo",
-  "phone": "+22890121363",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 364,
-  "name": "Bar Chez soi",
-  "address": "G49V+G7W, Atakpame, Togo",
-  "phone": "+22824400433",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 365,
-  "name": "Bar La Cachette",
-  "address": "G4GP+645, Atakpame, Togo",
-  "phone": "+22898637653",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 366,
-  "name": "Nice Hotel",
-  "address": "G4JC+VVR, Unnamed Road, Atakpamé, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 367,
-  "name": "Bar CONNEXION",
-  "address": "G58G+Q78, Atakpame, Togo",
-  "phone": "+22890815912",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 368,
-  "name": "Bar Le Retour",
-  "address": "G4CX+R6R, N1, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 369,
-  "name": "Le Sahelien",
-  "address": "G4MG+342, Atakpame, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 370,
-  "name": "Bar shuber@",
-  "address": "G4CX+V5C, Atakpame, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 371,
-  "name": "Auberge SADA Soirée",
-  "address": "G4HF+QFR, Atakpame, Togo",
-  "phone": "+22893771717",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 372,
-  "name": "Auberge Batista",
-  "address": "F5X4+86, Kamina, Togo",
-  "phone": "+22898989282",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 373,
-  "name": "Nkoko ÉWÉ",
-  "address": "G553+295, Atakpame, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 374,
-  "name": "Bar ONCLE SAM",
-  "address": "G5G2+4JG, Atakpame, Togo",
-  "phone": "+22890918608",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 375,
-  "name": "Hôtel St Louis",
-  "address": "G4JX+8J, Atakpame, Togo",
-  "phone": "+22891750816",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 376,
-  "name": "Bar LA TOSCA",
-  "address": "G4HJ+F6C, Agbonou à côté de la FUCEC, Atakpamé, Togo",
-  "phone": "+22891689727",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 377,
-  "name": "Market Fruit Agbonou ATAKPAME",
-  "address": "G49R+HQ7, Atakpame, Togo",
-  "phone": "+22892605688",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 378,
-  "name": "Hôtel Délice Des Retraités",
-  "address": "Atakpame Togo, Agbonou-Fucec, Atakpamé, Togo",
-  "phone": "+22898226461",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 379,
-  "name": "Atakpame",
-  "address": "VH88+56W, Unnamed Road, Kpalime, Togo",
-  "phone": "",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 380,
-  "name": "Cascade de Womé",
-  "address": "Adidogomé, Awatame, Lomé, Togo",
-  "phone": "+22892035999",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 381,
-  "name": "Musee National",
-  "address": "BP 11, Atakpame, Togo",
-  "phone": "+22870089106",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 382,
-  "name": "Tafi Atome Monkey Sanctuary And Cultural Village",
-  "address": "1603, Lomé, Togo",
-  "phone": "+228930260802221818",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 383,
-  "name": "Le Sahelien",
-  "address": "2J4W+9V8, Kpimé Seva, Apédomé, Togo",
-  "phone": "+22891097621",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 384,
-  "name": "Hotel Le Sahelien",
-  "address": "Ave 2 Fevrier, Lomé, Togo",
-  "phone": "+22892293445",
-  "country-code": "TG",
-  "country": "Togo"
- },
- {
-  "id": 385,
-  "name": "VILLAGE ARTISANAL",
-  "address": "BP. 12156, Lomé, Togo",
-  "phone": "+22822302436",
-  "country-code": "TG",
-  "country": "Togo"
- }
+  {
+    "id": 3,
+    "name": "Hôtel 2 Février Lomé",
+    "address": "Rue Dzidzedze (anciennement rue ALU) bp60178, Lomé, Togo",
+    "phone": "+22822210517",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 4,
+    "name": "ONOMO Hotel Lomé",
+    "address": "10BP10433, Lomé, Togo",
+    "phone": "+22822219859",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 5,
+    "name": "Hôtel SANCTA MARIA",
+    "address": "Bd du Mono  Quartier Baguida-Bateauvi, Lomé, Togo",
+    "phone": "+22891415656",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 7,
+    "name": "Hotel du Golfe",
+    "address": "Zone portuaire lomé, Lomé, Togo",
+    "phone": "+22890781490",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 8,
+    "name": "Hotel Aurore / Restaurant / Bar",
+    "address": "Boulevard Du Mono, Lomé, Togo",
+    "phone": "+22822276590",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 9,
+    "name": "SeaSide Hôtel",
+    "address": "Boulevard Du Mono, Lomé, Togo",
+    "phone": "+22822536300",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 11,
+    "name": "AZURIA HÔTEL",
+    "address": "Boulevard Du Mono, Lomé, Togo",
+    "phone": "+22822226903",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 12,
+    "name": "El Doria Hôtel",
+    "address": "Rue Tokpli, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 13,
+    "name": "Hôtel Napoléon Lagune / Restaurant / Bar",
+    "address": "Unnamed Road, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 14,
+    "name": "Hôtel Résidence Océane",
+    "address": "Bè Gapkoto pharmacie Mawulé, Lomé, Togo",
+    "phone": "+22892942325",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 15,
+    "name": "Hôtel Yabisso",
+    "address": "Bè-kpota, Bd Malfakassa, Lomé, Togo",
+    "phone": "+22822270169",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 18,
+    "name": "Hôtel Novela Star",
+    "address": "Unnamed Road, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 19,
+    "name": "Marbella Hotel",
+    "address": "Av. Pya, Lomé, Togo",
+    "phone": "+22870555575",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 20,
+    "name": "Royal Blue Guest House \u0026 Bar",
+    "address": "Boulevard Du 30 Aout, cassablanca, Lomé, Togo",
+    "phone": "+22892901111",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 21,
+    "name": "Hotel BKBG",
+    "address": "Camomilles, Lomé, Togo",
+    "phone": "+22893272727",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 22,
+    "name": "Hotel Ghis Palace",
+    "address": "57CR+X8C, Lomé, Togo",
+    "phone": "+22822711371",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 23,
+    "name": "ELOGIA HÔTEL",
+    "address": "657P+WRC, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 24,
+    "name": "LA MAISON BLEUE",
+    "address": "46WX+PV5, Boulevard Felix Houphouet Boigny, Lomé, Togo",
+    "phone": "+22890211125",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 26,
+    "name": "Pure Plage",
+    "address": "Boulevard Du Mono, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 28,
+    "name": "Résidence Hôteliere Lauria",
+    "address": "Angle Rue Yokele et Ogou Nyekonakpoe, Lomé, Togo",
+    "phone": "+22890274946",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 29,
+    "name": "HOTEL ANHUI",
+    "address": "Rue 341 AGP, Lomé, Togo",
+    "phone": "+22893226262",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 32,
+    "name": "Hôtel Ambassadors - Annexe",
+    "address": "04 BP 857 Lomé 04, Lomé, Togo",
+    "phone": "+22890035141",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 33,
+    "name": "Hotel Yabisso",
+    "address": "1581 Boulevard du 13 Janvier , Nyekonapkoe, Lomé, Togo",
+    "phone": "+22822223477",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 36,
+    "name": "HOTEL MATER DEI",
+    "address": "Eyadema B.P. 3481, Lomé, Togo",
+    "phone": "+22822201818",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 38,
+    "name": "Hôtel Alizé",
+    "address": "88 Rue d'Assoli, Lomé, Togo",
+    "phone": "+22822207000",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 39,
+    "name": "Keryvonne",
+    "address": "Bd Faure Gnassingbe, Lomé, Togo",
+    "phone": "+22822505050",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 41,
+    "name": "Appart M'Rode Djidjole",
+    "address": "BP 2232 LOME, Lome, Togo",
+    "phone": "+22822276590",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 42,
+    "name": "Hôtel amy's",
+    "address": "Unnamed Road,, Lomé, Togo",
+    "phone": "+22893970425",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 43,
+    "name": "Bougainvillers",
+    "address": "56J8+3HQ, Lomé, Togo",
+    "phone": "+22890376707",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 45,
+    "name": "Hotel Marie Antoinette Lome",
+    "address": "4695+9XH, Lomé, Togo",
+    "phone": "+22890662320",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 47,
+    "name": "Nomads",
+    "address": "BP00, Lomé, Togo",
+    "phone": "+22898855328",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 48,
+    "name": "La residence",
+    "address": "Avenue Jean Paul 2, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 49,
+    "name": "Royal Hotel",
+    "address": "Route Nationale N2, dans le von, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 50,
+    "name": "Hotel Mivacity",
+    "address": "Rue 176 AFG, Lomé, Togo",
+    "phone": "+22870008662",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 51,
+    "name": "Villa Mariama",
+    "address": "01 Rue 20, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 52,
+    "name": "Guesthouse Rotimex",
+    "address": "von chatelet, Lomé, Togo",
+    "phone": "+22890800707",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 53,
+    "name": "Le Patio",
+    "address": "567G+C6, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 55,
+    "name": "Hotel le Galion",
+    "address": "Boulevard Du 30 Aout, Lomé, Togo",
+    "phone": "+22892756030",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 57,
+    "name": "IOKA HOTEL \u0026 SUITES LOME",
+    "address": "Rue Mrs Baguida, Lomé, Togo",
+    "phone": "+22893372988",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 59,
+    "name": "Hotel LeBenin",
+    "address": "agodeke kpogan, Lomé, Togo",
+    "phone": "+22897200949",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 60,
+    "name": "Hôtel KRIMAS",
+    "address": "Boulevard Du 30 Aout, Lomé, Togo",
+    "phone": "+22899937554",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 61,
+    "name": "Hotel le Pelican",
+    "address": "Rue 15 HDN, Novissi, Lomé, Togo",
+    "phone": "+22893714040",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 63,
+    "name": "Paradise Hotel",
+    "address": "Rue 15 HDN, Novissi, Lomé, Togo",
+    "phone": "+22893714040",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 65,
+    "name": "Hôtel Queen Palace",
+    "address": "5767+799, Bd Malfakassa, Lomé, Togo",
+    "phone": "+22822219859",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 66,
+    "name": "Hotel restaurant BAY OF ANGELS",
+    "address": "voie du grand, Lomé, Togo",
+    "phone": "+22890430101",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 67,
+    "name": "Hotel Ô Balkan",
+    "address": "Avenue Pya prolongé, Totsi-Adidoadin, Lomé, Togo",
+    "phone": "+22822504317",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 68,
+    "name": "Mint Hotel",
+    "address": "Unnamed Road, Lomé, Togo",
+    "phone": "+22899257332",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 69,
+    "name": "Coco Beach Chez Antoine",
+    "address": "Boulevard circulaire côté festival des glaces, Lomé, Togo",
+    "phone": "+22822217217",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 70,
+    "name": "Mercure Sarakawa",
+    "address": "Rue Aledjo Koura, Lomé, Togo",
+    "phone": "+22822266618",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 71,
+    "name": "Hotel ARIANA",
+    "address": "1323, Lomé, Togo",
+    "phone": "+22870269277",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 73,
+    "name": "Hotel Le Sphinx",
+    "address": "Rue Homma, Lomé, Togo",
+    "phone": "+22893002319",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 74,
+    "name": "Hotel St Manick",
+    "address": "Route internationale Lomé-Cotonou, Lomé, Togo",
+    "phone": "+22822714971",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 75,
+    "name": "Key Boutique",
+    "address": "Avepozo Beach, Lomé, Togo",
+    "phone": "+22890255320",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 77,
+    "name": "Hôtel Bella Vida",
+    "address": "Bd du Mono  Quartier Baguida-Bateauvi, Lomé, Togo",
+    "phone": "+22891415656",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 82,
+    "name": "Hôtel Mirambeau",
+    "address": "Quartier Avépozo Plage, Lomé, Togo",
+    "phone": "+22890367178",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 85,
+    "name": "Hotel Bamudas",
+    "address": "5857+6HJ, Lomé, Togo",
+    "phone": "+22893686868",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 87,
+    "name": "Marina hôtel résidence du lac",
+    "address": "Unnamed Road, Lomé, Togo",
+    "phone": "+22891386877",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 88,
+    "name": "Alt Munchen",
+    "address": "126 Rue Nima, Lomé, Togo",
+    "phone": "+22823361270",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 89,
+    "name": "La Table Du DG",
+    "address": "1 Rue des Camomilles, Lomé, Togo",
+    "phone": "+22893037777",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 90,
+    "name": "Café LOFT by Iconic",
+    "address": "Boulevard, Jean-Paul 2, Lomé, Togo",
+    "phone": "+22870232523",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 91,
+    "name": "RESTAURANT COTE SUD",
+    "address": "Boulevard Du Mono, Lomé, Togo",
+    "phone": "+22891596350",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 92,
+    "name": "Restaurant Côté Jardin",
+    "address": "5, rue Simon Dogbé Quartier Ocam, Lomé, Togo",
+    "phone": "+22898484904",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 93,
+    "name": "Le Pêcheur",
+    "address": "100 Bd du 13 Janvier, Lomé, Togo",
+    "phone": "+22822208515",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 94,
+    "name": "La route des vins",
+    "address": "Rue Ahoda, Derrière le Collège des Plateaux, Face Croix Rouge, Tokoin Cassablanca, Lomé, Togo",
+    "phone": "+22891935151",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 95,
+    "name": "TBB - The Best Burger Lomé",
+    "address": "Rue L'Ogou, Lomé, Togo",
+    "phone": "+22890040642",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 96,
+    "name": "Dom's Restaurant",
+    "address": "Boulevard Du Mono, Lomé, Togo",
+    "phone": "+22822276321",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 97,
+    "name": "RESTAURANT SÉNÉGALAIS GALE-NENE",
+    "address": "47R4+QJQ, Lomé, Togo",
+    "phone": "+22891821111",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 100,
+    "name": "Maison S Lomé",
+    "address": "562J+HV Lomé, Togo Boulevard Jean-Paul 2 Nukafu, Togo",
+    "phone": "+22893239184",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 101,
+    "name": "Le Space",
+    "address": "BP. 1268, Lomé, Togo",
+    "phone": "+22822217448",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 102,
+    "name": "Le Beluga",
+    "address": "214 Bd du Haho (3 HDN), Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 103,
+    "name": "La Main à La Pâte",
+    "address": "46J7+576, Ave Nicolas Grunitsky, Lomé, Togo",
+    "phone": "+22898409931",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 105,
+    "name": "Restaurant Le GALILÉO, Lomé",
+    "address": "46VH+GPV, N1, Lomé, Togo",
+    "phone": "+22870080808",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 107,
+    "name": "Chez Fatou",
+    "address": "Rue Nassika, Lomé, Togo",
+    "phone": "+22898543937",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 108,
+    "name": "Maquis Chez Brovi",
+    "address": "R.P.T., Lomé, Togo",
+    "phone": "+22891144925",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 109,
+    "name": "Restaurant Bambule",
+    "address": "Be Château Near Alliance Biblique, Rue Tsviepe, Lomé, Togo",
+    "phone": "+22892255522",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 111,
+    "name": "Green Field",
+    "address": "47Q9+H69, Lomé, Togo",
+    "phone": "+22899551447",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 112,
+    "name": "Flav-ours PIZZERIA",
+    "address": "sages femme, 511 Lome, tokoin- hôpital, von en face l ecole des, Togo",
+    "phone": "+22890084011",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 113,
+    "name": "7SPICE",
+    "address": "56CQ+PP8, Lomé, Togo",
+    "phone": "+22870807777",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 114,
+    "name": "La Terrazza",
+    "address": "46PM+VWF, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 116,
+    "name": "Chez Oumy",
+    "address": "Rue KOKETI, 55 KTM, Lomé, Togo",
+    "phone": "+22898115356",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 117,
+    "name": "Les Nuits d'Orient",
+    "address": "7414, Lomé, Togo",
+    "phone": "+22898943848",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 118,
+    "name": "Nem 24",
+    "address": "Cascade, Lomé, Togo",
+    "phone": "+22896024904",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 121,
+    "name": "BAR RESTAURANT ELISA",
+    "address": "TGXX, Lomé, Togo",
+    "phone": "+22897111117",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 122,
+    "name": "24'Vibes",
+    "address": "BP. 2718, Lomé, Togo",
+    "phone": "+22822202240",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 123,
+    "name": "Restaurant du Contournement Chez Alice",
+    "address": "39 Ave Du 24 Janvier, Lomé, Togo",
+    "phone": "+22822218074",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 124,
+    "name": "Le Cercle",
+    "address": "46PM+QQX, Blvd Houphouet Boigny, Lomé, Togo",
+    "phone": "+22822222041",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 125,
+    "name": "BAR-RESTAURANT II",
+    "address": "FACE HOTEL IBIS, Lomé, Togo",
+    "phone": "+22822212485",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 126,
+    "name": "SAN MARCO",
+    "address": "Boulevard, Lomé, Togo",
+    "phone": "+22870543894",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 127,
+    "name": "Marox Bena Grill",
+    "address": "BRETELLE, Lomé, Togo",
+    "phone": "+22822507677",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 128,
+    "name": "RESTAURANT DIVA228",
+    "address": "Rue Dague, Lomé, Togo",
+    "phone": "+22870313384",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 129,
+    "name": "La Part du Boucher",
+    "address": "BP 1380, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 130,
+    "name": "Restaurant GARDEN GRILLE",
+    "address": "Rue Fromager, Lomé, Togo",
+    "phone": "+22891595837",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 131,
+    "name": "Restaurant TREICHVILLLE",
+    "address": "41 Ave Nicolas Grunitsky, Lomé, Togo",
+    "phone": "+22893291818",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 132,
+    "name": "225 restaurant",
+    "address": "46M7+3PQ, Lomé, Togo",
+    "phone": "+22890074444",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 133,
+    "name": "Atieke Poisson Aloko",
+    "address": "11 BP 163, Lomé, Togo",
+    "phone": "+22891848293",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 134,
+    "name": "La Bruschetta",
+    "address": "BP. 7205, Lomé, Togo",
+    "phone": "+22822214097",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 135,
+    "name": "Nopégali Boulevard",
+    "address": "Jean-Paul 2, Lomé, Togo",
+    "phone": "+22890019191",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 136,
+    "name": "Le.Regent",
+    "address": "564R+M6R, Rue Mandiyen, Lomé, Togo",
+    "phone": "+22891510978",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 138,
+    "name": "Restaurant La Pause Gourmande",
+    "address": "04BP 463, Lomé, Togo",
+    "phone": "+22899658185",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 139,
+    "name": "Eski Resto",
+    "address": "46G4+99P, Rue L'Ogou, Lomé, Togo",
+    "phone": "+22890535377",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 140,
+    "name": "Restaurant Abou Kassem",
+    "address": "Rue L'Ogou, Lomé, Togo",
+    "phone": "+22890146331",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 141,
+    "name": "Ma cuisine Bar-resto Moins Cher",
+    "address": "Boulevard Du Mono, Lomé, Togo",
+    "phone": "+22890148850",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 143,
+    "name": "Restaurant Espace Marrakech",
+    "address": "565H+925, Lomé, Togo",
+    "phone": "+22890910711",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 145,
+    "name": "Restaurant Cuisine AL",
+    "address": "46W7+3FF, Lomé, Togo",
+    "phone": "+22870107320",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 146,
+    "name": "Hype Lomé",
+    "address": "24 Rue du Lac Togo, Lomé, Togo",
+    "phone": "+22822224138",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 147,
+    "name": "Le Green bar",
+    "address": "228 super taco, Lomé, Togo",
+    "phone": "+22898159528",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 148,
+    "name": "RESTAURANT LIBRA",
+    "address": "Rue Koketi, Lomé, Togo",
+    "phone": "+22822222223",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 150,
+    "name": "BIG METRO STAR",
+    "address": "Boulevard Du Mono, Lomé, Togo",
+    "phone": "+22890808008",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 151,
+    "name": "Limousine Inn Bar \u0026 Restaurant",
+    "address": "0022891927928, Lomé, Togo",
+    "phone": "0022891927928",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 152,
+    "name": "RESTAURANT LE MALESAN",
+    "address": "Kegue, 16BP270, Lomé, Togo",
+    "phone": "+22893855186",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 156,
+    "name": "Home Made Lomé",
+    "address": "Boulevard, Lomé, Togo",
+    "phone": "+22899212868",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 158,
+    "name": "Les Convives DU CHEF",
+    "address": "s Cake, Route pavée face Cité Millenium/Face à Saadé, Lomé, Togo",
+    "phone": "+22870551111",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 160,
+    "name": "Restaurant le Rocher",
+    "address": "Rue 86 tokoin wuiti, Lomé, Togo",
+    "phone": "+22892681313",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 161,
+    "name": "Ely Resto",
+    "address": "31Homma,, Lomé, Togo",
+    "phone": "+22892060101",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 165,
+    "name": "Botafogo",
+    "address": "46J6+7QW, Rue des Bergers, Lomé, Togo",
+    "phone": "+22870396464",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 166,
+    "name": "Pizzavi La Place",
+    "address": "Ave Nicolas Grunitsky, Lomé, Togo",
+    "phone": "+22822201915",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 168,
+    "name": "Fifty Fifty",
+    "address": "Ave Nicolas Grunitsky, Lomé, Togo",
+    "phone": "+22892481075",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 170,
+    "name": "QG Régal",
+    "address": "Bd du 13 Janvier, Lomé, Togo",
+    "phone": "+22892643866",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 171,
+    "name": "Centre Commercial Moderne ( C.C.M.)",
+    "address": "66R2+MV, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 172,
+    "name": "Le mall de 1000 fr",
+    "address": "66JF+86V, Unnamed Road, Lomé, Togo",
+    "phone": "+22890310307",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 173,
+    "name": "BiG Center",
+    "address": "5882+9P, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 175,
+    "name": "le mall de 1000 fr",
+    "address": "65R4+HWX, Lomé, Togo",
+    "phone": "+22892434442",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 176,
+    "name": "Aziz Shopping Complex",
+    "address": "55RH+HF6, Lomé, Togo",
+    "phone": "+22891940939",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 177,
+    "name": "TAZ Center",
+    "address": "46GJ+H9J, Rue du Lac Togo, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 178,
+    "name": "ZEN. LOME LA BELLE",
+    "address": "46X2+WMW, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 182,
+    "name": "SHINING INTERNATIONAL",
+    "address": "46JG+9R4, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 183,
+    "name": "John Busness Center",
+    "address": "5893+6V7, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 184,
+    "name": "Abdou Salam Business Center",
+    "address": "58C2+MX2, Lomé, Togo",
+    "phone": "+22870023058",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 185,
+    "name": "LA SOIF SARL U",
+    "address": "648H+RHM, Lomé, Togo",
+    "phone": "+22823212966",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 187,
+    "name": "Ets Pride Shop",
+    "address": "46HG+QVM, Lomé, Togo",
+    "phone": "+22890005820",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 188,
+    "name": "Power tyre center",
+    "address": "573J+9X2, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 189,
+    "name": "Sara Business Center sarl",
+    "address": "bd, Jean-Paul 2, Lomé, Togo",
+    "phone": "+22896609661",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 190,
+    "name": "International Museum of the Gulf of Guinea",
+    "address": "7748, Lomé, Togo",
+    "phone": "+22890104326",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 192,
+    "name": "Akodessewa Fetish Market",
+    "address": "1603, Lomé, Togo",
+    "phone": "+228930260802221818",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 193,
+    "name": "TATA PARK",
+    "address": "Boulevard, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 194,
+    "name": "Fauna Cultura",
+    "address": "Ave 2 Fevrier, Lomé, Togo",
+    "phone": "+22892293445",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 195,
+    "name": "Monument de l'independance",
+    "address": "Adidogomé, Awatame, Lomé, Togo",
+    "phone": "+22892035999",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 196,
+    "name": "Cascade de Womé",
+    "address": "1 Rue des Camomilles, Lomé, Togo",
+    "phone": "+22893037777",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 197,
+    "name": "Centre Culturel Denyigba",
+    "address": "Rue Ahoda, Derrière le Collège des Plateaux, Face Croix Rouge, Tokoin Cassablanca, Lomé, Togo",
+    "phone": "+22891935151",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 198,
+    "name": "CENTRE CULTUREL FRANCAIS",
+    "address": "Rue L'Ogou, Lomé, Togo",
+    "phone": "+22890040642",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 199,
+    "name": "Riding Club Togo",
+    "address": "Zone portuaire lomé, Lomé, Togo",
+    "phone": "+22890781490",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 201,
+    "name": "Lake Togo",
+    "address": "46GG+74H, Lomé, Togo",
+    "phone": "+22892984743",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 203,
+    "name": "Harmonie Signature",
+    "address": "46G8+P3V, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 204,
+    "name": "New Robinson Plage TOGO",
+    "address": "BP. 2090, Lomé, Togo",
+    "phone": "+22822210232",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 205,
+    "name": "Maritime Region",
+    "address": "04BP921, Lomé, Togo",
+    "phone": "+22891431431",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 206,
+    "name": "Plateaux Region",
+    "address": "Rue 330 HDN, Lomé, Togo",
+    "phone": "+22893355473",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 207,
+    "name": "Agbodrafo",
+    "address": "BP. 2090, Lomé, Togo",
+    "phone": "+22822210232",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 208,
+    "name": "Philipat",
+    "address": "04BP921, Lomé, Togo",
+    "phone": "+22891431431",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 209,
+    "name": "Dantokpa Market",
+    "address": "Unnamed Road, Lomé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 212,
+    "name": "Café LOFT by Iconic",
+    "address": "01BP4804 Lomé-Centre, Lomé, Togo",
+    "phone": "+22897097979",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 213,
+    "name": "Gnassingbé Eyadéma International Airport",
+    "address": "2J4W+9V8, Kpimé Seva, Apédomé, Togo",
+    "phone": "+22891097621",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 214,
+    "name": "Ouidah Museum of History (Portuguese Fort)",
+    "address": "VH88+56W, Unnamed Road, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 215,
+    "name": "Hôtel Central",
+    "address": "248R+F9, Sokode, Togo",
+    "phone": "+22899586968",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 216,
+    "name": "Hôtel LAMIREL",
+    "address": "Unnamed Road, Sokode, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 217,
+    "name": "Balcon Vert",
+    "address": "BP. 811, Sokode, Togo",
+    "phone": "+22825500296",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 218,
+    "name": "Hôtel King Palace Sokode",
+    "address": "24CR+WH4, N1, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 220,
+    "name": "HOTEL PARC FAZAO",
+    "address": "X4HV+5XC, Sokode, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 221,
+    "name": "Fraternité",
+    "address": "242C+5C, Sokode, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 222,
+    "name": "Hôtel LA FRATERNITÉ",
+    "address": "X4MQ+G6R، Unnamed Road, Sokode, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 223,
+    "name": "Bar-Auberge RELAIS de la CIGALE",
+    "address": "X4QP+J9V, Sokode, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 225,
+    "name": "Hôtel Aleheri",
+    "address": "d'eau, Rue du Château, Sokodé, Togo",
+    "phone": "+22890167227",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 226,
+    "name": "Bel air",
+    "address": "00, Sokodé, Togo",
+    "phone": "+22891131211",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 227,
+    "name": "Nassam's hôtel",
+    "address": "X4GM+X6Q, Unnamed Road, Sokodé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 228,
+    "name": "AKISSIDE",
+    "address": "Unnamed Road, Sokodé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 230,
+    "name": "Bar Restaurant Chez Navi(Restaurant)",
+    "address": "X4RQ+592, Sokode, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 231,
+    "name": "Restauration/Chez Wass",
+    "address": "kpangalame, N1, Sokode, Togo",
+    "phone": "+22890306699",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 232,
+    "name": "Cafétéria Kratos Sokodé",
+    "address": "Unnamed Road, Sokodé, Togo",
+    "phone": "+22890744219",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 233,
+    "name": "CHEZ LA GROSSE",
+    "address": "X4FV+3GJ, Sokode, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 234,
+    "name": "Bar Resto Claudia",
+    "address": "Unnamed Road, Sokodé, Togo",
+    "phone": "+22891651749",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 235,
+    "name": "Manger",
+    "address": "X47X+F9X, Sokode, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 236,
+    "name": "Foufou Bar - Bon Coin",
+    "address": "X5G5+P56, Sokode, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 237,
+    "name": "RESTAURANT LA BONNE SAVEUR",
+    "address": "105, Sokodé, Togo",
+    "phone": "+22892865864",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 238,
+    "name": "GBO GBOKIRIGBO",
+    "address": "X4PQ+QXQ, Unnamed Road, Sokodé, Togo",
+    "phone": "+22890344333",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 239,
+    "name": "Komah-Plage",
+    "address": "X4PP+GH2, rue CHR, Sokodé, Togo",
+    "phone": "+22892532113",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 240,
+    "name": "FORTUNE HOTSPOT",
+    "address": "246Q+X4, Sokode, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 241,
+    "name": "Bar Restaurant LA FAVELA Sokode",
+    "address": "Unnamed Road, Sokodé, Togo",
+    "phone": "+22890508548",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 244,
+    "name": "Sokode",
+    "address": "N17, Sokode, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 245,
+    "name": "Musée Africart",
+    "address": "X4JQ+P86, Sokode, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 246,
+    "name": "Hotel Jess",
+    "address": "Lomnava 1, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 247,
+    "name": "Hôtel Amédzépé",
+    "address": "Quartier Lom Nava, Kpalimé, Togo",
+    "phone": "+22892935974",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 250,
+    "name": "Orchidée Hôtel",
+    "address": "Route Missahoe, BP 333 Kpalimé, Missahohe, Togo",
+    "phone": "+22890574282",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 253,
+    "name": "Hôtel Le Geyser",
+    "address": "Novissikomé Route d'Atakpamé, Kpalime, Togo",
+    "phone": "+22893547648",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 254,
+    "name": "Hotel Parc Residence",
+    "address": "WJCC+6V6, Kpalime, Togo",
+    "phone": "+22890103955",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 258,
+    "name": "Hotel La Lumiere Kpalimé",
+    "address": "Zomayi Agou-Akplolo, Agou, Togo",
+    "phone": "+22890224101",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 260,
+    "name": "Auberge Vakpo",
+    "address": "Hotel Ize, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 262,
+    "name": "ORCHIDEE HÔTEL",
+    "address": "WJ2M+28C, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 263,
+    "name": "Hotel La Detente",
+    "address": "Kpimé Seva, Kpalimé, Togo",
+    "phone": "+22892480834",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 264,
+    "name": "ORCHIDEE HÔTEL",
+    "address": "BP 58, Kpalime, Togo",
+    "phone": "+22892215969",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 265,
+    "name": "Auberge Vakpo",
+    "address": "michemole@yahoo.fr, Kpalime, Togo",
+    "phone": "+22892886880",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 266,
+    "name": "HOTEL SACHA AGOU",
+    "address": "WJJH+MMG, Klouto road, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 268,
+    "name": "Vakpo",
+    "address": "2J5Q+93H, Kpimé seva, Kpalimé, Togo",
+    "phone": "+22892158324",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 269,
+    "name": "Hôtel Chez Félicia",
+    "address": "WJCF+76R, Kpalime, Togo",
+    "phone": "+22890103955",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 270,
+    "name": "Auberge Les Rochers",
+    "address": "WJFM+R4W, Rte Datakpame, Kpalime, Togo",
+    "phone": "+22890581905",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 271,
+    "name": "Espace Culturel Kékéli",
+    "address": "WJCF+76R, Kpalime, Togo",
+    "phone": "+22890103955",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 272,
+    "name": "Hotel Ize",
+    "address": "WJJH+MMG, Klouto road, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 274,
+    "name": "Chez Therese",
+    "address": "BP 2232 LOME, Lome, Togo",
+    "phone": "+22822276590",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 275,
+    "name": "Hôtel Saint Manick",
+    "address": "VJWP+2MV sito, Kpalimé, Togo",
+    "phone": "+22824411010",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 276,
+    "name": "Hotel Kabietou",
+    "address": "Unnamed Road, Kpalimé, Togo",
+    "phone": "+22824401414",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 277,
+    "name": "Hôtel Memphis",
+    "address": "1323, Kpalimé, Togo",
+    "phone": "+22893414080",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 278,
+    "name": "Resto Glory de Kpalimé",
+    "address": "Route Nationale, N5, Kpalimé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 279,
+    "name": "Le Gourmet",
+    "address": "WJ7P+PCH, Unnamed Road, Kpalimé, Togo",
+    "phone": "+22890261169",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 283,
+    "name": "Le Bon Vivant Restaurant \"chez Le Belge\"",
+    "address": "Face Hôtel 30 Août, Nationale, N5, Kpalimé, Togo",
+    "phone": "+22890763924",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 284,
+    "name": "Restaurant Glory Chez Deborah",
+    "address": "22, Kpalimé, Togo",
+    "phone": "+22896043121",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 286,
+    "name": "Africa Bar",
+    "address": "WJVP+9VF, Kuma Tsame Totsi, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 287,
+    "name": "Static",
+    "address": "WJXP+2FW, Kuma Tsame Totsi, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 288,
+    "name": "Le Perno",
+    "address": "Unnamed Road, Kpalimé, Togo",
+    "phone": "+22891999409",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 289,
+    "name": "Auberge Restaurant Bar AMITIÉ",
+    "address": "ولاية، قبالة فندق أفاني كبيتا طريق الرابط بين العاصمة, Kpalime, Togo",
+    "phone": "+22890763924",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 290,
+    "name": "Bar la récréation",
+    "address": "VJVV+95Q, Kpalime, Togo",
+    "phone": "+22898186406",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 291,
+    "name": "Maquis Akwaba Bar - Restaurant",
+    "address": "Poste, Route Nationale N3, Kpalimé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 292,
+    "name": "La Cantine du Onelove",
+    "address": "WJG9+7MR, Unnamed Road, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 294,
+    "name": "LE BINJAGO",
+    "address": "WJ5J+PR9, Kpalime, Togo",
+    "phone": "+22893482355",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 297,
+    "name": "Kpalime Fufu",
+    "address": "VJWH+CHV, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 298,
+    "name": "Lidha.m",
+    "address": "Unnamed Road, Kpalimé, Togo",
+    "phone": "+22890243579",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 299,
+    "name": "Cafétériat CORRIDOR",
+    "address": "Moov Africa, Route d'atakpamé En face d'agence, Kpalime, Togo",
+    "phone": "+22870795750",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 300,
+    "name": "Freedom city",
+    "address": "WJFM+WJ8, Kpalime, Togo",
+    "phone": "+22890946667",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 301,
+    "name": "Restaurant du Bon Goût *Chez Tanty Reine*",
+    "address": "akomloarim17@gmail.com, Kpalime, Togo",
+    "phone": "+22893225185",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 303,
+    "name": "Bar restaurant chez yovo",
+    "address": "Quartier Atakpamé, Kpalimé, Togo",
+    "phone": "+22891187392",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 304,
+    "name": "Hôtel Amareve",
+    "address": "91079045, Kpalimé, Togo",
+    "phone": "91079045",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 305,
+    "name": "Agloza Lapino",
+    "address": "33, Kpalimé, Togo",
+    "phone": "+22899133013",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 306,
+    "name": "tatra",
+    "address": "raphael tatra, Kpalime, Togo",
+    "phone": "+22898914277",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 307,
+    "name": "VIANDOLOGIE 2",
+    "address": "WJ7H+8XP, Kpalime, Togo",
+    "phone": "+22890227692",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 310,
+    "name": "Akarim AKOMLO-Santé Naturelle-conseil-touristsguider-in-Kpalimé",
+    "address": "WJ7Q+PCW, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 311,
+    "name": "LES DÉLICES D'AGNIGBAN",
+    "address": "VJVM+JR3, Kpalime, Togo",
+    "phone": "+22891820596",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 312,
+    "name": "Chic de Kloto",
+    "address": "WJ2C+P58, Kpalime, Togo",
+    "phone": "+22870309705",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 313,
+    "name": "Super Degue",
+    "address": "Gagobaessi@gmail.com, Kpalime, Togo",
+    "phone": "+22890137431",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 314,
+    "name": "Bar Restaurant SANS TRACE",
+    "address": "VJXP+P2M, Unnamed Road, Kpalimé, Togo",
+    "phone": "+22898272148",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 315,
+    "name": "KPALIME OASE RESTAURANT",
+    "address": "WJ8Q+2CV, Rue du Marché, Kpalimé, Togo",
+    "phone": "+22896306757",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 316,
+    "name": "Grâce Berlin",
+    "address": "WJJQ+46W, Kpalime, Togo",
+    "phone": "+22892903171",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 317,
+    "name": "Bar restaurant Mandéla",
+    "address": "WJ5J+PR8, Rue du Marché, Kpalimé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 318,
+    "name": "Bar Relais de foot",
+    "address": "WJ5M+PCP, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 319,
+    "name": "CAFE RESTO REMEMBER",
+    "address": "Derrière le Centre artisanal, Kpalimé, Togo",
+    "phone": "+22893744936",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 320,
+    "name": "Hôtel Chez Fanny",
+    "address": "Route nationale 3. Face Police, Kpalimé, Togo",
+    "phone": "+22898703359",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 321,
+    "name": "RESTAURANTE ALMOUSSANE",
+    "address": "1.0040, RN5, KPALIME, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 322,
+    "name": "One Love",
+    "address": "WJ8M+75M, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 324,
+    "name": "Restaurant la Madagascar",
+    "address": "WJFJ+C6C, Unnamed Road, Kpalimé, Togo",
+    "phone": "+22896094657",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 325,
+    "name": "Auberge BON COIN",
+    "address": "WJ2J+3MM, Unnamed Road, Kpalimé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 326,
+    "name": "N'tifafa Bar Restaurant Auberge",
+    "address": "11, Kpalimé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 327,
+    "name": "Cafétéria BAMOUSSE",
+    "address": "WJ9F+2X2, Unnamed Road, Kpalimé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 328,
+    "name": "Grand Marché",
+    "address": "1323, Kpalimé, Togo",
+    "phone": "+22893414080",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 329,
+    "name": "Centre Artisanal de Kpalimé",
+    "address": "WJ4M+HC5, Kpalime, Togo",
+    "phone": "+22892403335",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 331,
+    "name": "LIZZ-DEE SHOPPING MALL",
+    "address": "648H+RHM, Lomé, Togo",
+    "phone": "+22823212966",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 332,
+    "name": "Ets Chaussures bons prix",
+    "address": "WJF8+8WQ, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 333,
+    "name": "Hotel Jess",
+    "address": "WJHG+982, Kpalime, Togo",
+    "phone": "+22891741885",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 334,
+    "name": "Centre Aklala Batik",
+    "address": "WJ2M+28C, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 336,
+    "name": "Kouma konda",
+    "address": "WJ5H+WX2, Kpalime, Togo",
+    "phone": "+22897440564",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 339,
+    "name": "Cascade de Womé",
+    "address": "WJ5H+WX2, Kpalime, Togo",
+    "phone": "+22897440564",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 340,
+    "name": "Chateau Viale",
+    "address": "VH88+56W, Unnamed Road, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 341,
+    "name": "Hotel Royal",
+    "address": "WJF8+8WQ, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 342,
+    "name": "Aklala Batik du Togo",
+    "address": "2J4W+9V8, Kpimé Seva, Apédomé, Togo",
+    "phone": "+22891097621",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 344,
+    "name": "Afegame",
+    "address": "1323, Kpalimé, Togo",
+    "phone": "+22893414080",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 349,
+    "name": "Volta Region",
+    "address": "Route Missahoe, BP 333 Kpalimé, Missahohe, Togo",
+    "phone": "+22890574282",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 350,
+    "name": "The Trident",
+    "address": "WJ2M+28C, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 351,
+    "name": "Hôtel Luxembourg",
+    "address": "G4P3+GWM, Hiheatro, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 352,
+    "name": "Atakpamé soir",
+    "address": "Unnamed Road, Atakpame, Togo",
+    "phone": "+22893638271",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 353,
+    "name": "Bar restaurant Go Slow",
+    "address": "G4JF+WFX, Atakpame, Togo",
+    "phone": "+22891944102",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 354,
+    "name": "Bar restaurant la cachette",
+    "address": "G49V+G7W, Atakpame, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 355,
+    "name": "Bar Restau Maman Bissé",
+    "address": "G4GH+F5R, Atakpame, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 356,
+    "name": "BAR RESTAURANT LA CONCORDE",
+    "address": "Bp 60, Atakpamé, Togo",
+    "phone": "+22890224403",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 357,
+    "name": "ETS ÉRÓ CHEZ GEORGES",
+    "address": "Falegnameria atakpamé, Atakpame, Togo",
+    "phone": "+22891538587",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 358,
+    "name": "Dieu de L'univers",
+    "address": "G4FM+J79, Atakpame, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 359,
+    "name": "Atakpamé Hotri restaurant King",
+    "address": "G582+78, Atakpame, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 360,
+    "name": "FOUFOU BAR",
+    "address": "G534+27, Atakpame, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 361,
+    "name": "Escale restaurant",
+    "address": "G4FJ+735, Atakpame, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 362,
+    "name": "BAR MARA-CANA",
+    "address": "Carrefour vakpo, Atakpamé, Togo",
+    "phone": "+22890059940",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 364,
+    "name": "Bar Chez soi",
+    "address": "G49V+G7W, Atakpame, Togo",
+    "phone": "+22824400433",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 365,
+    "name": "Bar La Cachette",
+    "address": "G4GP+645, Atakpame, Togo",
+    "phone": "+22898637653",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 366,
+    "name": "Nice Hotel",
+    "address": "G4JC+VVR, Unnamed Road, Atakpamé, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 367,
+    "name": "Bar CONNEXION",
+    "address": "G58G+Q78, Atakpame, Togo",
+    "phone": "+22890815912",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 368,
+    "name": "Bar Le Retour",
+    "address": "G4CX+R6R, N1, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 369,
+    "name": "Le Sahelien",
+    "address": "G4MG+342, Atakpame, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 370,
+    "name": "Bar shuber@",
+    "address": "G4CX+V5C, Atakpame, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 371,
+    "name": "Auberge SADA Soirée",
+    "address": "G4HF+QFR, Atakpame, Togo",
+    "phone": "+22893771717",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 372,
+    "name": "Auberge Batista",
+    "address": "F5X4+86, Kamina, Togo",
+    "phone": "+22898989282",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 373,
+    "name": "Nkoko ÉWÉ",
+    "address": "G553+295, Atakpame, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 374,
+    "name": "Bar ONCLE SAM",
+    "address": "G5G2+4JG, Atakpame, Togo",
+    "phone": "+22890918608",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 375,
+    "name": "Hôtel St Louis",
+    "address": "G4JX+8J, Atakpame, Togo",
+    "phone": "+22891750816",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 377,
+    "name": "Market Fruit Agbonou ATAKPAME",
+    "address": "G49R+HQ7, Atakpame, Togo",
+    "phone": "+22892605688",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 378,
+    "name": "Hôtel Délice Des Retraités",
+    "address": "Atakpame Togo, Agbonou-Fucec, Atakpamé, Togo",
+    "phone": "+22898226461",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 379,
+    "name": "Atakpame",
+    "address": "VH88+56W, Unnamed Road, Kpalime, Togo",
+    "phone": "",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 380,
+    "name": "Cascade de Womé",
+    "address": "Adidogomé, Awatame, Lomé, Togo",
+    "phone": "+22892035999",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 381,
+    "name": "Musee National",
+    "address": "BP 11, Atakpame, Togo",
+    "phone": "+22870089106",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 382,
+    "name": "Tafi Atome Monkey Sanctuary And Cultural Village",
+    "address": "1603, Lomé, Togo",
+    "phone": "+228930260802221818",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 383,
+    "name": "Le Sahelien",
+    "address": "2J4W+9V8, Kpimé Seva, Apédomé, Togo",
+    "phone": "+22891097621",
+    "country-code": "TG",
+    "country": "Togo"
+  },
+  {
+    "id": 384,
+    "name": "Hotel Le Sahelien",
+    "address": "Ave 2 Fevrier, Lomé, Togo",
+    "phone": "+22892293445",
+    "country-code": "TG",
+    "country": "Togo"
+  }
 ]

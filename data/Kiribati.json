@@ -1,450 +1,450 @@
 [
- {
-  "id": 1,
-  "name": "Fema Lodge",
-  "address": "Unnamed Rd,, Bairiki, Kiribati",
-  "phone": "+68621151",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 2,
-  "name": "Dreamers Guest House",
-  "address": "Betio, Kiribati",
-  "phone": "+68675125037",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 3,
-  "name": "Tarawa Boutique Hotel",
-  "address": "Ambo,, Bairiki, Kiribati",
-  "phone": "+68673003453",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 4,
-  "name": "Tabon Te Keekee Eco Lodge",
-  "address": "Banraeaba, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 5,
-  "name": "Betio Lodge",
-  "address": "Tabon Te Keekee Tarawa, Abatao, Kiribati",
-  "phone": "+68673037514",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 6,
-  "name": "The George Hotel Kiribati",
-  "address": "Unnamed Road, Abaokoro, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 7,
-  "name": "Tabuki Retreat",
-  "address": "Banraeaba, Kiribati",
-  "phone": "+68673049658",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 8,
-  "name": "Marys Motel",
-  "address": "PowerHouse Road, Between SDA \u0026 KPC Church Compound Betio, Betio, Kiribati",
-  "phone": "+68626340",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 9,
-  "name": "Utirerei Motel",
-  "address": "Bairiki, Kiribati",
-  "phone": "+68675022227",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 10,
-  "name": "Terau Beach Bungalow",
-  "address": "Kariatebike Behind Taotin Building Abemama, Betio, Kariatebike, Kiribati",
-  "phone": "3126002452",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 11,
-  "name": "Abemama Green-Eco Hotel Kiribati",
-  "address": "Bairiki, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 12,
-  "name": "Julia Lodge",
-  "address": "Nei Kaue, Bikenibeu, Kiribati",
-  "phone": "+68663005603",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 13,
-  "name": "TAD's Guesthouse",
-  "address": "Bonriki, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 14,
-  "name": "Lagoon Breeze Lodge",
-  "address": "Tebero Road,, Taburao, Kiribati",
-  "phone": "+68673005959",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 15,
-  "name": "Koakoa's Corner",
-  "address": "Bairiki, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 16,
-  "name": "kaaraki meal",
-  "address": "Bairiki, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 17,
-  "name": "Marys Motel",
-  "address": "Bairiki, Kiribati",
-  "phone": "+68673020793",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 18,
-  "name": "Bakso Pak Marjan Wenak Tenan",
-  "address": "Betio, Kiribati",
-  "phone": "+68621340",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 19,
-  "name": "Big D Waterfront",
-  "address": "Unnamed Road,, Banraeaba, Kiribati",
-  "phone": "+68675021423",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 20,
-  "name": "Ronnita Restaurant",
-  "address": "Bairiki, Kiribati",
-  "phone": "+68675022227",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 21,
-  "name": "Marys Beach Cafe",
-  "address": "Eita non Tarawa, Eita, Kiribati",
-  "phone": "+68673018588",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 22,
-  "name": "The Horizon Cafe",
-  "address": "Betio Island, Kiribati",
-  "phone": "+68673019710",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 23,
-  "name": "Capitol Grille (Chinese Food)",
-  "address": "Bairiki, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 24,
-  "name": "Dragon Chinese",
-  "address": "Betio, Kiribati",
-  "phone": "+68626340",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 25,
-  "name": "CMDR RIchard Notable Bar \u0026 Grill",
-  "address": "Bairiki, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 26,
-  "name": "Yohana hotel mauna",
-  "address": "Unnamed Rd,, Bairiki, Kiribati",
-  "phone": "+68621151",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 27,
-  "name": "London Restaurant",
-  "address": "Nanikai, Kiribati",
-  "phone": "+68673050582",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 28,
-  "name": "THE JAWAL ANIME HOUSE",
-  "address": "Tobaraoi Building, Lagoon Drive Bikenibeu Tarawa, Kiribati",
-  "phone": "+68674028715",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 29,
-  "name": "Topsoil Restaurant",
-  "address": "PowerHouse Road, Between SDA \u0026 KPC Church Compound Betio, Betio, Kiribati",
-  "phone": "+68626340",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 30,
-  "name": "Rustic Table",
-  "address": "Nanikai, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 31,
-  "name": "Restaurant 17",
-  "address": "Tabon Te Keekee Tarawa, Abatao, Kiribati",
-  "phone": "+68673037514",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 32,
-  "name": "Cliffside Restaurant",
-  "address": "Bairiki, Kiribati",
-  "phone": "+68621352",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 33,
-  "name": "Hai-Mauna",
-  "address": "Kiribati, Bikenibeu, 吉爾伯特群島",
-  "phone": "+68629370",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 34,
-  "name": "The Sombrero Restaurant - South of the Border",
-  "address": "Kiribati, Betio, 比休島",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 35,
-  "name": "The Bay",
-  "address": "Eita, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 36,
-  "name": "Comrades Co. Cafeteria",
-  "address": "Betio, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 37,
-  "name": "Barbara Jean's",
-  "address": "Temwaiku, Kiribati",
-  "phone": "+68673017660",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 38,
-  "name": "Peninsula Grill",
-  "address": "Bonriki, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 39,
-  "name": "EAST AFRICAN PUB, SOUTH SUDAN",
-  "address": "Kiribati, Bonriki, 邦里基島",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 40,
-  "name": "Wicked Tuna Waterfront Dining @ Murrells Inlet",
-  "address": "taborio Taborio, Tarawa, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 41,
-  "name": "Great Southern Cafe",
-  "address": "Banraeaba, Kiribati",
-  "phone": "+68673027090",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 42,
-  "name": "ViewHouse Centennial",
-  "address": "Bairiki, Kiribati",
-  "phone": "+68675126067",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 43,
-  "name": "Royal Saloon Bar",
-  "address": "Betio, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 44,
-  "name": "Elma Restaurant",
-  "address": "Betio Island, Betio, Kiribati",
-  "phone": "+68663013677",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 45,
-  "name": "Taotin Trading",
-  "address": "Bairiki, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 46,
-  "name": "Uncle Bill's",
-  "address": "Off main road, Bairiki, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 47,
-  "name": "Center Point Retail",
-  "address": "Nanikai, Kiribati",
-  "phone": "+68673004300",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 48,
-  "name": "Bairiki Super Mall",
-  "address": "Betio, Kiribati",
-  "phone": "+68675126133",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 49,
-  "name": "Nemat Enterprice",
-  "address": "Bairiki Feeder Road Bairiki, Bairiki, Kiribati",
-  "phone": "+68673057867",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 50,
-  "name": "Nippon Causeway",
-  "address": "Betio Island, Betio, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 51,
-  "name": "Tarawa",
-  "address": "Nanikai, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 52,
-  "name": "Tabon Te Keekee Eco Lodge",
-  "address": "Tobaraoi Building, Lagoon Drive Bikenibeu Tarawa, Kiribati",
-  "phone": "+68674028715",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 53,
-  "name": "Japanese Command Bunker",
-  "address": "Tabon Te Keekee Tarawa, Abatao, Kiribati",
-  "phone": "+68673037514",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 54,
-  "name": "Tourism Authority of Kiribati (TAK)",
-  "address": "Betio, Kiribati",
-  "phone": "+68675125998",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 55,
-  "name": "Sacred Heart Cathedral",
-  "address": "Bairiki, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- },
- {
-  "id": 56,
-  "name": "Tobaraoi",
-  "address": "Bairiki, Kiribati",
-  "phone": "",
-  "country-code": "KI",
-  "country": "Kiribati"
- }
+  {
+    "id": 1,
+    "name": "Fema Lodge",
+    "address": "Unnamed Rd,, Bairiki, Kiribati",
+    "phone": "+68621151",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 2,
+    "name": "Dreamers Guest House",
+    "address": "Betio, Kiribati",
+    "phone": "+68675125037",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 3,
+    "name": "Tarawa Boutique Hotel",
+    "address": "Ambo,, Bairiki, Kiribati",
+    "phone": "+68673003453",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 4,
+    "name": "Tabon Te Keekee Eco Lodge",
+    "address": "Banraeaba, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 5,
+    "name": "Betio Lodge",
+    "address": "Tabon Te Keekee Tarawa, Abatao, Kiribati",
+    "phone": "+68673037514",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 6,
+    "name": "The George Hotel Kiribati",
+    "address": "Unnamed Road, Abaokoro, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 7,
+    "name": "Tabuki Retreat",
+    "address": "Banraeaba, Kiribati",
+    "phone": "+68673049658",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 8,
+    "name": "Marys Motel",
+    "address": "PowerHouse Road, Between SDA \u0026 KPC Church Compound Betio, Betio, Kiribati",
+    "phone": "+68626340",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 9,
+    "name": "Utirerei Motel",
+    "address": "Bairiki, Kiribati",
+    "phone": "+68675022227",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 10,
+    "name": "Terau Beach Bungalow",
+    "address": "Kariatebike Behind Taotin Building Abemama, Betio, Kariatebike, Kiribati",
+    "phone": "3126002452",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 11,
+    "name": "Abemama Green-Eco Hotel Kiribati",
+    "address": "Bairiki, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 12,
+    "name": "Julia Lodge",
+    "address": "Nei Kaue, Bikenibeu, Kiribati",
+    "phone": "+68663005603",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 13,
+    "name": "TAD's Guesthouse",
+    "address": "Bonriki, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 14,
+    "name": "Lagoon Breeze Lodge",
+    "address": "Tebero Road,, Taburao, Kiribati",
+    "phone": "+68673005959",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 15,
+    "name": "Koakoa's Corner",
+    "address": "Bairiki, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 16,
+    "name": "kaaraki meal",
+    "address": "Bairiki, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 17,
+    "name": "Marys Motel",
+    "address": "Bairiki, Kiribati",
+    "phone": "+68673020793",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 18,
+    "name": "Bakso Pak Marjan Wenak Tenan",
+    "address": "Betio, Kiribati",
+    "phone": "+68621340",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 19,
+    "name": "Big D Waterfront",
+    "address": "Unnamed Road,, Banraeaba, Kiribati",
+    "phone": "+68675021423",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 20,
+    "name": "Ronnita Restaurant",
+    "address": "Bairiki, Kiribati",
+    "phone": "+68675022227",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 21,
+    "name": "Marys Beach Cafe",
+    "address": "Eita non Tarawa, Eita, Kiribati",
+    "phone": "+68673018588",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 22,
+    "name": "The Horizon Cafe",
+    "address": "Betio Island, Kiribati",
+    "phone": "+68673019710",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 23,
+    "name": "Capitol Grille (Chinese Food)",
+    "address": "Bairiki, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 24,
+    "name": "Dragon Chinese",
+    "address": "Betio, Kiribati",
+    "phone": "+68626340",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 25,
+    "name": "CMDR RIchard Notable Bar \u0026 Grill",
+    "address": "Bairiki, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 26,
+    "name": "Yohana hotel mauna",
+    "address": "Unnamed Rd,, Bairiki, Kiribati",
+    "phone": "+68621151",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 27,
+    "name": "London Restaurant",
+    "address": "Nanikai, Kiribati",
+    "phone": "+68673050582",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 28,
+    "name": "THE JAWAL ANIME HOUSE",
+    "address": "Tobaraoi Building, Lagoon Drive Bikenibeu Tarawa, Kiribati",
+    "phone": "+68674028715",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 29,
+    "name": "Topsoil Restaurant",
+    "address": "PowerHouse Road, Between SDA \u0026 KPC Church Compound Betio, Betio, Kiribati",
+    "phone": "+68626340",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 30,
+    "name": "Rustic Table",
+    "address": "Nanikai, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 31,
+    "name": "Restaurant 17",
+    "address": "Tabon Te Keekee Tarawa, Abatao, Kiribati",
+    "phone": "+68673037514",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 32,
+    "name": "Cliffside Restaurant",
+    "address": "Bairiki, Kiribati",
+    "phone": "+68621352",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 33,
+    "name": "Hai-Mauna",
+    "address": "Kiribati, Bikenibeu, 吉爾伯特群島",
+    "phone": "+68629370",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 34,
+    "name": "The Sombrero Restaurant - South of the Border",
+    "address": "Kiribati, Betio, 比休島",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 35,
+    "name": "The Bay",
+    "address": "Eita, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 36,
+    "name": "Comrades Co. Cafeteria",
+    "address": "Betio, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 37,
+    "name": "Barbara Jean's",
+    "address": "Temwaiku, Kiribati",
+    "phone": "+68673017660",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 38,
+    "name": "Peninsula Grill",
+    "address": "Bonriki, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 39,
+    "name": "EAST AFRICAN PUB, SOUTH SUDAN",
+    "address": "Kiribati, Bonriki, 邦里基島",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 40,
+    "name": "Wicked Tuna Waterfront Dining @ Murrells Inlet",
+    "address": "taborio Taborio, Tarawa, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 41,
+    "name": "Great Southern Cafe",
+    "address": "Banraeaba, Kiribati",
+    "phone": "+68673027090",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 42,
+    "name": "ViewHouse Centennial",
+    "address": "Bairiki, Kiribati",
+    "phone": "+68675126067",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 43,
+    "name": "Royal Saloon Bar",
+    "address": "Betio, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 44,
+    "name": "Elma Restaurant",
+    "address": "Betio Island, Betio, Kiribati",
+    "phone": "+68663013677",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 45,
+    "name": "Taotin Trading",
+    "address": "Bairiki, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 46,
+    "name": "Uncle Bill's",
+    "address": "Off main road, Bairiki, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 47,
+    "name": "Center Point Retail",
+    "address": "Nanikai, Kiribati",
+    "phone": "+68673004300",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 48,
+    "name": "Bairiki Super Mall",
+    "address": "Betio, Kiribati",
+    "phone": "+68675126133",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 49,
+    "name": "Nemat Enterprice",
+    "address": "Bairiki Feeder Road Bairiki, Bairiki, Kiribati",
+    "phone": "+68673057867",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 50,
+    "name": "Nippon Causeway",
+    "address": "Betio Island, Betio, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 51,
+    "name": "Tarawa",
+    "address": "Nanikai, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 52,
+    "name": "Tabon Te Keekee Eco Lodge",
+    "address": "Tobaraoi Building, Lagoon Drive Bikenibeu Tarawa, Kiribati",
+    "phone": "+68674028715",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 53,
+    "name": "Japanese Command Bunker",
+    "address": "Tabon Te Keekee Tarawa, Abatao, Kiribati",
+    "phone": "+68673037514",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 54,
+    "name": "Tourism Authority of Kiribati (TAK)",
+    "address": "Betio, Kiribati",
+    "phone": "+68675125998",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 55,
+    "name": "Sacred Heart Cathedral",
+    "address": "Bairiki, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  },
+  {
+    "id": 56,
+    "name": "Tobaraoi",
+    "address": "Bairiki, Kiribati",
+    "phone": "",
+    "country-code": "KI",
+    "country": "Kiribati"
+  }
 ]
