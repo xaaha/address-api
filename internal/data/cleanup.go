@@ -17,6 +17,8 @@ var usStates = [...]string{
 	"SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY",
 }
 
+// One time script that deleted all the us address from non us countries
+
 func usAddress(addr Address) bool {
 	fullAddress := strings.ToLower(addr.Address)
 
