@@ -17,11 +17,6 @@ var usStates = [...]string{
 	"SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY",
 }
 
-// loop through all the json files in the `data/` directory
-// then, if the file name != "United States"
-// and the address section has address matching the united states
-// remove the address from the array
-
 func usAddress(addr Address) bool {
 	fullAddress := strings.ToLower(addr.Address)
 
@@ -87,12 +82,3 @@ func Cleanup(dirPath string) error {
 		return nil
 	})
 }
-
-// read the dir
-// what if the dir is not there
-// for each file in the dir, loop (user walk dir)
-// read the file,
-// what if the file is not there
-// then using the json struct read the file array
-// for each file, if the condition matches, remove the item
-// once done move to the next file content.
