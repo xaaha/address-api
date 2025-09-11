@@ -1,746 +1,698 @@
 [
- {
-  "id": 1,
-  "name": "Capital Plaza",
-  "address": "38 Regent St, Georgetown, Guyana",
-  "phone": "",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 2,
-  "name": "Leisure Inn, Hotel | Restaurant",
-  "address": "Berbice Highway to skeldon, New Amsterdam, Guyana",
-  "phone": "+5923335686",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 3,
-  "name": "Church-view Int'l Hotel",
-  "address": "Main Street, New Amsterdam, Guyana",
-  "phone": "+5923335210",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 4,
-  "name": "Little Rock Suites",
-  "address": "Lot 137 No. 79 Village, Corriverton,, East Berbice, Corentyne, Corriverton, Guyana",
-  "phone": "+5923393388",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 5,
-  "name": "Parkway",
-  "address": "10 Main \u0026 Church Street New Amsterdam, Georgetown, Guyana",
-  "phone": "+5923334050",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 6,
-  "name": "The Castle Hotel",
-  "address": "New Amsterdam, Guyana",
-  "phone": "+5923332880",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 7,
-  "name": "Classic International Hotel \u0026 Suites",
-  "address": "4 Main Street, New Amsterdam, Guyana",
-  "phone": "+5923333928",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 8,
-  "name": "New Amsterdam Bakery",
-  "address": "Bush Lot, Guyana",
-  "phone": "+5922320040",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 9,
-  "name": "Short or Tall Eatery \u0026 Drink Hall",
-  "address": "Main Street, New Amsterdam, Guyana",
-  "phone": "+5923335210",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 10,
-  "name": "Bigg Daddys Restaurant \u0026 Tavern",
-  "address": "New Amsterdam, Guyana",
-  "phone": "+5923332319",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 11,
-  "name": "Library of Distilled Spirits",
-  "address": "New Amsterdam, Guyana",
-  "phone": "+5923335540",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 12,
-  "name": "Amsterdam Center",
-  "address": "Kent St, New Amsterdam, Guyana",
-  "phone": "+5926909247",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 13,
-  "name": "Magna Plaza",
-  "address": "Matthew Allen Road, New Amsterdam, Guyana",
-  "phone": "+5926172701",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 14,
-  "name": "First Canadian Place",
-  "address": "25-26 Main St, Georgetown, Guyana",
-  "phone": "+5922255886",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 15,
-  "name": "ArenAPoort",
-  "address": "Lot 27-20 Pilot Street, New Amsterdam, Berbice, Guyana",
-  "phone": "+5926476124",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 16,
-  "name": "Amsterdam The Style Outlets",
-  "address": "7-9 Charlotte Street, New Amsterdam, Guyana",
-  "phone": "+5923336580",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 17,
-  "name": "Palm Spring Hotel",
-  "address": "5 miles from Bartica in the Essequibo River, Baganara Island, Guyana",
-  "phone": "+5922222525",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 18,
-  "name": "Sloth Island Nature Resort",
-  "address": "2 miles from Bartica in the Essequibo River, Poterima, Guyana, Essequibo, Guyana",
-  "phone": "+5926171465",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 19,
-  "name": "Baganara Island Resort",
-  "address": "20-22 3rd Avenue, Bartica, Guyana",
-  "phone": "+5924552111",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 20,
-  "name": "Hurakabra River Resort",
-  "address": "St Edwards Mission, Guyana",
-  "phone": "+5922257517",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 21,
-  "name": "Love's Restaurant \u0026 Catering Service",
-  "address": "27 6th Avenue, Bartica, Guyana",
-  "phone": "+5926607408",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 22,
-  "name": "Golden city chinese restaurant",
-  "address": "37 2nd Avenue, Bartica, Guyana",
-  "phone": "+5926629029",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 23,
-  "name": "Zens plaza restaurant and bar",
-  "address": "2nd Avenue, Bartica, Guyana",
-  "phone": "+5924552441",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 24,
-  "name": "Z2 Restaurant and Bar",
-  "address": "Bartica, Guyana",
-  "phone": "+5924553000",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 25,
-  "name": "Backstreet Patio",
-  "address": "28th, 4th Avenue, Bartica, Guyana",
-  "phone": "+5926854845",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 26,
-  "name": "Belle Square",
-  "address": "1st Avenue and, 3rd Street, Bartica, Guyana",
-  "phone": "+5924551000",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 27,
-  "name": "Church's Chicken Bartica",
-  "address": "8 street 2nd Avenue, Bartica, Guyana",
-  "phone": "+5926847737",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 28,
-  "name": "Church's Chicken Bartica Branch",
-  "address": "Front Street, Bartica, Guyana",
-  "phone": "+5924552460",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 29,
-  "name": "River View Diner",
-  "address": "Bartica, Guyana",
-  "phone": "+5926807782",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 30,
-  "name": "Cardenalito Grill",
-  "address": "Bartica, Guyana",
-  "phone": "",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 31,
-  "name": "Scotiabank",
-  "address": "Bartica, Guyana",
-  "phone": "",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 32,
-  "name": "Palm Spring Hotel",
-  "address": "Queen Street, Georgetown, Guyana",
-  "phone": "+5922277478",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 33,
-  "name": "Caribese Hill",
-  "address": "Unnamed Road, Parika, Guyana",
-  "phone": "+5922604115",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 34,
-  "name": "Shoba Snackette",
-  "address": "176 Middle \u0026, Waterloo St, Georgetown, Guyana",
-  "phone": "+5922261684",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 35,
-  "name": "Kmz Trendline Boutique",
-  "address": "Front Street, Bartica, Guyana",
-  "phone": "",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 36,
-  "name": "Bartica",
-  "address": "Skeldon, Guyana",
-  "phone": "+5923353025",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 37,
-  "name": "Artworks Fx",
-  "address": "123 Kanuku St, Georgetown, Guyana",
-  "phone": "+5922264001",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 38,
-  "name": "Terra Mare",
-  "address": "Croal Street \u0026, Sandyman Place, Georgetown, Guyana",
-  "phone": "+5922277606",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 39,
-  "name": "The Flame Restaurant and Grill",
-  "address": "294 Quamina St, Georgetown, Guyana",
-  "phone": "+5922255301",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 40,
-  "name": "Julian\"s",
-  "address": "Timehri, Guyana",
-  "phone": "+5922237301",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 41,
-  "name": "Baganara Island Resort",
-  "address": "St Edwards Mission, Guyana",
-  "phone": "+5922257517",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 42,
-  "name": "Pizza Hut Guyana - Giftland Mall",
-  "address": "and Streets,, Regent St, Georgetown, Guyana",
-  "phone": "+5922273174",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 43,
-  "name": "P\u0026A Bus Service \u0026 Guest House with Restaurant",
-  "address": "2 miles from Bartica in the Essequibo River, Poterima, Guyana, Essequibo, Guyana",
-  "phone": "+5926171465",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 44,
-  "name": "Asian Restaurant - NEW THRIVING",
-  "address": "Duke Street, Georgetown, Guyana",
-  "phone": "+5922317220",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 45,
-  "name": "German's",
-  "address": "Lombard St, Georgetown, Guyana",
-  "phone": "+5922257400",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 46,
-  "name": "Pizza Hut Guyana - Regent Street",
-  "address": "1 \u0026 2 Area M Plantation, Le Ressouvenir, East Coast, Guyana",
-  "phone": "+5922201091",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 47,
-  "name": "Stabroek Qik Serv",
-  "address": "Georgetown, Guyana",
-  "phone": "+5926635104",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 48,
-  "name": "Backyard Cafe",
-  "address": "Lot 1 Croal St, Georgetown, Guyana",
-  "phone": "+5922257400",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 49,
-  "name": "Demico",
-  "address": "141 Regent St, Georgetown, Guyana",
-  "phone": "+5922234326",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 50,
-  "name": "Sloth Island Nature Resort",
-  "address": "8 New Market Street, North C/Burg, Georgetown, Guyana",
-  "phone": "+5922270079",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 51,
-  "name": "Grand Coastal Hotel",
-  "address": "75 Church St, Georgetown, Guyana",
-  "phone": "+5922255058",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 52,
-  "name": "Duke Lodge",
-  "address": "32 Main St, Georgetown, Guyana",
-  "phone": "+5922250868",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 53,
-  "name": "Bartica",
-  "address": "5 miles from Bartica in the Essequibo River, Baganara Island, Guyana",
-  "phone": "+5922222525",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 54,
-  "name": "Aruwai White H20 Resort",
-  "address": "Georgetown, Guyana",
-  "phone": "+5922234336",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 55,
-  "name": "Gravity Lounge",
-  "address": "331 Cummings, Georgetown, Guyana",
-  "phone": "+5922263552",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 56,
-  "name": "Cara Lodge Hotel",
-  "address": "QR5F+V7F Block M Providence East Bank, Georgetown, Guyana",
-  "phone": "+5926365588",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 57,
-  "name": "Splashmins Resort",
-  "address": "Track A, East Bank Public Road, Peter's Hall, Guyana",
-  "phone": "+5922335290",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 58,
-  "name": "Status International Hotel",
-  "address": "Block Alpha, Battery Road, Georgetown, Guyana",
-  "phone": "+5922312514",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 59,
-  "name": "Windjammer International Cuisine \u0026 Comfort Inn",
-  "address": "7th Avenue, Bartica, Guyana",
-  "phone": "",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 60,
-  "name": "Kanuku Suites Hotel",
-  "address": "Bartica, Guyana",
-  "phone": "+5926692974",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 61,
-  "name": "King's Hotel and Residences",
-  "address": "Bartica, Guyana",
-  "phone": "",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 62,
-  "name": "Paraton Inn",
-  "address": "20-22 3rd Avenue, Bartica, Guyana",
-  "phone": "+5924552111",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 63,
-  "name": "Wel te Vreeden",
-  "address": "Saffon St, Georgetown, Guyana",
-  "phone": "",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 64,
-  "name": "Belle's Creme Select",
-  "address": "Front Street, Bartica, Guyana",
-  "phone": "+5926884916",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 65,
-  "name": "Bartica Learning Resource Centre",
-  "address": "3rd Avenue, Bartica, Guyana",
-  "phone": "",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 66,
-  "name": "Bartica Food \u0026 Icecream Parlor",
-  "address": "2nd Avenue, Bartica, Guyana",
-  "phone": "+5924552620",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 67,
-  "name": "Kmz Trendline Boutique",
-  "address": "7th Avenue, Bartica, Guyana",
-  "phone": "",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 68,
-  "name": "Dino's Investment LTD",
-  "address": "Bartica, Guyana",
-  "phone": "+5926692974",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 69,
-  "name": "Amazonia Mall",
-  "address": "Bartica, Guyana",
-  "phone": "+5924550042",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 70,
-  "name": "Zens plaza restaurant and bar",
-  "address": "2nd Avenue, Bartica, Guyana",
-  "phone": "+5924552441",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 71,
-  "name": "Artworks Fx",
-  "address": "533, crane, Guyana",
-  "phone": "+5922541712",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 72,
-  "name": "Bartica Fire Station",
-  "address": "2nd Avenue, Bartica, Guyana",
-  "phone": "+5924552547",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 73,
-  "name": "Bartica",
-  "address": "Block M Providence, E Bank Public Rd, Georgetown, Guyana",
-  "phone": "+5922657611",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 74,
-  "name": "Bibi afiran and sons meet center",
-  "address": "38 Regent St, Georgetown, Guyana",
-  "phone": "",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 75,
-  "name": "National Park",
-  "address": "Wakenaam, Essequibo, Maria Johanna, Guyana",
-  "phone": "",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 76,
-  "name": "Botanical Gardens",
-  "address": "190 Roxanne Burnham Gardens Rasville, Georgetown, Guyana",
-  "phone": "+5922269844",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 77,
-  "name": "Roy Geddes Steel Pan Museum",
-  "address": "Georgetown, Guyana",
-  "phone": "+5922265519",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 78,
-  "name": "The 1763 Monument",
-  "address": "Georgetown, Guyana",
-  "phone": "",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 79,
-  "name": "Wakenaam Mosque",
-  "address": "91 Middle St, Georgetown, Guyana",
-  "phone": "+5922314400",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 80,
-  "name": "Promenade Gardens",
-  "address": "Georgetown, Guyana",
-  "phone": "",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 81,
-  "name": "Demerara Harbour Bridge",
-  "address": "QR9C+4F6 Demerara Harbour Bridge, Georgetown, Guyana",
-  "phone": "+5922337010",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 82,
-  "name": "Museum Of African Heritage",
-  "address": "Thomas Rd, Georgetown, Guyana",
-  "phone": "+5922272265",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 83,
-  "name": "Cathedral of the Immaculate Conception",
-  "address": "Georgetown, Guyana",
-  "phone": "+5922269871",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 84,
-  "name": "Fort Zeeland",
-  "address": "Bartica, Guyana",
-  "phone": "+5926692974",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 85,
-  "name": "Sloth Island Nature Resort",
-  "address": "20-22 3rd Avenue, Bartica, Guyana",
-  "phone": "+5924552111",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 86,
-  "name": "Stabroek Market",
-  "address": "5 miles from Bartica in the Essequibo River, Baganara Island, Guyana",
-  "phone": "+5922222525",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 87,
-  "name": "Sloth Island",
-  "address": "Front Street, Bartica, Guyana",
-  "phone": "",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 88,
-  "name": "Kmz Trendline Boutique",
-  "address": "Georgetown, Guyana",
-  "phone": "",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 89,
-  "name": "Bartica",
-  "address": "2 miles from Bartica in the Essequibo River, Poterima, Guyana, Essequibo, Guyana",
-  "phone": "+5926171465",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 90,
-  "name": "New Modern Hotel \u0026 Bar",
-  "address": "Essequibo Islands-West Demerara, Guyana",
-  "phone": "+5922541552",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 91,
-  "name": "Essequibo Islands-West Demerara",
-  "address": "2nd Avenue, Bartica, Guyana",
-  "phone": "+5924552441",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 92,
-  "name": "Palm Spring Hotel",
-  "address": "61 Main St, Georgetown, Guyana",
-  "phone": "+5922258486",
-  "country-code": "GY",
-  "country": "Guyana"
- },
- {
-  "id": 93,
-  "name": "The Georgetown Lighthouse",
-  "address": "Brickdam St, Georgetown, Guyana",
-  "phone": "+5922264631",
-  "country-code": "GY",
-  "country": "Guyana"
- }
+  {
+    "id": 1,
+    "name": "Capital Plaza",
+    "address": "38 Regent St, Georgetown, Guyana",
+    "phone": "",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 2,
+    "name": "Leisure Inn, Hotel | Restaurant",
+    "address": "Berbice Highway to skeldon, New Amsterdam, Guyana",
+    "phone": "+5923335686",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 3,
+    "name": "Church-view Int'l Hotel",
+    "address": "Main Street, New Amsterdam, Guyana",
+    "phone": "+5923335210",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 4,
+    "name": "Little Rock Suites",
+    "address": "Lot 137 No. 79 Village, Corriverton,, East Berbice, Corentyne, Corriverton, Guyana",
+    "phone": "+5923393388",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 5,
+    "name": "Parkway",
+    "address": "10 Main \u0026 Church Street New Amsterdam, Georgetown, Guyana",
+    "phone": "+5923334050",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 6,
+    "name": "The Castle Hotel",
+    "address": "New Amsterdam, Guyana",
+    "phone": "+5923332880",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 7,
+    "name": "Classic International Hotel \u0026 Suites",
+    "address": "4 Main Street, New Amsterdam, Guyana",
+    "phone": "+5923333928",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 8,
+    "name": "New Amsterdam Bakery",
+    "address": "Bush Lot, Guyana",
+    "phone": "+5922320040",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 9,
+    "name": "Short or Tall Eatery \u0026 Drink Hall",
+    "address": "Main Street, New Amsterdam, Guyana",
+    "phone": "+5923335210",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 10,
+    "name": "Bigg Daddys Restaurant \u0026 Tavern",
+    "address": "New Amsterdam, Guyana",
+    "phone": "+5923332319",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 11,
+    "name": "Library of Distilled Spirits",
+    "address": "New Amsterdam, Guyana",
+    "phone": "+5923335540",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 12,
+    "name": "Amsterdam Center",
+    "address": "Kent St, New Amsterdam, Guyana",
+    "phone": "+5926909247",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 13,
+    "name": "Magna Plaza",
+    "address": "Matthew Allen Road, New Amsterdam, Guyana",
+    "phone": "+5926172701",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 14,
+    "name": "First Canadian Place",
+    "address": "25-26 Main St, Georgetown, Guyana",
+    "phone": "+5922255886",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 15,
+    "name": "ArenAPoort",
+    "address": "Lot 27-20 Pilot Street, New Amsterdam, Berbice, Guyana",
+    "phone": "+5926476124",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 16,
+    "name": "Amsterdam The Style Outlets",
+    "address": "7-9 Charlotte Street, New Amsterdam, Guyana",
+    "phone": "+5923336580",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 19,
+    "name": "Baganara Island Resort",
+    "address": "20-22 3rd Avenue, Bartica, Guyana",
+    "phone": "+5924552111",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 20,
+    "name": "Hurakabra River Resort",
+    "address": "St Edwards Mission, Guyana",
+    "phone": "+5922257517",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 21,
+    "name": "Love's Restaurant \u0026 Catering Service",
+    "address": "27 6th Avenue, Bartica, Guyana",
+    "phone": "+5926607408",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 22,
+    "name": "Golden city chinese restaurant",
+    "address": "37 2nd Avenue, Bartica, Guyana",
+    "phone": "+5926629029",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 23,
+    "name": "Zens plaza restaurant and bar",
+    "address": "2nd Avenue, Bartica, Guyana",
+    "phone": "+5924552441",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 24,
+    "name": "Z2 Restaurant and Bar",
+    "address": "Bartica, Guyana",
+    "phone": "+5924553000",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 25,
+    "name": "Backstreet Patio",
+    "address": "28th, 4th Avenue, Bartica, Guyana",
+    "phone": "+5926854845",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 26,
+    "name": "Belle Square",
+    "address": "1st Avenue and, 3rd Street, Bartica, Guyana",
+    "phone": "+5924551000",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 27,
+    "name": "Church's Chicken Bartica",
+    "address": "8 street 2nd Avenue, Bartica, Guyana",
+    "phone": "+5926847737",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 28,
+    "name": "Church's Chicken Bartica Branch",
+    "address": "Front Street, Bartica, Guyana",
+    "phone": "+5924552460",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 29,
+    "name": "River View Diner",
+    "address": "Bartica, Guyana",
+    "phone": "+5926807782",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 30,
+    "name": "Cardenalito Grill",
+    "address": "Bartica, Guyana",
+    "phone": "",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 31,
+    "name": "Scotiabank",
+    "address": "Bartica, Guyana",
+    "phone": "",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 32,
+    "name": "Palm Spring Hotel",
+    "address": "Queen Street, Georgetown, Guyana",
+    "phone": "+5922277478",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 33,
+    "name": "Caribese Hill",
+    "address": "Unnamed Road, Parika, Guyana",
+    "phone": "+5922604115",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 34,
+    "name": "Shoba Snackette",
+    "address": "176 Middle \u0026, Waterloo St, Georgetown, Guyana",
+    "phone": "+5922261684",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 35,
+    "name": "Kmz Trendline Boutique",
+    "address": "Front Street, Bartica, Guyana",
+    "phone": "",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 36,
+    "name": "Bartica",
+    "address": "Skeldon, Guyana",
+    "phone": "+5923353025",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 37,
+    "name": "Artworks Fx",
+    "address": "123 Kanuku St, Georgetown, Guyana",
+    "phone": "+5922264001",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 38,
+    "name": "Terra Mare",
+    "address": "Croal Street \u0026, Sandyman Place, Georgetown, Guyana",
+    "phone": "+5922277606",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 39,
+    "name": "The Flame Restaurant and Grill",
+    "address": "294 Quamina St, Georgetown, Guyana",
+    "phone": "+5922255301",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 40,
+    "name": "Julian\"s",
+    "address": "Timehri, Guyana",
+    "phone": "+5922237301",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 41,
+    "name": "Baganara Island Resort",
+    "address": "St Edwards Mission, Guyana",
+    "phone": "+5922257517",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 42,
+    "name": "Pizza Hut Guyana - Giftland Mall",
+    "address": "and Streets,, Regent St, Georgetown, Guyana",
+    "phone": "+5922273174",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 44,
+    "name": "Asian Restaurant - NEW THRIVING",
+    "address": "Duke Street, Georgetown, Guyana",
+    "phone": "+5922317220",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 45,
+    "name": "German's",
+    "address": "Lombard St, Georgetown, Guyana",
+    "phone": "+5922257400",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 46,
+    "name": "Pizza Hut Guyana - Regent Street",
+    "address": "1 \u0026 2 Area M Plantation, Le Ressouvenir, East Coast, Guyana",
+    "phone": "+5922201091",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 47,
+    "name": "Stabroek Qik Serv",
+    "address": "Georgetown, Guyana",
+    "phone": "+5926635104",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 48,
+    "name": "Backyard Cafe",
+    "address": "Lot 1 Croal St, Georgetown, Guyana",
+    "phone": "+5922257400",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 49,
+    "name": "Demico",
+    "address": "141 Regent St, Georgetown, Guyana",
+    "phone": "+5922234326",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 50,
+    "name": "Sloth Island Nature Resort",
+    "address": "8 New Market Street, North C/Burg, Georgetown, Guyana",
+    "phone": "+5922270079",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 51,
+    "name": "Grand Coastal Hotel",
+    "address": "75 Church St, Georgetown, Guyana",
+    "phone": "+5922255058",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 52,
+    "name": "Duke Lodge",
+    "address": "32 Main St, Georgetown, Guyana",
+    "phone": "+5922250868",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 54,
+    "name": "Aruwai White H20 Resort",
+    "address": "Georgetown, Guyana",
+    "phone": "+5922234336",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 55,
+    "name": "Gravity Lounge",
+    "address": "331 Cummings, Georgetown, Guyana",
+    "phone": "+5922263552",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 56,
+    "name": "Cara Lodge Hotel",
+    "address": "QR5F+V7F Block M Providence East Bank, Georgetown, Guyana",
+    "phone": "+5926365588",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 57,
+    "name": "Splashmins Resort",
+    "address": "Track A, East Bank Public Road, Peter's Hall, Guyana",
+    "phone": "+5922335290",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 58,
+    "name": "Status International Hotel",
+    "address": "Block Alpha, Battery Road, Georgetown, Guyana",
+    "phone": "+5922312514",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 59,
+    "name": "Windjammer International Cuisine \u0026 Comfort Inn",
+    "address": "7th Avenue, Bartica, Guyana",
+    "phone": "",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 60,
+    "name": "Kanuku Suites Hotel",
+    "address": "Bartica, Guyana",
+    "phone": "+5926692974",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 61,
+    "name": "King's Hotel and Residences",
+    "address": "Bartica, Guyana",
+    "phone": "",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 62,
+    "name": "Paraton Inn",
+    "address": "20-22 3rd Avenue, Bartica, Guyana",
+    "phone": "+5924552111",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 63,
+    "name": "Wel te Vreeden",
+    "address": "Saffon St, Georgetown, Guyana",
+    "phone": "",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 64,
+    "name": "Belle's Creme Select",
+    "address": "Front Street, Bartica, Guyana",
+    "phone": "+5926884916",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 65,
+    "name": "Bartica Learning Resource Centre",
+    "address": "3rd Avenue, Bartica, Guyana",
+    "phone": "",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 66,
+    "name": "Bartica Food \u0026 Icecream Parlor",
+    "address": "2nd Avenue, Bartica, Guyana",
+    "phone": "+5924552620",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 67,
+    "name": "Kmz Trendline Boutique",
+    "address": "7th Avenue, Bartica, Guyana",
+    "phone": "",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 68,
+    "name": "Dino's Investment LTD",
+    "address": "Bartica, Guyana",
+    "phone": "+5926692974",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 69,
+    "name": "Amazonia Mall",
+    "address": "Bartica, Guyana",
+    "phone": "+5924550042",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 70,
+    "name": "Zens plaza restaurant and bar",
+    "address": "2nd Avenue, Bartica, Guyana",
+    "phone": "+5924552441",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 71,
+    "name": "Artworks Fx",
+    "address": "533, crane, Guyana",
+    "phone": "+5922541712",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 72,
+    "name": "Bartica Fire Station",
+    "address": "2nd Avenue, Bartica, Guyana",
+    "phone": "+5924552547",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 73,
+    "name": "Bartica",
+    "address": "Block M Providence, E Bank Public Rd, Georgetown, Guyana",
+    "phone": "+5922657611",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 74,
+    "name": "Bibi afiran and sons meet center",
+    "address": "38 Regent St, Georgetown, Guyana",
+    "phone": "",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 75,
+    "name": "National Park",
+    "address": "Wakenaam, Essequibo, Maria Johanna, Guyana",
+    "phone": "",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 76,
+    "name": "Botanical Gardens",
+    "address": "190 Roxanne Burnham Gardens Rasville, Georgetown, Guyana",
+    "phone": "+5922269844",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 77,
+    "name": "Roy Geddes Steel Pan Museum",
+    "address": "Georgetown, Guyana",
+    "phone": "+5922265519",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 78,
+    "name": "The 1763 Monument",
+    "address": "Georgetown, Guyana",
+    "phone": "",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 79,
+    "name": "Wakenaam Mosque",
+    "address": "91 Middle St, Georgetown, Guyana",
+    "phone": "+5922314400",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 80,
+    "name": "Promenade Gardens",
+    "address": "Georgetown, Guyana",
+    "phone": "",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 81,
+    "name": "Demerara Harbour Bridge",
+    "address": "QR9C+4F6 Demerara Harbour Bridge, Georgetown, Guyana",
+    "phone": "+5922337010",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 82,
+    "name": "Museum Of African Heritage",
+    "address": "Thomas Rd, Georgetown, Guyana",
+    "phone": "+5922272265",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 83,
+    "name": "Cathedral of the Immaculate Conception",
+    "address": "Georgetown, Guyana",
+    "phone": "+5922269871",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 84,
+    "name": "Fort Zeeland",
+    "address": "Bartica, Guyana",
+    "phone": "+5926692974",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 85,
+    "name": "Sloth Island Nature Resort",
+    "address": "20-22 3rd Avenue, Bartica, Guyana",
+    "phone": "+5924552111",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 87,
+    "name": "Sloth Island",
+    "address": "Front Street, Bartica, Guyana",
+    "phone": "",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 88,
+    "name": "Kmz Trendline Boutique",
+    "address": "Georgetown, Guyana",
+    "phone": "",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 90,
+    "name": "New Modern Hotel \u0026 Bar",
+    "address": "Essequibo Islands-West Demerara, Guyana",
+    "phone": "+5922541552",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 91,
+    "name": "Essequibo Islands-West Demerara",
+    "address": "2nd Avenue, Bartica, Guyana",
+    "phone": "+5924552441",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 92,
+    "name": "Palm Spring Hotel",
+    "address": "61 Main St, Georgetown, Guyana",
+    "phone": "+5922258486",
+    "country-code": "GY",
+    "country": "Guyana"
+  },
+  {
+    "id": 93,
+    "name": "The Georgetown Lighthouse",
+    "address": "Brickdam St, Georgetown, Guyana",
+    "phone": "+5922264631",
+    "country-code": "GY",
+    "country": "Guyana"
+  }
 ]

@@ -1,690 +1,666 @@
 [
- {
-  "id": 1,
-  "name": "Hôtel La Résidence",
-  "address": "Quartier Guelkol, Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 2,
-  "name": "Papillon Bleu",
-  "address": "Quartier Guelkol, Moundou, Chad",
-  "phone": "+23566827757",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 3,
-  "name": "Auberge Canadel VIP",
-  "address": "Quartier Dombao, Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 4,
-  "name": "Club du Logone",
-  "address": "Dombao, Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 5,
-  "name": "Auberge Tom",
-  "address": "Dombao, Moundou, Chad",
-  "phone": "+23565150804",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 6,
-  "name": "Auberge Canadel",
-  "address": "Dombao, Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 7,
-  "name": "Auberge 8 Mars",
-  "address": "Docimbene 1, Moundou, Chad",
-  "phone": "+23566841400",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 8,
-  "name": "Auberge Diastole Annexe",
-  "address": "Quartier Résidentiel, Moundou, Chad",
-  "phone": "+23563022662",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 9,
-  "name": "Satellite N°3",
-  "address": "Quartier 15 ans I, Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 10,
-  "name": "Mekab Sur-Man",
-  "address": "Moundou, Chad",
-  "phone": "+23565243333",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 11,
-  "name": "Le Doux Renove",
-  "address": "Mbombaya District, Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 12,
-  "name": "Centre d'Accueil La Fraternité",
-  "address": "Guelkoura, Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 13,
-  "name": "Planete Life",
-  "address": "Doyon, Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 14,
-  "name": "Auberge Le Roi",
-  "address": "Quartier Guelkoura, Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 15,
-  "name": "Auberge VGA",
-  "address": "Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 16,
-  "name": "Lokouaro",
-  "address": "Quartier Guelkoura, Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 17,
-  "name": "Tahir Ikezim Oumar",
-  "address": "Ras, Moundou, Chad",
-  "phone": "+23566298911",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 18,
-  "name": "Africa Foods \"Akilna\"",
-  "address": "Djamena, Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 19,
-  "name": "Chez Mme Manassé",
-  "address": "Unnamed Road, Moundou, Chad",
-  "phone": "+23566707013",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 20,
-  "name": "Centre commercial le principal",
-  "address": "Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 21,
-  "name": "Majou shopping",
-  "address": "Moundou, Chad",
-  "phone": "+23599909074",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 22,
-  "name": "Hôtel Résidence De Moundou",
-  "address": "Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 23,
-  "name": "Alimentation et Restaurant SOUMARA",
-  "address": "Moundou, Chad",
-  "phone": "+23599743558",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 24,
-  "name": "Café Maman Gentille",
-  "address": "Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 25,
-  "name": "Restaurant Miramar",
-  "address": "Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 26,
-  "name": "Etablissement Mahamat Mahamat Chaib",
-  "address": "Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 27,
-  "name": "Moundou",
-  "address": "Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 28,
-  "name": "Ets Ngarhota et fils",
-  "address": "Moundou, Chad",
-  "phone": "+23566671887",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 29,
-  "name": "Vieux Rampart",
-  "address": "Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 30,
-  "name": "Café des Arts",
-  "address": "، Auberge,, Moundou, Chad",
-  "phone": "+23566472686",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 31,
-  "name": "Complexe Khassam Annexe De Moundou",
-  "address": "Djamena-Moundou, Kélo, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 32,
-  "name": "Chez tonton frédo",
-  "address": "Djamena-Moundou, N'Djamena, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 33,
-  "name": "Est Business Center Group",
-  "address": "Guelkoura, Moundou, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 34,
-  "name": "Moundou",
-  "address": "95246040 66677660, Moundou, Chad",
-  "phone": "9524604066677660",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 35,
-  "name": "Goz Beida",
-  "address": "Moundou, N'Djamena, Chad",
-  "phone": "+23522523375",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 36,
-  "name": "Le Sarah B",
-  "address": "Koumra, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 37,
-  "name": "Al Dar Al Baghdadi",
-  "address": "Sarh, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 38,
-  "name": "Fries and Chicken",
-  "address": "Koumra, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 39,
-  "name": "Megan Pizza",
-  "address": "Sarh, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 40,
-  "name": "D'mar",
-  "address": "Pont de Balimba, Sarh, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 41,
-  "name": "Zakouma National Park",
-  "address": "Parc de Zakouma, Chad",
-  "phone": "+23599257947",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 42,
-  "name": "Vaishno Devi",
-  "address": "Qeira region, Koundjo, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 43,
-  "name": "Bahr Salamat Faunal Reserve",
-  "address": "Moundou, N'Djamena, Chad",
-  "phone": "+23522523375",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 44,
-  "name": "Hotel Cesar",
-  "address": "UN Force HQ, Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 45,
-  "name": "WFP Guest House,Abeche",
-  "address": "Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 46,
-  "name": "ضيافة ابشة",
-  "address": "Biltine, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 47,
-  "name": "Hôtel kinpeski",
-  "address": "N'Djamena, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 48,
-  "name": "فندق خمس نجوم",
-  "address": "Unnamed Road, Abéché, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 49,
-  "name": "Hôtel Trois Étoiles de Biltine",
-  "address": "Unnamed Road, Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 50,
-  "name": "Restaurant de l'université",
-  "address": "Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 51,
-  "name": "Grand marché",
-  "address": "Abeche, Chad",
-  "phone": "+23566251110",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 52,
-  "name": "Restaurant Al Farhan",
-  "address": "Rue N'Djaména, Abéché, Chad",
-  "phone": "+23562757491",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 53,
-  "name": "مطعم الوحدة",
-  "address": "Rue N'Djaména, Abéché, Chad",
-  "phone": "+23566498303",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 54,
-  "name": "Restaurant de l'université",
-  "address": "Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 55,
-  "name": "مطعم البارك",
-  "address": "Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 56,
-  "name": "درة أبشي",
-  "address": "Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 57,
-  "name": "مطعم النصر للمأكولات الشهية",
-  "address": "Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 58,
-  "name": "حديقة ظلال إفريقيا",
-  "address": "Abeche, Chad",
-  "phone": "+23566265151",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 59,
-  "name": "شواية موقف بلتين",
-  "address": "Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 60,
-  "name": "Abéché",
-  "address": "Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 61,
-  "name": "Banque Commerciale du Chari",
-  "address": "B.P. 1248,, Rue N'Djaména, Abeche, Chad",
-  "phone": "+23566042447",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 62,
-  "name": "Abeche, Chad",
-  "address": "N'Djamena, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 63,
-  "name": "Cimetière Amsoudourié",
-  "address": "N, Djamena, Chad, Chad",
-  "phone": "+23566266740",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 64,
-  "name": "Benjadid Taïba",
-  "address": "Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 65,
-  "name": "𝐌𝐨𝐮𝐬𝐬𝐚 Abéché",
-  "address": "Bokoro, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 66,
-  "name": "Aaya Narin Karmakar",
-  "address": "UN Force HQ, Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 67,
-  "name": "Bagarin",
-  "address": "Abéché, Tchad, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 68,
-  "name": "Chez Yvonne's Restaurant",
-  "address": "Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 69,
-  "name": "Centre d’acceuil Luthérien",
-  "address": "Abéché (quartier agat, mahamid, Abéché, Chad",
-  "phone": "+23593402627",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 70,
-  "name": "Rond-point Farcha",
-  "address": "Abeche, Chad",
-  "phone": "+23566808572",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 71,
-  "name": "رستوران سنتی شوکا",
-  "address": "Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 72,
-  "name": "ABeChe Ayam Geprek",
-  "address": "Abeche, Chad",
-  "phone": "+23522698358",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 73,
-  "name": "e.scabeche food boetiek",
-  "address": "Abeche, Chad",
-  "phone": "+23566251110",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 74,
-  "name": "Abeche Beauty \u0026 Spa",
-  "address": "Abeche, Chad",
-  "phone": "+23560267611",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 75,
-  "name": "House of Culture Alhadj Ahmat Pecos",
-  "address": "Unnamed Road, Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 76,
-  "name": "Abeche",
-  "address": "UN Force HQ, Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 77,
-  "name": "Place de l'Indépendance",
-  "address": "Unnamed Road, Abéché, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 78,
-  "name": "Crocodile Market",
-  "address": "Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 79,
-  "name": "Nech Sar National Park",
-  "address": "Abeche, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 80,
-  "name": "SEHAD",
-  "address": "BP 08, Koumra, Chad",
-  "phone": "+23560538590",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 81,
-  "name": "La Mirande Hotel",
-  "address": "Koumra, Chad",
-  "phone": "+23560210277",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 82,
-  "name": "La Résidence Hotel N'Djamena",
-  "address": "، Avenue Jacques NADINGAR, N'Djamena B.P. 2352 - Quartier ATRONE, Chad",
-  "phone": "+23522535260",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 83,
-  "name": "Hotel La Tchadienne (formerly known as \"Novotel\")",
-  "address": "Quartier Sabangali, Cité du 1er décembre, Chad",
-  "phone": "+23568166797",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 84,
-  "name": "Bijele Vode spa\u0026nature hotel",
-  "address": "Avenue Mocktar Ould, Dada BP 109, N'Djamena, Chad",
-  "phone": "+23563221967",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 85,
-  "name": "Koumra",
-  "address": "Koumra, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- },
- {
-  "id": 86,
-  "name": "Manda National Park",
-  "address": "Pont de Balimba, Chad",
-  "phone": "",
-  "country-code": "TD",
-  "country": "Chad"
- }
+  {
+    "id": 1,
+    "name": "Hôtel La Résidence",
+    "address": "Quartier Guelkol, Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 2,
+    "name": "Papillon Bleu",
+    "address": "Quartier Guelkol, Moundou, Chad",
+    "phone": "+23566827757",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 3,
+    "name": "Auberge Canadel VIP",
+    "address": "Quartier Dombao, Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 4,
+    "name": "Club du Logone",
+    "address": "Dombao, Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 5,
+    "name": "Auberge Tom",
+    "address": "Dombao, Moundou, Chad",
+    "phone": "+23565150804",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 6,
+    "name": "Auberge Canadel",
+    "address": "Dombao, Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 7,
+    "name": "Auberge 8 Mars",
+    "address": "Docimbene 1, Moundou, Chad",
+    "phone": "+23566841400",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 8,
+    "name": "Auberge Diastole Annexe",
+    "address": "Quartier Résidentiel, Moundou, Chad",
+    "phone": "+23563022662",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 9,
+    "name": "Satellite N°3",
+    "address": "Quartier 15 ans I, Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 10,
+    "name": "Mekab Sur-Man",
+    "address": "Moundou, Chad",
+    "phone": "+23565243333",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 11,
+    "name": "Le Doux Renove",
+    "address": "Mbombaya District, Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 12,
+    "name": "Centre d'Accueil La Fraternité",
+    "address": "Guelkoura, Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 13,
+    "name": "Planete Life",
+    "address": "Doyon, Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 14,
+    "name": "Auberge Le Roi",
+    "address": "Quartier Guelkoura, Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 15,
+    "name": "Auberge VGA",
+    "address": "Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 16,
+    "name": "Lokouaro",
+    "address": "Quartier Guelkoura, Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 17,
+    "name": "Tahir Ikezim Oumar",
+    "address": "Ras, Moundou, Chad",
+    "phone": "+23566298911",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 18,
+    "name": "Africa Foods \"Akilna\"",
+    "address": "Djamena, Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 19,
+    "name": "Chez Mme Manassé",
+    "address": "Unnamed Road, Moundou, Chad",
+    "phone": "+23566707013",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 20,
+    "name": "Centre commercial le principal",
+    "address": "Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 21,
+    "name": "Majou shopping",
+    "address": "Moundou, Chad",
+    "phone": "+23599909074",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 22,
+    "name": "Hôtel Résidence De Moundou",
+    "address": "Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 23,
+    "name": "Alimentation et Restaurant SOUMARA",
+    "address": "Moundou, Chad",
+    "phone": "+23599743558",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 24,
+    "name": "Café Maman Gentille",
+    "address": "Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 25,
+    "name": "Restaurant Miramar",
+    "address": "Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 26,
+    "name": "Etablissement Mahamat Mahamat Chaib",
+    "address": "Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 27,
+    "name": "Moundou",
+    "address": "Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 28,
+    "name": "Ets Ngarhota et fils",
+    "address": "Moundou, Chad",
+    "phone": "+23566671887",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 29,
+    "name": "Vieux Rampart",
+    "address": "Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 30,
+    "name": "Café des Arts",
+    "address": "، Auberge,, Moundou, Chad",
+    "phone": "+23566472686",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 31,
+    "name": "Complexe Khassam Annexe De Moundou",
+    "address": "Djamena-Moundou, Kélo, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 32,
+    "name": "Chez tonton frédo",
+    "address": "Djamena-Moundou, N'Djamena, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 33,
+    "name": "Est Business Center Group",
+    "address": "Guelkoura, Moundou, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 34,
+    "name": "Moundou",
+    "address": "95246040 66677660, Moundou, Chad",
+    "phone": "9524604066677660",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 35,
+    "name": "Goz Beida",
+    "address": "Moundou, N'Djamena, Chad",
+    "phone": "+23522523375",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 36,
+    "name": "Le Sarah B",
+    "address": "Koumra, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 37,
+    "name": "Al Dar Al Baghdadi",
+    "address": "Sarh, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 38,
+    "name": "Fries and Chicken",
+    "address": "Koumra, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 39,
+    "name": "Megan Pizza",
+    "address": "Sarh, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 42,
+    "name": "Vaishno Devi",
+    "address": "Qeira region, Koundjo, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 43,
+    "name": "Bahr Salamat Faunal Reserve",
+    "address": "Moundou, N'Djamena, Chad",
+    "phone": "+23522523375",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 44,
+    "name": "Hotel Cesar",
+    "address": "UN Force HQ, Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 45,
+    "name": "WFP Guest House,Abeche",
+    "address": "Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 46,
+    "name": "ضيافة ابشة",
+    "address": "Biltine, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 47,
+    "name": "Hôtel kinpeski",
+    "address": "N'Djamena, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 48,
+    "name": "فندق خمس نجوم",
+    "address": "Unnamed Road, Abéché, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 49,
+    "name": "Hôtel Trois Étoiles de Biltine",
+    "address": "Unnamed Road, Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 50,
+    "name": "Restaurant de l'université",
+    "address": "Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 51,
+    "name": "Grand marché",
+    "address": "Abeche, Chad",
+    "phone": "+23566251110",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 52,
+    "name": "Restaurant Al Farhan",
+    "address": "Rue N'Djaména, Abéché, Chad",
+    "phone": "+23562757491",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 53,
+    "name": "مطعم الوحدة",
+    "address": "Rue N'Djaména, Abéché, Chad",
+    "phone": "+23566498303",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 54,
+    "name": "Restaurant de l'université",
+    "address": "Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 55,
+    "name": "مطعم البارك",
+    "address": "Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 56,
+    "name": "درة أبشي",
+    "address": "Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 57,
+    "name": "مطعم النصر للمأكولات الشهية",
+    "address": "Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 58,
+    "name": "حديقة ظلال إفريقيا",
+    "address": "Abeche, Chad",
+    "phone": "+23566265151",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 59,
+    "name": "شواية موقف بلتين",
+    "address": "Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 60,
+    "name": "Abéché",
+    "address": "Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 61,
+    "name": "Banque Commerciale du Chari",
+    "address": "B.P. 1248,, Rue N'Djaména, Abeche, Chad",
+    "phone": "+23566042447",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 62,
+    "name": "Abeche, Chad",
+    "address": "N'Djamena, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 63,
+    "name": "Cimetière Amsoudourié",
+    "address": "N, Djamena, Chad, Chad",
+    "phone": "+23566266740",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 64,
+    "name": "Benjadid Taïba",
+    "address": "Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 65,
+    "name": "𝐌𝐨𝐮𝐬𝐬𝐚 Abéché",
+    "address": "Bokoro, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 66,
+    "name": "Aaya Narin Karmakar",
+    "address": "UN Force HQ, Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 67,
+    "name": "Bagarin",
+    "address": "Abéché, Tchad, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 68,
+    "name": "Chez Yvonne's Restaurant",
+    "address": "Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 69,
+    "name": "Centre d’acceuil Luthérien",
+    "address": "Abéché (quartier agat, mahamid, Abéché, Chad",
+    "phone": "+23593402627",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 70,
+    "name": "Rond-point Farcha",
+    "address": "Abeche, Chad",
+    "phone": "+23566808572",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 71,
+    "name": "رستوران سنتی شوکا",
+    "address": "Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 72,
+    "name": "ABeChe Ayam Geprek",
+    "address": "Abeche, Chad",
+    "phone": "+23522698358",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 73,
+    "name": "e.scabeche food boetiek",
+    "address": "Abeche, Chad",
+    "phone": "+23566251110",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 74,
+    "name": "Abeche Beauty \u0026 Spa",
+    "address": "Abeche, Chad",
+    "phone": "+23560267611",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 75,
+    "name": "House of Culture Alhadj Ahmat Pecos",
+    "address": "Unnamed Road, Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 76,
+    "name": "Abeche",
+    "address": "UN Force HQ, Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 77,
+    "name": "Place de l'Indépendance",
+    "address": "Unnamed Road, Abéché, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 78,
+    "name": "Crocodile Market",
+    "address": "Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 79,
+    "name": "Nech Sar National Park",
+    "address": "Abeche, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 80,
+    "name": "SEHAD",
+    "address": "BP 08, Koumra, Chad",
+    "phone": "+23560538590",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 81,
+    "name": "La Mirande Hotel",
+    "address": "Koumra, Chad",
+    "phone": "+23560210277",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 82,
+    "name": "La Résidence Hotel N'Djamena",
+    "address": "، Avenue Jacques NADINGAR, N'Djamena B.P. 2352 - Quartier ATRONE, Chad",
+    "phone": "+23522535260",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 83,
+    "name": "Hotel La Tchadienne (formerly known as \"Novotel\")",
+    "address": "Quartier Sabangali, Cité du 1er décembre, Chad",
+    "phone": "+23568166797",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 84,
+    "name": "Bijele Vode spa\u0026nature hotel",
+    "address": "Avenue Mocktar Ould, Dada BP 109, N'Djamena, Chad",
+    "phone": "+23563221967",
+    "country-code": "TD",
+    "country": "Chad"
+  },
+  {
+    "id": 85,
+    "name": "Koumra",
+    "address": "Koumra, Chad",
+    "phone": "",
+    "country-code": "TD",
+    "country": "Chad"
+  }
 ]

@@ -1,3882 +1,3642 @@
 [
- {
-  "id": 1,
-  "name": "ONOMO Hotel Conakry",
-  "address": "Corniche Nord, Conakry, Guinea",
-  "phone": "+224623623623",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 2,
-  "name": "Hotel Mariador Palace",
-  "address": "BP 2146 - Ratoma Conakry République de Guinée, Conakry, Guinea",
-  "phone": "+224666808782",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 3,
-  "name": "Noom Hotel Conakry",
-  "address": "6th Blvd, Conakry, Guinea",
-  "phone": "+224623800800",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 4,
-  "name": "SOUARE PREMIUM HOTEL",
-  "address": "Teminetaye, Ave de la Republique, Kaloum, Guinea",
-  "phone": "+224626333333",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 5,
-  "name": "Riviera Royal Hotel",
-  "address": "Corniche Sud en face des jardins du 02 octobre, à coté de la Residence 2000 +224 624 93 16 16, Guinea",
-  "phone": "022000+224624931616",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 6,
-  "name": "ONOMO Hotel Conakry",
-  "address": "Corniche Sud en face des jardins du 02 octobre, à coté de la Residence 2000 +224 624 93 16 16, Guinea",
-  "phone": "022000+224624931616",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 7,
-  "name": "Grand Hotel Central",
-  "address": "Taouyah Corniche, Conakry, Guinea",
-  "phone": "+224660300000",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 8,
-  "name": "Hotel Palm Camayenne",
-  "address": "Guinea, Conakry, Tayire Konkoba Hotel Iles de Los",
-  "phone": "+420774153392",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 9,
-  "name": "ZAMBEZI INN HOTEL(near Airport, 3 minutes)",
-  "address": "Unnamed Road,, Tayire, Guinea",
-  "phone": "+224625293133",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 10,
-  "name": "Hotel Restaurant Océano",
-  "address": "Conakry, Guinea",
-  "phone": "+33605526591",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 11,
-  "name": "Hôtel Petit Bateau",
-  "address": "Rue KA 011, Conakry, Guinea",
-  "phone": "+224662867607",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 12,
-  "name": "Hotel M'LYS",
-  "address": "B.P, Ratoma, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 13,
-  "name": "LA VILLA M",
-  "address": "S/P Kassa - îles de Loos, Conakry, Guinea",
-  "phone": "+224621225384",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 14,
-  "name": "Résidence sandervalia",
-  "address": "Miniere Comandayah Dixinn, Conakry, Conakry, Guinea",
-  "phone": "+224622634381",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 15,
-  "name": "Sheraton Grand Conakry",
-  "address": "Unnamed Road, Conakry, Guinea",
-  "phone": "+224622218841",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 16,
-  "name": "Hotel Sacha",
-  "address": "QUARTIER ALMAMYA 1194, Conakry, Guinea",
-  "phone": "+224621645504",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 17,
-  "name": "Hakaba",
-  "address": "3493 Ratoma, 999, Guinea",
-  "phone": "+224622352500",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 18,
-  "name": "Atlantic View hotel Conakry",
-  "address": "Centre, Ratoma, Conakry, Guinea",
-  "phone": "+224664578369",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 19,
-  "name": "Novotel Ghi Conakry Hotel",
-  "address": "Peninsula, Kaloum, Guinea",
-  "phone": "+224664318279",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 20,
-  "name": "Grand Hôtel de l'Indépendance",
-  "address": "5em Avennue Sandervalia Kaloum Conakry, Conakry, Guinea",
-  "phone": "+224620521171",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 21,
-  "name": "Hotel Golf",
-  "address": "Conakry, Guinea",
-  "phone": "+224622000024",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 22,
-  "name": "Le Rocher",
-  "address": "Mafanco, Corniche Sud, Conakry, Guinea",
-  "phone": "+224623484876",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 23,
-  "name": "corniche de camayenne",
-  "address": "commune de Dixinn, Camayene, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 24,
-  "name": "Le Beau Village",
-  "address": "Rue KA 033, Sandervalia, Kaloum, 9th Blvd, Conakry, Guinea",
-  "phone": "+224624100000",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 25,
-  "name": "Hôtel SETIFANA",
-  "address": "Nongo Stade, Ratoma, Guinea",
-  "phone": "+224627498293",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 26,
-  "name": "Mai Hotel",
-  "address": "Baie de Sangaréa, Conakry, Guinea",
-  "phone": "+224666057620",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 27,
-  "name": "Le Petit Chalet Hotel",
-  "address": "5th Avenue Quartier Almamya BP4464 Conakry, Kaloum, Guinea",
-  "phone": "+224624791664",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 28,
-  "name": "Hotel Grand Ami",
-  "address": "Conakry, Guinea",
-  "phone": "+224662406065",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 29,
-  "name": "Hôtel Mariador Park",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 30,
-  "name": "Residence Schaka Suites",
-  "address": "Corniche Nord, Conakry 224, Guinea",
-  "phone": "+224629456565",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 31,
-  "name": "RESIDENCE CANADIENNE",
-  "address": "Face au lycée Français RATOMA, 172, Guinea",
-  "phone": "+224660777771",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 32,
-  "name": "Pension Les Palmiers Ratoma",
-  "address": "Close to Sonfonia Market, Conakry, Guinea",
-  "phone": "+4915231711714",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 33,
-  "name": "Golden Plazza",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "+224622295122",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 34,
-  "name": "Auberge associative ReLAIS",
-  "address": "Kipe Centre Emetteur, Ratoma, Guinea",
-  "phone": "+224624931212",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 35,
-  "name": "Pension Les Palmiers",
-  "address": "Immeuble UGAR, Angles Rues KAO 19022, Quartier Sandervalia Commune de BP 1786, Kaloum, Guinea",
-  "phone": "190221786",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 36,
-  "name": "L'Almamya Hôtel \u0026 Résidence",
-  "address": "Croisement Rue De La Mosquée Et Rue Djoliba Almamya, Commune De Kaloum Conakry, Conakry, Guinea",
-  "phone": "+224624299369",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 37,
-  "name": "La Villa Elijah",
-  "address": "BP 2146 - Ratoma Conakry République de Guinée, Conakry, Guinea",
-  "phone": "+224666808782",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 38,
-  "name": "CITY HOTEL",
-  "address": "QUARTIER CORONTHIE, Conakry, Guinea",
-  "phone": "+224657798000",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 39,
-  "name": "Het Park Milly Mamoudou",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "+224660021212",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 40,
-  "name": "Konkoba",
-  "address": "Corniche N Conakry, Conakry, Guinea",
-  "phone": "+224656101010",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 41,
-  "name": "مطعم سدرة Restaurant Le Cèdre",
-  "address": "Corniche Nord, Immeuble Eban, Corniche N, Conakry, Guinea",
-  "phone": "+224624700434",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 42,
-  "name": "L’Étage, Conakry",
-  "address": "5th Blvd, Conakry, Guinea",
-  "phone": "+224655909090",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 43,
-  "name": "Restaurant Hanoi",
-  "address": "Conakry, Guinea",
-  "phone": "+224664298299",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 44,
-  "name": "Avenue",
-  "address": "Unnamed Road,, Conakry, Guinea",
-  "phone": "+224622077765",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 45,
-  "name": "Restaurant Le Retrait",
-  "address": "Conakry, Guinea",
-  "phone": "+224628682525",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 46,
-  "name": "Les Îles de Joie",
-  "address": "Rte du Niger, Conakry, Guinea",
-  "phone": "+224664218938",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 47,
-  "name": "Le Patio",
-  "address": "4th Ave, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 48,
-  "name": "Istanbul Restaurant \u0026 Pâtisserie",
-  "address": "Conakry, Guinea",
-  "phone": "+224622818513",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 49,
-  "name": "WAFFOU RESTAURANT",
-  "address": "6th Ave, Conakry, Guinea",
-  "phone": "+224664531415",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 50,
-  "name": "RESTAURANT LES COPAINS D ABORD",
-  "address": "Italia Box, Conakry, Guinea",
-  "phone": "+224627125555",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 51,
-  "name": "Le Special",
-  "address": "Kaloum Peninsula, Conakry, Conakry, Guinea",
-  "phone": "+224627010139",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 52,
-  "name": "La Paillote",
-  "address": "2nd Blvd, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 53,
-  "name": "Le Comptoir Conakry",
-  "address": "4th Ave, Conakry, Guinea",
-  "phone": "+224628307832",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 54,
-  "name": "Restaurant Terrasse Aquarium",
-  "address": "3rd Ave, Conakry, Guinea",
-  "phone": "+224621101296",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 55,
-  "name": "Restaurant Modibo",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 56,
-  "name": "Siete",
-  "address": "Conakry, Guinea",
-  "phone": "+224628288182",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 57,
-  "name": "Restaurant Coups De Frein.",
-  "address": "Conakry, Guinea",
-  "phone": "+224660779999",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 58,
-  "name": "Restaurant Coups De Frein.",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 59,
-  "name": "Le Bambou",
-  "address": "4th Ave, Conakry, Guinea",
-  "phone": "+224661811834",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 60,
-  "name": "OKLM GRILL",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 61,
-  "name": "Restaurant la terrasse",
-  "address": "Unnamed Road, Conakry, Guinea",
-  "phone": "+224629818411",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 62,
-  "name": "Restaurant Istanbul",
-  "address": "Conakry, Guinea",
-  "phone": "+224669512294",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 63,
-  "name": "Le Cozy de Conakry",
-  "address": "Rte du Niger, Conakry, Guinea",
-  "phone": "+224621011691",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 64,
-  "name": "Restaurant City Bar TMI",
-  "address": "Ave de la Gare, Conakry, Guinea",
-  "phone": "+224657077777",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 65,
-  "name": "La Familia",
-  "address": "Conakry, Guinea",
-  "phone": "+224628592960",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 66,
-  "name": "Morgan Restaurant",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "+224622295122",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 67,
-  "name": "RESTAURANT ILLY CAFE",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 68,
-  "name": "Restaurant OTakos Kipé",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 69,
-  "name": "Rice Women Restaurant",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "+224622857736",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 70,
-  "name": "Restaurant la fourchette magique",
-  "address": "Rte le prince, Conakry, Guinea",
-  "phone": "+224622662515",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 71,
-  "name": "Magik Joe Fast Food",
-  "address": "Unnamed Road, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 72,
-  "name": "Restaurant Royal Garden",
-  "address": "Conakry, Guinea",
-  "phone": "+224666325896",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 73,
-  "name": "Restaurant Paradise Nongo",
-  "address": "Conakry, Guinea",
-  "phone": "+224657212263",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 74,
-  "name": "Restaurant Bakonko",
-  "address": "Kipe centre Emetteur, Conakry, Guinea",
-  "phone": "+224625162774",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 75,
-  "name": "RESTAURANT LYLI",
-  "address": "3070 conakry, 224, Guinea",
-  "phone": "+224620551759",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 76,
-  "name": "Restaurant \"Aïcha\"",
-  "address": "T2, Conakry, Guinea",
-  "phone": "+224628614191",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 77,
-  "name": "RESTAURANT LES JUMELLES",
-  "address": "3rd Ave, Conakry, Guinea",
-  "phone": "+224622129780",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 78,
-  "name": "Restaurant de L'université Kofi Annan de Guinée",
-  "address": "3rd Ave, Conakry, Guinea",
-  "phone": "+224622513535",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 79,
-  "name": "RESTAURANT LE CONFORT",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 80,
-  "name": "RAMBANY Restaurant",
-  "address": "Conakry, Guinea",
-  "phone": "+224661199999",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 81,
-  "name": "Restaurant La Grillade",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 82,
-  "name": "Le Scred Lounge",
-  "address": "Kipé Métal, Conakry, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 83,
-  "name": "Kimchi Cafe Korean Restaurant, NGO Africa Light",
-  "address": "Face Blu Zone 5 etage appt 3, Rue KA 040, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 84,
-  "name": "Mim's Burger",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 85,
-  "name": "Restaurant Bethel",
-  "address": "8th Ave, Conakry, Guinea",
-  "phone": "+224623690165",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 86,
-  "name": "Big Fataya VIP",
-  "address": "Conakry, Guinea",
-  "phone": "+224666983039",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 87,
-  "name": "Restaurant Africana",
-  "address": "Conakry, Guinea",
-  "phone": "+224628429090",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 88,
-  "name": "Heroes Coffee",
-  "address": "Unnamed Rd, Conakry, Guinea",
-  "phone": "+224669699999",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 89,
-  "name": "Restaurant Chez Binta",
-  "address": "3rd Ave, Conakry, Guinea",
-  "phone": "+224622357651",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 90,
-  "name": "RESTAURANT LE CONSULAT",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 91,
-  "name": "Restaurant Moka",
-  "address": "Conakry, Guinea",
-  "phone": "+224625888666",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 92,
-  "name": "Fatou’s",
-  "address": "Conakry, Guinea",
-  "phone": "+224664817475",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 93,
-  "name": "Le Soft Restaurant",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 94,
-  "name": "RESTAURANT LA GOURMANDISE",
-  "address": "Conakry, Guinea",
-  "phone": "+224623923825",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 95,
-  "name": "Restaurant JuFuGe",
-  "address": "Lieu marqué d’un repère AEROPORT GBESSIA (domicile) Tranversal 2 Conakry Guinée, Conakry, Guinea",
-  "phone": "+224624750134",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 96,
-  "name": "Café piscine Kipé",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "+224622437719",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 97,
-  "name": "Restaurant Sénégalais Chez Tantie Awa",
-  "address": "Unnamed Road,, Conakry, Guinea",
-  "phone": "+224622600607",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 98,
-  "name": "Restaurant Bantounka",
-  "address": "Unnamed Road, Conakry, Guinea",
-  "phone": "+224621433737",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 99,
-  "name": "Wess Grill",
-  "address": "Conakry, Guinea",
-  "phone": "+224627933342",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 100,
-  "name": "Heroes Coffee Kaloum",
-  "address": "H8MR+W8G Taouyah, Conakry, Guinea",
-  "phone": "+224622362006",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 101,
-  "name": "Restaurant Escale De Petit Lac",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "+224624807750",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 102,
-  "name": "Big Fataya Nongo",
-  "address": "Malian Embassy, Conakry, Guinea",
-  "phone": "+224666505050",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 103,
-  "name": "Batista Café Kipé",
-  "address": "Conakry, Guinea",
-  "phone": "+224625299398",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 104,
-  "name": "Restaurant Chinois (YUEXI YU)",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 105,
-  "name": "Gnakry crepe",
-  "address": "7th Ave, Conakry, Guinea",
-  "phone": "+224628767889",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 106,
-  "name": "Namaste restaurant \u0026 lounge- Bar",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "+224625909032",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 107,
-  "name": "Munas Restaurant",
-  "address": "Ratoma Dispensaire Conakry, 224, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 108,
-  "name": "Chez Lily",
-  "address": "2nd Blvd, Conakry, Guinea",
-  "phone": "+224621638295",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 109,
-  "name": "La cuisine de hawa",
-  "address": "Unnamed Road, Conakry, Guinea",
-  "phone": "+224625363939",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 110,
-  "name": "Chez Fifi Restaurant ivoirien",
-  "address": "Kaloum, Peninsula, Conakry, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 111,
-  "name": "RFC -Roma Fried Chiken",
-  "address": "Rte du Niger, Conakry, Guinea",
-  "phone": "+224629888881",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 112,
-  "name": "Restaurant farafina lounge",
-  "address": "Corniche Sud, Conakry, Guinea",
-  "phone": "+224666222227",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 113,
-  "name": "Brioche Dorée Kipe",
-  "address": "J'approuve cité Conakry, 101, Guinea",
-  "phone": "+224620335878",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 114,
-  "name": "Diamond Lounge Restaurant",
-  "address": "Conakry, Guinea",
-  "phone": "+224622244983",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 115,
-  "name": "Restaurant",
-  "address": "Unnamed Road, Conakry, Guinea",
-  "phone": "+224621282819",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 116,
-  "name": "Beirut Restaurant",
-  "address": "Kipe Dadia, Conakry, Guinea",
-  "phone": "+224626904588",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 117,
-  "name": "Cafe Restaurant Le Khouré Chez DG",
-  "address": "Manquepas conakry, 224, Guinea",
-  "phone": "+224627509129",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 118,
-  "name": "RESTAURANT MAM DELICES",
-  "address": "Kipé, Plaza Diamond Conakry, Guinea",
-  "phone": "+224611203970",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 119,
-  "name": "Restaurant Togolais",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 120,
-  "name": "Soguidip Restaurant",
-  "address": "457 Conakry, Kipé Kaporo Rails, 001, Guinea",
-  "phone": "+224669464648",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 121,
-  "name": "RESTAURANT SACHA",
-  "address": "Conakry, Guinea",
-  "phone": "+224623456789",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 122,
-  "name": "Restaurant Dissa",
-  "address": "400000, Conakry, Guinea",
-  "phone": "+224623555537",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 123,
-  "name": "RESTAURANT CHINOIS",
-  "address": "9th Ave, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 124,
-  "name": "Restaurant Keur BAMBA (Restaurant Senegal)",
-  "address": "Prisma center, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 125,
-  "name": "O'resto Conakry",
-  "address": "Conakry, Guinea",
-  "phone": "+224629326262",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 126,
-  "name": "Taj Mahal Residences And Restaurant Conakry",
-  "address": "Unnamed Road,, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 127,
-  "name": "Sous le manguier",
-  "address": "Kipé Dadya, Corniche Nord - C, Ratoma, Guinea",
-  "phone": "+224627570854",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 128,
-  "name": "RESTAURANT KOMI",
-  "address": "Kipé Dadya, Corniche Nord - C, Ratoma, Guinea",
-  "phone": "+224627570854",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 129,
-  "name": "Restaurant l'échangeur",
-  "address": "Unnamed Road,, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 130,
-  "name": "La Gargotte",
-  "address": "Conakry, Guinea",
-  "phone": "+224666111333",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 131,
-  "name": "Best Chinese restaurant",
-  "address": "N1, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 132,
-  "name": "Planète Pizza",
-  "address": "N1, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 133,
-  "name": "Carrefour Plaza Diamond",
-  "address": "H8WX+C4F Prima center, Conakry, Guinea",
-  "phone": "+224629362639",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 134,
-  "name": "CENTRE COMMERCIAL BAYO DE MAFANCO",
-  "address": "Rte le prince, Conakry, Guinea",
-  "phone": "+224622274626",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 135,
-  "name": "PLAZA DIAMANT",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 136,
-  "name": "Wali Concept-Store",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 137,
-  "name": "Commandaya, Conakry",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 138,
-  "name": "Centre Orange Madina",
-  "address": "Rails Kipe, Conakry, Guinea",
-  "phone": "+224625000111",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 139,
-  "name": "A Conakry",
-  "address": "Conakry, Guinea",
-  "phone": "+224621526358",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 140,
-  "name": "America Food \u0026 Cosmetic Center",
-  "address": "Nongo Tady, 3470, Ratoma 324, Guinea",
-  "phone": "+224612157979",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 141,
-  "name": "boummalol maison",
-  "address": "Ratoma, Guinea",
-  "phone": "+224629370739",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 142,
-  "name": "Kondebounyi , Gbessia Conakry",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "+224621090963",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 143,
-  "name": "Carrefour Gazoil",
-  "address": "Ratoma, Koloma, Guinea",
-  "phone": "+224610271027",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 144,
-  "name": "Tamisso",
-  "address": "Peninsula, Kaloum, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 145,
-  "name": "Wakilare",
-  "address": "Unnamed Road, Conakry, Guinea",
-  "phone": "+224654000111",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 146,
-  "name": "M A J. enterprise center shopping lover's",
-  "address": "Kamsar, Guinea",
-  "phone": "+224628300600",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 147,
-  "name": "DNS Sarlu pomme",
-  "address": "780 di dixinn hafia 2 Hafia 2 mosquée Conakry, 780, Guinea",
-  "phone": "78022780",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 148,
-  "name": "DSK Business Center",
-  "address": "Office National du Tourisme, Conakry, Guinea",
-  "phone": "+224628220123",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 149,
-  "name": "U EXPRESS COLEAH",
-  "address": "Kipe Centre, Ratoma, Diamand Plaza, Emmeteur, Guinea",
-  "phone": "+224622601640",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 150,
-  "name": "Sonfonia Gare",
-  "address": "Unnamed Road,, Conakry, Guinea",
-  "phone": "+224622600607",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 151,
-  "name": "Papeterie de Prima",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 152,
-  "name": "Luxa Lingerie \u0026 Parfums",
-  "address": "Conakry, Guinea",
-  "phone": "+224620984828",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 153,
-  "name": "Galerie Home Deco",
-  "address": "Bureau Commercial: Immeuble Satguru, Face Ministère de la Cooperation, BP 1988, Kaloum, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 154,
-  "name": "Ets Burundi Parfumerie Et Divers",
-  "address": "Conakry, Lambagny 224, Guinea",
-  "phone": "+224621568383",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 155,
-  "name": "Jouets Planète",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 156,
-  "name": "MARCHE ENTA",
-  "address": "Taouyah Marché, C/Ratoma, Guinea",
-  "phone": "+224610679079",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 157,
-  "name": "Déco Cadeau",
-  "address": "224 Conakry, 224, Guinea",
-  "phone": "+224621611128",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 158,
-  "name": "Marche du Niger",
-  "address": "2è, Conakry, Guinea",
-  "phone": "+224623532630",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 159,
-  "name": "Moussa Sacko",
-  "address": "Sonfonia, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 160,
-  "name": "SP mobile",
-  "address": "Kipé Croisement Seven Eleven Et Ruelle Mosquée Métal Guinée, Guinea",
-  "phone": "+224625212141",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 161,
-  "name": "SUTURA HOUSE",
-  "address": "Conakry, Guinea",
-  "phone": "+224628000000",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 162,
-  "name": "Guinee électronique center",
-  "address": "Ave de la Gare, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 163,
-  "name": "BOKELEC GUINÉE CONAKRY",
-  "address": "Conakry, Guinea",
-  "phone": "+224612252188",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 164,
-  "name": "BOUTIQUE LA HAC",
-  "address": "Hamdallaye CBG, Conakry, Guinea",
-  "phone": "+224666257120",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 165,
-  "name": "Herbal Nutrition",
-  "address": "Conakry, Guinea",
-  "phone": "+224626966364",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 166,
-  "name": "Business center",
-  "address": "Prima Center, Kipé, BP : 4899, Conakry, Guinea",
-  "phone": "+224623080802",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 167,
-  "name": "Agence Orange du Prima Center",
-  "address": "Kankan, Guinea",
-  "phone": "+224622454434",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 168,
-  "name": "SiverNet",
-  "address": "Conakry, Guinea",
-  "phone": "+224629021388",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 169,
-  "name": "Le Labo Des Jeux 224",
-  "address": "Conakry, Guinea",
-  "phone": "+224662901292",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 170,
-  "name": "Guinée Fitness",
-  "address": "Coyah, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 171,
-  "name": "Commissariat Central Sonfonia centre",
-  "address": "J936+94G prima centre, Conakry, Guinea",
-  "phone": "+224654680381",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 172,
-  "name": "Cafe",
-  "address": "Conakry, Guinea",
-  "phone": "+224664271707",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 173,
-  "name": "centre Likida",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 174,
-  "name": "Mabalka investment LTD",
-  "address": "Conakry, Guinea",
-  "phone": "+224625924407",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 175,
-  "name": "CanalOlympia Kaloum",
-  "address": "PRIMA CENTER, Conakry, Guinea",
-  "phone": "+224610777705",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 176,
-  "name": "Grande Mosquée de Conakry",
-  "address": "Kaporo Rail, dans l'enceinte de Prima Center, Guinea",
-  "phone": "+224611000000",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 177,
-  "name": "MINA SPA",
-  "address": "Conakry, Guinea",
-  "phone": "+224625293765",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 178,
-  "name": "Lac de Sonfonia",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 179,
-  "name": "Conakry Hack",
-  "address": "Unnamed Road, Conakry, Guinea",
-  "phone": "+224629159500",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 180,
-  "name": "AFIA Pharmacy",
-  "address": "9th Ave, Conakry, Guinea",
-  "phone": "+224622271206",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 181,
-  "name": "ASF FITNESS LAMBANYI",
-  "address": "Conakry, Guinea",
-  "phone": "+224656846429",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 182,
-  "name": "CENTRE ACROBATIQUE FODÉBA KEÏTA",
-  "address": "Conakry, Guinea",
-  "phone": "+224621102654",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 183,
-  "name": "Thomas Greg Afrique de L'Ouest",
-  "address": "PRIMA CENTER, Conakry, Guinea",
-  "phone": "+224628614499",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 184,
-  "name": "Resto café chez monsieur amadou Ba",
-  "address": "Conakry, Guinea",
-  "phone": "+224622231575",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 185,
-  "name": "GUI-MAX NUTRITION",
-  "address": "Unnamed Road, Conakry, Guinea",
-  "phone": "+224622474545",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 186,
-  "name": "Bureau Informatique Services",
-  "address": "Lambanyi, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 187,
-  "name": "Heroes Coffee",
-  "address": "Prima Center, Kipé Rails, Conakry, Guinea",
-  "phone": "+224625229800",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 188,
-  "name": "PORCELANOSA Associate Conakry",
-  "address": "Conakry, Guinea",
-  "phone": "+224627504810",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 189,
-  "name": "Orange Digital Center",
-  "address": "Matoto, Guinea",
-  "phone": "+224627101515",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 190,
-  "name": "Centre Commercial Kakande",
-  "address": "Rte du Niger, Conakry, Guinea",
-  "phone": "+224622468881",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 191,
-  "name": "Boulangerie ORVITA",
-  "address": "Madina auto.route Conakry, 224, Guinea",
-  "phone": "+224625907971",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 192,
-  "name": "Geneva Night Club Conakry",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "+224628238034",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 193,
-  "name": "Ethiopian Airlines \u0026Asky airlines",
-  "address": "Unnamed Road, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 194,
-  "name": "After Bar \u0026 Billard",
-  "address": "tamisso.com, Conakry, Guinea",
-  "phone": "+224656647245",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 195,
-  "name": "Koumakan Maison de l'Oralité",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "+224664779777",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 196,
-  "name": "KAKI Restaurant-Brasserie-Shop-Event",
-  "address": "Unnamed Road, Guinea",
-  "phone": "+224624090766",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 197,
-  "name": "LAPOUTHIALAI VOYAGE",
-  "address": "Unnamed Road, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 198,
-  "name": "ROCHAS PLAZA",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 199,
-  "name": "National Museum of Guinea",
-  "address": "Conakry, Guinea",
-  "phone": "+224628000000",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 200,
-  "name": "Mosquée Turque de Koloma",
-  "address": "Ave de la Gare, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 201,
-  "name": "CanalOlympia Kaloum",
-  "address": "9th Ave, Conakry, Guinea",
-  "phone": "+224622271206",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 202,
-  "name": "Bluezone de Kaloum",
-  "address": "N.1, Conakry, Guinea",
-  "phone": "+224664630262",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 203,
-  "name": "Conakry",
-  "address": "Route le Prince mosquee Turque de Koloma Conakry, 001, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 204,
-  "name": "Conakry",
-  "address": "2nd Ave, Conakry, Guinea",
-  "phone": "+224622072287",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 205,
-  "name": "Sheraton Grand Conakry",
-  "address": "Rue KA 050, Conakry, Guinea",
-  "phone": "+224625258488",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 206,
-  "name": "Fouta Trekking",
-  "address": "Conakry, Guinea",
-  "phone": "+224620280949",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 207,
-  "name": "Маунт Нимба",
-  "address": "Corniche Sud en face des jardins du 02 octobre, à coté de la Residence 2000 +224 624 93 16 16, Guinea",
-  "phone": "022000+224624931616",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 208,
-  "name": "National Museum of Fine Arts",
-  "address": "Conakry, Guinea",
-  "phone": "+224628682525",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 209,
-  "name": "National Museum of Singapore",
-  "address": "Conakry, Guinea",
-  "phone": "+224621102654",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 210,
-  "name": "Faranah",
-  "address": "Taouyah Corniche, Conakry, Guinea",
-  "phone": "+224660300000",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 211,
-  "name": "Ricketts",
-  "address": "Bora, Guinea",
-  "phone": "+224621288524",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 212,
-  "name": "Evinayong",
-  "address": "T7, Corniche Nord, Virage du Lac Sonfonia Centre, Commune de Ratoma, Conakry 224, Guinea",
-  "phone": "+224624041111",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 213,
-  "name": "Litoral",
-  "address": "Kaloum Peninsula, Conakry, Guinea",
-  "phone": "+224621090963",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 214,
-  "name": "Robertsport",
-  "address": "Rue KA 033, Sandervalia, Kaloum, 9th Blvd, Conakry, Guinea",
-  "phone": "+224624100000",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 215,
-  "name": "Yundum",
-  "address": "sayonsidibe2012@gmail.com, Conakry, Guinea",
-  "phone": "+224626390064",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 216,
-  "name": "Grand Batanga",
-  "address": "sayonsidibe2012@gmail.com, Conakry, Guinea",
-  "phone": "+224626390064",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 217,
-  "name": "Ganta",
-  "address": "QUARTIER CORONTHIE, Conakry, Guinea",
-  "phone": "+224657798000",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 218,
-  "name": "San Antonio de Palé",
-  "address": "4th Ave, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 219,
-  "name": "Wele-Nzas",
-  "address": "N.1, Conakry, Guinea",
-  "phone": "+224621904054",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 220,
-  "name": "Chelsea",
-  "address": "Teminetaye, Ave de la Republique, Kaloum, Guinea",
-  "phone": "+224626333333",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 221,
-  "name": "Malanville",
-  "address": "Conakry, Guinea",
-  "phone": "+224660020303",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 222,
-  "name": "Bimbo",
-  "address": "Kipe Centre Emetteur, Ratoma, Guinea",
-  "phone": "+224624931212",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 223,
-  "name": "Rumonge",
-  "address": "Bp 120 Labé Labé, 120, Guinea",
-  "phone": "+224622912024",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 224,
-  "name": "Samfya",
-  "address": "Conakry, Guinea",
-  "phone": "+224664000000",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 225,
-  "name": "Hotel Prince",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 226,
-  "name": "Noom Hotel Conakry",
-  "address": "BP 2146 - Ratoma Conakry République de Guinée, Conakry, Guinea",
-  "phone": "+224666808782",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 227,
-  "name": "Hotel Mariador Palace",
-  "address": "Teminetaye, Ave de la Republique, Kaloum, Guinea",
-  "phone": "+224626333333",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 228,
-  "name": "Restaurant Piscine Hôtel Nimba",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 229,
-  "name": "Aida Hotel and Restaurant",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 230,
-  "name": "Escal des grands",
-  "address": "451 Nzérékoré, 400, Guinea",
-  "phone": "+224626326032",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 231,
-  "name": "Dimio Restaurant",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 232,
-  "name": "Restaurant Senegalais",
-  "address": "Nzerekore, Guinea",
-  "phone": "+224611433125",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 233,
-  "name": "Restaurant madame barry",
-  "address": "Unnamed Road, Nzérékoré, Nzérékoré, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 234,
-  "name": "Cafe Le Diplomate",
-  "address": "Nzerekore, Guinea",
-  "phone": "+224611661766",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 235,
-  "name": "RESTAURANT MAYA'S PLACE",
-  "address": "Unnamed Road, Nzérékoré, Guinea",
-  "phone": "+224662190052",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 236,
-  "name": "Dia restaurant",
-  "address": "Nzerekore, Guinea",
-  "phone": "+224626332884",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 237,
-  "name": "Restaurant Boma",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 238,
-  "name": "Le Jackpot",
-  "address": "Dieke, Guinea",
-  "phone": "+224621493264",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 239,
-  "name": "Hotel restaurant Sylviana",
-  "address": "Senko, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 240,
-  "name": "Café Madi oulen",
-  "address": "Boffa, Guinea",
-  "phone": "+224622795575",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 241,
-  "name": "Cafe Drogba",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 242,
-  "name": "Café BOIRO Kassiakötö",
-  "address": "Senko, Guinea",
-  "phone": "+224624939302",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 243,
-  "name": "Las Vegas",
-  "address": "Nzerekore, Guinea",
-  "phone": "+224622720607",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 244,
-  "name": "Mont Nimba",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 245,
-  "name": "Hôtel Le Prince",
-  "address": "Koule, Guinea",
-  "phone": "+224660960307",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 246,
-  "name": "Hotel Prince",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 247,
-  "name": "Hôtel Résidence Bethanie - Bar Resto",
-  "address": "N2, Boola, Guinea",
-  "phone": "+224626424156",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 248,
-  "name": "Café du Centre",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 249,
-  "name": "Zaly Boulevard",
-  "address": "Carrefour Gbagana-Nakoyakpa Nzérékoré, 224, Guinea",
-  "phone": "+224626352001",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 250,
-  "name": "Hotel le prince",
-  "address": "Senko, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 251,
-  "name": "TAWU TAMA STATION",
-  "address": "Nzerekore, Guinea",
-  "phone": "+224664360855",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 252,
-  "name": "Hotel Diani",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 253,
-  "name": "Nouhan oularé",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 254,
-  "name": "Hotel Bar restorant Africa",
-  "address": "Nzerekore, Guinea",
-  "phone": "+224624640404",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 255,
-  "name": "Restaurant Moulouk Djonne Doukouré",
-  "address": "Nzerekore, Guinea",
-  "phone": "+224657882136",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 256,
-  "name": "Nzerekore",
-  "address": "Nzerekore, Guinea",
-  "phone": "+224622961269",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 257,
-  "name": "La Famille Black Star Skb",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 258,
-  "name": "Restorant Barry",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 259,
-  "name": "Hotel Kofoa Plus .restaurant Et Bar",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 260,
-  "name": "Restaurant QRM-CS",
-  "address": "224627558779, Nzérékoré 224, Guinea",
-  "phone": "224627558779224",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 261,
-  "name": "Nzérékoré Prefecture",
-  "address": "Nzerekore, Guinea",
-  "phone": "+224626879048",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 262,
-  "name": "TENIN PRINCE",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 263,
-  "name": "Baïllo Barry 5",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 264,
-  "name": "Centre commercial",
-  "address": "Dorota Big mosques N'zerekore, 240, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 265,
-  "name": "Health Center Commercial",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 266,
-  "name": "Sackor busines center",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 267,
-  "name": "PRIMA CENTER",
-  "address": "P5XF+4VQ Centre commercial, Nzérékoré, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 268,
-  "name": "Centre Fatako",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 269,
-  "name": "Nzérékoré",
-  "address": "Rails Kipe, Conakry, Guinea",
-  "phone": "+224625000111",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 270,
-  "name": "Musée de n'zerekore",
-  "address": "Nzerekore, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 271,
-  "name": "Hotel Diani",
-  "address": "Nzerekore, Guinea",
-  "phone": "+224624640404",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 272,
-  "name": "Kpatawee Waterfall",
-  "address": "Conakry, Guinea",
-  "phone": "+224628000000",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 273,
-  "name": "HOTEL ASSALAM",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 274,
-  "name": "Le Calao",
-  "address": "Kankan, Guinea",
-  "phone": "+224622220416",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 275,
-  "name": "Hotel Nabaya",
-  "address": "Unnamed Road, Kankan, Kankan, Guinea",
-  "phone": "+224622425083",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 276,
-  "name": "Motel Petit Plateau",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 277,
-  "name": "HÔTEL RÉSIDENCE FARAFINAH BIS",
-  "address": "N2, Kankan, Guinea",
-  "phone": "+224628865275",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 278,
-  "name": "Centre d'Acceuil Diocesain",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 279,
-  "name": "Buffet de la gare",
-  "address": "224 KANKAN, 224, Guinea",
-  "phone": "+224622126953",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 280,
-  "name": "Hôtel Plazza Senkéfra",
-  "address": "Kankan, Guinea",
-  "phone": "+224622782372",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 281,
-  "name": "konakri",
-  "address": "N.1, Kankan, Guinea",
-  "phone": "+224628991638",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 282,
-  "name": "Hotel FORTUNOS",
-  "address": "N6, Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 283,
-  "name": "Motel Marthe",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 284,
-  "name": "HOTEL LAMARTINE",
-  "address": "Unnamed Road, Siguiri, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 285,
-  "name": "Motel Farafinah",
-  "address": "Kankan, bordo, Kankan, Guinea",
-  "phone": "+224627996013",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 286,
-  "name": "Allassane Palmé DIALLO",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 287,
-  "name": "Pharmacie SIMAGAN",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 288,
-  "name": "Hotel Bate",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 289,
-  "name": "Plaza resto",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 290,
-  "name": "Pharmacie SIMAGAN",
-  "address": "Unnamed Road, Kankan, Guinea",
-  "phone": "+224620245204",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 291,
-  "name": "Senkéfara",
-  "address": "Kankan, Guinea",
-  "phone": "+224622641650",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 292,
-  "name": "Camp Soundiata Keita",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 293,
-  "name": "KOUYATE MULTI-SERVICE",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 294,
-  "name": "Hotel Relax Siguiri",
-  "address": "Kankan, Guinea",
-  "phone": "+224620323805",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 295,
-  "name": "Africof",
-  "address": "Bordeaux, Kankan, Guinea",
-  "phone": "+224628655765",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 296,
-  "name": "Station Sevice",
-  "address": "620013901, Kankan, Guinea",
-  "phone": "620013901",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 297,
-  "name": "Restaurant Mahou Kankan Bordo",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 298,
-  "name": "Primary School Kabada",
-  "address": "Unnamed Road, Kankan, Guinea",
-  "phone": "+224622715562",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 299,
-  "name": "Restaurant café",
-  "address": "N6, Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 300,
-  "name": "Restaurant La Mantis",
-  "address": "Unnamed Road, Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 301,
-  "name": "Restaurant Fast-food Big Fataya",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 302,
-  "name": "RESTAURANT DIALLO",
-  "address": "Kankan, Guinea",
-  "phone": "+224629177996",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 303,
-  "name": "Restaurant Mahou Kankan Bordo",
-  "address": "Buffet de la gare, Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 304,
-  "name": "Chez koto palle",
-  "address": "Kankan, bordo, Kankan, Guinea",
-  "phone": "+224627996013",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 305,
-  "name": "Big Fataya",
-  "address": "Kankan, Guinea",
-  "phone": "+224621553512",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 306,
-  "name": "Restaurant WOMA",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 307,
-  "name": "penda",
-  "address": "Kankan, Guinea",
-  "phone": "+224621896656",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 308,
-  "name": "Senkéfara",
-  "address": "Kankan, Guinea",
-  "phone": "+224662787117",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 309,
-  "name": "Restaurant Supermarché",
-  "address": "rue prof Alpha Conde, Kankan, Kankan, Guinea",
-  "phone": "+224627343500",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 310,
-  "name": "Kaba Laba",
-  "address": "Kankan, Guinea",
-  "phone": "+224664697045",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 311,
-  "name": "Kankan Hotel",
-  "address": "Unnamed Road, Siguiri, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 312,
-  "name": "Kankan Nishi-Shinjuku",
-  "address": "Carrefour Conteyah, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 313,
-  "name": "Kan Kan",
-  "address": "Koule, Guinea",
-  "phone": "+224660960307",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 314,
-  "name": "Kan-Kan Cinema and Brasserie",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 315,
-  "name": "El Kanbumbo Food Truck",
-  "address": "Unnamed Road, Mandiana, Guinea",
-  "phone": "+224624471601",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 316,
-  "name": "KANKAN kitchen",
-  "address": "Mosquée wareyah, Lambagni, Guinea",
-  "phone": "+224626596943",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 317,
-  "name": "Kan Kun Mexican Restaurant",
-  "address": "Kankan, Guinea",
-  "phone": "+224622178187",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 318,
-  "name": "K’an k’an",
-  "address": "Kankan, Guinea",
-  "phone": "+224622206731",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 319,
-  "name": "Kankan",
-  "address": "Soronkoni, Guinea",
-  "phone": "+224621555360",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 320,
-  "name": "Tabla Astilla Restaurant",
-  "address": "Kankan, Guinea",
-  "phone": "+224628493838",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 321,
-  "name": "El Grand Marnier Restaurant",
-  "address": "N2, Kankan, Guinea",
-  "phone": "+224628865275",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 322,
-  "name": "GrandMa Steak House \u0026 Restaurant",
-  "address": "N2, Kankan, Guinea",
-  "phone": "+224620401003",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 323,
-  "name": "La Fabrica Central Restaurant",
-  "address": "Siguiri, Guinea",
-  "phone": "+224627093584",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 324,
-  "name": "Boriken Restaurant",
-  "address": "Unnamed Road, Kankan, Kankan, Guinea",
-  "phone": "+224622425083",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 325,
-  "name": "El Cilantrillo Restaurant",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 326,
-  "name": "DIBITERIE HAOUSSA CHEZ ALI",
-  "address": "Bride Side, Milo River, Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 327,
-  "name": "Chaparral Mexican And Cuban Restaurant",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 328,
-  "name": "KAI",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 329,
-  "name": "Chūkaryōri kankan",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 330,
-  "name": "Pal Campo Restaurant",
-  "address": "N6, Kankan, Guinea",
-  "phone": "+224624848752",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 331,
-  "name": "Gandules Grill",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 332,
-  "name": "Caribbean Seafood Restaurant Inc.",
-  "address": "Kankan, Guinea",
-  "phone": "+224621876692",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 333,
-  "name": "Monsoon",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 334,
-  "name": "Zazones",
-  "address": "Kankan, Missira, Guinea",
-  "phone": "+224621771414",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 335,
-  "name": "Miguelo's Cafe \u0026 Bar",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 336,
-  "name": "Treasure Bay Restaurant",
-  "address": "Kankan, Guinea",
-  "phone": "+224622302548",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 337,
-  "name": "El Rincón del Sabor Restaurant",
-  "address": "N6, Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 338,
-  "name": "El Buren Caribbean Cuisine",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 339,
-  "name": "Desecheo",
-  "address": "Kankan, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 340,
-  "name": "El Padrino's Pizza \u0026 Restaurant",
-  "address": "Kankan, Guinea",
-  "phone": "+224628484136",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 341,
-  "name": "Pavilions Shopping Center",
-  "address": "Kankan, Guinea",
-  "phone": "+224622454434",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 342,
-  "name": "Boke",
-  "address": "Kankan, Guinea",
-  "phone": "+224622641650",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 343,
-  "name": "Labe",
-  "address": "Bora, Guinea",
-  "phone": "+224621288524",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 344,
-  "name": "Hotel Marcica de KINDIA",
-  "address": "Kindia, Guinea",
-  "phone": "+224625851947",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 345,
-  "name": "Hôtel Dorneya Kindia",
-  "address": "Unnamed Road, Kindia,, Kindia, Guinea",
-  "phone": "+224620450519",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 346,
-  "name": "Hôtel Grand Syli de Kindia",
-  "address": "Guinea Circle 2901-2999, Kindia, Guinea",
-  "phone": "29012999",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 347,
-  "name": "Hôtel Résidence Cissé",
-  "address": "Cor1, Kindia, Guinea",
-  "phone": "+224622167631",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 348,
-  "name": "LES EAUX DE KILISSI",
-  "address": "Kindia, Guinea",
-  "phone": "+224624696962",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 349,
-  "name": "Hotel Masabi, Kindia, Guinea",
-  "address": "Unnamed Road, Kindia, Guinea",
-  "phone": "+224622671954",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 350,
-  "name": "Hotel AC",
-  "address": "Kindia, Guinea",
-  "phone": "+224622171752",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 351,
-  "name": "Hotel La Concorde",
-  "address": "Kindia sarakoleah, Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 352,
-  "name": "Complexe Grand Syli",
-  "address": "N1, Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 353,
-  "name": "Hôtel Mangrove Soli",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 354,
-  "name": "MARCICA HOTEL",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 355,
-  "name": "HOTEL LES PAVILLONS BLEU",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 356,
-  "name": "Hotel Koûmi",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 357,
-  "name": "Hotel Paillote",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 358,
-  "name": "Hotel Badiar kindia",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 359,
-  "name": "HOTEL FISSA",
-  "address": "Kindia, Guinea",
-  "phone": "+224669786017",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 360,
-  "name": "BADALONA HOTEL",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 361,
-  "name": "KADI_MAR HOTEL",
-  "address": "Kindia, Guinea",
-  "phone": "+224620425346",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 362,
-  "name": "le Ranch",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 363,
-  "name": "Hotel Wallanyi",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 364,
-  "name": "KIndai",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 365,
-  "name": "SYLLA",
-  "address": "Unnamed Road, Kindia, Guinea",
-  "phone": "+224620908081",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 366,
-  "name": "Bibane City",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 367,
-  "name": "Hotel sab Touristique de Kindia",
-  "address": "Kindia, Guinea",
-  "phone": "+224610547252",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 368,
-  "name": "Linsan Plus",
-  "address": "Kindia, Guinea",
-  "phone": "+224662454252",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 369,
-  "name": "Hôtel Soumbouyah",
-  "address": "10°00'36. 12°53'02.1\"W, N.4, Forécariah, Guinea",
-  "phone": "10003612530214",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 370,
-  "name": "Hotel Merci",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 371,
-  "name": "HOTEL BRAZA",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 372,
-  "name": "HOTEL JEAN PAUL",
-  "address": "Unnamed Road, Kindia, Guinea",
-  "phone": "+224625829725",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 373,
-  "name": "Hotel Santa Coloma",
-  "address": "Kindia, Guinea",
-  "phone": "+224623444742",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 374,
-  "name": "NIGHT CLUB CT",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 375,
-  "name": "HOTEL LE SAI4ON",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 376,
-  "name": "HOTEL TOULOUSE",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 377,
-  "name": "Hôtel Le Flamboyant",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 378,
-  "name": "Hotel Kanya",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 379,
-  "name": "hotel Mangoya",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 380,
-  "name": "HOTEL PARAMONT",
-  "address": "Kindia, Guinea",
-  "phone": "+224628912808",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 381,
-  "name": "Hotel Dantaary",
-  "address": "Kindia, Guinea",
-  "phone": "+224628826282",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 382,
-  "name": "La Gargote",
-  "address": "Féréfou 2, Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 383,
-  "name": "Coco brico",
-  "address": "Unnamed Road, Kindia, Guinea",
-  "phone": "+224620692082",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 384,
-  "name": "Restaurant Grand Syli",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 385,
-  "name": "Restaurant Gastronomique Sarekaly",
-  "address": "Kindia, Guinea",
-  "phone": "+224623363647",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 386,
-  "name": "Restaurant le Kanya Abattoire1",
-  "address": "Unnamed Road, Kindia, Guinea",
-  "phone": "+224628329954",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 387,
-  "name": "Restaurant Sambégou-Rama",
-  "address": "Kindia, Guinea",
-  "phone": "+224627088100",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 388,
-  "name": "Le Délice",
-  "address": "Kindia, Guinea",
-  "phone": "+224657161673",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 389,
-  "name": "King Burger Kindia",
-  "address": "Kindia, Guinea",
-  "phone": "+224621417966",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 390,
-  "name": "LE CITYZENS",
-  "address": "Cor1, Kindia, Guinea",
-  "phone": "+224628455266",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 391,
-  "name": "Restaurant Halima (RH) \u0026 Auberge",
-  "address": "Kindia, Guinea",
-  "phone": "+224657910055",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 392,
-  "name": "CARREFOUR BORDEAUX",
-  "address": "Kindia, Dubréka 224, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 393,
-  "name": "Hôtel Moringa Kindia",
-  "address": "Dubreka, Guinea",
-  "phone": "+224625692874",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 394,
-  "name": "LES EAUX DE KILISSI",
-  "address": "Iles de Los, Soro, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 395,
-  "name": "Koliady 1 Carefourr",
-  "address": "Unnamed Road, Cite de Kassa, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 396,
-  "name": "Restaurant Dalaworldbusness",
-  "address": "Dubreka, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 397,
-  "name": "Abubakar Buba Sumah",
-  "address": "Unnamed Road,, Soro, Guinea",
-  "phone": "+224666870248",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 398,
-  "name": "Restaurant LADA L’OR",
-  "address": "Face au lycée Français RATOMA, 172, Guinea",
-  "phone": "+224660777771",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 399,
-  "name": "Restaurant le paradis ib",
-  "address": "224, Coyah, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 400,
-  "name": "Restaurant Abslam",
-  "address": "Dubreka, Guinea",
-  "phone": "+224628507349",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 401,
-  "name": "RESTAURANT LES COPAINS D ABORD",
-  "address": "Coyah, Guinea",
-  "phone": "+224624170042",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 402,
-  "name": "Restaurant Plein Air",
-  "address": "Gaoual, Guinea",
-  "phone": "+224628169369",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 403,
-  "name": "Restaurant Gniampia",
-  "address": "Dubreka, Guinea",
-  "phone": "+224656563433",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 404,
-  "name": "Restaurant de L'université Kofi Annan de Guinée",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 405,
-  "name": "Arlyka restaurant et formation en pâtisserie",
-  "address": "Restaurant Banty Étoile cimenterie, Conakry, Guinea",
-  "phone": "+224620269358",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 406,
-  "name": "Grand Restaurant MITTY",
-  "address": "Unnamed Road, Kindia, Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 407,
-  "name": "Pâtisserie Restaurant Sicha Longe Maman Djesira",
-  "address": "Sanhia, Guinea",
-  "phone": "+224622516199",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 408,
-  "name": "Restaurant 18 Montagnes",
-  "address": "Conakry, Guinea",
-  "phone": "+224627933342",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 409,
-  "name": "Wonkifong",
-  "address": "Conakry, Guinea",
-  "phone": "+224622818370",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 410,
-  "name": "Restaurant Le Retrait",
-  "address": "Kindia, Guinea",
-  "phone": "+224620136296",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 411,
-  "name": "Sangareyah Restaurant",
-  "address": "Unnamed Road, Dubréka, Guinea",
-  "phone": "+224664686128",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 412,
-  "name": "Restaurant Hadafo Médias",
-  "address": "Coyah, Guinea",
-  "phone": "+224624643350",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 413,
-  "name": "iMMEUBLE ALY BADALA KOUYATE BAKOYAH",
-  "address": "Manéah, Guinea",
-  "phone": "+224624220110",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 414,
-  "name": "Restaurant Chez Claude",
-  "address": "Unnamed Road,, Conakry, Guinea",
-  "phone": "+224622077765",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 415,
-  "name": "PRIMA CENTER",
-  "address": "Unnamed Road, Dubréka, Guinea",
-  "phone": "+224625354748",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 416,
-  "name": "Restaurant Café Sport de Cosa",
-  "address": "Conakry, Guinea",
-  "phone": "+224622814234",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 417,
-  "name": "Restaurant O'BUREAU",
-  "address": "coyah plaque, Coyah, Guinea",
-  "phone": "+224624919133",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 418,
-  "name": "Mosquée Condetta",
-  "address": "Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 419,
-  "name": "Café Restô Halal",
-  "address": "Kaloum, Peninsula, Conakry, Conakry, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 420,
-  "name": "Soumbah",
-  "address": "Labe, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 421,
-  "name": "Kindia",
-  "address": "Conakry, Guinea",
-  "phone": "+224621166031",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 422,
-  "name": "Restaurant Banty Étoile",
-  "address": "Enta, Coyah-Plaque, Conakry, Guinea",
-  "phone": "+224624802716",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 423,
-  "name": "Restaurant The Zone",
-  "address": "Unnamed Road, Dubréka, Guinea",
-  "phone": "+224629243783",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 424,
-  "name": "HB Restaurant Hotel",
-  "address": "N3, Dubreka, Guinea",
-  "phone": "+224624633560",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 425,
-  "name": "Hôtel Bar Restaurant Kona Baala",
-  "address": "Conakry, Guinea",
-  "phone": "+224622333551",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 426,
-  "name": "Porte Rouge",
-  "address": "N1, Conakry, Guinea",
-  "phone": "+224622479046",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 427,
-  "name": "Goulea",
-  "address": "6th Ave, Conakry, Guinea",
-  "phone": "+224664531415",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 428,
-  "name": "Coyah",
-  "address": "Conakry, Guinea",
-  "phone": "+224610672648",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 429,
-  "name": "Atlantic View hotel Conakry",
-  "address": "N3, Conakry, Guinea",
-  "phone": "+224624171798",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 430,
-  "name": "Kindia",
-  "address": "0000 0000, Friguiagbé 224, Guinea",
-  "phone": "00000000224",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 431,
-  "name": "Riviera Royal Hotel",
-  "address": "Conakry, Guinea",
-  "phone": "+224621366666",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 432,
-  "name": "Le Bamana",
-  "address": "Rte du Niger, Conakry, Guinea",
-  "phone": "+224664218938",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 433,
-  "name": "Kindia Prefecture",
-  "address": "Conakry, Guinea",
-  "phone": "+224626104193",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 434,
-  "name": "Hotel Refuge",
-  "address": "Préfecture de Kindia, quartier ferefou 1, Guinea",
-  "phone": "+224621229668",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 435,
-  "name": "Dembata",
-  "address": "Kindia, Guinea",
-  "phone": "+224623444742",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 436,
-  "name": "Isle de soro Bar",
-  "address": "Conakry, Guinea",
-  "phone": "+224662179492",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 437,
-  "name": "Restaurant Top Familly",
-  "address": "Kindia, Guinea",
-  "phone": "+224657353996",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 438,
-  "name": "La Cité de l'Art",
-  "address": "Kindia, Guinea",
-  "phone": "+224625851947",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 439,
-  "name": "Chez Abou",
-  "address": "Guinea Circle 2901-2999, Kindia, Guinea",
-  "phone": "29012999",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 440,
-  "name": "Indian🇮🇳 supermarket (Multivita supermarket)",
-  "address": "Unnamed Road, Kindia, Guinea",
-  "phone": "+224622671954",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 441,
-  "name": "Samaya",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 442,
-  "name": "Foye",
-  "address": "N1, Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 443,
-  "name": "Curry Leaves Restaurant",
-  "address": "Kindia, Guinea",
-  "phone": "+224622171752",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 444,
-  "name": "Ricebowl",
-  "address": "Kindia, Guinea",
-  "phone": "+224657452015",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 445,
-  "name": "Sarékaly",
-  "address": "Kindia, Guinea",
-  "phone": "+224661581466",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 446,
-  "name": "Wawa",
-  "address": "Kindia, Guinea",
-  "phone": "+224661581466",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 447,
-  "name": "Cynny Nigeria",
-  "address": "Kindia, Guinea",
-  "phone": "+224657452015",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 448,
-  "name": "Mother India Restaurant",
-  "address": "Kindia, Guinea",
-  "phone": "+224622739247",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 449,
-  "name": "Trèsind Mumbai",
-  "address": "District de khalliakhory, Kindia, Guinea",
-  "phone": "+224628333282",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 450,
-  "name": "GINZA Sushi Restaurant",
-  "address": "Adresse.BP: 212, Foulayah, Kindia 212, Guinea",
-  "phone": "+224628836010",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 451,
-  "name": "Kindia",
-  "address": "Guinea Circle 2901-2999, Kindia, Guinea",
-  "phone": "29012999",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 452,
-  "name": "Kindia",
-  "address": "Kindia, Guinea",
-  "phone": "+224628912808",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 453,
-  "name": "Kindia Prefecture",
-  "address": "Tambayagbé, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 454,
-  "name": "MARCICA HOTEL",
-  "address": "Conakry, Guinea",
-  "phone": "+224628000000",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 455,
-  "name": "Tankwa Karoo National Park",
-  "address": "Kindia, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 456,
-  "name": "HOTEL TATA, quartier Pounthioun.",
-  "address": "Quartier Koulidara, Labe, Guinea",
-  "phone": "+224620025530",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 457,
-  "name": "Hôtel Djamtum",
-  "address": "11°18'45.0\"N 12°17'29, Labe, Guinea",
-  "phone": "1118450121729",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 458,
-  "name": "Restaurant APS Labé",
-  "address": "Labe, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 459,
-  "name": "Restaurant Parisien",
-  "address": "Rue de la Poste, Labe, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 460,
-  "name": "Restaurant Nostalgie",
-  "address": "N.5, Labe, Guinea",
-  "phone": "+224622206383",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 461,
-  "name": "Le Calebasse",
-  "address": "Unnamed Road, Labé, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 462,
-  "name": "Restaurant",
-  "address": "Labe, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 463,
-  "name": "Lounge restaurant le QG",
-  "address": "N.27, Labe, Guinea",
-  "phone": "+224611875287",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 464,
-  "name": "La Bonne Cuisine",
-  "address": "N5, Labe, Guinea",
-  "phone": "+224622521682",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 465,
-  "name": "Resto Basel City",
-  "address": "Labe, Guinea",
-  "phone": "+224628052082",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 466,
-  "name": "Rice Bars",
-  "address": "N27, Labe, Guinea",
-  "phone": "+224621711949",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 467,
-  "name": "Pinia restaurace Špindlerův Mlýn",
-  "address": "Sk, Koubia 113, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 468,
-  "name": "Good Luck",
-  "address": "Labe, Guinea",
-  "phone": "+224662873187",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 469,
-  "name": "Barcelona Wine Bar",
-  "address": "Pita, Guinea",
-  "phone": "+224622557725",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 470,
-  "name": "Mono",
-  "address": "N5, Labe, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 471,
-  "name": "Horseshoe Bay Resort Yacht Club (Private Club)",
-  "address": "N5, Labe, Guinea",
-  "phone": "+224628860606",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 472,
-  "name": "Selby's",
-  "address": "Rue de la Poste, Labe, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 473,
-  "name": "The Line \u0026 Label Restaurant at Peter Teakle Wines",
-  "address": "Labe, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 474,
-  "name": "TESSA",
-  "address": "Labe, Guinea",
-  "phone": "+224660161921",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 475,
-  "name": "Abe \u0026 Louie's",
-  "address": "Labe, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 476,
-  "name": "Kerbey Lane Cafe - University",
-  "address": "N5, Labe, Guinea",
-  "phone": "+224628590447",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 477,
-  "name": "The Classic Family Restaurant",
-  "address": "Labe, Guinea",
-  "phone": "+224624310222",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 478,
-  "name": "Pret A Manger",
-  "address": "Labé yerandè, Labé, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 479,
-  "name": "East India Company Pub \u0026 Eatery",
-  "address": "Unnamed Road, Labé, Labé, Guinea",
-  "phone": "+224661690500",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 480,
-  "name": "CUCINA urbana",
-  "address": "Labe, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 481,
-  "name": "El Palacio Buffet",
-  "address": "Labe, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 482,
-  "name": "Earl Abel's",
-  "address": "Dernière la garde Communal, Labé, Guinea",
-  "phone": "+224622528720",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 483,
-  "name": "Wing Lei",
-  "address": "Labe, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 484,
-  "name": "Doc's Seafood Shack \u0026 Oyster Bar",
-  "address": "Labe, Guinea",
-  "phone": "",
-  "country-code": "GW",
-  "country": "Guinea"
- },
- {
-  "id": 485,
-  "name": "Fouta Trekking",
-  "address": "Bp 120 Labé Labé, 120, Guinea",
-  "phone": "+224622912024",
-  "country-code": "GW",
-  "country": "Guinea"
- }
+  {
+    "id": 1,
+    "name": "ONOMO Hotel Conakry",
+    "address": "Corniche Nord, Conakry, Guinea",
+    "phone": "+224623623623",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 3,
+    "name": "Noom Hotel Conakry",
+    "address": "6th Blvd, Conakry, Guinea",
+    "phone": "+224623800800",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 7,
+    "name": "Grand Hotel Central",
+    "address": "Taouyah Corniche, Conakry, Guinea",
+    "phone": "+224660300000",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 9,
+    "name": "ZAMBEZI INN HOTEL(near Airport, 3 minutes)",
+    "address": "Unnamed Road,, Tayire, Guinea",
+    "phone": "+224625293133",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 10,
+    "name": "Hotel Restaurant Océano",
+    "address": "Conakry, Guinea",
+    "phone": "+33605526591",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 11,
+    "name": "Hôtel Petit Bateau",
+    "address": "Rue KA 011, Conakry, Guinea",
+    "phone": "+224662867607",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 12,
+    "name": "Hotel M'LYS",
+    "address": "B.P, Ratoma, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 14,
+    "name": "Résidence sandervalia",
+    "address": "Miniere Comandayah Dixinn, Conakry, Conakry, Guinea",
+    "phone": "+224622634381",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 15,
+    "name": "Sheraton Grand Conakry",
+    "address": "Unnamed Road, Conakry, Guinea",
+    "phone": "+224622218841",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 16,
+    "name": "Hotel Sacha",
+    "address": "QUARTIER ALMAMYA 1194, Conakry, Guinea",
+    "phone": "+224621645504",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 17,
+    "name": "Hakaba",
+    "address": "3493 Ratoma, 999, Guinea",
+    "phone": "+224622352500",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 18,
+    "name": "Atlantic View hotel Conakry",
+    "address": "Centre, Ratoma, Conakry, Guinea",
+    "phone": "+224664578369",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 19,
+    "name": "Novotel Ghi Conakry Hotel",
+    "address": "Peninsula, Kaloum, Guinea",
+    "phone": "+224664318279",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 20,
+    "name": "Grand Hôtel de l'Indépendance",
+    "address": "5em Avennue Sandervalia Kaloum Conakry, Conakry, Guinea",
+    "phone": "+224620521171",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 21,
+    "name": "Hotel Golf",
+    "address": "Conakry, Guinea",
+    "phone": "+224622000024",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 22,
+    "name": "Le Rocher",
+    "address": "Mafanco, Corniche Sud, Conakry, Guinea",
+    "phone": "+224623484876",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 24,
+    "name": "Le Beau Village",
+    "address": "Rue KA 033, Sandervalia, Kaloum, 9th Blvd, Conakry, Guinea",
+    "phone": "+224624100000",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 25,
+    "name": "Hôtel SETIFANA",
+    "address": "Nongo Stade, Ratoma, Guinea",
+    "phone": "+224627498293",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 27,
+    "name": "Le Petit Chalet Hotel",
+    "address": "5th Avenue Quartier Almamya BP4464 Conakry, Kaloum, Guinea",
+    "phone": "+224624791664",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 28,
+    "name": "Hotel Grand Ami",
+    "address": "Conakry, Guinea",
+    "phone": "+224662406065",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 29,
+    "name": "Hôtel Mariador Park",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 30,
+    "name": "Residence Schaka Suites",
+    "address": "Corniche Nord, Conakry 224, Guinea",
+    "phone": "+224629456565",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 31,
+    "name": "RESIDENCE CANADIENNE",
+    "address": "Face au lycée Français RATOMA, 172, Guinea",
+    "phone": "+224660777771",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 32,
+    "name": "Pension Les Palmiers Ratoma",
+    "address": "Close to Sonfonia Market, Conakry, Guinea",
+    "phone": "+4915231711714",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 33,
+    "name": "Golden Plazza",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "+224622295122",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 34,
+    "name": "Auberge associative ReLAIS",
+    "address": "Kipe Centre Emetteur, Ratoma, Guinea",
+    "phone": "+224624931212",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 38,
+    "name": "CITY HOTEL",
+    "address": "QUARTIER CORONTHIE, Conakry, Guinea",
+    "phone": "+224657798000",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 39,
+    "name": "Het Park Milly Mamoudou",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "+224660021212",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 40,
+    "name": "Konkoba",
+    "address": "Corniche N Conakry, Conakry, Guinea",
+    "phone": "+224656101010",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 41,
+    "name": "مطعم سدرة Restaurant Le Cèdre",
+    "address": "Corniche Nord, Immeuble Eban, Corniche N, Conakry, Guinea",
+    "phone": "+224624700434",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 42,
+    "name": "L’Étage, Conakry",
+    "address": "5th Blvd, Conakry, Guinea",
+    "phone": "+224655909090",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 43,
+    "name": "Restaurant Hanoi",
+    "address": "Conakry, Guinea",
+    "phone": "+224664298299",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 44,
+    "name": "Avenue",
+    "address": "Unnamed Road,, Conakry, Guinea",
+    "phone": "+224622077765",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 45,
+    "name": "Restaurant Le Retrait",
+    "address": "Conakry, Guinea",
+    "phone": "+224628682525",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 46,
+    "name": "Les Îles de Joie",
+    "address": "Rte du Niger, Conakry, Guinea",
+    "phone": "+224664218938",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 47,
+    "name": "Le Patio",
+    "address": "4th Ave, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 48,
+    "name": "Istanbul Restaurant \u0026 Pâtisserie",
+    "address": "Conakry, Guinea",
+    "phone": "+224622818513",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 49,
+    "name": "WAFFOU RESTAURANT",
+    "address": "6th Ave, Conakry, Guinea",
+    "phone": "+224664531415",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 50,
+    "name": "RESTAURANT LES COPAINS D ABORD",
+    "address": "Italia Box, Conakry, Guinea",
+    "phone": "+224627125555",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 51,
+    "name": "Le Special",
+    "address": "Kaloum Peninsula, Conakry, Conakry, Guinea",
+    "phone": "+224627010139",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 52,
+    "name": "La Paillote",
+    "address": "2nd Blvd, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 53,
+    "name": "Le Comptoir Conakry",
+    "address": "4th Ave, Conakry, Guinea",
+    "phone": "+224628307832",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 54,
+    "name": "Restaurant Terrasse Aquarium",
+    "address": "3rd Ave, Conakry, Guinea",
+    "phone": "+224621101296",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 55,
+    "name": "Restaurant Modibo",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 56,
+    "name": "Siete",
+    "address": "Conakry, Guinea",
+    "phone": "+224628288182",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 57,
+    "name": "Restaurant Coups De Frein.",
+    "address": "Conakry, Guinea",
+    "phone": "+224660779999",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 58,
+    "name": "Restaurant Coups De Frein.",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 59,
+    "name": "Le Bambou",
+    "address": "4th Ave, Conakry, Guinea",
+    "phone": "+224661811834",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 60,
+    "name": "OKLM GRILL",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 61,
+    "name": "Restaurant la terrasse",
+    "address": "Unnamed Road, Conakry, Guinea",
+    "phone": "+224629818411",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 62,
+    "name": "Restaurant Istanbul",
+    "address": "Conakry, Guinea",
+    "phone": "+224669512294",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 63,
+    "name": "Le Cozy de Conakry",
+    "address": "Rte du Niger, Conakry, Guinea",
+    "phone": "+224621011691",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 65,
+    "name": "La Familia",
+    "address": "Conakry, Guinea",
+    "phone": "+224628592960",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 66,
+    "name": "Morgan Restaurant",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "+224622295122",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 67,
+    "name": "RESTAURANT ILLY CAFE",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 68,
+    "name": "Restaurant OTakos Kipé",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 69,
+    "name": "Rice Women Restaurant",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "+224622857736",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 70,
+    "name": "Restaurant la fourchette magique",
+    "address": "Rte le prince, Conakry, Guinea",
+    "phone": "+224622662515",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 71,
+    "name": "Magik Joe Fast Food",
+    "address": "Unnamed Road, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 72,
+    "name": "Restaurant Royal Garden",
+    "address": "Conakry, Guinea",
+    "phone": "+224666325896",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 73,
+    "name": "Restaurant Paradise Nongo",
+    "address": "Conakry, Guinea",
+    "phone": "+224657212263",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 74,
+    "name": "Restaurant Bakonko",
+    "address": "Kipe centre Emetteur, Conakry, Guinea",
+    "phone": "+224625162774",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 75,
+    "name": "RESTAURANT LYLI",
+    "address": "3070 conakry, 224, Guinea",
+    "phone": "+224620551759",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 76,
+    "name": "Restaurant \"Aïcha\"",
+    "address": "T2, Conakry, Guinea",
+    "phone": "+224628614191",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 77,
+    "name": "RESTAURANT LES JUMELLES",
+    "address": "3rd Ave, Conakry, Guinea",
+    "phone": "+224622129780",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 78,
+    "name": "Restaurant de L'université Kofi Annan de Guinée",
+    "address": "3rd Ave, Conakry, Guinea",
+    "phone": "+224622513535",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 79,
+    "name": "RESTAURANT LE CONFORT",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 80,
+    "name": "RAMBANY Restaurant",
+    "address": "Conakry, Guinea",
+    "phone": "+224661199999",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 81,
+    "name": "Restaurant La Grillade",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 82,
+    "name": "Le Scred Lounge",
+    "address": "Kipé Métal, Conakry, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 83,
+    "name": "Kimchi Cafe Korean Restaurant, NGO Africa Light",
+    "address": "Face Blu Zone 5 etage appt 3, Rue KA 040, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 84,
+    "name": "Mim's Burger",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 85,
+    "name": "Restaurant Bethel",
+    "address": "8th Ave, Conakry, Guinea",
+    "phone": "+224623690165",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 86,
+    "name": "Big Fataya VIP",
+    "address": "Conakry, Guinea",
+    "phone": "+224666983039",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 87,
+    "name": "Restaurant Africana",
+    "address": "Conakry, Guinea",
+    "phone": "+224628429090",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 88,
+    "name": "Heroes Coffee",
+    "address": "Unnamed Rd, Conakry, Guinea",
+    "phone": "+224669699999",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 89,
+    "name": "Restaurant Chez Binta",
+    "address": "3rd Ave, Conakry, Guinea",
+    "phone": "+224622357651",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 90,
+    "name": "RESTAURANT LE CONSULAT",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 91,
+    "name": "Restaurant Moka",
+    "address": "Conakry, Guinea",
+    "phone": "+224625888666",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 92,
+    "name": "Fatou’s",
+    "address": "Conakry, Guinea",
+    "phone": "+224664817475",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 93,
+    "name": "Le Soft Restaurant",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 94,
+    "name": "RESTAURANT LA GOURMANDISE",
+    "address": "Conakry, Guinea",
+    "phone": "+224623923825",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 95,
+    "name": "Restaurant JuFuGe",
+    "address": "Lieu marqué d’un repère AEROPORT GBESSIA (domicile) Tranversal 2 Conakry Guinée, Conakry, Guinea",
+    "phone": "+224624750134",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 96,
+    "name": "Café piscine Kipé",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "+224622437719",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 97,
+    "name": "Restaurant Sénégalais Chez Tantie Awa",
+    "address": "Unnamed Road,, Conakry, Guinea",
+    "phone": "+224622600607",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 98,
+    "name": "Restaurant Bantounka",
+    "address": "Unnamed Road, Conakry, Guinea",
+    "phone": "+224621433737",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 99,
+    "name": "Wess Grill",
+    "address": "Conakry, Guinea",
+    "phone": "+224627933342",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 100,
+    "name": "Heroes Coffee Kaloum",
+    "address": "H8MR+W8G Taouyah, Conakry, Guinea",
+    "phone": "+224622362006",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 101,
+    "name": "Restaurant Escale De Petit Lac",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "+224624807750",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 102,
+    "name": "Big Fataya Nongo",
+    "address": "Malian Embassy, Conakry, Guinea",
+    "phone": "+224666505050",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 103,
+    "name": "Batista Café Kipé",
+    "address": "Conakry, Guinea",
+    "phone": "+224625299398",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 104,
+    "name": "Restaurant Chinois (YUEXI YU)",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 105,
+    "name": "Gnakry crepe",
+    "address": "7th Ave, Conakry, Guinea",
+    "phone": "+224628767889",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 106,
+    "name": "Namaste restaurant \u0026 lounge- Bar",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "+224625909032",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 107,
+    "name": "Munas Restaurant",
+    "address": "Ratoma Dispensaire Conakry, 224, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 108,
+    "name": "Chez Lily",
+    "address": "2nd Blvd, Conakry, Guinea",
+    "phone": "+224621638295",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 109,
+    "name": "La cuisine de hawa",
+    "address": "Unnamed Road, Conakry, Guinea",
+    "phone": "+224625363939",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 110,
+    "name": "Chez Fifi Restaurant ivoirien",
+    "address": "Kaloum, Peninsula, Conakry, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 111,
+    "name": "RFC -Roma Fried Chiken",
+    "address": "Rte du Niger, Conakry, Guinea",
+    "phone": "+224629888881",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 112,
+    "name": "Restaurant farafina lounge",
+    "address": "Corniche Sud, Conakry, Guinea",
+    "phone": "+224666222227",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 113,
+    "name": "Brioche Dorée Kipe",
+    "address": "J'approuve cité Conakry, 101, Guinea",
+    "phone": "+224620335878",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 114,
+    "name": "Diamond Lounge Restaurant",
+    "address": "Conakry, Guinea",
+    "phone": "+224622244983",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 115,
+    "name": "Restaurant",
+    "address": "Unnamed Road, Conakry, Guinea",
+    "phone": "+224621282819",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 116,
+    "name": "Beirut Restaurant",
+    "address": "Kipe Dadia, Conakry, Guinea",
+    "phone": "+224626904588",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 117,
+    "name": "Cafe Restaurant Le Khouré Chez DG",
+    "address": "Manquepas conakry, 224, Guinea",
+    "phone": "+224627509129",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 118,
+    "name": "RESTAURANT MAM DELICES",
+    "address": "Kipé, Plaza Diamond Conakry, Guinea",
+    "phone": "+224611203970",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 119,
+    "name": "Restaurant Togolais",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 120,
+    "name": "Soguidip Restaurant",
+    "address": "457 Conakry, Kipé Kaporo Rails, 001, Guinea",
+    "phone": "+224669464648",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 121,
+    "name": "RESTAURANT SACHA",
+    "address": "Conakry, Guinea",
+    "phone": "+224623456789",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 122,
+    "name": "Restaurant Dissa",
+    "address": "400000, Conakry, Guinea",
+    "phone": "+224623555537",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 123,
+    "name": "RESTAURANT CHINOIS",
+    "address": "9th Ave, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 124,
+    "name": "Restaurant Keur BAMBA (Restaurant Senegal)",
+    "address": "Prisma center, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 125,
+    "name": "O'resto Conakry",
+    "address": "Conakry, Guinea",
+    "phone": "+224629326262",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 126,
+    "name": "Taj Mahal Residences And Restaurant Conakry",
+    "address": "Unnamed Road,, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 127,
+    "name": "Sous le manguier",
+    "address": "Kipé Dadya, Corniche Nord - C, Ratoma, Guinea",
+    "phone": "+224627570854",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 128,
+    "name": "RESTAURANT KOMI",
+    "address": "Kipé Dadya, Corniche Nord - C, Ratoma, Guinea",
+    "phone": "+224627570854",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 129,
+    "name": "Restaurant l'échangeur",
+    "address": "Unnamed Road,, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 130,
+    "name": "La Gargotte",
+    "address": "Conakry, Guinea",
+    "phone": "+224666111333",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 131,
+    "name": "Best Chinese restaurant",
+    "address": "N1, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 132,
+    "name": "Planète Pizza",
+    "address": "N1, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 133,
+    "name": "Carrefour Plaza Diamond",
+    "address": "H8WX+C4F Prima center, Conakry, Guinea",
+    "phone": "+224629362639",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 134,
+    "name": "CENTRE COMMERCIAL BAYO DE MAFANCO",
+    "address": "Rte le prince, Conakry, Guinea",
+    "phone": "+224622274626",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 135,
+    "name": "PLAZA DIAMANT",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 136,
+    "name": "Wali Concept-Store",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 137,
+    "name": "Commandaya, Conakry",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 138,
+    "name": "Centre Orange Madina",
+    "address": "Rails Kipe, Conakry, Guinea",
+    "phone": "+224625000111",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 139,
+    "name": "A Conakry",
+    "address": "Conakry, Guinea",
+    "phone": "+224621526358",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 140,
+    "name": "America Food \u0026 Cosmetic Center",
+    "address": "Nongo Tady, 3470, Ratoma 324, Guinea",
+    "phone": "+224612157979",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 141,
+    "name": "boummalol maison",
+    "address": "Ratoma, Guinea",
+    "phone": "+224629370739",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 142,
+    "name": "Kondebounyi , Gbessia Conakry",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "+224621090963",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 143,
+    "name": "Carrefour Gazoil",
+    "address": "Ratoma, Koloma, Guinea",
+    "phone": "+224610271027",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 144,
+    "name": "Tamisso",
+    "address": "Peninsula, Kaloum, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 145,
+    "name": "Wakilare",
+    "address": "Unnamed Road, Conakry, Guinea",
+    "phone": "+224654000111",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 146,
+    "name": "M A J. enterprise center shopping lover's",
+    "address": "Kamsar, Guinea",
+    "phone": "+224628300600",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 147,
+    "name": "DNS Sarlu pomme",
+    "address": "780 di dixinn hafia 2 Hafia 2 mosquée Conakry, 780, Guinea",
+    "phone": "78022780",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 148,
+    "name": "DSK Business Center",
+    "address": "Office National du Tourisme, Conakry, Guinea",
+    "phone": "+224628220123",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 149,
+    "name": "U EXPRESS COLEAH",
+    "address": "Kipe Centre, Ratoma, Diamand Plaza, Emmeteur, Guinea",
+    "phone": "+224622601640",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 150,
+    "name": "Sonfonia Gare",
+    "address": "Unnamed Road,, Conakry, Guinea",
+    "phone": "+224622600607",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 151,
+    "name": "Papeterie de Prima",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 152,
+    "name": "Luxa Lingerie \u0026 Parfums",
+    "address": "Conakry, Guinea",
+    "phone": "+224620984828",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 154,
+    "name": "Ets Burundi Parfumerie Et Divers",
+    "address": "Conakry, Lambagny 224, Guinea",
+    "phone": "+224621568383",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 155,
+    "name": "Jouets Planète",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 156,
+    "name": "MARCHE ENTA",
+    "address": "Taouyah Marché, C/Ratoma, Guinea",
+    "phone": "+224610679079",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 157,
+    "name": "Déco Cadeau",
+    "address": "224 Conakry, 224, Guinea",
+    "phone": "+224621611128",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 158,
+    "name": "Marche du Niger",
+    "address": "2è, Conakry, Guinea",
+    "phone": "+224623532630",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 159,
+    "name": "Moussa Sacko",
+    "address": "Sonfonia, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 160,
+    "name": "SP mobile",
+    "address": "Kipé Croisement Seven Eleven Et Ruelle Mosquée Métal Guinée, Guinea",
+    "phone": "+224625212141",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 161,
+    "name": "SUTURA HOUSE",
+    "address": "Conakry, Guinea",
+    "phone": "+224628000000",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 163,
+    "name": "BOKELEC GUINÉE CONAKRY",
+    "address": "Conakry, Guinea",
+    "phone": "+224612252188",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 164,
+    "name": "BOUTIQUE LA HAC",
+    "address": "Hamdallaye CBG, Conakry, Guinea",
+    "phone": "+224666257120",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 165,
+    "name": "Herbal Nutrition",
+    "address": "Conakry, Guinea",
+    "phone": "+224626966364",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 166,
+    "name": "Business center",
+    "address": "Prima Center, Kipé, BP : 4899, Conakry, Guinea",
+    "phone": "+224623080802",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 167,
+    "name": "Agence Orange du Prima Center",
+    "address": "Kankan, Guinea",
+    "phone": "+224622454434",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 168,
+    "name": "SiverNet",
+    "address": "Conakry, Guinea",
+    "phone": "+224629021388",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 169,
+    "name": "Le Labo Des Jeux 224",
+    "address": "Conakry, Guinea",
+    "phone": "+224662901292",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 170,
+    "name": "Guinée Fitness",
+    "address": "Coyah, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 171,
+    "name": "Commissariat Central Sonfonia centre",
+    "address": "J936+94G prima centre, Conakry, Guinea",
+    "phone": "+224654680381",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 172,
+    "name": "Cafe",
+    "address": "Conakry, Guinea",
+    "phone": "+224664271707",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 173,
+    "name": "centre Likida",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 174,
+    "name": "Mabalka investment LTD",
+    "address": "Conakry, Guinea",
+    "phone": "+224625924407",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 175,
+    "name": "CanalOlympia Kaloum",
+    "address": "PRIMA CENTER, Conakry, Guinea",
+    "phone": "+224610777705",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 177,
+    "name": "MINA SPA",
+    "address": "Conakry, Guinea",
+    "phone": "+224625293765",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 178,
+    "name": "Lac de Sonfonia",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 179,
+    "name": "Conakry Hack",
+    "address": "Unnamed Road, Conakry, Guinea",
+    "phone": "+224629159500",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 180,
+    "name": "AFIA Pharmacy",
+    "address": "9th Ave, Conakry, Guinea",
+    "phone": "+224622271206",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 181,
+    "name": "ASF FITNESS LAMBANYI",
+    "address": "Conakry, Guinea",
+    "phone": "+224656846429",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 182,
+    "name": "CENTRE ACROBATIQUE FODÉBA KEÏTA",
+    "address": "Conakry, Guinea",
+    "phone": "+224621102654",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 183,
+    "name": "Thomas Greg Afrique de L'Ouest",
+    "address": "PRIMA CENTER, Conakry, Guinea",
+    "phone": "+224628614499",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 184,
+    "name": "Resto café chez monsieur amadou Ba",
+    "address": "Conakry, Guinea",
+    "phone": "+224622231575",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 185,
+    "name": "GUI-MAX NUTRITION",
+    "address": "Unnamed Road, Conakry, Guinea",
+    "phone": "+224622474545",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 186,
+    "name": "Bureau Informatique Services",
+    "address": "Lambanyi, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 187,
+    "name": "Heroes Coffee",
+    "address": "Prima Center, Kipé Rails, Conakry, Guinea",
+    "phone": "+224625229800",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 188,
+    "name": "PORCELANOSA Associate Conakry",
+    "address": "Conakry, Guinea",
+    "phone": "+224627504810",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 189,
+    "name": "Orange Digital Center",
+    "address": "Matoto, Guinea",
+    "phone": "+224627101515",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 190,
+    "name": "Centre Commercial Kakande",
+    "address": "Rte du Niger, Conakry, Guinea",
+    "phone": "+224622468881",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 191,
+    "name": "Boulangerie ORVITA",
+    "address": "Madina auto.route Conakry, 224, Guinea",
+    "phone": "+224625907971",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 192,
+    "name": "Geneva Night Club Conakry",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "+224628238034",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 193,
+    "name": "Ethiopian Airlines \u0026Asky airlines",
+    "address": "Unnamed Road, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 194,
+    "name": "After Bar \u0026 Billard",
+    "address": "tamisso.com, Conakry, Guinea",
+    "phone": "+224656647245",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 195,
+    "name": "Koumakan Maison de l'Oralité",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "+224664779777",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 196,
+    "name": "KAKI Restaurant-Brasserie-Shop-Event",
+    "address": "Unnamed Road, Guinea",
+    "phone": "+224624090766",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 197,
+    "name": "LAPOUTHIALAI VOYAGE",
+    "address": "Unnamed Road, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 198,
+    "name": "ROCHAS PLAZA",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 199,
+    "name": "National Museum of Guinea",
+    "address": "Conakry, Guinea",
+    "phone": "+224628000000",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 201,
+    "name": "CanalOlympia Kaloum",
+    "address": "9th Ave, Conakry, Guinea",
+    "phone": "+224622271206",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 202,
+    "name": "Bluezone de Kaloum",
+    "address": "N.1, Conakry, Guinea",
+    "phone": "+224664630262",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 204,
+    "name": "Conakry",
+    "address": "2nd Ave, Conakry, Guinea",
+    "phone": "+224622072287",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 205,
+    "name": "Sheraton Grand Conakry",
+    "address": "Rue KA 050, Conakry, Guinea",
+    "phone": "+224625258488",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 206,
+    "name": "Fouta Trekking",
+    "address": "Conakry, Guinea",
+    "phone": "+224620280949",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 208,
+    "name": "National Museum of Fine Arts",
+    "address": "Conakry, Guinea",
+    "phone": "+224628682525",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 209,
+    "name": "National Museum of Singapore",
+    "address": "Conakry, Guinea",
+    "phone": "+224621102654",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 210,
+    "name": "Faranah",
+    "address": "Taouyah Corniche, Conakry, Guinea",
+    "phone": "+224660300000",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 211,
+    "name": "Ricketts",
+    "address": "Bora, Guinea",
+    "phone": "+224621288524",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 213,
+    "name": "Litoral",
+    "address": "Kaloum Peninsula, Conakry, Guinea",
+    "phone": "+224621090963",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 214,
+    "name": "Robertsport",
+    "address": "Rue KA 033, Sandervalia, Kaloum, 9th Blvd, Conakry, Guinea",
+    "phone": "+224624100000",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 215,
+    "name": "Yundum",
+    "address": "sayonsidibe2012@gmail.com, Conakry, Guinea",
+    "phone": "+224626390064",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 216,
+    "name": "Grand Batanga",
+    "address": "sayonsidibe2012@gmail.com, Conakry, Guinea",
+    "phone": "+224626390064",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 217,
+    "name": "Ganta",
+    "address": "QUARTIER CORONTHIE, Conakry, Guinea",
+    "phone": "+224657798000",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 218,
+    "name": "San Antonio de Palé",
+    "address": "4th Ave, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 219,
+    "name": "Wele-Nzas",
+    "address": "N.1, Conakry, Guinea",
+    "phone": "+224621904054",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 221,
+    "name": "Malanville",
+    "address": "Conakry, Guinea",
+    "phone": "+224660020303",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 222,
+    "name": "Bimbo",
+    "address": "Kipe Centre Emetteur, Ratoma, Guinea",
+    "phone": "+224624931212",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 223,
+    "name": "Rumonge",
+    "address": "Bp 120 Labé Labé, 120, Guinea",
+    "phone": "+224622912024",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 224,
+    "name": "Samfya",
+    "address": "Conakry, Guinea",
+    "phone": "+224664000000",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 225,
+    "name": "Hotel Prince",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 228,
+    "name": "Restaurant Piscine Hôtel Nimba",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 229,
+    "name": "Aida Hotel and Restaurant",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 230,
+    "name": "Escal des grands",
+    "address": "451 Nzérékoré, 400, Guinea",
+    "phone": "+224626326032",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 231,
+    "name": "Dimio Restaurant",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 232,
+    "name": "Restaurant Senegalais",
+    "address": "Nzerekore, Guinea",
+    "phone": "+224611433125",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 233,
+    "name": "Restaurant madame barry",
+    "address": "Unnamed Road, Nzérékoré, Nzérékoré, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 234,
+    "name": "Cafe Le Diplomate",
+    "address": "Nzerekore, Guinea",
+    "phone": "+224611661766",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 235,
+    "name": "RESTAURANT MAYA'S PLACE",
+    "address": "Unnamed Road, Nzérékoré, Guinea",
+    "phone": "+224662190052",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 236,
+    "name": "Dia restaurant",
+    "address": "Nzerekore, Guinea",
+    "phone": "+224626332884",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 237,
+    "name": "Restaurant Boma",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 238,
+    "name": "Le Jackpot",
+    "address": "Dieke, Guinea",
+    "phone": "+224621493264",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 239,
+    "name": "Hotel restaurant Sylviana",
+    "address": "Senko, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 240,
+    "name": "Café Madi oulen",
+    "address": "Boffa, Guinea",
+    "phone": "+224622795575",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 241,
+    "name": "Cafe Drogba",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 242,
+    "name": "Café BOIRO Kassiakötö",
+    "address": "Senko, Guinea",
+    "phone": "+224624939302",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 243,
+    "name": "Las Vegas",
+    "address": "Nzerekore, Guinea",
+    "phone": "+224622720607",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 244,
+    "name": "Mont Nimba",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 245,
+    "name": "Hôtel Le Prince",
+    "address": "Koule, Guinea",
+    "phone": "+224660960307",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 246,
+    "name": "Hotel Prince",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 247,
+    "name": "Hôtel Résidence Bethanie - Bar Resto",
+    "address": "N2, Boola, Guinea",
+    "phone": "+224626424156",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 248,
+    "name": "Café du Centre",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 249,
+    "name": "Zaly Boulevard",
+    "address": "Carrefour Gbagana-Nakoyakpa Nzérékoré, 224, Guinea",
+    "phone": "+224626352001",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 250,
+    "name": "Hotel le prince",
+    "address": "Senko, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 251,
+    "name": "TAWU TAMA STATION",
+    "address": "Nzerekore, Guinea",
+    "phone": "+224664360855",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 252,
+    "name": "Hotel Diani",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 253,
+    "name": "Nouhan oularé",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 254,
+    "name": "Hotel Bar restorant Africa",
+    "address": "Nzerekore, Guinea",
+    "phone": "+224624640404",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 255,
+    "name": "Restaurant Moulouk Djonne Doukouré",
+    "address": "Nzerekore, Guinea",
+    "phone": "+224657882136",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 256,
+    "name": "Nzerekore",
+    "address": "Nzerekore, Guinea",
+    "phone": "+224622961269",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 257,
+    "name": "La Famille Black Star Skb",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 258,
+    "name": "Restorant Barry",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 259,
+    "name": "Hotel Kofoa Plus .restaurant Et Bar",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 260,
+    "name": "Restaurant QRM-CS",
+    "address": "224627558779, Nzérékoré 224, Guinea",
+    "phone": "224627558779224",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 261,
+    "name": "Nzérékoré Prefecture",
+    "address": "Nzerekore, Guinea",
+    "phone": "+224626879048",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 262,
+    "name": "TENIN PRINCE",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 263,
+    "name": "Baïllo Barry 5",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 264,
+    "name": "Centre commercial",
+    "address": "Dorota Big mosques N'zerekore, 240, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 265,
+    "name": "Health Center Commercial",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 266,
+    "name": "Sackor busines center",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 267,
+    "name": "PRIMA CENTER",
+    "address": "P5XF+4VQ Centre commercial, Nzérékoré, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 268,
+    "name": "Centre Fatako",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 269,
+    "name": "Nzérékoré",
+    "address": "Rails Kipe, Conakry, Guinea",
+    "phone": "+224625000111",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 270,
+    "name": "Musée de n'zerekore",
+    "address": "Nzerekore, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 271,
+    "name": "Hotel Diani",
+    "address": "Nzerekore, Guinea",
+    "phone": "+224624640404",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 272,
+    "name": "Kpatawee Waterfall",
+    "address": "Conakry, Guinea",
+    "phone": "+224628000000",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 273,
+    "name": "HOTEL ASSALAM",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 274,
+    "name": "Le Calao",
+    "address": "Kankan, Guinea",
+    "phone": "+224622220416",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 275,
+    "name": "Hotel Nabaya",
+    "address": "Unnamed Road, Kankan, Kankan, Guinea",
+    "phone": "+224622425083",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 276,
+    "name": "Motel Petit Plateau",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 277,
+    "name": "HÔTEL RÉSIDENCE FARAFINAH BIS",
+    "address": "N2, Kankan, Guinea",
+    "phone": "+224628865275",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 278,
+    "name": "Centre d'Acceuil Diocesain",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 279,
+    "name": "Buffet de la gare",
+    "address": "224 KANKAN, 224, Guinea",
+    "phone": "+224622126953",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 280,
+    "name": "Hôtel Plazza Senkéfra",
+    "address": "Kankan, Guinea",
+    "phone": "+224622782372",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 281,
+    "name": "konakri",
+    "address": "N.1, Kankan, Guinea",
+    "phone": "+224628991638",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 282,
+    "name": "Hotel FORTUNOS",
+    "address": "N6, Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 283,
+    "name": "Motel Marthe",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 284,
+    "name": "HOTEL LAMARTINE",
+    "address": "Unnamed Road, Siguiri, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 285,
+    "name": "Motel Farafinah",
+    "address": "Kankan, bordo, Kankan, Guinea",
+    "phone": "+224627996013",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 286,
+    "name": "Allassane Palmé DIALLO",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 287,
+    "name": "Pharmacie SIMAGAN",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 288,
+    "name": "Hotel Bate",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 289,
+    "name": "Plaza resto",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 290,
+    "name": "Pharmacie SIMAGAN",
+    "address": "Unnamed Road, Kankan, Guinea",
+    "phone": "+224620245204",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 291,
+    "name": "Senkéfara",
+    "address": "Kankan, Guinea",
+    "phone": "+224622641650",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 292,
+    "name": "Camp Soundiata Keita",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 293,
+    "name": "KOUYATE MULTI-SERVICE",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 294,
+    "name": "Hotel Relax Siguiri",
+    "address": "Kankan, Guinea",
+    "phone": "+224620323805",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 295,
+    "name": "Africof",
+    "address": "Bordeaux, Kankan, Guinea",
+    "phone": "+224628655765",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 296,
+    "name": "Station Sevice",
+    "address": "620013901, Kankan, Guinea",
+    "phone": "620013901",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 297,
+    "name": "Restaurant Mahou Kankan Bordo",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 298,
+    "name": "Primary School Kabada",
+    "address": "Unnamed Road, Kankan, Guinea",
+    "phone": "+224622715562",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 299,
+    "name": "Restaurant café",
+    "address": "N6, Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 300,
+    "name": "Restaurant La Mantis",
+    "address": "Unnamed Road, Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 301,
+    "name": "Restaurant Fast-food Big Fataya",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 302,
+    "name": "RESTAURANT DIALLO",
+    "address": "Kankan, Guinea",
+    "phone": "+224629177996",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 304,
+    "name": "Chez koto palle",
+    "address": "Kankan, bordo, Kankan, Guinea",
+    "phone": "+224627996013",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 305,
+    "name": "Big Fataya",
+    "address": "Kankan, Guinea",
+    "phone": "+224621553512",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 306,
+    "name": "Restaurant WOMA",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 307,
+    "name": "penda",
+    "address": "Kankan, Guinea",
+    "phone": "+224621896656",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 308,
+    "name": "Senkéfara",
+    "address": "Kankan, Guinea",
+    "phone": "+224662787117",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 309,
+    "name": "Restaurant Supermarché",
+    "address": "rue prof Alpha Conde, Kankan, Kankan, Guinea",
+    "phone": "+224627343500",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 310,
+    "name": "Kaba Laba",
+    "address": "Kankan, Guinea",
+    "phone": "+224664697045",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 311,
+    "name": "Kankan Hotel",
+    "address": "Unnamed Road, Siguiri, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 312,
+    "name": "Kankan Nishi-Shinjuku",
+    "address": "Carrefour Conteyah, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 313,
+    "name": "Kan Kan",
+    "address": "Koule, Guinea",
+    "phone": "+224660960307",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 314,
+    "name": "Kan-Kan Cinema and Brasserie",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 315,
+    "name": "El Kanbumbo Food Truck",
+    "address": "Unnamed Road, Mandiana, Guinea",
+    "phone": "+224624471601",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 316,
+    "name": "KANKAN kitchen",
+    "address": "Mosquée wareyah, Lambagni, Guinea",
+    "phone": "+224626596943",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 317,
+    "name": "Kan Kun Mexican Restaurant",
+    "address": "Kankan, Guinea",
+    "phone": "+224622178187",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 318,
+    "name": "K’an k’an",
+    "address": "Kankan, Guinea",
+    "phone": "+224622206731",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 319,
+    "name": "Kankan",
+    "address": "Soronkoni, Guinea",
+    "phone": "+224621555360",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 320,
+    "name": "Tabla Astilla Restaurant",
+    "address": "Kankan, Guinea",
+    "phone": "+224628493838",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 321,
+    "name": "El Grand Marnier Restaurant",
+    "address": "N2, Kankan, Guinea",
+    "phone": "+224628865275",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 322,
+    "name": "GrandMa Steak House \u0026 Restaurant",
+    "address": "N2, Kankan, Guinea",
+    "phone": "+224620401003",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 323,
+    "name": "La Fabrica Central Restaurant",
+    "address": "Siguiri, Guinea",
+    "phone": "+224627093584",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 324,
+    "name": "Boriken Restaurant",
+    "address": "Unnamed Road, Kankan, Kankan, Guinea",
+    "phone": "+224622425083",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 325,
+    "name": "El Cilantrillo Restaurant",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 326,
+    "name": "DIBITERIE HAOUSSA CHEZ ALI",
+    "address": "Bride Side, Milo River, Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 327,
+    "name": "Chaparral Mexican And Cuban Restaurant",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 328,
+    "name": "KAI",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 329,
+    "name": "Chūkaryōri kankan",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 330,
+    "name": "Pal Campo Restaurant",
+    "address": "N6, Kankan, Guinea",
+    "phone": "+224624848752",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 331,
+    "name": "Gandules Grill",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 332,
+    "name": "Caribbean Seafood Restaurant Inc.",
+    "address": "Kankan, Guinea",
+    "phone": "+224621876692",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 333,
+    "name": "Monsoon",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 334,
+    "name": "Zazones",
+    "address": "Kankan, Missira, Guinea",
+    "phone": "+224621771414",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 335,
+    "name": "Miguelo's Cafe \u0026 Bar",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 336,
+    "name": "Treasure Bay Restaurant",
+    "address": "Kankan, Guinea",
+    "phone": "+224622302548",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 337,
+    "name": "El Rincón del Sabor Restaurant",
+    "address": "N6, Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 338,
+    "name": "El Buren Caribbean Cuisine",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 339,
+    "name": "Desecheo",
+    "address": "Kankan, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 340,
+    "name": "El Padrino's Pizza \u0026 Restaurant",
+    "address": "Kankan, Guinea",
+    "phone": "+224628484136",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 341,
+    "name": "Pavilions Shopping Center",
+    "address": "Kankan, Guinea",
+    "phone": "+224622454434",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 342,
+    "name": "Boke",
+    "address": "Kankan, Guinea",
+    "phone": "+224622641650",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 343,
+    "name": "Labe",
+    "address": "Bora, Guinea",
+    "phone": "+224621288524",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 344,
+    "name": "Hotel Marcica de KINDIA",
+    "address": "Kindia, Guinea",
+    "phone": "+224625851947",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 345,
+    "name": "Hôtel Dorneya Kindia",
+    "address": "Unnamed Road, Kindia,, Kindia, Guinea",
+    "phone": "+224620450519",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 346,
+    "name": "Hôtel Grand Syli de Kindia",
+    "address": "Guinea Circle 2901-2999, Kindia, Guinea",
+    "phone": "29012999",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 347,
+    "name": "Hôtel Résidence Cissé",
+    "address": "Cor1, Kindia, Guinea",
+    "phone": "+224622167631",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 348,
+    "name": "LES EAUX DE KILISSI",
+    "address": "Kindia, Guinea",
+    "phone": "+224624696962",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 349,
+    "name": "Hotel Masabi, Kindia, Guinea",
+    "address": "Unnamed Road, Kindia, Guinea",
+    "phone": "+224622671954",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 350,
+    "name": "Hotel AC",
+    "address": "Kindia, Guinea",
+    "phone": "+224622171752",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 351,
+    "name": "Hotel La Concorde",
+    "address": "Kindia sarakoleah, Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 352,
+    "name": "Complexe Grand Syli",
+    "address": "N1, Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 353,
+    "name": "Hôtel Mangrove Soli",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 354,
+    "name": "MARCICA HOTEL",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 355,
+    "name": "HOTEL LES PAVILLONS BLEU",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 356,
+    "name": "Hotel Koûmi",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 357,
+    "name": "Hotel Paillote",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 358,
+    "name": "Hotel Badiar kindia",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 359,
+    "name": "HOTEL FISSA",
+    "address": "Kindia, Guinea",
+    "phone": "+224669786017",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 360,
+    "name": "BADALONA HOTEL",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 361,
+    "name": "KADI_MAR HOTEL",
+    "address": "Kindia, Guinea",
+    "phone": "+224620425346",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 362,
+    "name": "le Ranch",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 363,
+    "name": "Hotel Wallanyi",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 364,
+    "name": "KIndai",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 365,
+    "name": "SYLLA",
+    "address": "Unnamed Road, Kindia, Guinea",
+    "phone": "+224620908081",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 366,
+    "name": "Bibane City",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 367,
+    "name": "Hotel sab Touristique de Kindia",
+    "address": "Kindia, Guinea",
+    "phone": "+224610547252",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 368,
+    "name": "Linsan Plus",
+    "address": "Kindia, Guinea",
+    "phone": "+224662454252",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 369,
+    "name": "Hôtel Soumbouyah",
+    "address": "10°00'36. 12°53'02.1\"W, N.4, Forécariah, Guinea",
+    "phone": "10003612530214",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 370,
+    "name": "Hotel Merci",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 371,
+    "name": "HOTEL BRAZA",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 372,
+    "name": "HOTEL JEAN PAUL",
+    "address": "Unnamed Road, Kindia, Guinea",
+    "phone": "+224625829725",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 373,
+    "name": "Hotel Santa Coloma",
+    "address": "Kindia, Guinea",
+    "phone": "+224623444742",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 374,
+    "name": "NIGHT CLUB CT",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 375,
+    "name": "HOTEL LE SAI4ON",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 376,
+    "name": "HOTEL TOULOUSE",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 377,
+    "name": "Hôtel Le Flamboyant",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 378,
+    "name": "Hotel Kanya",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 379,
+    "name": "hotel Mangoya",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 380,
+    "name": "HOTEL PARAMONT",
+    "address": "Kindia, Guinea",
+    "phone": "+224628912808",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 381,
+    "name": "Hotel Dantaary",
+    "address": "Kindia, Guinea",
+    "phone": "+224628826282",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 382,
+    "name": "La Gargote",
+    "address": "Féréfou 2, Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 383,
+    "name": "Coco brico",
+    "address": "Unnamed Road, Kindia, Guinea",
+    "phone": "+224620692082",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 384,
+    "name": "Restaurant Grand Syli",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 385,
+    "name": "Restaurant Gastronomique Sarekaly",
+    "address": "Kindia, Guinea",
+    "phone": "+224623363647",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 386,
+    "name": "Restaurant le Kanya Abattoire1",
+    "address": "Unnamed Road, Kindia, Guinea",
+    "phone": "+224628329954",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 387,
+    "name": "Restaurant Sambégou-Rama",
+    "address": "Kindia, Guinea",
+    "phone": "+224627088100",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 388,
+    "name": "Le Délice",
+    "address": "Kindia, Guinea",
+    "phone": "+224657161673",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 389,
+    "name": "King Burger Kindia",
+    "address": "Kindia, Guinea",
+    "phone": "+224621417966",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 390,
+    "name": "LE CITYZENS",
+    "address": "Cor1, Kindia, Guinea",
+    "phone": "+224628455266",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 391,
+    "name": "Restaurant Halima (RH) \u0026 Auberge",
+    "address": "Kindia, Guinea",
+    "phone": "+224657910055",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 392,
+    "name": "CARREFOUR BORDEAUX",
+    "address": "Kindia, Dubréka 224, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 393,
+    "name": "Hôtel Moringa Kindia",
+    "address": "Dubreka, Guinea",
+    "phone": "+224625692874",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 396,
+    "name": "Restaurant Dalaworldbusness",
+    "address": "Dubreka, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 397,
+    "name": "Abubakar Buba Sumah",
+    "address": "Unnamed Road,, Soro, Guinea",
+    "phone": "+224666870248",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 398,
+    "name": "Restaurant LADA L’OR",
+    "address": "Face au lycée Français RATOMA, 172, Guinea",
+    "phone": "+224660777771",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 399,
+    "name": "Restaurant le paradis ib",
+    "address": "224, Coyah, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 400,
+    "name": "Restaurant Abslam",
+    "address": "Dubreka, Guinea",
+    "phone": "+224628507349",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 401,
+    "name": "RESTAURANT LES COPAINS D ABORD",
+    "address": "Coyah, Guinea",
+    "phone": "+224624170042",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 402,
+    "name": "Restaurant Plein Air",
+    "address": "Gaoual, Guinea",
+    "phone": "+224628169369",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 403,
+    "name": "Restaurant Gniampia",
+    "address": "Dubreka, Guinea",
+    "phone": "+224656563433",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 404,
+    "name": "Restaurant de L'université Kofi Annan de Guinée",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 405,
+    "name": "Arlyka restaurant et formation en pâtisserie",
+    "address": "Restaurant Banty Étoile cimenterie, Conakry, Guinea",
+    "phone": "+224620269358",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 406,
+    "name": "Grand Restaurant MITTY",
+    "address": "Unnamed Road, Kindia, Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 407,
+    "name": "Pâtisserie Restaurant Sicha Longe Maman Djesira",
+    "address": "Sanhia, Guinea",
+    "phone": "+224622516199",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 408,
+    "name": "Restaurant 18 Montagnes",
+    "address": "Conakry, Guinea",
+    "phone": "+224627933342",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 409,
+    "name": "Wonkifong",
+    "address": "Conakry, Guinea",
+    "phone": "+224622818370",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 410,
+    "name": "Restaurant Le Retrait",
+    "address": "Kindia, Guinea",
+    "phone": "+224620136296",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 411,
+    "name": "Sangareyah Restaurant",
+    "address": "Unnamed Road, Dubréka, Guinea",
+    "phone": "+224664686128",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 412,
+    "name": "Restaurant Hadafo Médias",
+    "address": "Coyah, Guinea",
+    "phone": "+224624643350",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 413,
+    "name": "iMMEUBLE ALY BADALA KOUYATE BAKOYAH",
+    "address": "Manéah, Guinea",
+    "phone": "+224624220110",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 414,
+    "name": "Restaurant Chez Claude",
+    "address": "Unnamed Road,, Conakry, Guinea",
+    "phone": "+224622077765",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 415,
+    "name": "PRIMA CENTER",
+    "address": "Unnamed Road, Dubréka, Guinea",
+    "phone": "+224625354748",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 416,
+    "name": "Restaurant Café Sport de Cosa",
+    "address": "Conakry, Guinea",
+    "phone": "+224622814234",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 417,
+    "name": "Restaurant O'BUREAU",
+    "address": "coyah plaque, Coyah, Guinea",
+    "phone": "+224624919133",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 418,
+    "name": "Mosquée Condetta",
+    "address": "Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 419,
+    "name": "Café Restô Halal",
+    "address": "Kaloum, Peninsula, Conakry, Conakry, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 420,
+    "name": "Soumbah",
+    "address": "Labe, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 421,
+    "name": "Kindia",
+    "address": "Conakry, Guinea",
+    "phone": "+224621166031",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 422,
+    "name": "Restaurant Banty Étoile",
+    "address": "Enta, Coyah-Plaque, Conakry, Guinea",
+    "phone": "+224624802716",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 423,
+    "name": "Restaurant The Zone",
+    "address": "Unnamed Road, Dubréka, Guinea",
+    "phone": "+224629243783",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 424,
+    "name": "HB Restaurant Hotel",
+    "address": "N3, Dubreka, Guinea",
+    "phone": "+224624633560",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 425,
+    "name": "Hôtel Bar Restaurant Kona Baala",
+    "address": "Conakry, Guinea",
+    "phone": "+224622333551",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 426,
+    "name": "Porte Rouge",
+    "address": "N1, Conakry, Guinea",
+    "phone": "+224622479046",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 427,
+    "name": "Goulea",
+    "address": "6th Ave, Conakry, Guinea",
+    "phone": "+224664531415",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 428,
+    "name": "Coyah",
+    "address": "Conakry, Guinea",
+    "phone": "+224610672648",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 429,
+    "name": "Atlantic View hotel Conakry",
+    "address": "N3, Conakry, Guinea",
+    "phone": "+224624171798",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 430,
+    "name": "Kindia",
+    "address": "0000 0000, Friguiagbé 224, Guinea",
+    "phone": "00000000224",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 431,
+    "name": "Riviera Royal Hotel",
+    "address": "Conakry, Guinea",
+    "phone": "+224621366666",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 432,
+    "name": "Le Bamana",
+    "address": "Rte du Niger, Conakry, Guinea",
+    "phone": "+224664218938",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 433,
+    "name": "Kindia Prefecture",
+    "address": "Conakry, Guinea",
+    "phone": "+224626104193",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 435,
+    "name": "Dembata",
+    "address": "Kindia, Guinea",
+    "phone": "+224623444742",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 436,
+    "name": "Isle de soro Bar",
+    "address": "Conakry, Guinea",
+    "phone": "+224662179492",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 437,
+    "name": "Restaurant Top Familly",
+    "address": "Kindia, Guinea",
+    "phone": "+224657353996",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 438,
+    "name": "La Cité de l'Art",
+    "address": "Kindia, Guinea",
+    "phone": "+224625851947",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 439,
+    "name": "Chez Abou",
+    "address": "Guinea Circle 2901-2999, Kindia, Guinea",
+    "phone": "29012999",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 440,
+    "name": "Indian🇮🇳 supermarket (Multivita supermarket)",
+    "address": "Unnamed Road, Kindia, Guinea",
+    "phone": "+224622671954",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 441,
+    "name": "Samaya",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 442,
+    "name": "Foye",
+    "address": "N1, Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 443,
+    "name": "Curry Leaves Restaurant",
+    "address": "Kindia, Guinea",
+    "phone": "+224622171752",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 444,
+    "name": "Ricebowl",
+    "address": "Kindia, Guinea",
+    "phone": "+224657452015",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 445,
+    "name": "Sarékaly",
+    "address": "Kindia, Guinea",
+    "phone": "+224661581466",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 446,
+    "name": "Wawa",
+    "address": "Kindia, Guinea",
+    "phone": "+224661581466",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 447,
+    "name": "Cynny Nigeria",
+    "address": "Kindia, Guinea",
+    "phone": "+224657452015",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 448,
+    "name": "Mother India Restaurant",
+    "address": "Kindia, Guinea",
+    "phone": "+224622739247",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 450,
+    "name": "GINZA Sushi Restaurant",
+    "address": "Adresse.BP: 212, Foulayah, Kindia 212, Guinea",
+    "phone": "+224628836010",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 451,
+    "name": "Kindia",
+    "address": "Guinea Circle 2901-2999, Kindia, Guinea",
+    "phone": "29012999",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 452,
+    "name": "Kindia",
+    "address": "Kindia, Guinea",
+    "phone": "+224628912808",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 453,
+    "name": "Kindia Prefecture",
+    "address": "Tambayagbé, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 454,
+    "name": "MARCICA HOTEL",
+    "address": "Conakry, Guinea",
+    "phone": "+224628000000",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 455,
+    "name": "Tankwa Karoo National Park",
+    "address": "Kindia, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 456,
+    "name": "HOTEL TATA, quartier Pounthioun.",
+    "address": "Quartier Koulidara, Labe, Guinea",
+    "phone": "+224620025530",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 457,
+    "name": "Hôtel Djamtum",
+    "address": "11°18'45.0\"N 12°17'29, Labe, Guinea",
+    "phone": "1118450121729",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 458,
+    "name": "Restaurant APS Labé",
+    "address": "Labe, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 460,
+    "name": "Restaurant Nostalgie",
+    "address": "N.5, Labe, Guinea",
+    "phone": "+224622206383",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 461,
+    "name": "Le Calebasse",
+    "address": "Unnamed Road, Labé, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 462,
+    "name": "Restaurant",
+    "address": "Labe, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 463,
+    "name": "Lounge restaurant le QG",
+    "address": "N.27, Labe, Guinea",
+    "phone": "+224611875287",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 464,
+    "name": "La Bonne Cuisine",
+    "address": "N5, Labe, Guinea",
+    "phone": "+224622521682",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 465,
+    "name": "Resto Basel City",
+    "address": "Labe, Guinea",
+    "phone": "+224628052082",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 466,
+    "name": "Rice Bars",
+    "address": "N27, Labe, Guinea",
+    "phone": "+224621711949",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 467,
+    "name": "Pinia restaurace Špindlerův Mlýn",
+    "address": "Sk, Koubia 113, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 468,
+    "name": "Good Luck",
+    "address": "Labe, Guinea",
+    "phone": "+224662873187",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 469,
+    "name": "Barcelona Wine Bar",
+    "address": "Pita, Guinea",
+    "phone": "+224622557725",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 470,
+    "name": "Mono",
+    "address": "N5, Labe, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 471,
+    "name": "Horseshoe Bay Resort Yacht Club (Private Club)",
+    "address": "N5, Labe, Guinea",
+    "phone": "+224628860606",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 473,
+    "name": "The Line \u0026 Label Restaurant at Peter Teakle Wines",
+    "address": "Labe, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 474,
+    "name": "TESSA",
+    "address": "Labe, Guinea",
+    "phone": "+224660161921",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 475,
+    "name": "Abe \u0026 Louie's",
+    "address": "Labe, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 476,
+    "name": "Kerbey Lane Cafe - University",
+    "address": "N5, Labe, Guinea",
+    "phone": "+224628590447",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 477,
+    "name": "The Classic Family Restaurant",
+    "address": "Labe, Guinea",
+    "phone": "+224624310222",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 478,
+    "name": "Pret A Manger",
+    "address": "Labé yerandè, Labé, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 479,
+    "name": "East India Company Pub \u0026 Eatery",
+    "address": "Unnamed Road, Labé, Labé, Guinea",
+    "phone": "+224661690500",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 480,
+    "name": "CUCINA urbana",
+    "address": "Labe, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 481,
+    "name": "El Palacio Buffet",
+    "address": "Labe, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 483,
+    "name": "Wing Lei",
+    "address": "Labe, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 484,
+    "name": "Doc's Seafood Shack \u0026 Oyster Bar",
+    "address": "Labe, Guinea",
+    "phone": "",
+    "country-code": "GW",
+    "country": "Guinea"
+  },
+  {
+    "id": 485,
+    "name": "Fouta Trekking",
+    "address": "Bp 120 Labé Labé, 120, Guinea",
+    "phone": "+224622912024",
+    "country-code": "GW",
+    "country": "Guinea"
+  }
 ]
