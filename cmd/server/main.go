@@ -2,13 +2,42 @@
 package main
 
 import (
-	"fmt"
+	"database/sql"
+	"log"
+	"net/http"
+	"os"
+
+	"github.com/99designs/gqlgen/graphql/handler"
+	"github.com/99designs/gqlgen/graphql/playground"
+	_ "github.com/mattn/go-sqlite3"
+	"github.com/xaaha/address-api/graph"
+)
+
+const (
+	dbFile      = "internal/db/data.db"
+	defaultPort = "8080"
 )
 
 func main() {
-	fmt.Println("Hello World!")
-	// err := db.CreateDBAndTables("data")
-	// if err != nil {
-	// 	fmt.Println("Error occurred in server/main.go ", err)
-	// }
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = defaultPort
+	}
+
+	db, err := sql.Open("sqlite3", dbFile)
+	if err != nil {
+		log.Fatalf("error ")
+	}
+	defer db.Close()
+
+	resolver := graph.Resolver{DB: db}
+	gqlSrv := handler.NewDefaultServer(
+		graph.NewExecutableSchema(graph.Config{Resolvers: &resolver}),
+	)
+
+	http.Handle("/", playground.Handler("GraphQL playground", "/query"))
+	http.Handle("/query", gqlSrv)
+
+	log.Printf("connect to http://localhost:%s/ for GraphQL playground", port)
+	log.Fatal(http.ListenAndServe(":"+port, nil))
 }
