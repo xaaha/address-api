@@ -11,21 +11,17 @@ import (
 	"github.com/xaaha/address-api/graph/model"
 )
 
-// CreateTodo is the resolver for the createTodo field.
-func (r *mutationResolver) CreateTodo(ctx context.Context, input model.NewTodo) (*model.Todo, error) {
-	panic(fmt.Errorf("not implemented: CreateTodo - createTodo"))
+// CountryCode is the resolver for the countryCode field.
+func (r *queryResolver) CountryCode(ctx context.Context, country *string) ([]string, error) {
+	panic(fmt.Errorf("not implemented: CountryCode - countryCode"))
 }
 
-// Todos is the resolver for the todos field.
-func (r *queryResolver) Todos(ctx context.Context) ([]*model.Todo, error) {
-	panic(fmt.Errorf("not implemented: Todos - todos"))
+// AddressesByCountryCode is the resolver for the addressesByCountryCode field.
+func (r *queryResolver) AddressesByCountryCode(ctx context.Context, countryCode string, count *int32) ([]*model.Address, error) {
+	panic(fmt.Errorf("not implemented: AddressesByCountryCode - addressesByCountryCode"))
 }
-
-// Mutation returns MutationResolver implementation.
-func (r *Resolver) Mutation() MutationResolver { return &mutationResolver{r} }
 
 // Query returns QueryResolver implementation.
 func (r *Resolver) Query() QueryResolver { return &queryResolver{r} }
 
-type mutationResolver struct{ *Resolver }
 type queryResolver struct{ *Resolver }

@@ -8,3 +8,6 @@ server:
 test:
 	@go test ./internal/...
 
+# generate the resolver code form the schema.graphqls file
+generate:
+	@go run github.com/99designs/gqlgen generate
