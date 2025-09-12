@@ -13,11 +13,8 @@ type Address {
 
 # Defines all the available read-only operations.
 type Query {
-  # Fetches a list of addresses for a given country, with an optional limit.
+  # given a country name, fetch it's country code
+  countryCode(country: String): [String!]!
+  # Fetches a list of addresses for a given countryCode, with an optional limit.
   addressesByCountryCode(countryCode: String!, count: Int): [Address!]!
-}
-
-# fix this
-type Query {
-  getCountryCode(country: String!): Address.countryCode!
 }
