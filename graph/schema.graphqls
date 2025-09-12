@@ -2,27 +2,22 @@
 #
 # https://gqlgen.com/getting-started/
 
-type Todo {
-  id: ID!
-  text: String!
-  done: Boolean!
-  user: User!
-}
-
-type User {
+# single address record from the db
+type Address {
   id: ID!
   name: String!
+  phone: String
+  countryCode: String
+  country: String
 }
 
+# Defines all the available read-only operations.
 type Query {
-  todos: [Todo!]!
+  # Fetches a list of addresses for a given country, with an optional limit.
+  addressesByCountryCode(countryCode: String!, count: Int): [Address!]!
 }
 
-input NewTodo {
-  text: String!
-  userId: String!
-}
-
-type Mutation {
-  createTodo(input: NewTodo!): Todo!
+# fix this
+type Query {
+  getCountryCode(country: String!): Address.countryCode!
 }
