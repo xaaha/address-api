@@ -13,7 +13,38 @@ import (
 
 // CountryCode is the resolver for the countryCode field.
 func (r *queryResolver) CountryCode(ctx context.Context, country *string) ([]string, error) {
-	panic(fmt.Errorf("not implemented: CountryCode - countryCode"))
+	db := r.Resolver.DB
+
+	var query string
+	var args []any
+
+	if country != nil {
+		query = "SELECT DISTINCT country_code from address WHERE country = ? ORDER BY country_code"
+		args = append(args, *country)
+	} else {
+		query = "SELECT DISTINCT country_code from address ORDER BY country_code"
+	}
+
+	rows, err := db.QueryContext(ctx, query, args...)
+	if err != nil {
+		return nil, fmt.Errorf("error on db query:  %v", err)
+	}
+	defer rows.Close()
+
+	var results []string
+
+	for rows.Next() {
+		var code string
+		if err := rows.Scan(&code); err != nil {
+			return nil, fmt.Errorf("failed to scan the row %v", err)
+		}
+		results = append(results, code)
+	}
+
+	if err = rows.Err(); err != nil {
+		return nil, fmt.Errorf("error during row iteration: %w", err)
+	}
+	return results, nil
 }
 
 // AddressesByCountryCode is the resolver for the addressesByCountryCode field.
