@@ -49,6 +49,8 @@ func (r *queryResolver) CountryCode(ctx context.Context, country *string) ([]str
 
 // AddressesByCountryCode is the resolver for the addressesByCountryCode field.
 func (r *queryResolver) AddressesByCountryCode(ctx context.Context, countryCode string, count *int32) ([]*model.Address, error) {
+	// db := r.Resolver.DB
+
 	panic(fmt.Errorf("not implemented: AddressesByCountryCode - addressesByCountryCode"))
 }
 
