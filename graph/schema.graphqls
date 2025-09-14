@@ -12,10 +12,18 @@ type Address {
   fullAddress: String
 }
 
+type CountryInfo {
+  country: String!
+  code: String!
+}
+
 # Defines all the available read-only operations.
 type Query {
   # given a country name, fetch it's country code
-  countryCode(country: String): [String!]!
+  countryCode(country: String): [CountryInfo!]!
   # Fetches a list of addresses for a given countryCode, with an optional limit.
   addressesByCountryCode(countryCode: String!, count: Int): [Address!]!
 }
+
+# TODO: return CountryInfo rom CountryCode not just string when country is not present
+# when country is present, return country and the code only.

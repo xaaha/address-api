@@ -11,5 +11,10 @@ type Address struct {
 	FullAddress *string `json:"fullAddress,omitempty"`
 }
 
+type CountryInfo struct {
+	Country string `json:"country"`
+	Code    string `json:"code"`
+}
+
 type Query struct {
 }

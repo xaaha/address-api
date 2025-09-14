@@ -13,7 +13,7 @@ import (
 )
 
 // CountryCode is the resolver for the countryCode field.
-func (r *queryResolver) CountryCode(ctx context.Context, country *string) ([]string, error) {
+func (r *queryResolver) CountryCode(ctx context.Context, country *string) ([]*model.CountryInfo, error) {
 	db := r.Resolver.DB
 
 	var query string
@@ -34,10 +34,17 @@ func (r *queryResolver) CountryCode(ctx context.Context, country *string) ([]str
 
 	var results []string
 
+	// TODO: after graph/schema.graphqls
 	for rows.Next() {
 		var code string
-		if err := rows.Scan(&code); err != nil {
-			return nil, fmt.Errorf("failed to scan the row %v", err)
+		var country string
+
+		err := rows.Scan(
+			&country,
+			&code,
+		)
+		if err != nil {
+			return nil, fmt.Errorf("failed to scan row: %w", err)
 		}
 		results = append(results, code)
 	}
