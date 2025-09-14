@@ -7,6 +7,7 @@ package graph
 import (
 	"context"
 	"fmt"
+	"strings"
 
 	"github.com/xaaha/address-api/graph/model"
 )
@@ -19,10 +20,10 @@ func (r *queryResolver) CountryCode(ctx context.Context, country *string) ([]str
 	var args []any
 
 	if country != nil {
-		query = "SELECT DISTINCT country_code from address WHERE country = ? ORDER BY country_code"
+		query = "SELECT DISTINCT country_code from address WHERE country = ? ORDER BY country_code;"
 		args = append(args, *country)
 	} else {
-		query = "SELECT DISTINCT country_code from address ORDER BY country_code"
+		query = "SELECT DISTINCT country_code from address ORDER BY country_code;"
 	}
 
 	rows, err := db.QueryContext(ctx, query, args...)
@@ -51,12 +52,55 @@ func (r *queryResolver) CountryCode(ctx context.Context, country *string) ([]str
 func (r *queryResolver) AddressesByCountryCode(ctx context.Context, countryCode string, count *int32) ([]*model.Address, error) {
 	db := r.Resolver.DB
 
-	// SELECT *
-	// FROM address
-	// ORDER BY RANDOM()
-	// LIMIT 1;
+	// country code should be Uppercase.
+	processedCode := strings.ToUpper(countryCode)
+	const defaultLimit int32 = 5
+	const maxLimit int32 = 50
 
-	panic(fmt.Errorf("not implemented: AddressesByCountryCode - addressesByCountryCode"))
+	limit := defaultLimit
+	if count != nil {
+		limit = min(*count, maxLimit)
+		if limit <= 0 {
+			limit = defaultLimit
+		}
+	}
+
+	query := `
+        SELECT id, name, address, phone, country_code, country
+        FROM addresses
+        WHERE country_code = ?
+        ORDER BY RANDOM()
+        LIMIT ?`
+
+	rows, err := db.QueryContext(ctx, query, processedCode, limit)
+	if err != nil {
+		return nil, fmt.Errorf("error on db query:  %v", err)
+	}
+	defer rows.Close()
+
+	var results []*model.Address
+	for rows.Next() {
+		var addr model.Address
+
+		err := rows.Scan(
+			&addr.ID,
+			&addr.Name,
+			&addr.FullAddress,
+			&addr.Phone,
+			&addr.CountryCode,
+			&addr.Country,
+		)
+		if err != nil {
+			return nil, fmt.Errorf("failed to scan row: %w", err)
+		}
+
+		results = append(results, &addr)
+	}
+
+	if err = rows.Err(); err != nil {
+		return nil, fmt.Errorf("error during row iteration: %w", err)
+	}
+	return results, nil
 }
 
 // Query returns QueryResolver implementation.

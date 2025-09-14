@@ -49,6 +49,7 @@ type ComplexityRoot struct {
 	Address struct {
 		Country     func(childComplexity int) int
 		CountryCode func(childComplexity int) int
+		FullAddress func(childComplexity int) int
 		ID          func(childComplexity int) int
 		Name        func(childComplexity int) int
 		Phone       func(childComplexity int) int
@@ -97,6 +98,13 @@ func (e *executableSchema) Complexity(ctx context.Context, typeName, field strin
 		}
 
 		return e.complexity.Address.CountryCode(childComplexity), true
+
+	case "Address.fullAddress":
+		if e.complexity.Address.FullAddress == nil {
+			break
+		}
+
+		return e.complexity.Address.FullAddress(childComplexity), true
 
 	case "Address.id":
 		if e.complexity.Address.ID == nil {
@@ -552,6 +560,47 @@ func (ec *executionContext) fieldContext_Address_country(_ context.Context, fiel
 	return fc, nil
 }
 
+func (ec *executionContext) _Address_fullAddress(ctx context.Context, field graphql.CollectedField, obj *model.Address) (ret graphql.Marshaler) {
+	fc, err := ec.fieldContext_Address_fullAddress(ctx, field)
+	if err != nil {
+		return graphql.Null
+	}
+	ctx = graphql.WithFieldContext(ctx, fc)
+	defer func() {
+		if r := recover(); r != nil {
+			ec.Error(ctx, ec.Recover(ctx, r))
+			ret = graphql.Null
+		}
+	}()
+	resTmp, err := ec.ResolverMiddleware(ctx, func(rctx context.Context) (any, error) {
+		ctx = rctx // use context from middleware stack in children
+		return obj.FullAddress, nil
+	})
+	if err != nil {
+		ec.Error(ctx, err)
+		return graphql.Null
+	}
+	if resTmp == nil {
+		return graphql.Null
+	}
+	res := resTmp.(*string)
+	fc.Result = res
+	return ec.marshalOString2ᚖstring(ctx, field.Selections, res)
+}
+
+func (ec *executionContext) fieldContext_Address_fullAddress(_ context.Context, field graphql.CollectedField) (fc *graphql.FieldContext, err error) {
+	fc = &graphql.FieldContext{
+		Object:     "Address",
+		Field:      field,
+		IsMethod:   false,
+		IsResolver: false,
+		Child: func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
+			return nil, errors.New("field of type String does not have child fields")
+		},
+	}
+	return fc, nil
+}
+
 func (ec *executionContext) _Query_countryCode(ctx context.Context, field graphql.CollectedField) (ret graphql.Marshaler) {
 	fc, err := ec.fieldContext_Query_countryCode(ctx, field)
 	if err != nil {
@@ -656,6 +705,8 @@ func (ec *executionContext) fieldContext_Query_addressesByCountryCode(ctx contex
 				return ec.fieldContext_Address_countryCode(ctx, field)
 			case "country":
 				return ec.fieldContext_Address_country(ctx, field)
+			case "fullAddress":
+				return ec.fieldContext_Address_fullAddress(ctx, field)
 			}
 			return nil, fmt.Errorf("no field named %q was found under type Address", field.Name)
 		},
@@ -2791,6 +2842,8 @@ func (ec *executionContext) _Address(ctx context.Context, sel ast.SelectionSet, 
 			out.Values[i] = ec._Address_countryCode(ctx, field, obj)
 		case "country":
 			out.Values[i] = ec._Address_country(ctx, field, obj)
+		case "fullAddress":
+			out.Values[i] = ec._Address_fullAddress(ctx, field, obj)
 		default:
 			panic("unknown field " + strconv.Quote(field.Name))
 		}

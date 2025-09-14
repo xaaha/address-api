@@ -8,6 +8,7 @@ type Address struct {
 	Phone       *string `json:"phone,omitempty"`
 	CountryCode *string `json:"countryCode,omitempty"`
 	Country     *string `json:"country,omitempty"`
+	FullAddress *string `json:"fullAddress,omitempty"`
 }
 
 type Query struct {

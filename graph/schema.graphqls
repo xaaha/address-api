@@ -9,6 +9,7 @@ type Address {
   phone: String
   countryCode: String
   country: String
+  fullAddress: String
 }
 
 # Defines all the available read-only operations.
