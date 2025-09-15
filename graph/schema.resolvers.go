@@ -19,39 +19,47 @@ func (r *queryResolver) CountryCode(ctx context.Context, country *string) ([]*mo
 	var query string
 	var args []any
 
+	const baseQuery = "SELECT DISTINCT country, country_code FROM addresses"
+
 	if country != nil {
-		query = "SELECT DISTINCT country_code from address WHERE country = ? ORDER BY country_code;"
-		args = append(args, *country)
+		query = baseQuery + " WHERE country = ? ORDER BY country"
+		processedCountry := strings.TrimSpace(*country)
+		args = append(args, processedCountry)
 	} else {
-		query = "SELECT DISTINCT country_code from address ORDER BY country_code;"
+		query = baseQuery + " ORDER BY country"
 	}
 
 	rows, err := db.QueryContext(ctx, query, args...)
 	if err != nil {
-		return nil, fmt.Errorf("error on db query:  %v", err)
+		return nil, fmt.Errorf("database query failed: %w", err)
 	}
 	defer rows.Close()
 
-	var results []string
+	var results []*model.CountryInfo
 
-	// TODO: after graph/schema.graphqls
 	for rows.Next() {
-		var code string
-		var country string
+		var info model.CountryInfo
 
-		err := rows.Scan(
-			&country,
-			&code,
-		)
-		if err != nil {
+		if err := rows.Scan(&info.Country, &info.Code); err != nil {
 			return nil, fmt.Errorf("failed to scan row: %w", err)
 		}
-		results = append(results, code)
+		results = append(results, &info)
 	}
 
 	if err = rows.Err(); err != nil {
 		return nil, fmt.Errorf("error during row iteration: %w", err)
 	}
+
+	// If the user searched for a specific country AND we found no results...
+	if country != nil && len(results) == 0 {
+		// ...return a helpful error instead of just an empty list.
+		errMsg := fmt.Sprintf(
+			"No matching country found for '%s'. Omit the argument to get a list of all countries and codes.",
+			*country,
+		)
+		return nil, fmt.Errorf(errMsg)
+	}
+
 	return results, nil
 }
 
