@@ -12,7 +12,7 @@ func Test_queryResolver_CountryCode(t *testing.T) {
 		name string // description of this test case
 		// Named input parameters for target function.
 		country *string
-		want    []string
+		want    []*model.CountryInfo
 		wantErr bool
 	}{
 		// TODO: Add test cases.
