@@ -2,10 +2,40 @@ package graph
 
 import (
 	"context"
+	"database/sql"
+	"os"
+	"path/filepath"
 	"testing"
 
+	_ "github.com/mattn/go-sqlite3"
 	"github.com/xaaha/address-api/graph/model"
 )
+
+func newTestDB(t *testing.T) *sql.DB {
+	t.Helper()
+
+	db, err := sql.Open("sqlite3", ":memory:?_foreign_keys=on")
+	if err != nil {
+		t.Fatalf("failed to open in memory db: %v", err)
+	}
+
+	t.Cleanup(func() { db.Close() })
+
+	// TODO: Put this in a utility func
+	createAddrSQLFile := filepath.Join("db", "migrations", "001_create_addresses_table.sql")
+	migration, err := os.ReadFile(createAddrSQLFile)
+	if err != nil {
+		t.Fatalf("failed to read migration file %v", err)
+	}
+
+	// what's the difference between this and CreateDBAndTables in migrate.go?
+	// can't we jus use that?
+	if _, err := db.Exec(string(migration)); err != nil {
+		t.Fatalf("failed to execute migration: %v", err)
+	}
+
+	return db
+}
 
 func Test_queryResolver_CountryCode(t *testing.T) {
 	tests := []struct {
