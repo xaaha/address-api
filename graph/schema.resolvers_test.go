@@ -115,16 +115,45 @@ func Test_queryResolver_CountryCode(t *testing.T) {
 }
 
 func Test_queryResolver_AddressesByCountryCode(t *testing.T) {
+	strPtr := func(str string) *string { return &str }
+	int32Ptr := func(num int32) *int32 { return &num }
+
 	tests := []struct {
-		name string // description of this test case
-		// Named input parameters for target function.
+		name        string
 		countryCode string
 		count       *int32
+		seedData    []model.Address
 		want        []*model.Address
 		wantErr     bool
+		errContains string
 	}{
-		// TODO: Add test cases.
+		{
+			name:        "Returns address when country code matches ",
+			countryCode: "pk",
+			count:       int32Ptr(10),
+			seedData: []model.Address{
+				{
+					ID:          "9292303",
+					Name:        "Lumon Industries",
+					Phone:       strPtr("3732812229"),
+					FullAddress: strPtr("1234 main st, Site, PE, 29291"),
+					CountryCode: strPtr("PK"),
+					Country:     strPtr("Kier"),
+				},
+			},
+			want: []*model.Address{
+				{
+					ID:          "9292303",
+					Name:        "Lumon Industries",
+					Phone:       strPtr("373-281-2229"),
+					FullAddress: strPtr("1234 main st, Site, PE, 29291"),
+					CountryCode: strPtr("PK"),
+					Country:     strPtr("Kier"),
+				},
+			},
+		},
 	}
+
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
 			// TODO: construct the receiver type.
