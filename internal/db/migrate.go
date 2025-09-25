@@ -25,7 +25,7 @@ func CreateDBAndTables(dirPath string) error {
 		}
 	}()
 
-	createAddrSQLFile := GetMigrationFile("001_create_addresses_table.sql")
+	createAddrSQLFile := filepath.Join("db", "migrations", "001_create_addresses_table.sql")
 	if err = ExecSQLFile(db, createAddrSQLFile); err != nil {
 		return err
 	}
