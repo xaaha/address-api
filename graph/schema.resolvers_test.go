@@ -52,8 +52,8 @@ func Test_queryResolver_CountryCode(t *testing.T) {
 				{Country: "United States", Code: "US"},
 			},
 			want: []*model.CountryInfo{
-				{Country: "United States", Code: "US"},
 				{Country: "Canada", Code: "CA"},
+				{Country: "United States", Code: "US"},
 			},
 			wantErr: false,
 		},
