@@ -156,6 +156,11 @@ func Test_queryResolver_AddressesByCountryCode(t *testing.T) {
 
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
+			// testDB := newTestDB(t)
+			//
+			// for _, data := range tt.seedData {
+			// 	// _, err := testDB.Exec('')
+			// }
 			// TODO: construct the receiver type.
 			var r queryResolver
 			got, gotErr := r.AddressesByCountryCode(context.Background(), tt.countryCode, tt.count)
