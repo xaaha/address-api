@@ -6,6 +6,7 @@ package graph
 
 import (
 	"context"
+	"errors"
 	"fmt"
 	"strings"
 
@@ -19,7 +20,7 @@ func (r *queryResolver) CountryCode(ctx context.Context, country *string) ([]*mo
 	var query string
 	var args []any
 
-	const baseQuery = "SELECT DISTINCT country, country_code FROM addresses"
+	const baseQuery = "SELECT DISTINCT country, country_code FROM address"
 
 	if country != nil {
 		query = baseQuery + " WHERE country = ? ORDER BY country"
@@ -57,7 +58,7 @@ func (r *queryResolver) CountryCode(ctx context.Context, country *string) ([]*mo
 			"No matching country found for '%s'. Omit the argument to get a list of all countries and codes.",
 			*country,
 		)
-		return nil, fmt.Errorf(errMsg)
+		return nil, errors.New(errMsg)
 	}
 
 	return results, nil
@@ -81,8 +82,8 @@ func (r *queryResolver) AddressesByCountryCode(ctx context.Context, countryCode 
 	}
 
 	query := `
-        SELECT id, name, address, phone, country_code, country
-        FROM addresses
+        SELECT id, name, full_address, phone, country_code, country
+        FROM address
         WHERE country_code = ?
         ORDER BY RANDOM()
         LIMIT ?`
