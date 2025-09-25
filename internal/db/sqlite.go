@@ -13,6 +13,11 @@ func DBdir() string {
 	return filepath.Join("internal", "db")
 }
 
+// GetMigrationFile returns the migration file path
+func GetMigrationFile(fileName string) string {
+	return filepath.Join("db", "migrations", fileName)
+}
+
 // GetDBfilePath returns the sqlite db file path
 // by connecting internal/db/data.db
 func GetDBfilePath(dbName ...string) string {
