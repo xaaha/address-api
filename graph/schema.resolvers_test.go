@@ -145,37 +145,51 @@ func Test_queryResolver_AddressesByCountryCode(t *testing.T) {
 				{
 					ID:          "9292303",
 					Name:        "Lumon Industries",
-					Phone:       strPtr("373-281-2229"),
+					Phone:       strPtr("3732812229"),
 					FullAddress: strPtr("1234 main st, Site, PE, 29291"),
 					CountryCode: strPtr("PK"),
 					Country:     strPtr("Kier"),
 				},
 			},
+			wantErr: false,
 		},
 	}
 
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			// testDB := newTestDB(t)
-			//
-			// for _, data := range tt.seedData {
-			// 	// _, err := testDB.Exec('')
-			// }
-			// TODO: construct the receiver type.
-			var r queryResolver
-			got, gotErr := r.AddressesByCountryCode(context.Background(), tt.countryCode, tt.count)
-			if gotErr != nil {
-				if !tt.wantErr {
-					t.Errorf("AddressesByCountryCode() failed: %v", gotErr)
+			testDB := newTestDB(t)
+			for _, data := range tt.seedData {
+				_, err := testDB.Exec(
+					`INSERT INTO address (id, name, full_address, phone, country_code, country) VALUES (?, ?, ?, ?, ?, ?)`,
+					data.ID,
+					data.Name,
+					data.FullAddress,
+					data.Phone,
+					data.CountryCode,
+					data.Country,
+				)
+				if err != nil {
+					t.Fatalf("failed to seed the data %v", err)
 				}
-				return
+			}
+
+			resolver := &queryResolver{
+				Resolver: &Resolver{DB: testDB},
+			}
+
+			got, gotErr := resolver.AddressesByCountryCode(
+				context.Background(),
+				tt.countryCode,
+				tt.count,
+			)
+			if (gotErr != nil) != tt.wantErr {
+				t.Fatalf("AddressesByCountryCode() got = %v, want %v", gotErr, tt.wantErr)
 			}
 			if tt.wantErr {
-				t.Fatal("AddressesByCountryCode() succeeded unexpectedly")
+				return
 			}
-			// TODO: update the condition below to compare got with tt.want.
-			if true {
-				t.Errorf("AddressesByCountryCode() = %v, want %v", got, tt.want)
+			if !reflect.DeepEqual(got, tt.want) {
+				t.Errorf("AddressesByCountryCode() got = %v, want %v", got, tt.want)
 			}
 		})
 	}
