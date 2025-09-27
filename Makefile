@@ -6,7 +6,7 @@ server:
 
 # keep adding folders with test instead of blanket coverage ...
 test:
-	@go test ./internal/...
+	@go test ./internal/... ./graph/
 
 # generate the resolver code form the schema.graphqls file
 generate:
