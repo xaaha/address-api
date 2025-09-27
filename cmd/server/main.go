@@ -3,7 +3,8 @@ package main
 
 import (
 	"database/sql"
-	"log"
+	"fmt"
+	"log/slog"
 	"net/http"
 	"os"
 
@@ -13,6 +14,8 @@ import (
 	"github.com/xaaha/address-api/graph"
 )
 
+// TODO: Move these hardcoded values into a config struct that
+// is populated from environment variables
 const (
 	dbFile      = "internal/db/data.db"
 	defaultPort = "8080"
@@ -26,7 +29,8 @@ func main() {
 
 	db, err := sql.Open("sqlite3", dbFile)
 	if err != nil {
-		log.Fatalf("error ")
+		slog.Error("failed to open db", "error", err, "dbFile", dbFile)
+		os.Exit(1)
 	}
 	defer db.Close()
 
@@ -38,6 +42,11 @@ func main() {
 	http.Handle("/", playground.Handler("GraphQL playground", "/graphql"))
 	http.Handle("/graphql", gqlSrv)
 
-	log.Printf("connect to http://localhost:%s/ for GraphQL playground", port)
-	log.Fatal(http.ListenAndServe(":"+port, nil))
+	slog.Info("connect for GraphQL playground", "url", fmt.Sprintf("http://localhost:%s/", port))
+
+	err = http.ListenAndServe(":"+port, nil)
+	if err != nil {
+		slog.Error("HTTP server failed", "port", port, "error", err)
+		os.Exit(1)
+	}
 }
