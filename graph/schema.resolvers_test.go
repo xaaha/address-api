@@ -192,5 +192,59 @@ func Test_queryResolver_AddressesByCountryCode(t *testing.T) {
 				t.Errorf("AddressesByCountryCode() got = %v, want %v", got, tt.want)
 			}
 		})
+		t.Run(
+			"Uses default limit and returns correct country when count is nil",
+			func(t *testing.T) {
+				// 1. Setup: Get a fresh, migrated, in-memory database.
+				testDB := newTestDB(t)
+
+				// 2. Seed Data: Insert more records than the default limit of 5.
+				seedData := []model.Address{
+					{ID: "1", Name: "CA Address 1", CountryCode: strPtr("CA")},
+					{ID: "2", Name: "CA Address 2", CountryCode: strPtr("CA")},
+					{ID: "3", Name: "CA Address 3", CountryCode: strPtr("CA")},
+					{ID: "4", Name: "CA Address 4", CountryCode: strPtr("CA")},
+					{ID: "5", Name: "CA Address 5", CountryCode: strPtr("CA")},
+					{ID: "6", Name: "CA Address 6", CountryCode: strPtr("CA")},
+					{
+						ID:          "7",
+						Name:        "US Address 1",
+						CountryCode: strPtr("US"),
+					}, // Add other countries to ensure WHERE works
+				}
+				for _, data := range seedData {
+					_, err := testDB.Exec(
+						`INSERT INTO address (id, name, country_code) VALUES (?, ?, ?)`,
+						data.ID, data.Name, data.CountryCode,
+					)
+					if err != nil {
+						t.Errorf("Error inserting data to table %v", err)
+					}
+				}
+
+				resolver := &queryResolver{
+					Resolver: &Resolver{DB: testDB},
+				}
+
+				got, err := resolver.AddressesByCountryCode(context.Background(), "CA", nil)
+				if err != nil {
+					t.Errorf("Error occured on AddressesByCountryCode when count is nil %v", err)
+				}
+
+				if len(got) != 5 {
+					t.Error("Expected 5 results due to default limit, but got a different number")
+				}
+
+				for _, addr := range got {
+					if addr.CountryCode == nil {
+						t.Error("Returned address has a nil country code")
+					}
+					if *addr.CountryCode != "CA" {
+						t.Error("Returned an address that was not for the requested country 'CA'")
+					}
+				}
+			},
+		)
+
 	}
 }
