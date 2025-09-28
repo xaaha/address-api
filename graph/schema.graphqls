@@ -17,6 +17,8 @@ type CountryInfo {
   code: String!
 }
 
+directive @auth on FIELD_DEFINITION
+
 # Defines all the available read-only operations.
 type Query {
   # given a country name, fetch it's country code
