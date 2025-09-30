@@ -15,6 +15,8 @@ import (
 
 // CountryCode is the resolver for the countryCode field.
 func (r *queryResolver) CountryCode(ctx context.Context, country *string) ([]*model.CountryInfo, error) {
+	// ideally the db logic should be separated to perhaps internal/repository/address_repo.go
+	// but for this small app, I am going to leave this here
 	db := r.Resolver.DB
 
 	var query string
