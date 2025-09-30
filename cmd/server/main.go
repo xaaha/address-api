@@ -12,6 +12,7 @@ import (
 	"github.com/99designs/gqlgen/graphql/playground"
 	_ "github.com/mattn/go-sqlite3"
 	"github.com/xaaha/address-api/graph"
+	"github.com/xaaha/address-api/internal/repository"
 )
 
 // TODO: Move these hardcoded values into a config struct that
@@ -34,9 +35,11 @@ func main() {
 	}
 	defer db.Close()
 
-	resolver := graph.Resolver{DB: db}
+	addressRepository := repository.NewAddressRepository(db)
+
+	resolver := &graph.Resolver{Repo: addressRepository}
 	gqlSrv := handler.NewDefaultServer(
-		graph.NewExecutableSchema(graph.Config{Resolvers: &resolver}),
+		graph.NewExecutableSchema(graph.Config{Resolvers: resolver}),
 	)
 
 	http.Handle("/", playground.Handler("GraphQL playground", "/graphql"))

@@ -1,6 +1,8 @@
 package graph
 
-import "database/sql"
+import (
+	"github.com/xaaha/address-api/internal/repository"
+)
 
 // This file will not be regenerated automatically.
 //
@@ -8,5 +10,6 @@ import "database/sql"
 
 // Resolver servers as a dependency  injection for queries in graph/schema.resolvers.go
 type Resolver struct {
-	DB *sql.DB
+	// DB   *sql.DB
+	Repo *repository.AddressRepository
 }

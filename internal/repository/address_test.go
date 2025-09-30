@@ -1,4 +1,4 @@
-package graph
+package repository_test
 
 import (
 	"context"
@@ -8,7 +8,9 @@ import (
 	"testing"
 
 	_ "github.com/mattn/go-sqlite3"
+	"github.com/xaaha/address-api/graph"
 	"github.com/xaaha/address-api/graph/model"
+	"github.com/xaaha/address-api/internal/repository"
 )
 
 func newTestDB(t *testing.T) *sql.DB {
@@ -21,7 +23,7 @@ func newTestDB(t *testing.T) *sql.DB {
 
 	t.Cleanup(func() { testDb.Close() })
 
-	createAddrSQLFile := "../db/migrations/001_create_addresses_table.sql"
+	createAddrSQLFile := "../../db/migrations/001_create_addresses_table.sql"
 	migration, err := os.ReadFile(createAddrSQLFile)
 	if err != nil {
 		t.Fatalf("failed to read migration file %v", err)
@@ -34,7 +36,7 @@ func newTestDB(t *testing.T) *sql.DB {
 	return testDb
 }
 
-func Test_queryResolver_CountryCode(t *testing.T) {
+func TestAddressRepository_GetCountryCode(t *testing.T) {
 	tests := []struct {
 		name          string
 		countryToFind *string
@@ -96,11 +98,11 @@ func Test_queryResolver_CountryCode(t *testing.T) {
 				}
 			}
 
-			resolver := &queryResolver{
-				Resolver: &Resolver{DB: testDb},
+			resolver := &graph.Resolver{
+				Repo: repository.NewAddressRepository(testDb),
 			}
 
-			got, gotErr := resolver.CountryCode(context.Background(), tt.countryToFind)
+			got, gotErr := resolver.Repo.GetCountryCode(context.Background(), tt.countryToFind)
 			if (gotErr != nil) != tt.wantErr {
 				t.Fatalf("CountryCode() error = %v, wantErr %v", gotErr, tt.wantErr)
 			}
@@ -114,7 +116,7 @@ func Test_queryResolver_CountryCode(t *testing.T) {
 	}
 }
 
-func Test_queryResolver_AddressesByCountryCode(t *testing.T) {
+func TestAddressRepository_GetAddressesByCountryCode(t *testing.T) {
 	strPtr := func(str string) *string { return &str }
 	int32Ptr := func(num int32) *int32 { return &num }
 
@@ -173,11 +175,11 @@ func Test_queryResolver_AddressesByCountryCode(t *testing.T) {
 				}
 			}
 
-			resolver := &queryResolver{
-				Resolver: &Resolver{DB: testDB},
+			resolver := &graph.Resolver{
+				Repo: repository.NewAddressRepository(testDB),
 			}
 
-			got, gotErr := resolver.AddressesByCountryCode(
+			got, gotErr := resolver.Repo.GetAddressesByCountryCode(
 				context.Background(),
 				tt.countryCode,
 				tt.count,
@@ -222,11 +224,11 @@ func Test_queryResolver_AddressesByCountryCode(t *testing.T) {
 					}
 				}
 
-				resolver := &queryResolver{
-					Resolver: &Resolver{DB: testDB},
+				resolver := &graph.Resolver{
+					Repo: repository.NewAddressRepository(testDB),
 				}
 
-				got, err := resolver.AddressesByCountryCode(context.Background(), "CA", nil)
+				got, err := resolver.Repo.GetAddressesByCountryCode(context.Background(), "CA", nil)
 				if err != nil {
 					t.Errorf("Error occured on AddressesByCountryCode when count is nil %v", err)
 				}
