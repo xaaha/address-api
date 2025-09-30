@@ -11,6 +11,20 @@ import (
 	"github.com/xaaha/address-api/graph/model"
 )
 
+// AddressRepositoryInterface defines the contract for our address repository
+type AddressRepositoryInterface interface {
+	GetCountryCode(
+		ctx context.Context,
+		country *string,
+	) ([]*model.CountryInfo, error)
+
+	GetAddressesByCountryCode(
+		ctx context.Context,
+		countryCode string,
+		count *int32,
+	) ([]*model.Address, error)
+}
+
 // AddressRepository struct for refactoring schema.resolvers.go
 type AddressRepository struct {
 	DB *sql.DB
