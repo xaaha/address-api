@@ -10,6 +10,5 @@ import (
 
 // Resolver servers as a dependency  injection for queries in graph/schema.resolvers.go
 type Resolver struct {
-	// DB   *sql.DB
-	Repo *repository.AddressRepository
+	Repo repository.AddressRepositoryInterface
 }
