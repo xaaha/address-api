@@ -4,6 +4,9 @@ migrate:
 server:
 	@go run cmd/server/main.go
 
+setup:
+	@go run cmd/setup/main.go 
+
 # keep adding folders with test instead of blanket coverage ...
 test:
 	@go test ./internal/... ./graph/
