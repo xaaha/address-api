@@ -33,7 +33,7 @@ func (m *mockAddressRepository) GetAddressesByCountryCode(
 func Test_queryResolver_CountryCode(t *testing.T) {
 	t.Run("Successfully Returns the country code from the repo", func(t *testing.T) {
 		mockRepo := &mockAddressRepository{
-			mockGetCountryCode: func(ctx context.Context, country *string) ([]*model.CountryInfo, error) {
+			mockGetCountryCode: func(_ context.Context, _ *string) ([]*model.CountryInfo, error) {
 				return []*model.CountryInfo{{Country: "Testnation", Code: "TN"}}, nil
 			},
 		}
@@ -54,7 +54,7 @@ func Test_queryResolver_CountryCode(t *testing.T) {
 	t.Run("Correctly returns an error from the repository", func(t *testing.T) {
 		// Setup the mock to return an error.
 		mockRepo := &mockAddressRepository{
-			mockGetCountryCode: func(ctx context.Context, country *string) ([]*model.CountryInfo, error) {
+			mockGetCountryCode: func(_ context.Context, _ *string) ([]*model.CountryInfo, error) {
 				return nil, errors.New("a simulated database error")
 			},
 		}
@@ -81,7 +81,7 @@ func Test_queryResolver_AddressesByCountryCode(t *testing.T) {
 
 	t.Run("Successfully returns addresses from the repository", func(t *testing.T) {
 		mockRepo := &mockAddressRepository{
-			mockGetAddressesByCountryCode: func(ctx context.Context, countryCode string, count *int32) ([]*model.Address, error) {
+			mockGetAddressesByCountryCode: func(_ context.Context, countryCode string, _ *int32) ([]*model.Address, error) {
 				if countryCode != "US" {
 					return nil, errors.New("test setup error: expected countryCode 'US'")
 				}
@@ -113,7 +113,7 @@ func Test_queryResolver_AddressesByCountryCode(t *testing.T) {
 
 	t.Run("Correctly returns an error from the repository", func(t *testing.T) {
 		mockRepo := &mockAddressRepository{
-			mockGetAddressesByCountryCode: func(ctx context.Context, countryCode string, count *int32) ([]*model.Address, error) {
+			mockGetAddressesByCountryCode: func(_ context.Context, _ string, _ *int32) ([]*model.Address, error) {
 				return nil, errors.New("a simulated database error")
 			},
 		}
