@@ -1,3 +1,4 @@
+// Package scripts is for one time script
 package scripts
 
 import (
@@ -14,7 +15,6 @@ func GenerateKey() {
 		panic(err)
 	}
 
-	encodedKey := base64.URLEncoding.EncodeToString(key)
-	fmt.Println("Key: ")
+	encodedKey := base64.RawURLEncoding.EncodeToString(key)
 	fmt.Println(encodedKey)
 }
