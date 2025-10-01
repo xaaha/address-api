@@ -35,15 +35,22 @@ func main() {
 	}
 	defer db.Close()
 
-	addressRepository := repository.NewAddressRepository(db)
+	addressRepo := repository.NewAddressRepository(db)
+	rootResolver := &graph.Resolver{Repo: addressRepo}
 
-	resolver := &graph.Resolver{Repo: addressRepository}
-	gqlSrv := handler.NewDefaultServer(
-		graph.NewExecutableSchema(graph.Config{Resolvers: resolver}),
-	)
+	// This is the `c` variable from the documentation.
+	c := graph.Config{Resolvers: rootResolver}
+
+	//  Manually assign  Auth function to the generated Directives struct.
+	// gqlgen created `c.Directives.Auth` because we have `@auth` in your schema.
+	c.Directives.Auth = graph.Auth
+
+	executableSchema := graph.NewExecutableSchema(c)
+
+	gqlSrv := handler.NewDefaultServer(executableSchema)
 
 	http.Handle("/", playground.Handler("GraphQL playground", "/graphql"))
-	http.Handle("/graphql", gqlSrv)
+	http.Handle("/graphql", graph.AuthMiddleWare(gqlSrv))
 
 	slog.Info("connect for GraphQL playground", "url", fmt.Sprintf("http://localhost:%s/", port))
 
