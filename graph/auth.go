@@ -9,8 +9,8 @@ import (
 	"github.com/99designs/gqlgen/graphql"
 )
 
-// ideally this would be fetched from the db but for this small app, this should work
-const validApiKey = "7KOGKPrd1Z2tZN5iPEyiYMNLgwSon7SnMIYFyEa7YFM"
+// ideally this api would be fetched from the db, which sotres hashed keys, but for this small app, this should work
+const validAPIKey = "7KOGKPrd1Z2tZN5iPEyiYMNLgwSon7SnMIYFyEa7YFM"
 
 type contextKey string
 
@@ -22,7 +22,7 @@ func Auth(ctx context.Context, _ any, next graphql.Resolver) (any, error) {
 	if !ok || apiKey == "" {
 		return nil, fmt.Errorf("access denied: no API key provided")
 	}
-	if apiKey != validApiKey {
+	if apiKey != validAPIKey {
 		return nil, fmt.Errorf("access denied: invalid API key")
 	}
 	return next(ctx)
