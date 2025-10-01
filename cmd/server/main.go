@@ -42,7 +42,7 @@ func main() {
 	c := graph.Config{Resolvers: rootResolver}
 
 	//  Manually assign  Auth function to the generated Directives struct.
-	// gqlgen created `c.Directives.Auth` because we have `@auth` in your schema.
+	// gqlgen created `c.Directives.Auth` because we have `@auth` in schema.
 	c.Directives.Auth = graph.Auth
 
 	executableSchema := graph.NewExecutableSchema(c)
