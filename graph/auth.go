@@ -7,10 +7,8 @@ import (
 	"strings"
 
 	"github.com/99designs/gqlgen/graphql"
+	"github.com/xaaha/address-api/internal/scripts"
 )
-
-// ideally this api would be fetched from the db, which sotres hashed keys, but for this small app, this should work
-const validAPIKey = "7KOGKPrd1Z2tZN5iPEyiYMNLgwSon7SnMIYFyEa7YFM"
 
 type contextKey string
 
@@ -18,6 +16,8 @@ const apiKeyContextKey = contextKey("apikey")
 
 // Auth is the directive implementation.
 func Auth(ctx context.Context, _ any, next graphql.Resolver) (any, error) {
+	// ideally this api would be fetched from the db, which sotres hashed keys, but for this small app, this should work
+	validAPIKey := scripts.GetEnv().APIKey
 	apiKey, ok := ctx.Value(apiKeyContextKey).(string)
 	if !ok || apiKey == "" {
 		return nil, fmt.Errorf("access denied: no API key provided")

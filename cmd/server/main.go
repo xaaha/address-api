@@ -13,17 +13,13 @@ import (
 	_ "github.com/mattn/go-sqlite3"
 	"github.com/xaaha/address-api/graph"
 	"github.com/xaaha/address-api/internal/repository"
-)
-
-// TODO: Move these hardcoded values into a config struct that
-// is populated from environment variables. For these two, values it's fine as they are
-const (
-	dbFile      = "internal/db/data.db"
-	defaultPort = "8080"
+	"github.com/xaaha/address-api/internal/scripts"
 )
 
 func main() {
 	port := os.Getenv("PORT")
+	dbFile := scripts.GetEnv().DBPath
+	defaultPort := scripts.GetEnv().Port
 	if port == "" {
 		port = defaultPort
 	}
