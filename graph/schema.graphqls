@@ -26,6 +26,3 @@ type Query {
   # Fetches a list of addresses for a given countryCode, with an optional limit.
   addressesByCountryCode(countryCode: String!, count: Int): [Address!]! @auth
 }
-
-# TODO: return CountryInfo rom CountryCode not just string when country is not present
-# when country is present, return country and the code only.
