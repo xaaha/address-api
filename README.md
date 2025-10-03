@@ -20,7 +20,7 @@ This project is a GraphQL API built with Go that serves address data. It was cre
 
 - **Language:** [Go](https://go.dev/)
 - **GraphQL Server:** [gqlgen](https://gqlgen.com/)
-- **Database:** [SQLite](https://www.sqlite.org/)
+- **Database:** [SQLite3](https://www.sqlite.org/)
 - **Containerization:** [Docker](https://www.docker.com/)
 - **HTTP Middleware:** [rs/cors](https://github.com/rs/cors)
 
@@ -47,6 +47,5 @@ cd address-api
 - Start the server
 
 ```bash
-
 make server
 ```
