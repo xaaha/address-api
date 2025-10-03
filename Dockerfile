@@ -1,11 +1,7 @@
 FROM golang:1.25.1-alpine3.22 AS builder
 WORKDIR /app
-
-# Copy go.mod and go.sum files to download dependencies efficiently
 COPY go.mod go.sum ./
 RUN go mod download
-
-# Copy the rest of the application source code
 COPY . .
 
 # Build the application, creating a static binary.
