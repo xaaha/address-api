@@ -11,6 +11,7 @@ import (
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/playground"
 	_ "github.com/mattn/go-sqlite3"
+	"github.com/rs/cors"
 	"github.com/xaaha/address-api/graph"
 	"github.com/xaaha/address-api/internal/repository"
 	"github.com/xaaha/address-api/internal/scripts"
@@ -45,12 +46,15 @@ func main() {
 
 	gqlSrv := handler.NewDefaultServer(executableSchema)
 
-	http.Handle("/", playground.Handler("GraphQL playground", "/graphql"))
-	http.Handle("/graphql", graph.AuthMiddleWare(gqlSrv))
+	mux := http.NewServeMux()
+	mux.Handle("/", playground.Handler("GraphQL playground", "/graphql"))
+	mux.Handle("/graphql", graph.AuthMiddleWare(gqlSrv))
+
+	hander := cors.Default().Handler(mux)
 
 	slog.Info("connect for GraphQL playground", "url", fmt.Sprintf("http://localhost:%s/", port))
 
-	err = http.ListenAndServe(":"+port, nil)
+	err = http.ListenAndServe(":"+port, hander)
 	if err != nil {
 		slog.Error("HTTP server failed", "port", port, "error", err)
 		os.Exit(1)
