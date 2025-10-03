@@ -2,6 +2,6 @@
 
 ```bash
 # run gql server
-go run server.go
+make server
 
 ```
