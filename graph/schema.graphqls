@@ -1,0 +1,28 @@
+# GraphQL schema example
+#
+# https://gqlgen.com/getting-started/
+
+# single address record from the db
+type Address {
+  id: ID!
+  name: String!
+  phone: String
+  countryCode: String
+  country: String
+  fullAddress: String
+}
+
+type CountryInfo {
+  country: String!
+  code: String!
+}
+
+directive @auth on FIELD_DEFINITION
+
+# Defines all the available read-only operations.
+type Query {
+  # given a country name, fetch it's country code
+  countryCode(country: String): [CountryInfo!]!
+  # Fetches a list of addresses for a given countryCode, with an optional limit.
+  addressesByCountryCode(countryCode: String!, count: Int): [Address!]! @auth
+}
