@@ -16,7 +16,7 @@ import (
 )
 
 // TODO: Move these hardcoded values into a config struct that
-// is populated from environment variables
+// is populated from environment variables. For these two, values it's fine as they are
 const (
 	dbFile      = "internal/db/data.db"
 	defaultPort = "8080"
